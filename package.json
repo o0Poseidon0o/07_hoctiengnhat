@@ -1,0 +1,33 @@
+{
+  "name": "nihongo-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "check:data": "node scripts/check-data.ts",
+    "db:ping": "node --env-file=.env.local scripts/db-ping.ts"
+  },
+  "dependencies": {
+    "@vercel/functions": "^3.11.2",
+    "lucide-react": "^1.72.0",
+    "mongodb": "^7.9.0",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "ts-fsrs": "^6.0.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^7.0.2",
+    "unpdf": "^2.1.0"
+  }
+}

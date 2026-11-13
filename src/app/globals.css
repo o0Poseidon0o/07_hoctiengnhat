@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  body {
+    background-color: #faf8f5;
+    color: #1c1b18;
+    font-family: "Segoe UI", "Inter", system-ui, -apple-system, sans-serif;
+  }
+}
+
+.font-jp {
+  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "Meiryo", sans-serif;
+}
+

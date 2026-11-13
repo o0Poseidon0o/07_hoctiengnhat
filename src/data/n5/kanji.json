@@ -1,0 +1,9824 @@
+[
+ {
+  "id": "n5-1A-k01",
+  "level": "n5",
+  "lessonId": "1A",
+  "char": "一",
+  "hanViet": "NHẤT",
+  "kun": [
+   "ひと",
+   "ひと・つ"
+  ],
+  "on": [
+   "イチ",
+   "イツ"
+  ],
+  "examples": [
+   {
+    "word": "一人で",
+    "reading": "ひとりで",
+    "ruby": [
+     [
+      "一",
+      "ひと"
+     ],
+     [
+      "人",
+      "り"
+     ],
+     [
+      "で"
+     ]
+    ],
+    "meaning": "Một mình"
+   },
+   {
+    "word": "一つ",
+    "reading": "ひとつ",
+    "ruby": [
+     [
+      "一",
+      "ひと"
+     ],
+     [
+      "つ"
+     ]
+    ],
+    "meaning": "1 cái"
+   },
+   {
+    "word": "一日",
+    "reading": "ついたち",
+    "ruby": [
+     [
+      "一",
+      "つい"
+     ],
+     [
+      "日",
+      "たち"
+     ]
+    ],
+    "meaning": "Mùng 1"
+   },
+   {
+    "word": "一生懸命",
+    "reading": "いっしょうけんめい",
+    "ruby": [
+     [
+      "一",
+      "いっ"
+     ],
+     [
+      "生",
+      "しょう"
+     ],
+     [
+      "懸",
+      "けん"
+     ],
+     [
+      "命",
+      "めい"
+     ]
+    ],
+    "meaning": "Chăm chỉ"
+   }
+  ]
+ },
+ {
+  "id": "n5-1A-k02",
+  "level": "n5",
+  "lessonId": "1A",
+  "char": "三",
+  "hanViet": "TAM",
+  "kun": [
+   "み",
+   "み・つ",
+   "みっ・つ"
+  ],
+  "on": [
+   "サン"
+  ],
+  "examples": [
+   {
+    "word": "三日",
+    "reading": "みっか",
+    "ruby": [
+     [
+      "三",
+      "みっ"
+     ],
+     [
+      "日",
+      "か"
+     ]
+    ],
+    "meaning": "Mùng 3"
+   },
+   {
+    "word": "三つ",
+    "reading": "みっつ",
+    "ruby": [
+     [
+      "三",
+      "みっ"
+     ],
+     [
+      "つ"
+     ]
+    ],
+    "meaning": "3 cái"
+   },
+   {
+    "word": "三月",
+    "reading": "さんがつ",
+    "ruby": [
+     [
+      "三",
+      "さん"
+     ],
+     [
+      "月",
+      "がつ"
+     ]
+    ],
+    "meaning": "Tháng 3"
+   }
+  ]
+ },
+ {
+  "id": "n5-1A-k03",
+  "level": "n5",
+  "lessonId": "1A",
+  "char": "二",
+  "hanViet": "NHỊ",
+  "kun": [
+   "ふた",
+   "ふた・つ"
+  ],
+  "on": [
+   "ニ"
+  ],
+  "examples": [
+   {
+    "word": "二つ",
+    "reading": "ふたつ",
+    "ruby": [
+     [
+      "二",
+      "ふた"
+     ],
+     [
+      "つ"
+     ]
+    ],
+    "meaning": "2 cái"
+   },
+   {
+    "word": "二日",
+    "reading": "ふつか",
+    "ruby": [
+     [
+      "二",
+      "ふつ"
+     ],
+     [
+      "日",
+      "か"
+     ]
+    ],
+    "meaning": "Mùng 2"
+   },
+   {
+    "word": "二月",
+    "reading": "にがつ",
+    "ruby": [
+     [
+      "二",
+      "に"
+     ],
+     [
+      "月",
+      "がつ"
+     ]
+    ],
+    "meaning": "Tháng 2"
+   }
+  ]
+ },
+ {
+  "id": "n5-1A-k04",
+  "level": "n5",
+  "lessonId": "1A",
+  "char": "六",
+  "hanViet": "LỤC",
+  "kun": [
+   "む",
+   "むい",
+   "む・つ",
+   "むっ・つ"
+  ],
+  "on": [
+   "ロク"
+  ],
+  "examples": [
+   {
+    "word": "六日",
+    "reading": "むいか",
+    "ruby": [
+     [
+      "六",
+      "むい"
+     ],
+     [
+      "日",
+      "か"
+     ]
+    ],
+    "meaning": "Mùng 6"
+   },
+   {
+    "word": "六つ",
+    "reading": "むっつ",
+    "ruby": [
+     [
+      "六",
+      "むっ"
+     ],
+     [
+      "つ"
+     ]
+    ],
+    "meaning": "6 cái"
+   },
+   {
+    "word": "六月",
+    "reading": "ろくがつ",
+    "ruby": [
+     [
+      "六",
+      "ろく"
+     ],
+     [
+      "月",
+      "がつ"
+     ]
+    ],
+    "meaning": "Tháng 6"
+   }
+  ]
+ },
+ {
+  "id": "n5-1A-k05",
+  "level": "n5",
+  "lessonId": "1A",
+  "char": "四",
+  "hanViet": "TỨ",
+  "kun": [
+   "よ",
+   "よ・つ",
+   "よっ・つ",
+   "よん"
+  ],
+  "on": [
+   "シ"
+  ],
+  "examples": [
+   {
+    "word": "四日",
+    "reading": "よっか",
+    "ruby": [
+     [
+      "四",
+      "よっ"
+     ],
+     [
+      "日",
+      "か"
+     ]
+    ],
+    "meaning": "Mùng 4"
+   },
+   {
+    "word": "四つ",
+    "reading": "よっつ",
+    "ruby": [
+     [
+      "四",
+      "よっ"
+     ],
+     [
+      "つ"
+     ]
+    ],
+    "meaning": "4 cái"
+   },
+   {
+    "word": "四月",
+    "reading": "しがつ",
+    "ruby": [
+     [
+      "四",
+      "し"
+     ],
+     [
+      "月",
+      "がつ"
+     ]
+    ],
+    "meaning": "Tháng 4"
+   }
+  ]
+ },
+ {
+  "id": "n5-1A-k06",
+  "level": "n5",
+  "lessonId": "1A",
+  "char": "五",
+  "hanViet": "NGŨ",
+  "kun": [
+   "ひいつ",
+   "いつ・つ"
+  ],
+  "on": [
+   "ゴ"
+  ],
+  "examples": [
+   {
+    "word": "五つ",
+    "reading": "いつつ",
+    "ruby": [
+     [
+      "五",
+      "いつ"
+     ],
+     [
+      "つ"
+     ]
+    ],
+    "meaning": "5 cái"
+   },
+   {
+    "word": "五日",
+    "reading": "いつか",
+    "ruby": [
+     [
+      "五",
+      "いつ"
+     ],
+     [
+      "日",
+      "か"
+     ]
+    ],
+    "meaning": "Mùng 5"
+   },
+   {
+    "word": "五月",
+    "reading": "ごがつ",
+    "ruby": [
+     [
+      "五",
+      "ご"
+     ],
+     [
+      "月",
+      "がつ"
+     ]
+    ],
+    "meaning": "Tháng 5"
+   }
+  ]
+ },
+ {
+  "id": "n5-1A-k07",
+  "level": "n5",
+  "lessonId": "1A",
+  "char": "七",
+  "hanViet": "THẤT",
+  "kun": [
+   "なな",
+   "なな・つ",
+   "なの"
+  ],
+  "on": [
+   "シチ"
+  ],
+  "examples": [
+   {
+    "word": "七日",
+    "reading": "なのか",
+    "ruby": [
+     [
+      "七",
+      "なの"
+     ],
+     [
+      "日",
+      "か"
+     ]
+    ],
+    "meaning": "Mùng 7"
+   },
+   {
+    "word": "七つ",
+    "reading": "ななつ",
+    "ruby": [
+     [
+      "七",
+      "なな"
+     ],
+     [
+      "つ"
+     ]
+    ],
+    "meaning": "7 cái"
+   },
+   {
+    "word": "七月",
+    "reading": "しちがつ",
+    "ruby": [
+     [
+      "七",
+      "しち"
+     ],
+     [
+      "月",
+      "がつ"
+     ]
+    ],
+    "meaning": "Tháng 7"
+   }
+  ]
+ },
+ {
+  "id": "n5-1B-k01",
+  "level": "n5",
+  "lessonId": "1B",
+  "char": "八",
+  "hanViet": "BÁT",
+  "kun": [
+   "や",
+   "や・つ",
+   "やっ・つ",
+   "よう"
+  ],
+  "on": [
+   "ハチ"
+  ],
+  "examples": [
+   {
+    "word": "八日",
+    "reading": "ようか",
+    "ruby": [
+     [
+      "八",
+      "よう"
+     ],
+     [
+      "日",
+      "か"
+     ]
+    ],
+    "meaning": "Mùng 8"
+   },
+   {
+    "word": "八つ",
+    "reading": "やっつ",
+    "ruby": [
+     [
+      "八",
+      "やっ"
+     ],
+     [
+      "つ"
+     ]
+    ],
+    "meaning": "8 cái"
+   },
+   {
+    "word": "八月",
+    "reading": "はちがつ",
+    "ruby": [
+     [
+      "八",
+      "はち"
+     ],
+     [
+      "月",
+      "がつ"
+     ]
+    ],
+    "meaning": "Tháng 8"
+   }
+  ]
+ },
+ {
+  "id": "n5-1B-k02",
+  "level": "n5",
+  "lessonId": "1B",
+  "char": "九",
+  "hanViet": "CỬU",
+  "kun": [
+   "ここの",
+   "ここの・つ"
+  ],
+  "on": [
+   "ク",
+   "キュウ"
+  ],
+  "examples": [
+   {
+    "word": "九日",
+    "reading": "ここのか",
+    "ruby": [
+     [
+      "九",
+      "ここの"
+     ],
+     [
+      "日",
+      "か"
+     ]
+    ],
+    "meaning": "Mùng 9"
+   },
+   {
+    "word": "九つ",
+    "reading": "ここのつ",
+    "ruby": [
+     [
+      "九",
+      "ここの"
+     ],
+     [
+      "つ"
+     ]
+    ],
+    "meaning": "9 cái"
+   },
+   {
+    "word": "九月",
+    "reading": "くがつ",
+    "ruby": [
+     [
+      "九",
+      "く"
+     ],
+     [
+      "月",
+      "がつ"
+     ]
+    ],
+    "meaning": "Tháng 9"
+   }
+  ]
+ },
+ {
+  "id": "n5-1B-k03",
+  "level": "n5",
+  "lessonId": "1B",
+  "char": "十",
+  "hanViet": "THẬP",
+  "kun": [
+   "とお",
+   "と"
+  ],
+  "on": [
+   "ジュウ",
+   "ジッ"
+  ],
+  "examples": [
+   {
+    "word": "十日",
+    "reading": "とおか",
+    "ruby": [
+     [
+      "十",
+      "とお"
+     ],
+     [
+      "日",
+      "か"
+     ]
+    ],
+    "meaning": "Mùng 10"
+   },
+   {
+    "word": "十分な",
+    "reading": "じゅうぶんな",
+    "ruby": [
+     [
+      "十",
+      "じゅう"
+     ],
+     [
+      "分",
+      "ぶん"
+     ],
+     [
+      "な"
+     ]
+    ],
+    "meaning": "Đầy đủ, trọn vẹn"
+   },
+   {
+    "word": "十月",
+    "reading": "じゅうがつ",
+    "ruby": [
+     [
+      "十",
+      "じゅう"
+     ],
+     [
+      "月",
+      "がつ"
+     ]
+    ],
+    "meaning": "Tháng 10"
+   }
+  ]
+ },
+ {
+  "id": "n5-1C-k01",
+  "level": "n5",
+  "lessonId": "1C",
+  "char": "百",
+  "hanViet": "BÁCH",
+  "kun": [],
+  "on": [
+   "ヒャク"
+  ],
+  "examples": [
+   {
+    "word": "百",
+    "reading": "ひゃく",
+    "ruby": [
+     [
+      "百",
+      "ひゃく"
+     ]
+    ],
+    "meaning": ""
+   },
+   {
+    "word": "三百",
+    "reading": "さんびゃく",
+    "ruby": [
+     [
+      "三",
+      "さん"
+     ],
+     [
+      "百",
+      "びゃく"
+     ]
+    ],
+    "meaning": ""
+   },
+   {
+    "word": "六百",
+    "reading": "ろっぴゃく",
+    "ruby": [
+     [
+      "六",
+      "ろっ"
+     ],
+     [
+      "百",
+      "ぴゃく"
+     ]
+    ],
+    "meaning": ""
+   },
+   {
+    "word": "八百",
+    "reading": "はっぴゃく",
+    "ruby": [
+     [
+      "八",
+      "はっ"
+     ],
+     [
+      "百",
+      "ぴゃく"
+     ]
+    ],
+    "meaning": ""
+   }
+  ]
+ },
+ {
+  "id": "n5-1C-k02",
+  "level": "n5",
+  "lessonId": "1C",
+  "char": "千",
+  "hanViet": "THIÊN",
+  "kun": [
+   "ち"
+  ],
+  "on": [
+   "シ"
+  ],
+  "examples": [
+   {
+    "word": "二千",
+    "reading": "にせん",
+    "ruby": [
+     [
+      "二",
+      "に"
+     ],
+     [
+      "千",
+      "せん"
+     ]
+    ],
+    "meaning": "2,000"
+   },
+   {
+    "word": "三千",
+    "reading": "さんぜん",
+    "ruby": [
+     [
+      "三",
+      "さん"
+     ],
+     [
+      "千",
+      "ぜん"
+     ]
+    ],
+    "meaning": "3,000"
+   },
+   {
+    "word": "八千",
+    "reading": "はっせん",
+    "ruby": [
+     [
+      "八",
+      "はっ"
+     ],
+     [
+      "千",
+      "せん"
+     ]
+    ],
+    "meaning": "8,000"
+   }
+  ]
+ },
+ {
+  "id": "n5-1C-k03",
+  "level": "n5",
+  "lessonId": "1C",
+  "char": "万",
+  "hanViet": "VẠN",
+  "kun": [],
+  "on": [
+   "マン",
+   "バン"
+  ],
+  "examples": [
+   {
+    "word": "一万",
+    "reading": "いちまん",
+    "ruby": [
+     [
+      "一",
+      "いち"
+     ],
+     [
+      "万",
+      "まん"
+     ]
+    ],
+    "meaning": "1 vạn = 10,000"
+   },
+   {
+    "word": "万里の長城",
+    "reading": "ばんりのちょうじょう",
+    "ruby": [
+     [
+      "万",
+      "ばん"
+     ],
+     [
+      "里",
+      "り"
+     ],
+     [
+      "の"
+     ],
+     [
+      "長",
+      "ちょう"
+     ],
+     [
+      "城",
+      "じょう"
+     ]
+    ],
+    "meaning": "Vạn Lý Trường Thành"
+   }
+  ]
+ },
+ {
+  "id": "n5-1C-k04",
+  "level": "n5",
+  "lessonId": "1C",
+  "char": "円",
+  "hanViet": "VIÊN",
+  "kun": [
+   "まる・い"
+  ],
+  "on": [
+   "エンCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "円",
+    "reading": "えん",
+    "ruby": [
+     [
+      "円",
+      "えん"
+     ]
+    ],
+    "meaning": "Yên"
+   },
+   {
+    "word": "五円",
+    "reading": "ごえん",
+    "ruby": [
+     [
+      "五",
+      "ご"
+     ],
+     [
+      "円",
+      "えん"
+     ]
+    ],
+    "meaning": "5 yên"
+   }
+  ]
+ },
+ {
+  "id": "n5-2A-k01",
+  "level": "n5",
+  "lessonId": "2A",
+  "char": "火",
+  "hanViet": "HỎA",
+  "kun": [
+   "ひ",
+   "ほ"
+  ],
+  "on": [
+   "カ"
+  ],
+  "examples": [
+   {
+    "word": "花火",
+    "reading": "はなび",
+    "ruby": [
+     [
+      "花",
+      "はな"
+     ],
+     [
+      "火",
+      "び"
+     ]
+    ],
+    "meaning": "Pháo hoa"
+   },
+   {
+    "word": "火",
+    "reading": "ひ",
+    "ruby": [
+     [
+      "火",
+      "ひ"
+     ]
+    ],
+    "meaning": "Lửa"
+   },
+   {
+    "word": "火曜日",
+    "reading": "かようび",
+    "ruby": [
+     [
+      "火",
+      "か"
+     ],
+     [
+      "曜",
+      "よう"
+     ],
+     [
+      "日",
+      "び"
+     ]
+    ],
+    "meaning": "Thứ Ba"
+   },
+   {
+    "word": "火事",
+    "reading": "かじ",
+    "ruby": [
+     [
+      "火",
+      "か"
+     ],
+     [
+      "事",
+      "じ"
+     ]
+    ],
+    "meaning": "Hỏa hoạn"
+   }
+  ]
+ },
+ {
+  "id": "n5-2A-k02",
+  "level": "n5",
+  "lessonId": "2A",
+  "char": "畑",
+  "hanViet": "",
+  "kun": [
+   "はた",
+   "はたけ"
+  ],
+  "on": [],
+  "examples": [
+   {
+    "word": "畑",
+    "reading": "はたけ",
+    "ruby": [
+     [
+      "畑",
+      "はたけ"
+     ]
+    ],
+    "meaning": "Cánh đồng"
+   }
+  ]
+ },
+ {
+  "id": "n5-2A-k03",
+  "level": "n5",
+  "lessonId": "2A",
+  "char": "秋",
+  "hanViet": "THU",
+  "kun": [
+   "あき"
+  ],
+  "on": [
+   "シュウ"
+  ],
+  "examples": [
+   {
+    "word": "秋",
+    "reading": "あき",
+    "ruby": [
+     [
+      "秋",
+      "あき"
+     ]
+    ],
+    "meaning": "Mùa thu"
+   }
+  ]
+ },
+ {
+  "id": "n5-2B-k01",
+  "level": "n5",
+  "lessonId": "2B",
+  "char": "水",
+  "hanViet": "THỦY",
+  "kun": [
+   "みず"
+  ],
+  "on": [
+   "スイ"
+  ],
+  "examples": [
+   {
+    "word": "水",
+    "reading": "みず",
+    "ruby": [
+     [
+      "水",
+      "みず"
+     ]
+    ],
+    "meaning": "Nước"
+   },
+   {
+    "word": "水曜日",
+    "reading": "すいようび",
+    "ruby": [
+     [
+      "水",
+      "すい"
+     ],
+     [
+      "曜",
+      "よう"
+     ],
+     [
+      "日",
+      "び"
+     ]
+    ],
+    "meaning": "Thứ Tư"
+   },
+   {
+    "word": "水道",
+    "reading": "すいどう",
+    "ruby": [
+     [
+      "水",
+      "すい"
+     ],
+     [
+      "道",
+      "どう"
+     ]
+    ],
+    "meaning": "Nước máy"
+   }
+  ]
+ },
+ {
+  "id": "n5-2B-k02",
+  "level": "n5",
+  "lessonId": "2B",
+  "char": "氷",
+  "hanViet": "BĂNG",
+  "kun": [
+   "こおり",
+   "ひ"
+  ],
+  "on": [
+   "ヒョウ"
+  ],
+  "examples": [
+   {
+    "word": "氷",
+    "reading": "こおり",
+    "ruby": [
+     [
+      "氷",
+      "こおり"
+     ]
+    ],
+    "meaning": "Băng, đá"
+   }
+  ]
+ },
+ {
+  "id": "n5-2B-k03",
+  "level": "n5",
+  "lessonId": "2B",
+  "char": "泳",
+  "hanViet": "VỊNH",
+  "kun": [
+   "およ・ぐ"
+  ],
+  "on": [
+   "エイ"
+  ],
+  "examples": [
+   {
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "ruby": [
+     [
+      "泳",
+      "およ"
+     ],
+     [
+      "ぐ"
+     ]
+    ],
+    "meaning": "Bơi"
+   },
+   {
+    "word": "水泳",
+    "reading": "すいえい",
+    "ruby": [
+     [
+      "水",
+      "すい"
+     ],
+     [
+      "泳",
+      "えい"
+     ]
+    ],
+    "meaning": "Việc bơi lội"
+   }
+  ]
+ },
+ {
+  "id": "n5-2C-k01",
+  "level": "n5",
+  "lessonId": "2C",
+  "char": "雨",
+  "hanViet": "VŨ",
+  "kun": [
+   "あめ",
+   "あま"
+  ],
+  "on": [
+   "ウ"
+  ],
+  "examples": [
+   {
+    "word": "雨",
+    "reading": "あめ",
+    "ruby": [
+     [
+      "雨",
+      "あめ"
+     ]
+    ],
+    "meaning": "Mưa"
+   }
+  ]
+ },
+ {
+  "id": "n5-2C-k02",
+  "level": "n5",
+  "lessonId": "2C",
+  "char": "電",
+  "hanViet": "ĐIỆN",
+  "kun": [],
+  "on": [
+   "デン"
+  ],
+  "examples": [
+   {
+    "word": "電気",
+    "reading": "でんき",
+    "ruby": [
+     [
+      "電",
+      "でん"
+     ],
+     [
+      "気",
+      "き"
+     ]
+    ],
+    "meaning": "Điện, bóng đèn"
+   },
+   {
+    "word": "電話",
+    "reading": "でんわ",
+    "ruby": [
+     [
+      "電",
+      "でん"
+     ],
+     [
+      "話",
+      "わ"
+     ]
+    ],
+    "meaning": "Điện thoại"
+   },
+   {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "ruby": [
+     [
+      "電",
+      "でん"
+     ],
+     [
+      "車",
+      "しゃ"
+     ]
+    ],
+    "meaning": "Tàu điện"
+   },
+   {
+    "word": "電池",
+    "reading": "でんち",
+    "ruby": [
+     [
+      "電",
+      "でん"
+     ],
+     [
+      "池",
+      "ち"
+     ]
+    ],
+    "meaning": "Pin"
+   },
+   {
+    "word": "電源",
+    "reading": "でんげん",
+    "ruby": [
+     [
+      "電",
+      "でん"
+     ],
+     [
+      "源",
+      "げん"
+     ]
+    ],
+    "meaning": "Nguồn điện"
+   }
+  ]
+ },
+ {
+  "id": "n5-2C-k03",
+  "level": "n5",
+  "lessonId": "2C",
+  "char": "雪",
+  "hanViet": "TUYẾT",
+  "kun": [
+   "ゆき"
+  ],
+  "on": [
+   "セツ"
+  ],
+  "examples": [
+   {
+    "word": "雪",
+    "reading": "ゆき",
+    "ruby": [
+     [
+      "雪",
+      "ゆき"
+     ]
+    ],
+    "meaning": "Tuyết"
+   }
+  ]
+ },
+ {
+  "id": "n5-2C-k04",
+  "level": "n5",
+  "lessonId": "2C",
+  "char": "雲",
+  "hanViet": "VÂN",
+  "kun": [
+   "くも"
+  ],
+  "on": [
+   "ウンCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "雲",
+    "reading": "くも",
+    "ruby": [
+     [
+      "雲",
+      "くも"
+     ]
+    ],
+    "meaning": "Mây"
+   }
+  ]
+ },
+ {
+  "id": "n5-3A-k01",
+  "level": "n5",
+  "lessonId": "3A",
+  "char": "日",
+  "hanViet": "NHẬT",
+  "kun": [
+   "ひ",
+   "か"
+  ],
+  "on": [
+   "ニチ",
+   "ジツ"
+  ],
+  "examples": [
+   {
+    "word": "母の日",
+    "reading": "ははのひ",
+    "ruby": [
+     [
+      "母",
+      "はは"
+     ],
+     [
+      "の"
+     ],
+     [
+      "日",
+      "ひ"
+     ]
+    ],
+    "meaning": "Ngày của mẹ"
+   },
+   {
+    "word": "日曜日",
+    "reading": "にちようび",
+    "ruby": [
+     [
+      "日",
+      "にち"
+     ],
+     [
+      "曜",
+      "よう"
+     ],
+     [
+      "日",
+      "び"
+     ]
+    ],
+    "meaning": "Chủ nhật"
+   },
+   {
+    "word": "二日",
+    "reading": "ふつか",
+    "ruby": [
+     [
+      "二",
+      "ふつ"
+     ],
+     [
+      "日",
+      "か"
+     ]
+    ],
+    "meaning": "Mùng 2"
+   },
+   {
+    "word": "日本",
+    "reading": "にほん",
+    "ruby": [
+     [
+      "日",
+      "に"
+     ],
+     [
+      "本",
+      "ほん"
+     ]
+    ],
+    "meaning": "Nhật Bản"
+   },
+   {
+    "word": "毎日",
+    "reading": "まいにち",
+    "ruby": [
+     [
+      "毎",
+      "まい"
+     ],
+     [
+      "日",
+      "にち"
+     ]
+    ],
+    "meaning": "Mỗi ngày"
+   }
+  ]
+ },
+ {
+  "id": "n5-3A-k02",
+  "level": "n5",
+  "lessonId": "3A",
+  "char": "白",
+  "hanViet": "BẠCH",
+  "kun": [
+   "しろ・い",
+   "しら"
+  ],
+  "on": [
+   "ハク",
+   "ビャク"
+  ],
+  "examples": [
+   {
+    "word": "白い",
+    "reading": "しろい",
+    "ruby": [
+     [
+      "白",
+      "しろ"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Màu trắng"
+   }
+  ]
+ },
+ {
+  "id": "n5-3A-k03",
+  "level": "n5",
+  "lessonId": "3A",
+  "char": "早",
+  "hanViet": "TẢO",
+  "kun": [
+   "はや・い"
+  ],
+  "on": [
+   "ソウ",
+   "サッ"
+  ],
+  "examples": [
+   {
+    "word": "早い",
+    "reading": "はやい",
+    "ruby": [
+     [
+      "早",
+      "はや"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Sớm"
+   }
+  ]
+ },
+ {
+  "id": "n5-3B-k01",
+  "level": "n5",
+  "lessonId": "3B",
+  "char": "月",
+  "hanViet": "NGUYỆT",
+  "kun": [
+   "つき"
+  ],
+  "on": [
+   "ゲツ",
+   "ガツ"
+  ],
+  "examples": [
+   {
+    "word": "月",
+    "reading": "つき",
+    "ruby": [
+     [
+      "月",
+      "つき"
+     ]
+    ],
+    "meaning": "Mặt trăng"
+   },
+   {
+    "word": "月曜日",
+    "reading": "げつようび",
+    "ruby": [
+     [
+      "月",
+      "げつ"
+     ],
+     [
+      "曜",
+      "よう"
+     ],
+     [
+      "日",
+      "び"
+     ]
+    ],
+    "meaning": "Thứ Hai"
+   },
+   {
+    "word": "今月",
+    "reading": "こんげつ",
+    "ruby": [
+     [
+      "今",
+      "こん"
+     ],
+     [
+      "月",
+      "げつ"
+     ]
+    ],
+    "meaning": "Tháng này"
+   },
+   {
+    "word": "来月",
+    "reading": "らいげつ",
+    "ruby": [
+     [
+      "来",
+      "らい"
+     ],
+     [
+      "月",
+      "げつ"
+     ]
+    ],
+    "meaning": "Tháng sau"
+   }
+  ]
+ },
+ {
+  "id": "n5-3B-k02",
+  "level": "n5",
+  "lessonId": "3B",
+  "char": "明",
+  "hanViet": "MINH",
+  "kun": [
+   "あ・ける",
+   "あか・るい",
+   "あき"
+  ],
+  "on": [
+   "メイ",
+   "ミョウ"
+  ],
+  "examples": [
+   {
+    "word": "明るい",
+    "reading": "あかるい",
+    "ruby": [
+     [
+      "明",
+      "あか"
+     ],
+     [
+      "るい"
+     ]
+    ],
+    "meaning": "Sáng"
+   },
+   {
+    "word": "明あした日",
+    "reading": "明あした日",
+    "ruby": [
+     [
+      "明"
+     ],
+     [
+      "あした"
+     ],
+     [
+      "日"
+     ]
+    ],
+    "meaning": "Ngày mai"
+   },
+   {
+    "word": "説明します",
+    "reading": "せつめいします",
+    "ruby": [
+     [
+      "説",
+      "せつ"
+     ],
+     [
+      "明",
+      "めい"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Giải thích"
+   },
+   {
+    "word": "説明書",
+    "reading": "せつめいしょ",
+    "ruby": [
+     [
+      "説",
+      "せつ"
+     ],
+     [
+      "明",
+      "めい"
+     ],
+     [
+      "書",
+      "しょ"
+     ]
+    ],
+    "meaning": "Sách hướng dẫn"
+   }
+  ]
+ },
+ {
+  "id": "n5-3B-k03",
+  "level": "n5",
+  "lessonId": "3B",
+  "char": "朝",
+  "hanViet": "TRIỀU",
+  "kun": [
+   "あさ"
+  ],
+  "on": [
+   "チョウ"
+  ],
+  "examples": [
+   {
+    "word": "朝",
+    "reading": "あさ",
+    "ruby": [
+     [
+      "朝",
+      "あさ"
+     ]
+    ],
+    "meaning": "Buổi sáng"
+   },
+   {
+    "word": "毎朝",
+    "reading": "まいあさ",
+    "ruby": [
+     [
+      "毎",
+      "まい"
+     ],
+     [
+      "朝",
+      "あさ"
+     ]
+    ],
+    "meaning": "Mỗi sáng"
+   },
+   {
+    "word": "今朝",
+    "reading": "けさ",
+    "ruby": [
+     [
+      "今",
+      "け"
+     ],
+     [
+      "朝",
+      "さ"
+     ]
+    ],
+    "meaning": "Sáng nay"
+   },
+   {
+    "word": "朝食",
+    "reading": "ちょうしょく",
+    "ruby": [
+     [
+      "朝",
+      "ちょう"
+     ],
+     [
+      "食",
+      "しょく"
+     ]
+    ],
+    "meaning": "Bữa sáng"
+   }
+  ]
+ },
+ {
+  "id": "n5-3C-k01",
+  "level": "n5",
+  "lessonId": "3C",
+  "char": "大",
+  "hanViet": "ĐẠI",
+  "kun": [
+   "おお・きい"
+  ],
+  "on": [
+   "ダイ",
+   "タイ"
+  ],
+  "examples": [
+   {
+    "word": "大きい",
+    "reading": "おおきい",
+    "ruby": [
+     [
+      "大",
+      "おお"
+     ],
+     [
+      "きい"
+     ]
+    ],
+    "meaning": "To, lớn"
+   },
+   {
+    "word": "適当な大きさに",
+    "reading": "てきとうなおおきさに",
+    "ruby": [
+     [
+      "適",
+      "てき"
+     ],
+     [
+      "当",
+      "とう"
+     ],
+     [
+      "な"
+     ],
+     [
+      "大",
+      "おお"
+     ],
+     [
+      "きさに"
+     ]
+    ],
+    "meaning": "Kích thước phù hợp"
+   },
+   {
+    "word": "大きな",
+    "reading": "おおきな",
+    "ruby": [
+     [
+      "大",
+      "おお"
+     ],
+     [
+      "きな"
+     ]
+    ],
+    "meaning": "To, lớn"
+   },
+   {
+    "word": "大学",
+    "reading": "だいがく",
+    "ruby": [
+     [
+      "大",
+      "だい"
+     ],
+     [
+      "学",
+      "がく"
+     ]
+    ],
+    "meaning": "Đại học"
+   }
+  ]
+ },
+ {
+  "id": "n5-3C-k02",
+  "level": "n5",
+  "lessonId": "3C",
+  "char": "犬",
+  "hanViet": "KHUYỂN",
+  "kun": [
+   "いぬ"
+  ],
+  "on": [
+   "ケン"
+  ],
+  "examples": [
+   {
+    "word": "犬",
+    "reading": "いぬ",
+    "ruby": [
+     [
+      "犬",
+      "いぬ"
+     ]
+    ],
+    "meaning": "Con chó"
+   }
+  ]
+ },
+ {
+  "id": "n5-3C-k03",
+  "level": "n5",
+  "lessonId": "3C",
+  "char": "太",
+  "hanViet": "THÁI",
+  "kun": [
+   "ふと・い",
+   "ふと・る"
+  ],
+  "on": [
+   "タイ",
+   "タ"
+  ],
+  "examples": [
+   {
+    "word": "太い",
+    "reading": "ふとい",
+    "ruby": [
+     [
+      "太",
+      "ふと"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Béo, mập"
+   },
+   {
+    "word": "太ります",
+    "reading": "ふとります",
+    "ruby": [
+     [
+      "太",
+      "ふと"
+     ],
+     [
+      "ります"
+     ]
+    ],
+    "meaning": "Béo lên, mập lên"
+   },
+   {
+    "word": "太陽",
+    "reading": "たいよう",
+    "ruby": [
+     [
+      "太",
+      "たい"
+     ],
+     [
+      "陽",
+      "よう"
+     ]
+    ],
+    "meaning": "Mặt trời"
+   }
+  ]
+ },
+ {
+  "id": "n5-3D-k01",
+  "level": "n5",
+  "lessonId": "3D",
+  "char": "小",
+  "hanViet": "TIỂU",
+  "kun": [
+   "こ",
+   "お",
+   "ちい・さい"
+  ],
+  "on": [
+   "ショウ"
+  ],
+  "examples": [
+   {
+    "word": "小さい",
+    "reading": "ちいさい",
+    "ruby": [
+     [
+      "小",
+      "ちい"
+     ],
+     [
+      "さい"
+     ]
+    ],
+    "meaning": "Nhỏ, bé"
+   },
+   {
+    "word": "小さな",
+    "reading": "ちいさな",
+    "ruby": [
+     [
+      "小",
+      "ちい"
+     ],
+     [
+      "さな"
+     ]
+    ],
+    "meaning": "Nhỏ, bé"
+   },
+   {
+    "word": "小学校",
+    "reading": "しょうがっこう",
+    "ruby": [
+     [
+      "小",
+      "しょう"
+     ],
+     [
+      "学",
+      "がっ"
+     ],
+     [
+      "校",
+      "こう"
+     ]
+    ],
+    "meaning": "Trường tiểu học"
+   },
+   {
+    "word": "小説",
+    "reading": "しょうせつ",
+    "ruby": [
+     [
+      "小",
+      "しょう"
+     ],
+     [
+      "説",
+      "せつ"
+     ]
+    ],
+    "meaning": "Tiểu thuyết"
+   },
+   {
+    "word": "小説家",
+    "reading": "しょうせつか",
+    "ruby": [
+     [
+      "小",
+      "しょう"
+     ],
+     [
+      "説",
+      "せつ"
+     ],
+     [
+      "家",
+      "か"
+     ]
+    ],
+    "meaning": "Tiểu thuyết gia"
+   }
+  ]
+ },
+ {
+  "id": "n5-3D-k02",
+  "level": "n5",
+  "lessonId": "3D",
+  "char": "少",
+  "hanViet": "THIỂU",
+  "kun": [
+   "すく・ない",
+   "すこ・し"
+  ],
+  "on": [
+   "ショウ"
+  ],
+  "examples": [
+   {
+    "word": "少し",
+    "reading": "すこし",
+    "ruby": [
+     [
+      "少",
+      "すこ"
+     ],
+     [
+      "し"
+     ]
+    ],
+    "meaning": "Một chút"
+   },
+   {
+    "word": "少ない",
+    "reading": "すくない",
+    "ruby": [
+     [
+      "少",
+      "すく"
+     ],
+     [
+      "ない"
+     ]
+    ],
+    "meaning": "Ít"
+   }
+  ]
+ },
+ {
+  "id": "n5-3D-k03",
+  "level": "n5",
+  "lessonId": "3D",
+  "char": "京",
+  "hanViet": "KINH",
+  "kun": [],
+  "on": [
+   "キョウ",
+   "ケイCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "京都",
+    "reading": "きょうと",
+    "ruby": [
+     [
+      "京",
+      "きょう"
+     ],
+     [
+      "都",
+      "と"
+     ]
+    ],
+    "meaning": "Kyoto"
+   },
+   {
+    "word": "東京",
+    "reading": "とうきょう",
+    "ruby": [
+     [
+      "東",
+      "とう"
+     ],
+     [
+      "京",
+      "きょう"
+     ]
+    ],
+    "meaning": "Tokyo"
+   }
+  ]
+ },
+ {
+  "id": "n5-4A-k01",
+  "level": "n5",
+  "lessonId": "4A",
+  "char": "木",
+  "hanViet": "MỘC",
+  "kun": [
+   "き",
+   "こ"
+  ],
+  "on": [
+   "ボク",
+   "モク"
+  ],
+  "examples": [
+   {
+    "word": "木",
+    "reading": "き",
+    "ruby": [
+     [
+      "木",
+      "き"
+     ]
+    ],
+    "meaning": "Cây"
+   },
+   {
+    "word": "木曜日",
+    "reading": "もくようび",
+    "ruby": [
+     [
+      "木",
+      "もく"
+     ],
+     [
+      "曜",
+      "よう"
+     ],
+     [
+      "日",
+      "び"
+     ]
+    ],
+    "meaning": "Thứ Năm"
+   }
+  ]
+ },
+ {
+  "id": "n5-4A-k02",
+  "level": "n5",
+  "lessonId": "4A",
+  "char": "林",
+  "hanViet": "LÂM",
+  "kun": [
+   "はやし"
+  ],
+  "on": [
+   "リン"
+  ],
+  "examples": [
+   {
+    "word": "林",
+    "reading": "はやし",
+    "ruby": [
+     [
+      "林",
+      "はやし"
+     ]
+    ],
+    "meaning": "Rừng"
+   }
+  ]
+ },
+ {
+  "id": "n5-4A-k03",
+  "level": "n5",
+  "lessonId": "4A",
+  "char": "森",
+  "hanViet": "SÂM",
+  "kun": [
+   "もり"
+  ],
+  "on": [
+   "シン"
+  ],
+  "examples": [
+   {
+    "word": "森",
+    "reading": "もり",
+    "ruby": [
+     [
+      "森",
+      "もり"
+     ]
+    ],
+    "meaning": "Rừng rậm"
+   },
+   {
+    "word": "森林",
+    "reading": "しんりん",
+    "ruby": [
+     [
+      "森",
+      "しん"
+     ],
+     [
+      "林",
+      "りん"
+     ]
+    ],
+    "meaning": "Vùng rừng rậm"
+   }
+  ]
+ },
+ {
+  "id": "n5-4B-k01",
+  "level": "n5",
+  "lessonId": "4B",
+  "char": "本",
+  "hanViet": "BẢN",
+  "kun": [
+   "もと"
+  ],
+  "on": [
+   "ホン"
+  ],
+  "examples": [
+   {
+    "word": "日本",
+    "reading": "にほん",
+    "ruby": [
+     [
+      "日",
+      "に"
+     ],
+     [
+      "本",
+      "ほん"
+     ]
+    ],
+    "meaning": "Nhật Bản"
+   },
+   {
+    "word": "日本語",
+    "reading": "にほんご",
+    "ruby": [
+     [
+      "日",
+      "に"
+     ],
+     [
+      "本",
+      "ほん"
+     ],
+     [
+      "語",
+      "ご"
+     ]
+    ],
+    "meaning": "Tiếng Nhật"
+   },
+   {
+    "word": "本社",
+    "reading": "ほんしゃ",
+    "ruby": [
+     [
+      "本",
+      "ほん"
+     ],
+     [
+      "社",
+      "しゃ"
+     ]
+    ],
+    "meaning": "Trụ sở chính"
+   },
+   {
+    "word": "本物",
+    "reading": "ほんもの",
+    "ruby": [
+     [
+      "本",
+      "ほん"
+     ],
+     [
+      "物",
+      "もの"
+     ]
+    ],
+    "meaning": "Hàng thật"
+   },
+   {
+    "word": "絵本",
+    "reading": "えほん",
+    "ruby": [
+     [
+      "絵",
+      "え"
+     ],
+     [
+      "本",
+      "ほん"
+     ]
+    ],
+    "meaning": "Truyện tranh, sách tranh"
+   }
+  ]
+ },
+ {
+  "id": "n5-4B-k02",
+  "level": "n5",
+  "lessonId": "4B",
+  "char": "体",
+  "hanViet": "THỂ",
+  "kun": [
+   "からだ"
+  ],
+  "on": [
+   "タイ",
+   "テイ"
+  ],
+  "examples": [
+   {
+    "word": "体",
+    "reading": "からだ",
+    "ruby": [
+     [
+      "体",
+      "からだ"
+     ]
+    ],
+    "meaning": "Cơ thể"
+   },
+   {
+    "word": "体にいい",
+    "reading": "からだにいい",
+    "ruby": [
+     [
+      "体",
+      "からだ"
+     ],
+     [
+      "にいい"
+     ]
+    ],
+    "meaning": "Tốt cho cơ thể"
+   },
+   {
+    "word": "体育館",
+    "reading": "たいいくかん",
+    "ruby": [
+     [
+      "体",
+      "たい"
+     ],
+     [
+      "育",
+      "いく"
+     ],
+     [
+      "館",
+      "かん"
+     ]
+    ],
+    "meaning": "Phòng tập thể dục"
+   }
+  ]
+ },
+ {
+  "id": "n5-4B-k03",
+  "level": "n5",
+  "lessonId": "4B",
+  "char": "休",
+  "hanViet": "HƯU",
+  "kun": [
+   "やす・む"
+  ],
+  "on": [
+   "キュウ"
+  ],
+  "examples": [
+   {
+    "word": "休み",
+    "reading": "やすみ",
+    "ruby": [
+     [
+      "休",
+      "やす"
+     ],
+     [
+      "み"
+     ]
+    ],
+    "meaning": "Nghỉ, vắng mặt"
+   },
+   {
+    "word": "昼休み",
+    "reading": "ひるやすみ",
+    "ruby": [
+     [
+      "昼",
+      "ひる"
+     ],
+     [
+      "休",
+      "やす"
+     ],
+     [
+      "み"
+     ]
+    ],
+    "meaning": "Nghỉ trưa"
+   },
+   {
+    "word": "休憩します",
+    "reading": "きゅうけいします",
+    "ruby": [
+     [
+      "休",
+      "きゅう"
+     ],
+     [
+      "憩",
+      "けい"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Nghỉ giải lao"
+   },
+   {
+    "word": "連休",
+    "reading": "れんきゅう",
+    "ruby": [
+     [
+      "連",
+      "れん"
+     ],
+     [
+      "休",
+      "きゅう"
+     ]
+    ],
+    "meaning": "Kì nghỉ, đợt nghỉ dài"
+   }
+  ]
+ },
+ {
+  "id": "n5-4B-k04",
+  "level": "n5",
+  "lessonId": "4B",
+  "char": "長",
+  "hanViet": "TRƯỜNG",
+  "kun": [
+   "なが・い"
+  ],
+  "on": [
+   "チョウ"
+  ],
+  "examples": [
+   {
+    "word": "長い",
+    "reading": "ながい",
+    "ruby": [
+     [
+      "長",
+      "なが"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Dài"
+   },
+   {
+    "word": "長さ",
+    "reading": "ながさ",
+    "ruby": [
+     [
+      "長",
+      "なが"
+     ],
+     [
+      "さ"
+     ]
+    ],
+    "meaning": "Độ dài"
+   },
+   {
+    "word": "長生き",
+    "reading": "ながいき",
+    "ruby": [
+     [
+      "長",
+      "なが"
+     ],
+     [
+      "生",
+      "い"
+     ],
+     [
+      "き"
+     ]
+    ],
+    "meaning": "Sống lâu"
+   },
+   {
+    "word": "課長",
+    "reading": "かちょう",
+    "ruby": [
+     [
+      "課",
+      "か"
+     ],
+     [
+      "長",
+      "ちょう"
+     ]
+    ],
+    "meaning": "Trưởng phòng"
+   },
+   {
+    "word": "社長",
+    "reading": "しゃちょう",
+    "ruby": [
+     [
+      "社",
+      "しゃ"
+     ],
+     [
+      "長",
+      "ちょう"
+     ]
+    ],
+    "meaning": "Giám đốc"
+   },
+   {
+    "word": "部長",
+    "reading": "ぶちょう",
+    "ruby": [
+     [
+      "部",
+      "ぶ"
+     ],
+     [
+      "長",
+      "ちょう"
+     ]
+    ],
+    "meaning": "Trưởng ban"
+   }
+  ]
+ },
+ {
+  "id": "n5-4B-k05",
+  "level": "n5",
+  "lessonId": "4B",
+  "char": "髪",
+  "hanViet": "PHÁT",
+  "kun": [
+   "かみ"
+  ],
+  "on": [
+   "ハツCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "髪",
+    "reading": "かみ",
+    "ruby": [
+     [
+      "髪",
+      "かみ"
+     ]
+    ],
+    "meaning": "Tóc"
+   },
+   {
+    "word": "髪の毛",
+    "reading": "かみのけ",
+    "ruby": [
+     [
+      "髪",
+      "かみ"
+     ],
+     [
+      "の"
+     ],
+     [
+      "毛",
+      "け"
+     ]
+    ],
+    "meaning": "Sợi tóc"
+   },
+   {
+    "word": "前髪",
+    "reading": "まえがみ",
+    "ruby": [
+     [
+      "前",
+      "まえ"
+     ],
+     [
+      "髪",
+      "がみ"
+     ]
+    ],
+    "meaning": "Tóc mái"
+   }
+  ]
+ },
+ {
+  "id": "n5-5A-k01",
+  "level": "n5",
+  "lessonId": "5A",
+  "char": "土",
+  "hanViet": "THỔ",
+  "kun": [
+   "つち"
+  ],
+  "on": [
+   "ド"
+  ],
+  "examples": [
+   {
+    "word": "土曜日",
+    "reading": "どようび",
+    "ruby": [
+     [
+      "土",
+      "ど"
+     ],
+     [
+      "曜",
+      "よう"
+     ],
+     [
+      "日",
+      "び"
+     ]
+    ],
+    "meaning": "Thứ Bảy"
+   },
+   {
+    "word": "お土みやげ産",
+    "reading": "お土みやげ産",
+    "ruby": [
+     [
+      "お土"
+     ],
+     [
+      "みやげ"
+     ],
+     [
+      "産"
+     ]
+    ],
+    "meaning": "Quà quê"
+   }
+  ]
+ },
+ {
+  "id": "n5-5A-k02",
+  "level": "n5",
+  "lessonId": "5A",
+  "char": "上",
+  "hanViet": "THƯỢNG",
+  "kun": [
+   "うえ",
+   "うわ",
+   "かみ",
+   "あ・げる",
+   "のぼ・る"
+  ],
+  "on": [
+   "ジョウ"
+  ],
+  "examples": [
+   {
+    "word": "上",
+    "reading": "うえ",
+    "ruby": [
+     [
+      "上",
+      "うえ"
+     ]
+    ],
+    "meaning": "Trên, bên trên"
+   },
+   {
+    "word": "上げます",
+    "reading": "あげます",
+    "ruby": [
+     [
+      "上",
+      "あ"
+     ],
+     [
+      "げます"
+     ]
+    ],
+    "meaning": "Cho, tặng"
+   },
+   {
+    "word": "上着",
+    "reading": "うわぎ",
+    "ruby": [
+     [
+      "上",
+      "うわ"
+     ],
+     [
+      "着",
+      "ぎ"
+     ]
+    ],
+    "meaning": "Áo khoác"
+   },
+   {
+    "word": "以上",
+    "reading": "いじょう",
+    "ruby": [
+     [
+      "以",
+      "い"
+     ],
+     [
+      "上",
+      "じょう"
+     ]
+    ],
+    "meaning": "Hơn, trên (đi kèm một giá trị); trên đây"
+   },
+   {
+    "word": "上手な",
+    "reading": "じょうずな",
+    "ruby": [
+     [
+      "上",
+      "じょう"
+     ],
+     [
+      "手",
+      "ず"
+     ],
+     [
+      "な"
+     ]
+    ],
+    "meaning": "Giỏi"
+   }
+  ]
+ },
+ {
+  "id": "n5-5A-k03",
+  "level": "n5",
+  "lessonId": "5A",
+  "char": "下",
+  "hanViet": "HẠ",
+  "kun": [
+   "した",
+   "おろ・す",
+   "お・りる",
+   "しも",
+   "もと",
+   "さ・げる",
+   "くだ・さる"
+  ],
+  "on": [
+   "カ",
+   "ゲ"
+  ],
+  "examples": [
+   {
+    "word": "下",
+    "reading": "した",
+    "ruby": [
+     [
+      "下",
+      "した"
+     ]
+    ],
+    "meaning": "Dưới, bên dưới"
+   },
+   {
+    "word": "下ろします",
+    "reading": "おろします",
+    "ruby": [
+     [
+      "下",
+      "お"
+     ],
+     [
+      "ろします"
+     ]
+    ],
+    "meaning": "Rút (tiền); hạ xuống"
+   },
+   {
+    "word": "地下",
+    "reading": "ちか",
+    "ruby": [
+     [
+      "地",
+      "ち"
+     ],
+     [
+      "下",
+      "か"
+     ]
+    ],
+    "meaning": "Dưới mặt đất, tầng hầm"
+   },
+   {
+    "word": "以下",
+    "reading": "いか",
+    "ruby": [
+     [
+      "以",
+      "い"
+     ],
+     [
+      "下",
+      "か"
+     ]
+    ],
+    "meaning": "Dưới (đi kèm một giá trị); dưới đây"
+   },
+   {
+    "word": "下手",
+    "reading": "へた",
+    "ruby": [
+     [
+      "下",
+      "へ"
+     ],
+     [
+      "手",
+      "た"
+     ]
+    ],
+    "meaning": "Kém, không giỏi"
+   }
+  ]
+ },
+ {
+  "id": "n5-5A-k04",
+  "level": "n5",
+  "lessonId": "5A",
+  "char": "不",
+  "hanViet": "BẤT",
+  "kun": [],
+  "on": [
+   "フ",
+   "ブ"
+  ],
+  "examples": [
+   {
+    "word": "不便",
+    "reading": "ふべん",
+    "ruby": [
+     [
+      "不",
+      "ふ"
+     ],
+     [
+      "便",
+      "べん"
+     ]
+    ],
+    "meaning": "Sự bất tiện"
+   },
+   {
+    "word": "不思議な",
+    "reading": "ふしぎな",
+    "ruby": [
+     [
+      "不",
+      "ふ"
+     ],
+     [
+      "思",
+      "し"
+     ],
+     [
+      "議",
+      "ぎ"
+     ],
+     [
+      "な"
+     ]
+    ],
+    "meaning": "Kì lạ, kì quái"
+   }
+  ]
+ },
+ {
+  "id": "n5-5B-k01",
+  "level": "n5",
+  "lessonId": "5B",
+  "char": "石",
+  "hanViet": "THẠCH",
+  "kun": [
+   "いし"
+  ],
+  "on": [
+   "セキ",
+   "シャク",
+   "コク"
+  ],
+  "examples": [
+   {
+    "word": "石",
+    "reading": "いし",
+    "ruby": [
+     [
+      "石",
+      "いし"
+     ]
+    ],
+    "meaning": "Hòn đá"
+   },
+   {
+    "word": "石油",
+    "reading": "せきゆ",
+    "ruby": [
+     [
+      "石",
+      "せき"
+     ],
+     [
+      "油",
+      "ゆ"
+     ]
+    ],
+    "meaning": "Dầu mỏ"
+   }
+  ]
+ },
+ {
+  "id": "n5-5B-k02",
+  "level": "n5",
+  "lessonId": "5B",
+  "char": "右",
+  "hanViet": "HỮU",
+  "kun": [
+   "みぎ"
+  ],
+  "on": [
+   "ウ",
+   "ユウ"
+  ],
+  "examples": [
+   {
+    "word": "右",
+    "reading": "みぎ",
+    "ruby": [
+     [
+      "右",
+      "みぎ"
+     ]
+    ],
+    "meaning": "Bên phải"
+   }
+  ]
+ },
+ {
+  "id": "n5-5B-k03",
+  "level": "n5",
+  "lessonId": "5B",
+  "char": "左",
+  "hanViet": "TẢ",
+  "kun": [
+   "ひだり"
+  ],
+  "on": [
+   "サ"
+  ],
+  "examples": [
+   {
+    "word": "左",
+    "reading": "ひだり",
+    "ruby": [
+     [
+      "左",
+      "ひだり"
+     ]
+    ],
+    "meaning": "Bên trái"
+   }
+  ]
+ },
+ {
+  "id": "n5-5B-k04",
+  "level": "n5",
+  "lessonId": "5B",
+  "char": "友",
+  "hanViet": "HỮU",
+  "kun": [
+   "とも"
+  ],
+  "on": [
+   "ユウ"
+  ],
+  "examples": [
+   {
+    "word": "友達",
+    "reading": "ともだち",
+    "ruby": [
+     [
+      "友",
+      "とも"
+     ],
+     [
+      "達",
+      "だち"
+     ]
+    ],
+    "meaning": "Bạn bè"
+   },
+   {
+    "word": "親友",
+    "reading": "しんゆう",
+    "ruby": [
+     [
+      "親",
+      "しん"
+     ],
+     [
+      "友",
+      "ゆう"
+     ]
+    ],
+    "meaning": "Bạn thân"
+   }
+  ]
+ },
+ {
+  "id": "n5-5C-k01",
+  "level": "n5",
+  "lessonId": "5C",
+  "char": "夕",
+  "hanViet": "TỊCH",
+  "kun": [
+   "ゆう"
+  ],
+  "on": [
+   "セキ"
+  ],
+  "examples": [
+   {
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "ruby": [
+     [
+      "夕",
+      "ゆう"
+     ],
+     [
+      "方",
+      "がた"
+     ]
+    ],
+    "meaning": "Chiều tối"
+   }
+  ]
+ },
+ {
+  "id": "n5-5C-k02",
+  "level": "n5",
+  "lessonId": "5C",
+  "char": "多",
+  "hanViet": "ĐA",
+  "kun": [
+   "おお・い"
+  ],
+  "on": [
+   "タ"
+  ],
+  "examples": [
+   {
+    "word": "多い",
+    "reading": "おおい",
+    "ruby": [
+     [
+      "多",
+      "おお"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Nhiều"
+   },
+   {
+    "word": "多分",
+    "reading": "たぶん",
+    "ruby": [
+     [
+      "多",
+      "た"
+     ],
+     [
+      "分",
+      "ぶん"
+     ]
+    ],
+    "meaning": "Có lẽ"
+   }
+  ]
+ },
+ {
+  "id": "n5-5C-k03",
+  "level": "n5",
+  "lessonId": "5C",
+  "char": "名",
+  "hanViet": "DANH",
+  "kun": [
+   "な"
+  ],
+  "on": [
+   "メイ",
+   "ミョウ"
+  ],
+  "examples": [
+   {
+    "word": "名前",
+    "reading": "なまえ",
+    "ruby": [
+     [
+      "名",
+      "な"
+     ],
+     [
+      "前",
+      "まえ"
+     ]
+    ],
+    "meaning": "Tên"
+   },
+   {
+    "word": "名刺",
+    "reading": "めいし",
+    "ruby": [
+     [
+      "名",
+      "めい"
+     ],
+     [
+      "刺",
+      "し"
+     ]
+    ],
+    "meaning": "Danh thiếp"
+   },
+   {
+    "word": "有名",
+    "reading": "ゆうめい",
+    "ruby": [
+     [
+      "有",
+      "ゆう"
+     ],
+     [
+      "名",
+      "めい"
+     ]
+    ],
+    "meaning": "Nổi tiếng"
+   }
+  ]
+ },
+ {
+  "id": "n5-5C-k04",
+  "level": "n5",
+  "lessonId": "5C",
+  "char": "外",
+  "hanViet": "NGOẠI",
+  "kun": [
+   "そと",
+   "ほか",
+   "はず・れる",
+   "はず・す"
+  ],
+  "on": [
+   "ガイ",
+   "ゲCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "外",
+    "reading": "そと",
+    "ruby": [
+     [
+      "外",
+      "そと"
+     ]
+    ],
+    "meaning": "Bên ngoài"
+   },
+   {
+    "word": "外れます",
+    "reading": "はずれます",
+    "ruby": [
+     [
+      "外",
+      "はず"
+     ],
+     [
+      "れます"
+     ]
+    ],
+    "meaning": "Tuột, lệch"
+   },
+   {
+    "word": "外します",
+    "reading": "はずします",
+    "ruby": [
+     [
+      "外",
+      "はず"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Tháo ra, gỡ bỏ, rời khỏi (chỗ)"
+   },
+   {
+    "word": "外国",
+    "reading": "がいこく",
+    "ruby": [
+     [
+      "外",
+      "がい"
+     ],
+     [
+      "国",
+      "こく"
+     ]
+    ],
+    "meaning": "Nước ngoài"
+   },
+   {
+    "word": "海外",
+    "reading": "かいがい",
+    "ruby": [
+     [
+      "海",
+      "かい"
+     ],
+     [
+      "外",
+      "がい"
+     ]
+    ],
+    "meaning": "Nước ngoài"
+   }
+  ]
+ },
+ {
+  "id": "n5-6A-k01",
+  "level": "n5",
+  "lessonId": "6A",
+  "char": "金",
+  "hanViet": "KIM",
+  "kun": [
+   "かね",
+   "かな"
+  ],
+  "on": [
+   "キン",
+   "コン"
+  ],
+  "examples": [
+   {
+    "word": "お金",
+    "reading": "おかね",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "金",
+      "かね"
+     ]
+    ],
+    "meaning": "Tiền"
+   },
+   {
+    "word": "金曜日",
+    "reading": "きんようび",
+    "ruby": [
+     [
+      "金",
+      "きん"
+     ],
+     [
+      "曜",
+      "よう"
+     ],
+     [
+      "日",
+      "び"
+     ]
+    ],
+    "meaning": "Thứ Sáu"
+   },
+   {
+    "word": "貯金します",
+    "reading": "ちょきんします",
+    "ruby": [
+     [
+      "貯",
+      "ちょ"
+     ],
+     [
+      "金",
+      "きん"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Tiết kiệm tiền"
+   },
+   {
+    "word": "金額",
+    "reading": "きんがく",
+    "ruby": [
+     [
+      "金",
+      "きん"
+     ],
+     [
+      "額",
+      "がく"
+     ]
+    ],
+    "meaning": "Khoản tiền"
+   },
+   {
+    "word": "現金",
+    "reading": "げんきん",
+    "ruby": [
+     [
+      "現",
+      "げん"
+     ],
+     [
+      "金",
+      "きん"
+     ]
+    ],
+    "meaning": "Tiền mặt"
+   }
+  ]
+ },
+ {
+  "id": "n5-6A-k02",
+  "level": "n5",
+  "lessonId": "6A",
+  "char": "銀",
+  "hanViet": "NGÂN",
+  "kun": [],
+  "on": [
+   "ギン"
+  ],
+  "examples": [
+   {
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "ruby": [
+     [
+      "銀",
+      "ぎん"
+     ],
+     [
+      "行",
+      "こう"
+     ]
+    ],
+    "meaning": "Ngân hàng"
+   }
+  ]
+ },
+ {
+  "id": "n5-6A-k03",
+  "level": "n5",
+  "lessonId": "6A",
+  "char": "行",
+  "hanViet": "HÀNH",
+  "kun": [
+   "い・く",
+   "ゆ・く",
+   "おこな・う"
+  ],
+  "on": [
+   "コウ",
+   "ギョウ"
+  ],
+  "examples": [
+   {
+    "word": "行きます",
+    "reading": "いきます",
+    "ruby": [
+     [
+      "行",
+      "い"
+     ],
+     [
+      "きます"
+     ]
+    ],
+    "meaning": "Đi"
+   },
+   {
+    "word": "行います",
+    "reading": "おこないます",
+    "ruby": [
+     [
+      "行",
+      "おこな"
+     ],
+     [
+      "います"
+     ]
+    ],
+    "meaning": "Tiến hành, tổ chức"
+   }
+  ]
+ },
+ {
+  "id": "n5-6B-k01",
+  "level": "n5",
+  "lessonId": "6B",
+  "char": "米",
+  "hanViet": "MỄ",
+  "kun": [
+   "こめ"
+  ],
+  "on": [
+   "マイ",
+   "ベイ"
+  ],
+  "examples": [
+   {
+    "word": "米",
+    "reading": "こめ",
+    "ruby": [
+     [
+      "米",
+      "こめ"
+     ]
+    ],
+    "meaning": "Gạo"
+   }
+  ]
+ },
+ {
+  "id": "n5-6B-k02",
+  "level": "n5",
+  "lessonId": "6B",
+  "char": "来",
+  "hanViet": "LAI",
+  "kun": [
+   "く・る",
+   "きた・す"
+  ],
+  "on": [
+   "ライ"
+  ],
+  "examples": [
+   {
+    "word": "持って来ます",
+    "reading": "もってきます",
+    "ruby": [
+     [
+      "持",
+      "も"
+     ],
+     [
+      "って"
+     ],
+     [
+      "来",
+      "き"
+     ],
+     [
+      "ます"
+     ]
+    ],
+    "meaning": "Mang đến"
+   },
+   {
+    "word": "来週",
+    "reading": "らいしゅう",
+    "ruby": [
+     [
+      "来",
+      "らい"
+     ],
+     [
+      "週",
+      "しゅう"
+     ]
+    ],
+    "meaning": "Tuần sau"
+   },
+   {
+    "word": "来年",
+    "reading": "らいねん",
+    "ruby": [
+     [
+      "来",
+      "らい"
+     ],
+     [
+      "年",
+      "ねん"
+     ]
+    ],
+    "meaning": "Năm sau"
+   },
+   {
+    "word": "将来",
+    "reading": "しょうらい",
+    "ruby": [
+     [
+      "将",
+      "しょう"
+     ],
+     [
+      "来",
+      "らい"
+     ]
+    ],
+    "meaning": "Tương lai"
+   },
+   {
+    "word": "再来月",
+    "reading": "さらいげつ",
+    "ruby": [
+     [
+      "再",
+      "さ"
+     ],
+     [
+      "来",
+      "らい"
+     ],
+     [
+      "月",
+      "げつ"
+     ]
+    ],
+    "meaning": "Tháng sau nữa"
+   }
+  ]
+ },
+ {
+  "id": "n5-6B-k03",
+  "level": "n5",
+  "lessonId": "6B",
+  "char": "半",
+  "hanViet": "BÁN",
+  "kun": [
+   "なか・ば"
+  ],
+  "on": [
+   "ハン"
+  ],
+  "examples": [
+   {
+    "word": "半分",
+    "reading": "はんぶん",
+    "ruby": [
+     [
+      "半",
+      "はん"
+     ],
+     [
+      "分",
+      "ぶん"
+     ]
+    ],
+    "meaning": "Một nửa, nửa phần"
+   },
+   {
+    "word": "半年",
+    "reading": "はんとし",
+    "ruby": [
+     [
+      "半",
+      "はん"
+     ],
+     [
+      "年",
+      "とし"
+     ]
+    ],
+    "meaning": "Nửa năm"
+   }
+  ]
+ },
+ {
+  "id": "n5-6B-k04",
+  "level": "n5",
+  "lessonId": "6B",
+  "char": "前",
+  "hanViet": "TIỀN",
+  "kun": [
+   "まえ"
+  ],
+  "on": [
+   "ゼン"
+  ],
+  "examples": [
+   {
+    "word": "前",
+    "reading": "まえ",
+    "ruby": [
+     [
+      "前",
+      "まえ"
+     ]
+    ],
+    "meaning": "Phía trước"
+   },
+   {
+    "word": "名前",
+    "reading": "なまえ",
+    "ruby": [
+     [
+      "名",
+      "な"
+     ],
+     [
+      "前",
+      "まえ"
+     ]
+    ],
+    "meaning": "Tên"
+   },
+   {
+    "word": "駅前",
+    "reading": "えきまえ",
+    "ruby": [
+     [
+      "駅",
+      "えき"
+     ],
+     [
+      "前",
+      "まえ"
+     ]
+    ],
+    "meaning": "Trước nhà ga"
+   },
+   {
+    "word": "午前",
+    "reading": "ごぜん",
+    "ruby": [
+     [
+      "午",
+      "ご"
+     ],
+     [
+      "前",
+      "ぜん"
+     ]
+    ],
+    "meaning": "Sáng (trước 12h)"
+   }
+  ]
+ },
+ {
+  "id": "n5-6B-k05",
+  "level": "n5",
+  "lessonId": "6B",
+  "char": "帰",
+  "hanViet": "QUY",
+  "kun": [
+   "かえ・る"
+  ],
+  "on": [
+   "キ"
+  ],
+  "examples": [
+   {
+    "word": "帰ります",
+    "reading": "かえります",
+    "ruby": [
+     [
+      "帰",
+      "かえ"
+     ],
+     [
+      "ります"
+     ]
+    ],
+    "meaning": "Về, trở về (nhà)"
+   },
+   {
+    "word": "お帰りなさい",
+    "reading": "おかえりなさい",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "帰",
+      "かえ"
+     ],
+     [
+      "りなさい"
+     ]
+    ],
+    "meaning": "Mừng bạn trở về"
+   },
+   {
+    "word": "帰国",
+    "reading": "きこく",
+    "ruby": [
+     [
+      "帰",
+      "き"
+     ],
+     [
+      "国",
+      "こく"
+     ]
+    ],
+    "meaning": "Về nước"
+   }
+  ]
+ },
+ {
+  "id": "n5-6C-k01",
+  "level": "n5",
+  "lessonId": "6C",
+  "char": "良",
+  "hanViet": "LƯƠNG",
+  "kun": [
+   "よ・い"
+  ],
+  "on": [
+   "リョウ"
+  ],
+  "examples": [
+   {
+    "word": "良い",
+    "reading": "よい",
+    "ruby": [
+     [
+      "良",
+      "よ"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Tốt"
+   }
+  ]
+ },
+ {
+  "id": "n5-6C-k02",
+  "level": "n5",
+  "lessonId": "6C",
+  "char": "食",
+  "hanViet": "THỰC",
+  "kun": [
+   "たべ・る",
+   "く・う"
+  ],
+  "on": [
+   "ショク",
+   "ジキ"
+  ],
+  "examples": [
+   {
+    "word": "食べます",
+    "reading": "たべます",
+    "ruby": [
+     [
+      "食",
+      "た"
+     ],
+     [
+      "べます"
+     ]
+    ],
+    "meaning": "Ăn"
+   },
+   {
+    "word": "食事",
+    "reading": "しょくじ",
+    "ruby": [
+     [
+      "食",
+      "しょく"
+     ],
+     [
+      "事",
+      "じ"
+     ]
+    ],
+    "meaning": "Bữa ăn"
+   },
+   {
+    "word": "和食",
+    "reading": "わしょく",
+    "ruby": [
+     [
+      "和",
+      "わ"
+     ],
+     [
+      "食",
+      "しょく"
+     ]
+    ],
+    "meaning": "Đồ ăn kiểu Nhật"
+   },
+   {
+    "word": "食べ物",
+    "reading": "たべもの",
+    "ruby": [
+     [
+      "食",
+      "た"
+     ],
+     [
+      "べ"
+     ],
+     [
+      "物",
+      "もの"
+     ]
+    ],
+    "meaning": "Đồ ăn"
+   }
+  ]
+ },
+ {
+  "id": "n5-6C-k03",
+  "level": "n5",
+  "lessonId": "6C",
+  "char": "飲",
+  "hanViet": "ẨM",
+  "kun": [
+   "の・む"
+  ],
+  "on": [
+   "イン"
+  ],
+  "examples": [
+   {
+    "word": "飲みます",
+    "reading": "のみます",
+    "ruby": [
+     [
+      "飲",
+      "の"
+     ],
+     [
+      "みます"
+     ]
+    ],
+    "meaning": "Uống"
+   },
+   {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "ruby": [
+     [
+      "飲",
+      "の"
+     ],
+     [
+      "み"
+     ],
+     [
+      "物",
+      "もの"
+     ]
+    ],
+    "meaning": "Đồ uống"
+   }
+  ]
+ },
+ {
+  "id": "n5-6C-k04",
+  "level": "n5",
+  "lessonId": "6C",
+  "char": "飯",
+  "hanViet": "PHẠN",
+  "kun": [
+   "めし"
+  ],
+  "on": [
+   "ハンCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "朝ご飯",
+    "reading": "あさごはん",
+    "ruby": [
+     [
+      "朝",
+      "あさ"
+     ],
+     [
+      "ご"
+     ],
+     [
+      "飯",
+      "はん"
+     ]
+    ],
+    "meaning": "Bữa sáng"
+   },
+   {
+    "word": "昼ご飯",
+    "reading": "ひるごはん",
+    "ruby": [
+     [
+      "昼",
+      "ひる"
+     ],
+     [
+      "ご"
+     ],
+     [
+      "飯",
+      "はん"
+     ]
+    ],
+    "meaning": "Bữa trưa"
+   },
+   {
+    "word": "晩ご飯",
+    "reading": "ばんごはん",
+    "ruby": [
+     [
+      "晩",
+      "ばん"
+     ],
+     [
+      "ご"
+     ],
+     [
+      "飯",
+      "はん"
+     ]
+    ],
+    "meaning": "Bữa tối"
+   }
+  ]
+ },
+ {
+  "id": "n5-7A-k01",
+  "level": "n5",
+  "lessonId": "7A",
+  "char": "今",
+  "hanViet": "KIM",
+  "kun": [
+   "いま"
+  ],
+  "on": [
+   "コン",
+   "キン"
+  ],
+  "examples": [
+   {
+    "word": "今",
+    "reading": "いま",
+    "ruby": [
+     [
+      "今",
+      "いま"
+     ]
+    ],
+    "meaning": "Bây giờ"
+   },
+   {
+    "word": "今晩",
+    "reading": "こんばん",
+    "ruby": [
+     [
+      "今",
+      "こん"
+     ],
+     [
+      "晩",
+      "ばん"
+     ]
+    ],
+    "meaning": "Tối nay"
+   },
+   {
+    "word": "今週",
+    "reading": "こんしゅう",
+    "ruby": [
+     [
+      "今",
+      "こん"
+     ],
+     [
+      "週",
+      "しゅう"
+     ]
+    ],
+    "meaning": "Tuần này"
+   },
+   {
+    "word": "今度",
+    "reading": "こんど",
+    "ruby": [
+     [
+      "今",
+      "こん"
+     ],
+     [
+      "度",
+      "ど"
+     ]
+    ],
+    "meaning": "Lần này; lần tới"
+   }
+  ]
+ },
+ {
+  "id": "n5-7A-k02",
+  "level": "n5",
+  "lessonId": "7A",
+  "char": "会",
+  "hanViet": "HỘI",
+  "kun": [
+   "あ・う"
+  ],
+  "on": [
+   "カイ",
+   "エ"
+  ],
+  "examples": [
+   {
+    "word": "会います",
+    "reading": "あいます",
+    "ruby": [
+     [
+      "会",
+      "あ"
+     ],
+     [
+      "います"
+     ]
+    ],
+    "meaning": "Gặp"
+   },
+   {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "ruby": [
+     [
+      "会",
+      "かい"
+     ],
+     [
+      "社",
+      "しゃ"
+     ]
+    ],
+    "meaning": "Công ty"
+   },
+   {
+    "word": "会社員",
+    "reading": "かいしゃいん",
+    "ruby": [
+     [
+      "会",
+      "かい"
+     ],
+     [
+      "社",
+      "しゃ"
+     ],
+     [
+      "員",
+      "いん"
+     ]
+    ],
+    "meaning": "Nhân viên công ty"
+   },
+   {
+    "word": "会議",
+    "reading": "かいぎ",
+    "ruby": [
+     [
+      "会",
+      "かい"
+     ],
+     [
+      "議",
+      "ぎ"
+     ]
+    ],
+    "meaning": "Cuộc họp"
+   }
+  ]
+ },
+ {
+  "id": "n5-7A-k03",
+  "level": "n5",
+  "lessonId": "7A",
+  "char": "合",
+  "hanViet": "HỢP",
+  "kun": [
+   "あ・う"
+  ],
+  "on": [
+   "カッ",
+   "ガッ",
+   "ゴウ"
+  ],
+  "examples": [
+   {
+    "word": "合います",
+    "reading": "あいます",
+    "ruby": [
+     [
+      "合",
+      "あ"
+     ],
+     [
+      "います"
+     ]
+    ],
+    "meaning": "Hợp, phù hợp"
+   },
+   {
+    "word": "試合",
+    "reading": "しあい",
+    "ruby": [
+     [
+      "試",
+      "し"
+     ],
+     [
+      "合",
+      "あい"
+     ]
+    ],
+    "meaning": "Trận đấu, cuộc thi"
+   },
+   {
+    "word": "間に合います",
+    "reading": "まにあいます",
+    "ruby": [
+     [
+      "間",
+      "ま"
+     ],
+     [
+      "に"
+     ],
+     [
+      "合",
+      "あ"
+     ],
+     [
+      "います"
+     ]
+    ],
+    "meaning": "Kịp (giờ)"
+   },
+   {
+    "word": "合格します",
+    "reading": "ごうかくします",
+    "ruby": [
+     [
+      "合",
+      "ごう"
+     ],
+     [
+      "格",
+      "かく"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Đỗ, đậu (kì thi)"
+   }
+  ]
+ },
+ {
+  "id": "n5-7B-k01",
+  "level": "n5",
+  "lessonId": "7B",
+  "char": "口",
+  "hanViet": "KHẨU",
+  "kun": [
+   "くち"
+  ],
+  "on": [
+   "コウ",
+   "ク"
+  ],
+  "examples": [
+   {
+    "word": "口",
+    "reading": "くち",
+    "ruby": [
+     [
+      "口",
+      "くち"
+     ]
+    ],
+    "meaning": "Miệng"
+   },
+   {
+    "word": "入り口",
+    "reading": "いりぐち",
+    "ruby": [
+     [
+      "入",
+      "い"
+     ],
+     [
+      "り"
+     ],
+     [
+      "口",
+      "ぐち"
+     ]
+    ],
+    "meaning": "Lối vào"
+   },
+   {
+    "word": "出口",
+    "reading": "でぐち",
+    "ruby": [
+     [
+      "出",
+      "で"
+     ],
+     [
+      "口",
+      "ぐち"
+     ]
+    ],
+    "meaning": "Lối ra"
+   }
+  ]
+ },
+ {
+  "id": "n5-7B-k02",
+  "level": "n5",
+  "lessonId": "7B",
+  "char": "中",
+  "hanViet": "TRUNG",
+  "kun": [
+   "なか",
+   "うち",
+   "あた・る"
+  ],
+  "on": [
+   "チュウ",
+   "ジュウ"
+  ],
+  "examples": [
+   {
+    "word": "中",
+    "reading": "なか",
+    "ruby": [
+     [
+      "中",
+      "なか"
+     ]
+    ],
+    "meaning": "Ở giữa, bên trong"
+   },
+   {
+    "word": "真ん中",
+    "reading": "まんなか",
+    "ruby": [
+     [
+      "真",
+      "ま"
+     ],
+     [
+      "ん"
+     ],
+     [
+      "中",
+      "なか"
+     ]
+    ],
+    "meaning": "Chính giữa"
+   },
+   {
+    "word": "中国",
+    "reading": "ちゅうごく",
+    "ruby": [
+     [
+      "中",
+      "ちゅう"
+     ],
+     [
+      "国",
+      "ごく"
+     ]
+    ],
+    "meaning": "Trung Quốc"
+   },
+   {
+    "word": "仕事中",
+    "reading": "しごとちゅう",
+    "ruby": [
+     [
+      "仕",
+      "し"
+     ],
+     [
+      "事",
+      "ごと"
+     ],
+     [
+      "中",
+      "ちゅう"
+     ]
+    ],
+    "meaning": "Đang làm việc"
+   },
+   {
+    "word": "世界中",
+    "reading": "せかいじゅう",
+    "ruby": [
+     [
+      "世",
+      "せ"
+     ],
+     [
+      "界",
+      "かい"
+     ],
+     [
+      "中",
+      "じゅう"
+     ]
+    ],
+    "meaning": "Trên khắp thế giới"
+   }
+  ]
+ },
+ {
+  "id": "n5-7B-k03",
+  "level": "n5",
+  "lessonId": "7B",
+  "char": "古",
+  "hanViet": "CỔ",
+  "kun": [
+   "ふる・い",
+   "ふる・す"
+  ],
+  "on": [
+   "コ"
+  ],
+  "examples": [
+   {
+    "word": "古い",
+    "reading": "ふるい",
+    "ruby": [
+     [
+      "古",
+      "ふる"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Cũ"
+   }
+  ]
+ },
+ {
+  "id": "n5-7B-k04",
+  "level": "n5",
+  "lessonId": "7B",
+  "char": "牛",
+  "hanViet": "NGƯU",
+  "kun": [
+   "うし"
+  ],
+  "on": [
+   "ギュウ"
+  ],
+  "examples": [
+   {
+    "word": "牛",
+    "reading": "うし",
+    "ruby": [
+     [
+      "牛",
+      "うし"
+     ]
+    ],
+    "meaning": "Con bò"
+   },
+   {
+    "word": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "ruby": [
+     [
+      "牛",
+      "ぎゅう"
+     ],
+     [
+      "乳",
+      "にゅう"
+     ]
+    ],
+    "meaning": "Sữa bò"
+   },
+   {
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "ruby": [
+     [
+      "牛",
+      "ぎゅう"
+     ],
+     [
+      "肉",
+      "にく"
+     ]
+    ],
+    "meaning": "Thịt bò"
+   },
+   {
+    "word": "牛どん",
+    "reading": "ぎゅうどん",
+    "ruby": [
+     [
+      "牛",
+      "ぎゅう"
+     ],
+     [
+      "どん"
+     ]
+    ],
+    "meaning": "Cơm thịt bò"
+   }
+  ]
+ },
+ {
+  "id": "n5-7B-k05",
+  "level": "n5",
+  "lessonId": "7B",
+  "char": "物",
+  "hanViet": "VẬT",
+  "kun": [
+   "もの"
+  ],
+  "on": [
+   "ブツ",
+   "モツ"
+  ],
+  "examples": [
+   {
+    "word": "物",
+    "reading": "もの",
+    "ruby": [
+     [
+      "物",
+      "もの"
+     ]
+    ],
+    "meaning": "Đồ vật"
+   },
+   {
+    "word": "果物",
+    "reading": "くだもの",
+    "ruby": [
+     [
+      "果",
+      "くだ"
+     ],
+     [
+      "物",
+      "もの"
+     ]
+    ],
+    "meaning": "Trái cây"
+   },
+   {
+    "word": "品物",
+    "reading": "しなもの",
+    "ruby": [
+     [
+      "品",
+      "しな"
+     ],
+     [
+      "物",
+      "もの"
+     ]
+    ],
+    "meaning": "Hàng hóa"
+   },
+   {
+    "word": "忘れ物",
+    "reading": "わすれもの",
+    "ruby": [
+     [
+      "忘",
+      "わす"
+     ],
+     [
+      "れ"
+     ],
+     [
+      "物",
+      "もの"
+     ]
+    ],
+    "meaning": "Đồ bị bỏ quên"
+   },
+   {
+    "word": "着物",
+    "reading": "きもの",
+    "ruby": [
+     [
+      "着",
+      "き"
+     ],
+     [
+      "物",
+      "もの"
+     ]
+    ],
+    "meaning": "Kimono"
+   },
+   {
+    "word": "食べ物",
+    "reading": "たべもの",
+    "ruby": [
+     [
+      "食",
+      "た"
+     ],
+     [
+      "べ"
+     ],
+     [
+      "物",
+      "もの"
+     ]
+    ],
+    "meaning": "Đồ ăn"
+   },
+   {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "ruby": [
+     [
+      "飲",
+      "の"
+     ],
+     [
+      "み"
+     ],
+     [
+      "物",
+      "もの"
+     ]
+    ],
+    "meaning": "Đồ uống"
+   },
+   {
+    "word": "買い物します",
+    "reading": "かいものします",
+    "ruby": [
+     [
+      "買",
+      "か"
+     ],
+     [
+      "い"
+     ],
+     [
+      "物",
+      "もの"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Mua sắm"
+   }
+  ]
+ },
+ {
+  "id": "n5-7C-k01",
+  "level": "n5",
+  "lessonId": "7C",
+  "char": "午",
+  "hanViet": "NGỌ",
+  "kun": [],
+  "on": [
+   "ゴ"
+  ],
+  "examples": [
+   {
+    "word": "午前",
+    "reading": "ごぜん",
+    "ruby": [
+     [
+      "午",
+      "ご"
+     ],
+     [
+      "前",
+      "ぜん"
+     ]
+    ],
+    "meaning": "Sáng (trước 12h)"
+   },
+   {
+    "word": "午後",
+    "reading": "ごご",
+    "ruby": [
+     [
+      "午",
+      "ご"
+     ],
+     [
+      "後",
+      "ご"
+     ]
+    ],
+    "meaning": "Chiều (sau 12h)"
+   }
+  ]
+ },
+ {
+  "id": "n5-7C-k02",
+  "level": "n5",
+  "lessonId": "7C",
+  "char": "年",
+  "hanViet": "NIÊN",
+  "kun": [
+   "とし"
+  ],
+  "on": [
+   "ネン"
+  ],
+  "examples": [
+   {
+    "word": "~年",
+    "reading": "~ねん",
+    "ruby": [
+     [
+      "~"
+     ],
+     [
+      "年",
+      "ねん"
+     ]
+    ],
+    "meaning": "Năm"
+   },
+   {
+    "word": "半年",
+    "reading": "はんとし",
+    "ruby": [
+     [
+      "半",
+      "はん"
+     ],
+     [
+      "年",
+      "とし"
+     ]
+    ],
+    "meaning": "Nửa năm"
+   },
+   {
+    "word": "来年",
+    "reading": "らいねん",
+    "ruby": [
+     [
+      "来",
+      "らい"
+     ],
+     [
+      "年",
+      "ねん"
+     ]
+    ],
+    "meaning": "Năm sau"
+   },
+   {
+    "word": "去年",
+    "reading": "きょねん",
+    "ruby": [
+     [
+      "去",
+      "きょ"
+     ],
+     [
+      "年",
+      "ねん"
+     ]
+    ],
+    "meaning": "Năm ngoái"
+   },
+   {
+    "word": "再来年",
+    "reading": "さらいねん",
+    "ruby": [
+     [
+      "再",
+      "さ"
+     ],
+     [
+      "来",
+      "らい"
+     ],
+     [
+      "年",
+      "ねん"
+     ]
+    ],
+    "meaning": "Năm sau nữa"
+   }
+  ]
+ },
+ {
+  "id": "n5-7C-k03",
+  "level": "n5",
+  "lessonId": "7C",
+  "char": "生",
+  "hanViet": "SINH",
+  "kun": [
+   "い・きる",
+   "う・まれる",
+   "なま",
+   "は・える"
+  ],
+  "on": [
+   "セイ",
+   "ショウ"
+  ],
+  "examples": [
+   {
+    "word": "生け花",
+    "reading": "いけばな",
+    "ruby": [
+     [
+      "生",
+      "い"
+     ],
+     [
+      "け"
+     ],
+     [
+      "花",
+      "ばな"
+     ]
+    ],
+    "meaning": "Nghệ thuật cắm hoa"
+   },
+   {
+    "word": "生まれます",
+    "reading": "うまれます",
+    "ruby": [
+     [
+      "生",
+      "う"
+     ],
+     [
+      "まれます"
+     ]
+    ],
+    "meaning": "Được sinh ra"
+   },
+   {
+    "word": "長生き",
+    "reading": "ながいき",
+    "ruby": [
+     [
+      "長",
+      "なが"
+     ],
+     [
+      "生",
+      "い"
+     ],
+     [
+      "き"
+     ]
+    ],
+    "meaning": "Sống lâu"
+   },
+   {
+    "word": "学生",
+    "reading": "がくせい",
+    "ruby": [
+     [
+      "学",
+      "がく"
+     ],
+     [
+      "生",
+      "せい"
+     ]
+    ],
+    "meaning": "Học sinh"
+   },
+   {
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "ruby": [
+     [
+      "誕",
+      "たん"
+     ],
+     [
+      "生",
+      "じょう"
+     ],
+     [
+      "日",
+      "び"
+     ]
+    ],
+    "meaning": "Ngày sinh/ ngày sinh nhật"
+   }
+  ]
+ },
+ {
+  "id": "n5-7C-k04",
+  "level": "n5",
+  "lessonId": "7C",
+  "char": "気",
+  "hanViet": "KHÍ",
+  "kun": [],
+  "on": [
+   "キ",
+   "ケ"
+  ],
+  "examples": [
+   {
+    "word": "天気",
+    "reading": "てんき",
+    "ruby": [
+     [
+      "天",
+      "てん"
+     ],
+     [
+      "気",
+      "き"
+     ]
+    ],
+    "meaning": "Thời tiết"
+   },
+   {
+    "word": "病気",
+    "reading": "びょうき",
+    "ruby": [
+     [
+      "病",
+      "びょう"
+     ],
+     [
+      "気",
+      "き"
+     ]
+    ],
+    "meaning": "Bệnh, ốm"
+   },
+   {
+    "word": "人気",
+    "reading": "にんき",
+    "ruby": [
+     [
+      "人",
+      "にん"
+     ],
+     [
+      "気",
+      "き"
+     ]
+    ],
+    "meaning": "Được yêu thích"
+   },
+   {
+    "word": "空気",
+    "reading": "くうき",
+    "ruby": [
+     [
+      "空",
+      "くう"
+     ],
+     [
+      "気",
+      "き"
+     ]
+    ],
+    "meaning": "Không khí"
+   },
+   {
+    "word": "天気予報",
+    "reading": "てんきよほう",
+    "ruby": [
+     [
+      "天",
+      "てん"
+     ],
+     [
+      "気",
+      "き"
+     ],
+     [
+      "予",
+      "よ"
+     ],
+     [
+      "報",
+      "ほう"
+     ]
+    ],
+    "meaning": "Dự báo thời tiết"
+   }
+  ]
+ },
+ {
+  "id": "n5-7D-k01",
+  "level": "n5",
+  "lessonId": "7D",
+  "char": "子",
+  "hanViet": "TỬ",
+  "kun": [
+   "こ"
+  ],
+  "on": [
+   "シ",
+   "ス"
+  ],
+  "examples": [
+   {
+    "word": "息子",
+    "reading": "むすこ",
+    "ruby": [
+     [
+      "息",
+      "むす"
+     ],
+     [
+      "子",
+      "こ"
+     ]
+    ],
+    "meaning": "Con trai"
+   },
+   {
+    "word": "子供",
+    "reading": "こども",
+    "ruby": [
+     [
+      "子",
+      "こ"
+     ],
+     [
+      "供",
+      "ども"
+     ]
+    ],
+    "meaning": "Trẻ em"
+   },
+   {
+    "word": "電子辞書",
+    "reading": "でんしじしょ",
+    "ruby": [
+     [
+      "電",
+      "でん"
+     ],
+     [
+      "子",
+      "し"
+     ],
+     [
+      "辞",
+      "じ"
+     ],
+     [
+      "書",
+      "しょ"
+     ]
+    ],
+    "meaning": "Từ điển điện tử"
+   },
+   {
+    "word": "調子",
+    "reading": "ちょうし",
+    "ruby": [
+     [
+      "調",
+      "ちょう"
+     ],
+     [
+      "子",
+      "し"
+     ]
+    ],
+    "meaning": "Tình trạng, trạng thái"
+   },
+   {
+    "word": "お菓子",
+    "reading": "おかし",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "菓",
+      "か"
+     ],
+     [
+      "子",
+      "し"
+     ]
+    ],
+    "meaning": "Bánh kẹo"
+   }
+  ]
+ },
+ {
+  "id": "n5-7D-k02",
+  "level": "n5",
+  "lessonId": "7D",
+  "char": "字",
+  "hanViet": "TỰ",
+  "kun": [
+   "あざ"
+  ],
+  "on": [
+   "ジ"
+  ],
+  "examples": [
+   {
+    "word": "漢字",
+    "reading": "かんじ",
+    "ruby": [
+     [
+      "漢",
+      "かん"
+     ],
+     [
+      "字",
+      "じ"
+     ]
+    ],
+    "meaning": "Chữ Hán"
+   },
+   {
+    "word": "ローマ字",
+    "reading": "ローマじ",
+    "ruby": [
+     [
+      "ローマ"
+     ],
+     [
+      "字",
+      "じ"
+     ]
+    ],
+    "meaning": "Chữ Latinh"
+   }
+  ]
+ },
+ {
+  "id": "n5-7D-k03",
+  "level": "n5",
+  "lessonId": "7D",
+  "char": "学",
+  "hanViet": "HỌC",
+  "kun": [
+   "まな・ぶ"
+  ],
+  "on": [
+   "ガクCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "留学生",
+    "reading": "りゅうがくせい",
+    "ruby": [
+     [
+      "留",
+      "りゅう"
+     ],
+     [
+      "学",
+      "がく"
+     ],
+     [
+      "生",
+      "せい"
+     ]
+    ],
+    "meaning": "Du học sinh"
+   },
+   {
+    "word": "見学",
+    "reading": "けんがく",
+    "ruby": [
+     [
+      "見",
+      "けん"
+     ],
+     [
+      "学",
+      "がく"
+     ]
+    ],
+    "meaning": "Tham quan với mục đích học tập"
+   },
+   {
+    "word": "大学院",
+    "reading": "だいがくいん",
+    "ruby": [
+     [
+      "大",
+      "だい"
+     ],
+     [
+      "学",
+      "がく"
+     ],
+     [
+      "院",
+      "いん"
+     ]
+    ],
+    "meaning": "Cao học"
+   },
+   {
+    "word": "学校",
+    "reading": "がっこう",
+    "ruby": [
+     [
+      "学",
+      "がっ"
+     ],
+     [
+      "校",
+      "こう"
+     ]
+    ],
+    "meaning": "Trường học"
+   },
+   {
+    "word": "入学",
+    "reading": "にゅうがく",
+    "ruby": [
+     [
+      "入",
+      "にゅう"
+     ],
+     [
+      "学",
+      "がく"
+     ]
+    ],
+    "meaning": "Nhập học"
+   }
+  ]
+ },
+ {
+  "id": "n5-8A-k01",
+  "level": "n5",
+  "lessonId": "8A",
+  "char": "手",
+  "hanViet": "THỦ",
+  "kun": [
+   "て",
+   "た"
+  ],
+  "on": [
+   "ズ",
+   "シュ"
+  ],
+  "examples": [
+   {
+    "word": "手",
+    "reading": "て",
+    "ruby": [
+     [
+      "手",
+      "て"
+     ]
+    ],
+    "meaning": "Tay"
+   },
+   {
+    "word": "手紙",
+    "reading": "てがみ",
+    "ruby": [
+     [
+      "手",
+      "て"
+     ],
+     [
+      "紙",
+      "がみ"
+     ]
+    ],
+    "meaning": "Bức thư"
+   },
+   {
+    "word": "手帳",
+    "reading": "てちょう",
+    "ruby": [
+     [
+      "手",
+      "て"
+     ],
+     [
+      "帳",
+      "ちょう"
+     ]
+    ],
+    "meaning": "Sổ tay"
+   },
+   {
+    "word": "お手洗い",
+    "reading": "おてあらい",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "手",
+      "て"
+     ],
+     [
+      "洗",
+      "あら"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Nhà vệ sinh"
+   },
+   {
+    "word": "下手な",
+    "reading": "へたな",
+    "ruby": [
+     [
+      "下",
+      "へ"
+     ],
+     [
+      "手",
+      "た"
+     ],
+     [
+      "な"
+     ]
+    ],
+    "meaning": "Kém, yếu"
+   },
+   {
+    "word": "切手",
+    "reading": "きって",
+    "ruby": [
+     [
+      "切",
+      "きっ"
+     ],
+     [
+      "手",
+      "て"
+     ]
+    ],
+    "meaning": "Tem"
+   },
+   {
+    "word": "手袋",
+    "reading": "てぶくろ",
+    "ruby": [
+     [
+      "手",
+      "て"
+     ],
+     [
+      "袋",
+      "ぶくろ"
+     ]
+    ],
+    "meaning": "Găng tay"
+   },
+   {
+    "word": "歌手",
+    "reading": "かしゅ",
+    "ruby": [
+     [
+      "歌",
+      "か"
+     ],
+     [
+      "手",
+      "しゅ"
+     ]
+    ],
+    "meaning": "Ca sĩ"
+   },
+   {
+    "word": "運転手",
+    "reading": "うんてんしゅ",
+    "ruby": [
+     [
+      "運",
+      "うん"
+     ],
+     [
+      "転",
+      "てん"
+     ],
+     [
+      "手",
+      "しゅ"
+     ]
+    ],
+    "meaning": "Người lái xe"
+   }
+  ]
+ },
+ {
+  "id": "n5-8A-k02",
+  "level": "n5",
+  "lessonId": "8A",
+  "char": "毛",
+  "hanViet": "MAO",
+  "kun": [
+   "け"
+  ],
+  "on": [
+   "モウ"
+  ],
+  "examples": [
+   {
+    "word": "毛",
+    "reading": "け",
+    "ruby": [
+     [
+      "毛",
+      "け"
+     ]
+    ],
+    "meaning": "Lông"
+   },
+   {
+    "word": "毛糸",
+    "reading": "けいと",
+    "ruby": [
+     [
+      "毛",
+      "け"
+     ],
+     [
+      "糸",
+      "いと"
+     ]
+    ],
+    "meaning": "Sợi len"
+   },
+   {
+    "word": "毛布",
+    "reading": "もうふ",
+    "ruby": [
+     [
+      "毛",
+      "もう"
+     ],
+     [
+      "布",
+      "ふ"
+     ]
+    ],
+    "meaning": "Chăn, chăn lông"
+   }
+  ]
+ },
+ {
+  "id": "n5-8A-k03",
+  "level": "n5",
+  "lessonId": "8A",
+  "char": "父",
+  "hanViet": "PHỤ",
+  "kun": [
+   "ちち"
+  ],
+  "on": [
+   "フ"
+  ],
+  "examples": [
+   {
+    "word": "父",
+    "reading": "ちち",
+    "ruby": [
+     [
+      "父",
+      "ちち"
+     ]
+    ],
+    "meaning": "Bố (mình)"
+   },
+   {
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "父",
+      "とう"
+     ],
+     [
+      "さん"
+     ]
+    ],
+    "meaning": "Bố (người khác)"
+   },
+   {
+    "word": "祖父",
+    "reading": "そふ",
+    "ruby": [
+     [
+      "祖",
+      "そ"
+     ],
+     [
+      "父",
+      "ふ"
+     ]
+    ],
+    "meaning": "Ông (mình)"
+   }
+  ]
+ },
+ {
+  "id": "n5-8A-k04",
+  "level": "n5",
+  "lessonId": "8A",
+  "char": "交",
+  "hanViet": "GIAO",
+  "kun": [
+   "ま・ざる",
+   "まじ・える",
+   "か・わす"
+  ],
+  "on": [
+   "コウ"
+  ],
+  "examples": [
+   {
+    "word": "交通",
+    "reading": "こうつう",
+    "ruby": [
+     [
+      "交",
+      "こう"
+     ],
+     [
+      "通",
+      "つう"
+     ]
+    ],
+    "meaning": "Giao thông"
+   },
+   {
+    "word": "交差点",
+    "reading": "こうさてん",
+    "ruby": [
+     [
+      "交",
+      "こう"
+     ],
+     [
+      "差",
+      "さ"
+     ],
+     [
+      "点",
+      "てん"
+     ]
+    ],
+    "meaning": "Ngã tư, giao điểm"
+   },
+   {
+    "word": "交番",
+    "reading": "こうばん",
+    "ruby": [
+     [
+      "交",
+      "こう"
+     ],
+     [
+      "番",
+      "ばん"
+     ]
+    ],
+    "meaning": "Đồn cảnh sát"
+   }
+  ]
+ },
+ {
+  "id": "n5-8A-k05",
+  "level": "n5",
+  "lessonId": "8A",
+  "char": "校",
+  "hanViet": "HIỆU",
+  "kun": [],
+  "on": [
+   "コウ"
+  ],
+  "examples": [
+   {
+    "word": "学校",
+    "reading": "がっこう",
+    "ruby": [
+     [
+      "学",
+      "がっ"
+     ],
+     [
+      "校",
+      "こう"
+     ]
+    ],
+    "meaning": "Trường học"
+   },
+   {
+    "word": "高校",
+    "reading": "こうこう",
+    "ruby": [
+     [
+      "高",
+      "こう"
+     ],
+     [
+      "校",
+      "こう"
+     ]
+    ],
+    "meaning": "Trường cấp 3"
+   }
+  ]
+ },
+ {
+  "id": "n5-8B-k01",
+  "level": "n5",
+  "lessonId": "8B",
+  "char": "母",
+  "hanViet": "MẪU",
+  "kun": [
+   "はは"
+  ],
+  "on": [
+   "ボ"
+  ],
+  "examples": [
+   {
+    "word": "母",
+    "reading": "はは",
+    "ruby": [
+     [
+      "母",
+      "はは"
+     ]
+    ],
+    "meaning": "Mẹ (mình)"
+   },
+   {
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "母",
+      "かあ"
+     ],
+     [
+      "さん"
+     ]
+    ],
+    "meaning": "Mẹ (người khác)"
+   },
+   {
+    "word": "母の日",
+    "reading": "ははのひ",
+    "ruby": [
+     [
+      "母",
+      "はは"
+     ],
+     [
+      "の"
+     ],
+     [
+      "日",
+      "ひ"
+     ]
+    ],
+    "meaning": "Ngày của mẹ"
+   },
+   {
+    "word": "祖母",
+    "reading": "そぼ",
+    "ruby": [
+     [
+      "祖",
+      "そ"
+     ],
+     [
+      "母",
+      "ぼ"
+     ]
+    ],
+    "meaning": "Bà (mình)"
+   }
+  ]
+ },
+ {
+  "id": "n5-8B-k02",
+  "level": "n5",
+  "lessonId": "8B",
+  "char": "毎",
+  "hanViet": "MỖI",
+  "kun": [],
+  "on": [
+   "マイ"
+  ],
+  "examples": [
+   {
+    "word": "毎朝",
+    "reading": "まいあさ",
+    "ruby": [
+     [
+      "毎",
+      "まい"
+     ],
+     [
+      "朝",
+      "あさ"
+     ]
+    ],
+    "meaning": "Mỗi sáng"
+   },
+   {
+    "word": "毎晩",
+    "reading": "まいばん",
+    "ruby": [
+     [
+      "毎",
+      "まい"
+     ],
+     [
+      "晩",
+      "ばん"
+     ]
+    ],
+    "meaning": "Mỗi tối"
+   },
+   {
+    "word": "毎日",
+    "reading": "まいにち",
+    "ruby": [
+     [
+      "毎",
+      "まい"
+     ],
+     [
+      "日",
+      "にち"
+     ]
+    ],
+    "meaning": "Mỗi ngày"
+   },
+   {
+    "word": "毎週",
+    "reading": "まいしゅう",
+    "ruby": [
+     [
+      "毎",
+      "まい"
+     ],
+     [
+      "週",
+      "しゅう"
+     ]
+    ],
+    "meaning": "Mỗi tuần"
+   }
+  ]
+ },
+ {
+  "id": "n5-8B-k03",
+  "level": "n5",
+  "lessonId": "8B",
+  "char": "海",
+  "hanViet": "HẢI",
+  "kun": [
+   "うみ"
+  ],
+  "on": [
+   "カイ"
+  ],
+  "examples": [
+   {
+    "word": "海",
+    "reading": "うみ",
+    "ruby": [
+     [
+      "海",
+      "うみ"
+     ]
+    ],
+    "meaning": "Biển"
+   },
+   {
+    "word": "海外",
+    "reading": "かいがい",
+    "ruby": [
+     [
+      "海",
+      "かい"
+     ],
+     [
+      "外",
+      "がい"
+     ]
+    ],
+    "meaning": "Nước ngoài"
+   },
+   {
+    "word": "海岸",
+    "reading": "かいがん",
+    "ruby": [
+     [
+      "海",
+      "かい"
+     ],
+     [
+      "岸",
+      "がん"
+     ]
+    ],
+    "meaning": "Bờ biển"
+   }
+  ]
+ },
+ {
+  "id": "n5-8C-k01",
+  "level": "n5",
+  "lessonId": "8C",
+  "char": "兄",
+  "hanViet": "HUYNH",
+  "kun": [
+   "あに"
+  ],
+  "on": [
+   "ケイ",
+   "キョウ"
+  ],
+  "examples": [
+   {
+    "word": "兄",
+    "reading": "あに",
+    "ruby": [
+     [
+      "兄",
+      "あに"
+     ]
+    ],
+    "meaning": "Anh trai (mình)"
+   },
+   {
+    "word": "兄弟",
+    "reading": "きょうだい",
+    "ruby": [
+     [
+      "兄",
+      "きょう"
+     ],
+     [
+      "弟",
+      "だい"
+     ]
+    ],
+    "meaning": "Anh em"
+   }
+  ]
+ },
+ {
+  "id": "n5-8C-k02",
+  "level": "n5",
+  "lessonId": "8C",
+  "char": "先",
+  "hanViet": "TIÊN",
+  "kun": [
+   "さき"
+  ],
+  "on": [
+   "セン"
+  ],
+  "examples": [
+   {
+    "word": "先生",
+    "reading": "せんせい",
+    "ruby": [
+     [
+      "先",
+      "せん"
+     ],
+     [
+      "生",
+      "せい"
+     ]
+    ],
+    "meaning": "Giáo viên"
+   }
+  ]
+ },
+ {
+  "id": "n5-8C-k03",
+  "level": "n5",
+  "lessonId": "8C",
+  "char": "元",
+  "hanViet": "NGUYÊN",
+  "kun": [
+   "もと"
+  ],
+  "on": [
+   "ゲン",
+   "ガン"
+  ],
+  "examples": [
+   {
+    "word": "元気な",
+    "reading": "げんきな",
+    "ruby": [
+     [
+      "元",
+      "げん"
+     ],
+     [
+      "気",
+      "き"
+     ],
+     [
+      "な"
+     ]
+    ],
+    "meaning": "Khỏe mạnh"
+   }
+  ]
+ },
+ {
+  "id": "n5-8C-k04",
+  "level": "n5",
+  "lessonId": "8C",
+  "char": "光",
+  "hanViet": "QUANG",
+  "kun": [
+   "ひかり",
+   "ひか・る"
+  ],
+  "on": [
+   "コウCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "光",
+    "reading": "ひかり",
+    "ruby": [
+     [
+      "光",
+      "ひかり"
+     ]
+    ],
+    "meaning": "Ánh sáng"
+   }
+  ]
+ },
+ {
+  "id": "n5-9A-k01",
+  "level": "n5",
+  "lessonId": "9A",
+  "char": "立",
+  "hanViet": "LẬP",
+  "kun": [
+   "た・つ",
+   "た・てる"
+  ],
+  "on": [
+   "リツおんPhát âmおんします Ghi âm"
+  ],
+  "examples": [
+   {
+    "word": "立ちます",
+    "reading": "たちます",
+    "ruby": [
+     [
+      "立",
+      "た"
+     ],
+     [
+      "ちます"
+     ]
+    ],
+    "meaning": "Đứng"
+   },
+   {
+    "word": "役に立ちます",
+    "reading": "やくにたちます",
+    "ruby": [
+     [
+      "役",
+      "やく"
+     ],
+     [
+      "に"
+     ],
+     [
+      "立",
+      "た"
+     ],
+     [
+      "ちます"
+     ]
+    ],
+    "meaning": "Giúp ích"
+   },
+   {
+    "word": "立入禁止",
+    "reading": "たちいりきんし",
+    "ruby": [
+     [
+      "立",
+      "たち"
+     ],
+     [
+      "入",
+      "いり"
+     ],
+     [
+      "禁",
+      "きん"
+     ],
+     [
+      "止",
+      "し"
+     ]
+    ],
+    "meaning": "Cấm vào"
+   },
+   {
+    "word": "組み立てます",
+    "reading": "くみたてます",
+    "ruby": [
+     [
+      "組",
+      "く"
+     ],
+     [
+      "み"
+     ],
+     [
+      "立",
+      "た"
+     ],
+     [
+      "てます"
+     ]
+    ],
+    "meaning": "Xây dựng, lắp ghép"
+   }
+  ]
+ },
+ {
+  "id": "n5-9A-k02",
+  "level": "n5",
+  "lessonId": "9A",
+  "char": "音",
+  "hanViet": "ÂM",
+  "kun": [
+   "おと",
+   "ね"
+  ],
+  "on": [
+   "オン"
+  ],
+  "examples": [
+   {
+    "word": "音",
+    "reading": "おと",
+    "ruby": [
+     [
+      "音",
+      "おと"
+     ]
+    ],
+    "meaning": "Âm thanh"
+   },
+   {
+    "word": "発",
+    "reading": "はつ",
+    "ruby": [
+     [
+      "発",
+      "はつ"
+     ]
+    ],
+    "meaning": ""
+   },
+   {
+    "word": "音楽家",
+    "reading": "おんがくか",
+    "ruby": [
+     [
+      "音",
+      "おん"
+     ],
+     [
+      "楽",
+      "がく"
+     ],
+     [
+      "家",
+      "か"
+     ]
+    ],
+    "meaning": "Nhạc sĩ"
+   },
+   {
+    "word": "録",
+    "reading": "ろく",
+    "ruby": [
+     [
+      "録",
+      "ろく"
+     ]
+    ],
+    "meaning": ""
+   }
+  ]
+ },
+ {
+  "id": "n5-9A-k03",
+  "level": "n5",
+  "lessonId": "9A",
+  "char": "暗",
+  "hanViet": "ÁM",
+  "kun": [
+   "くら・い"
+  ],
+  "on": [
+   "アン"
+  ],
+  "examples": [
+   {
+    "word": "暗い",
+    "reading": "くらい",
+    "ruby": [
+     [
+      "暗",
+      "くら"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Tối"
+   }
+  ]
+ },
+ {
+  "id": "n5-9A-k04",
+  "level": "n5",
+  "lessonId": "9A",
+  "char": "新",
+  "hanViet": "TÂN",
+  "kun": [
+   "あたら・しい",
+   "あら・た"
+  ],
+  "on": [
+   "シン"
+  ],
+  "examples": [
+   {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "ruby": [
+     [
+      "新",
+      "あたら"
+     ],
+     [
+      "しい"
+     ]
+    ],
+    "meaning": "Mới"
+   },
+   {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "ruby": [
+     [
+      "新",
+      "しん"
+     ],
+     [
+      "聞",
+      "ぶん"
+     ]
+    ],
+    "meaning": "Tờ báo"
+   },
+   {
+    "word": "新幹線",
+    "reading": "しんかんせん",
+    "ruby": [
+     [
+      "新",
+      "しん"
+     ],
+     [
+      "幹",
+      "かん"
+     ],
+     [
+      "線",
+      "せん"
+     ]
+    ],
+    "meaning": "Tàu siêu tốc"
+   },
+   {
+    "word": "新聞社",
+    "reading": "しんぶんしゃ",
+    "ruby": [
+     [
+      "新",
+      "しん"
+     ],
+     [
+      "聞",
+      "ぶん"
+     ],
+     [
+      "社",
+      "しゃ"
+     ]
+    ],
+    "meaning": "Tòa soạn báo"
+   },
+   {
+    "word": "新年会",
+    "reading": "しんねんかい",
+    "ruby": [
+     [
+      "新",
+      "しん"
+     ],
+     [
+      "年",
+      "ねん"
+     ],
+     [
+      "会",
+      "かい"
+     ]
+    ],
+    "meaning": "Tiệc mừng năm mới"
+   }
+  ]
+ },
+ {
+  "id": "n5-9A-k05",
+  "level": "n5",
+  "lessonId": "9A",
+  "char": "親",
+  "hanViet": "THÂN",
+  "kun": [
+   "おや",
+   "した・しい",
+   "した・しむ"
+  ],
+  "on": [
+   "シン"
+  ],
+  "examples": [
+   {
+    "word": "親",
+    "reading": "おや",
+    "ruby": [
+     [
+      "親",
+      "おや"
+     ]
+    ],
+    "meaning": "Bố mẹ"
+   },
+   {
+    "word": "親しい",
+    "reading": "したしい",
+    "ruby": [
+     [
+      "親",
+      "した"
+     ],
+     [
+      "しい"
+     ]
+    ],
+    "meaning": "Thân thiết"
+   },
+   {
+    "word": "親切",
+    "reading": "しんせつ",
+    "ruby": [
+     [
+      "親",
+      "しん"
+     ],
+     [
+      "切",
+      "せつ"
+     ]
+    ],
+    "meaning": "Tốt bụng"
+   },
+   {
+    "word": "親友",
+    "reading": "しんゆう",
+    "ruby": [
+     [
+      "親",
+      "しん"
+     ],
+     [
+      "友",
+      "ゆう"
+     ]
+    ],
+    "meaning": "Bạn thân"
+   },
+   {
+    "word": "両親",
+    "reading": "りょうしん",
+    "ruby": [
+     [
+      "両",
+      "りょう"
+     ],
+     [
+      "親",
+      "しん"
+     ]
+    ],
+    "meaning": "Bố mẹ"
+   }
+  ]
+ },
+ {
+  "id": "n5-9B-k01",
+  "level": "n5",
+  "lessonId": "9B",
+  "char": "耳",
+  "hanViet": "NHĨ",
+  "kun": [
+   "みみ"
+  ],
+  "on": [
+   "ジ"
+  ],
+  "examples": [
+   {
+    "word": "耳",
+    "reading": "みみ",
+    "ruby": [
+     [
+      "耳",
+      "みみ"
+     ]
+    ],
+    "meaning": "Tai"
+   }
+  ]
+ },
+ {
+  "id": "n5-9B-k02",
+  "level": "n5",
+  "lessonId": "9B",
+  "char": "門",
+  "hanViet": "MÔN",
+  "kun": [
+   "かど"
+  ],
+  "on": [
+   "モン"
+  ],
+  "examples": [
+   {
+    "word": "専門",
+    "reading": "せんもん",
+    "ruby": [
+     [
+      "専",
+      "せん"
+     ],
+     [
+      "門",
+      "もん"
+     ]
+    ],
+    "meaning": "Chuyên môn"
+   },
+   {
+    "word": "入門",
+    "reading": "にゅうもん",
+    "ruby": [
+     [
+      "入",
+      "にゅう"
+     ],
+     [
+      "門",
+      "もん"
+     ]
+    ],
+    "meaning": "Nhập môn"
+   }
+  ]
+ },
+ {
+  "id": "n5-9B-k03",
+  "level": "n5",
+  "lessonId": "9B",
+  "char": "聞",
+  "hanViet": "VĂN",
+  "kun": [
+   "き・く"
+  ],
+  "on": [
+   "ブン"
+  ],
+  "examples": [
+   {
+    "word": "聞きます",
+    "reading": "ききます",
+    "ruby": [
+     [
+      "聞",
+      "き"
+     ],
+     [
+      "きます"
+     ]
+    ],
+    "meaning": "Nghe"
+   },
+   {
+    "word": "聞こえます",
+    "reading": "きこえます",
+    "ruby": [
+     [
+      "聞",
+      "き"
+     ],
+     [
+      "こえます"
+     ]
+    ],
+    "meaning": "Nghe thấy"
+   },
+   {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "ruby": [
+     [
+      "新",
+      "しん"
+     ],
+     [
+      "聞",
+      "ぶん"
+     ]
+    ],
+    "meaning": "Báo, tờ báo"
+   }
+  ]
+ },
+ {
+  "id": "n5-9B-k04",
+  "level": "n5",
+  "lessonId": "9B",
+  "char": "間",
+  "hanViet": "GIAN",
+  "kun": [
+   "あいだ",
+   "ま"
+  ],
+  "on": [
+   "ケン",
+   "カン"
+  ],
+  "examples": [
+   {
+    "word": "間",
+    "reading": "あいだ",
+    "ruby": [
+     [
+      "間",
+      "あいだ"
+     ]
+    ],
+    "meaning": "Ở giữa"
+   },
+   {
+    "word": "間に合います",
+    "reading": "まにあいます",
+    "ruby": [
+     [
+      "間",
+      "ま"
+     ],
+     [
+      "に"
+     ],
+     [
+      "合",
+      "あ"
+     ],
+     [
+      "います"
+     ]
+    ],
+    "meaning": "Kịp (giờ)"
+   },
+   {
+    "word": "昼間",
+    "reading": "ひるま",
+    "ruby": [
+     [
+      "昼",
+      "ひる"
+     ],
+     [
+      "間",
+      "ま"
+     ]
+    ],
+    "meaning": "Ban ngày"
+   },
+   {
+    "word": "仲間",
+    "reading": "なかま",
+    "ruby": [
+     [
+      "仲",
+      "なか"
+     ],
+     [
+      "間",
+      "ま"
+     ]
+    ],
+    "meaning": "Bạn bè, đồng nghiệp"
+   },
+   {
+    "word": "時間",
+    "reading": "じかん",
+    "ruby": [
+     [
+      "時",
+      "じ"
+     ],
+     [
+      "間",
+      "かん"
+     ]
+    ],
+    "meaning": "Thời gian"
+   }
+  ]
+ },
+ {
+  "id": "n5-9C-k01",
+  "level": "n5",
+  "lessonId": "9C",
+  "char": "車",
+  "hanViet": "XA",
+  "kun": [
+   "くるま"
+  ],
+  "on": [
+   "シャ"
+  ],
+  "examples": [
+   {
+    "word": "車",
+    "reading": "くるま",
+    "ruby": [
+     [
+      "車",
+      "くるま"
+     ]
+    ],
+    "meaning": "Xe ô tô"
+   },
+   {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "ruby": [
+     [
+      "電",
+      "でん"
+     ],
+     [
+      "車",
+      "しゃ"
+     ]
+    ],
+    "meaning": "Tàu điện"
+   },
+   {
+    "word": "自動車",
+    "reading": "じどうしゃ",
+    "ruby": [
+     [
+      "自",
+      "じ"
+     ],
+     [
+      "動",
+      "どう"
+     ],
+     [
+      "車",
+      "しゃ"
+     ]
+    ],
+    "meaning": "Xe ô tô, xe hơi"
+   },
+   {
+    "word": "自転車",
+    "reading": "じてんしゃ",
+    "ruby": [
+     [
+      "自",
+      "じ"
+     ],
+     [
+      "転",
+      "てん"
+     ],
+     [
+      "車",
+      "しゃ"
+     ]
+    ],
+    "meaning": "Xe đạp"
+   },
+   {
+    "word": "駐車場",
+    "reading": "ちゅうしゃじょう",
+    "ruby": [
+     [
+      "駐",
+      "ちゅう"
+     ],
+     [
+      "車",
+      "しゃ"
+     ],
+     [
+      "場",
+      "じょう"
+     ]
+    ],
+    "meaning": "Bãi đỗ xe"
+   }
+  ]
+ },
+ {
+  "id": "n5-9C-k02",
+  "level": "n5",
+  "lessonId": "9C",
+  "char": "運",
+  "hanViet": "VẬN",
+  "kun": [
+   "の・む"
+  ],
+  "on": [
+   "イン"
+  ],
+  "examples": [
+   {
+    "word": "運びます",
+    "reading": "はこびます",
+    "ruby": [
+     [
+      "運",
+      "はこ"
+     ],
+     [
+      "びます"
+     ]
+    ],
+    "meaning": "Vận chuyển"
+   },
+   {
+    "word": "運転します",
+    "reading": "うんてんします",
+    "ruby": [
+     [
+      "運",
+      "うん"
+     ],
+     [
+      "転",
+      "てん"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Lái xe"
+   },
+   {
+    "word": "運転手",
+    "reading": "うんてんしゅ",
+    "ruby": [
+     [
+      "運",
+      "うん"
+     ],
+     [
+      "転",
+      "てん"
+     ],
+     [
+      "手",
+      "しゅ"
+     ]
+    ],
+    "meaning": "Người lái xe"
+   },
+   {
+    "word": "運動します",
+    "reading": "うんどうします",
+    "ruby": [
+     [
+      "運",
+      "うん"
+     ],
+     [
+      "動",
+      "どう"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Vận động"
+   },
+   {
+    "word": "運動会",
+    "reading": "うんどうかい",
+    "ruby": [
+     [
+      "運",
+      "うん"
+     ],
+     [
+      "動",
+      "どう"
+     ],
+     [
+      "会",
+      "かい"
+     ]
+    ],
+    "meaning": "Hội thi thể thao"
+   }
+  ]
+ },
+ {
+  "id": "n5-9C-k03",
+  "level": "n5",
+  "lessonId": "9C",
+  "char": "軽",
+  "hanViet": "KHINH",
+  "kun": [
+   "かる・い",
+   "かろ・やか"
+  ],
+  "on": [
+   "ケイ"
+  ],
+  "examples": [
+   {
+    "word": "軽い",
+    "reading": "かるい",
+    "ruby": [
+     [
+      "軽",
+      "かる"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Nhẹ"
+   }
+  ]
+ },
+ {
+  "id": "n5-9C-k04",
+  "level": "n5",
+  "lessonId": "9C",
+  "char": "重",
+  "hanViet": "TRỌNG",
+  "kun": [
+   "おも・い",
+   "かさ・ねる"
+  ],
+  "on": [
+   "ジュウ",
+   "チョウCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "重い",
+    "reading": "おもい",
+    "ruby": [
+     [
+      "重",
+      "おも"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Nặng"
+   }
+  ]
+ },
+ {
+  "id": "n5-10A-k01",
+  "level": "n5",
+  "lessonId": "10A",
+  "char": "寺",
+  "hanViet": "TỰ",
+  "kun": [
+   "てら"
+  ],
+  "on": [
+   "ジ"
+  ],
+  "examples": [
+   {
+    "word": "お寺",
+    "reading": "おてら",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "寺",
+      "てら"
+     ]
+    ],
+    "meaning": "Ngôi Chùa"
+   }
+  ]
+ },
+ {
+  "id": "n5-10A-k02",
+  "level": "n5",
+  "lessonId": "10A",
+  "char": "時",
+  "hanViet": "THỜI",
+  "kun": [
+   "とき"
+  ],
+  "on": [
+   "ジ"
+  ],
+  "examples": [
+   {
+    "word": "時計",
+    "reading": "とけい",
+    "ruby": [
+     [
+      "時",
+      "と"
+     ],
+     [
+      "計",
+      "けい"
+     ]
+    ],
+    "meaning": "Đồng hồ"
+   },
+   {
+    "word": "時々",
+    "reading": "ときどき",
+    "ruby": [
+     [
+      "時",
+      "とき"
+     ],
+     [
+      "々",
+      "どき"
+     ]
+    ],
+    "meaning": "Thi thoảng"
+   },
+   {
+    "word": "何時",
+    "reading": "なんじ",
+    "ruby": [
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "時",
+      "じ"
+     ]
+    ],
+    "meaning": "Mấy giờ"
+   },
+   {
+    "word": "時間",
+    "reading": "じかん",
+    "ruby": [
+     [
+      "時",
+      "じ"
+     ],
+     [
+      "間",
+      "かん"
+     ]
+    ],
+    "meaning": "Thời gian"
+   }
+  ]
+ },
+ {
+  "id": "n5-10A-k03",
+  "level": "n5",
+  "lessonId": "10A",
+  "char": "待",
+  "hanViet": "ĐÃI",
+  "kun": [
+   "ま・つ"
+  ],
+  "on": [
+   "タイ"
+  ],
+  "examples": [
+   {
+    "word": "待ちます",
+    "reading": "まちます",
+    "ruby": [
+     [
+      "待",
+      "ま"
+     ],
+     [
+      "ちます"
+     ]
+    ],
+    "meaning": "Chờ, đợi"
+   },
+   {
+    "word": "お待ちください",
+    "reading": "おまちください",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "待",
+      "ま"
+     ],
+     [
+      "ちください"
+     ]
+    ],
+    "meaning": "Vui lòng chờ (một chút)"
+   },
+   {
+    "word": "お待たせしました",
+    "reading": "おまたせしました",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "待",
+      "ま"
+     ],
+     [
+      "たせしました"
+     ]
+    ],
+    "meaning": "Xin lỗi vì đã để bạn phải chờ"
+   },
+   {
+    "word": "招待します",
+    "reading": "しょうたいします",
+    "ruby": [
+     [
+      "招",
+      "しょう"
+     ],
+     [
+      "待",
+      "たい"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Mời"
+   }
+  ]
+ },
+ {
+  "id": "n5-10A-k04",
+  "level": "n5",
+  "lessonId": "10A",
+  "char": "何",
+  "hanViet": "HÀ",
+  "kun": [
+   "なん",
+   "なに"
+  ],
+  "on": [],
+  "examples": [
+   {
+    "word": "何なに/なん",
+    "reading": "何なに/なん",
+    "ruby": [
+     [
+      "何"
+     ],
+     [
+      "なに/なん"
+     ]
+    ],
+    "meaning": "Cái gì"
+   },
+   {
+    "word": "何歳",
+    "reading": "なんさい",
+    "ruby": [
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "歳",
+      "さい"
+     ]
+    ],
+    "meaning": "Bao nhiêu tuổi"
+   },
+   {
+    "word": "何階",
+    "reading": "なんかい",
+    "ruby": [
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "階",
+      "かい"
+     ]
+    ],
+    "meaning": "Tầng mấy"
+   },
+   {
+    "word": "何時",
+    "reading": "なんじ",
+    "ruby": [
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "時",
+      "じ"
+     ]
+    ],
+    "meaning": "Mấy giờ"
+   }
+  ]
+ },
+ {
+  "id": "n5-10A-k05",
+  "level": "n5",
+  "lessonId": "10A",
+  "char": "荷",
+  "hanViet": "HÀ",
+  "kun": [
+   "に"
+  ],
+  "on": [
+   "カ"
+  ],
+  "examples": [
+   {
+    "word": "荷物",
+    "reading": "にもつ",
+    "ruby": [
+     [
+      "荷",
+      "に"
+     ],
+     [
+      "物",
+      "もつ"
+     ]
+    ],
+    "meaning": "Hành lí"
+   }
+  ]
+ },
+ {
+  "id": "n5-10A-k06",
+  "level": "n5",
+  "lessonId": "10A",
+  "char": "歌",
+  "hanViet": "CA",
+  "kun": [
+   "うた・う"
+  ],
+  "on": [
+   "カ"
+  ],
+  "examples": [
+   {
+    "word": "歌",
+    "reading": "うた",
+    "ruby": [
+     [
+      "歌",
+      "うた"
+     ]
+    ],
+    "meaning": "Bài hát"
+   },
+   {
+    "word": "歌います",
+    "reading": "うたいます",
+    "ruby": [
+     [
+      "歌",
+      "うた"
+     ],
+     [
+      "います"
+     ]
+    ],
+    "meaning": "Hát"
+   },
+   {
+    "word": "歌手",
+    "reading": "かしゅ",
+    "ruby": [
+     [
+      "歌",
+      "か"
+     ],
+     [
+      "手",
+      "しゅ"
+     ]
+    ],
+    "meaning": "Ca sĩ"
+   }
+  ]
+ },
+ {
+  "id": "n5-10B-k01",
+  "level": "n5",
+  "lessonId": "10B",
+  "char": "目",
+  "hanViet": "MỤC",
+  "kun": [
+   "め",
+   "ま"
+  ],
+  "on": [
+   "モク",
+   "ボク"
+  ],
+  "examples": [
+   {
+    "word": "目覚まし時計",
+    "reading": "めざましどけい",
+    "ruby": [
+     [
+      "目",
+      "め"
+     ],
+     [
+      "覚",
+      "ざ"
+     ],
+     [
+      "まし"
+     ],
+     [
+      "時",
+      "ど"
+     ],
+     [
+      "計",
+      "けい"
+     ]
+    ],
+    "meaning": "Đồng hồ báo thức"
+   },
+   {
+    "word": "目的",
+    "reading": "もくてき",
+    "ruby": [
+     [
+      "目",
+      "もく"
+     ],
+     [
+      "的",
+      "てき"
+     ]
+    ],
+    "meaning": "Mục đích"
+   },
+   {
+    "word": "目指します",
+    "reading": "めざします",
+    "ruby": [
+     [
+      "目",
+      "め"
+     ],
+     [
+      "指",
+      "ざ"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Nhắm, hướng đến (mục tiêu)"
+   }
+  ]
+ },
+ {
+  "id": "n5-10B-k02",
+  "level": "n5",
+  "lessonId": "10B",
+  "char": "自",
+  "hanViet": "TỰ",
+  "kun": [
+   "みずか・ら"
+  ],
+  "on": [
+   "シ",
+   "ジ"
+  ],
+  "examples": [
+   {
+    "word": "自転車",
+    "reading": "じてんしゃ",
+    "ruby": [
+     [
+      "自",
+      "じ"
+     ],
+     [
+      "転",
+      "てん"
+     ],
+     [
+      "車",
+      "しゃ"
+     ]
+    ],
+    "meaning": "Xe đạp"
+   },
+   {
+    "word": "自動車",
+    "reading": "じどうしゃ",
+    "ruby": [
+     [
+      "自",
+      "じ"
+     ],
+     [
+      "動",
+      "どう"
+     ],
+     [
+      "車",
+      "しゃ"
+     ]
+    ],
+    "meaning": "Xe hơi, xe ô tô"
+   },
+   {
+    "word": "自分で",
+    "reading": "じぶんで",
+    "ruby": [
+     [
+      "自",
+      "じ"
+     ],
+     [
+      "分",
+      "ぶん"
+     ],
+     [
+      "で"
+     ]
+    ],
+    "meaning": "Tự mình"
+   },
+   {
+    "word": "自由に",
+    "reading": "じゆうに",
+    "ruby": [
+     [
+      "自",
+      "じ"
+     ],
+     [
+      "由",
+      "ゆう"
+     ],
+     [
+      "に"
+     ]
+    ],
+    "meaning": "Tự do"
+   },
+   {
+    "word": "自然",
+    "reading": "しぜん",
+    "ruby": [
+     [
+      "自",
+      "し"
+     ],
+     [
+      "然",
+      "ぜん"
+     ]
+    ],
+    "meaning": "Tự nhiên"
+   }
+  ]
+ },
+ {
+  "id": "n5-10B-k03",
+  "level": "n5",
+  "lessonId": "10B",
+  "char": "見",
+  "hanViet": "KIẾN",
+  "kun": [
+   "み・る"
+  ],
+  "on": [
+   "ケン"
+  ],
+  "examples": [
+   {
+    "word": "お花見",
+    "reading": "おはなみ",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "花",
+      "はな"
+     ],
+     [
+      "見",
+      "み"
+     ]
+    ],
+    "meaning": "Ngắm hoa"
+   },
+   {
+    "word": "お見舞い",
+    "reading": "おみまい",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "見",
+      "み"
+     ],
+     [
+      "舞",
+      "ま"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Thăm hỏi (người bệnh)"
+   },
+   {
+    "word": "意見",
+    "reading": "いけん",
+    "ruby": [
+     [
+      "意",
+      "い"
+     ],
+     [
+      "見",
+      "けん"
+     ]
+    ],
+    "meaning": "Ý kiến"
+   },
+   {
+    "word": "見学します",
+    "reading": "けんがくします",
+    "ruby": [
+     [
+      "見",
+      "けん"
+     ],
+     [
+      "学",
+      "がく"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Tham quan với mục đích học tập"
+   },
+   {
+    "word": "発見します",
+    "reading": "はっけんします",
+    "ruby": [
+     [
+      "発",
+      "はっ"
+     ],
+     [
+      "見",
+      "けん"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Phát hiện, tìm ra"
+   }
+  ]
+ },
+ {
+  "id": "n5-10B-k04",
+  "level": "n5",
+  "lessonId": "10B",
+  "char": "貝",
+  "hanViet": "BỐI",
+  "kun": [
+   "かい"
+  ],
+  "on": [],
+  "examples": [
+   {
+    "word": "貝",
+    "reading": "かい",
+    "ruby": [
+     [
+      "貝",
+      "かい"
+     ]
+    ],
+    "meaning": "Con sò"
+   }
+  ]
+ },
+ {
+  "id": "n5-10B-k05",
+  "level": "n5",
+  "lessonId": "10B",
+  "char": "買",
+  "hanViet": "MÃI",
+  "kun": [
+   "か・う"
+  ],
+  "on": [
+   "バイ"
+  ],
+  "examples": [
+   {
+    "word": "買います",
+    "reading": "かいます",
+    "ruby": [
+     [
+      "買",
+      "か"
+     ],
+     [
+      "います"
+     ]
+    ],
+    "meaning": "Mua"
+   },
+   {
+    "word": "買い物します",
+    "reading": "かいものします",
+    "ruby": [
+     [
+      "買",
+      "か"
+     ],
+     [
+      "い"
+     ],
+     [
+      "物",
+      "もの"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Mua sắm"
+   }
+  ]
+ },
+ {
+  "id": "n5-10B-k06",
+  "level": "n5",
+  "lessonId": "10B",
+  "char": "具",
+  "hanViet": "CỤ",
+  "kun": [],
+  "on": [
+   "グCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "具合",
+    "reading": "ぐあい",
+    "ruby": [
+     [
+      "具",
+      "ぐ"
+     ],
+     [
+      "合",
+      "あい"
+     ]
+    ],
+    "meaning": "Tình trạng, trạng thái"
+   },
+   {
+    "word": "道具",
+    "reading": "どうぐ",
+    "ruby": [
+     [
+      "道",
+      "どう"
+     ],
+     [
+      "具",
+      "ぐ"
+     ]
+    ],
+    "meaning": "Dụng cụ"
+   }
+  ]
+ },
+ {
+  "id": "n5-11A-k01",
+  "level": "n5",
+  "lessonId": "11A",
+  "char": "人",
+  "hanViet": "NHÂN",
+  "kun": [
+   "ひと"
+  ],
+  "on": [
+   "ジン",
+   "ニン"
+  ],
+  "examples": [
+   {
+    "word": "人",
+    "reading": "ひと",
+    "ruby": [
+     [
+      "人",
+      "ひと"
+     ]
+    ],
+    "meaning": "Người"
+   },
+   {
+    "word": "あの人",
+    "reading": "あのひと",
+    "ruby": [
+     [
+      "あの"
+     ],
+     [
+      "人",
+      "ひと"
+     ]
+    ],
+    "meaning": "Người đó"
+   },
+   {
+    "word": "ベトナム人",
+    "reading": "ベトナムじん",
+    "ruby": [
+     [
+      "ベトナム"
+     ],
+     [
+      "人",
+      "じん"
+     ]
+    ],
+    "meaning": "Người Việt Nam"
+   },
+   {
+    "word": "大おとな人",
+    "reading": "大おとな人",
+    "ruby": [
+     [
+      "大"
+     ],
+     [
+      "おとな"
+     ],
+     [
+      "人"
+     ]
+    ],
+    "meaning": "Người lớn"
+   },
+   {
+    "word": "一人で",
+    "reading": "ひとりで",
+    "ruby": [
+     [
+      "一",
+      "ひと"
+     ],
+     [
+      "人",
+      "り"
+     ],
+     [
+      "で"
+     ]
+    ],
+    "meaning": "Một mình"
+   },
+   {
+    "word": "人口",
+    "reading": "じんこう",
+    "ruby": [
+     [
+      "人",
+      "じん"
+     ],
+     [
+      "口",
+      "こう"
+     ]
+    ],
+    "meaning": "Dân số"
+   },
+   {
+    "word": "恋人",
+    "reading": "こいびと",
+    "ruby": [
+     [
+      "恋",
+      "こい"
+     ],
+     [
+      "人",
+      "びと"
+     ]
+    ],
+    "meaning": "Người yêu"
+   },
+   {
+    "word": "ご主人",
+    "reading": "ごしゅじん",
+    "ruby": [
+     [
+      "ご"
+     ],
+     [
+      "主",
+      "しゅ"
+     ],
+     [
+      "人",
+      "じん"
+     ]
+    ],
+    "meaning": "Chồng (người khác)"
+   },
+   {
+    "word": "人形",
+    "reading": "にんぎょう",
+    "ruby": [
+     [
+      "人",
+      "にん"
+     ],
+     [
+      "形",
+      "ぎょう"
+     ]
+    ],
+    "meaning": "Búp bê"
+   }
+  ]
+ },
+ {
+  "id": "n5-11A-k02",
+  "level": "n5",
+  "lessonId": "11A",
+  "char": "入",
+  "hanViet": "NHẬP",
+  "kun": [
+   "い・れる",
+   "い・る",
+   "はい・る"
+  ],
+  "on": [
+   "ニュウ"
+  ],
+  "examples": [
+   {
+    "word": "入れます",
+    "reading": "いれます",
+    "ruby": [
+     [
+      "入",
+      "い"
+     ],
+     [
+      "れます"
+     ]
+    ],
+    "meaning": "Cho vào, bật (điện, công tắc)"
+   },
+   {
+    "word": "押し入れ",
+    "reading": "おしいれ",
+    "ruby": [
+     [
+      "押",
+      "お"
+     ],
+     [
+      "し"
+     ],
+     [
+      "入",
+      "い"
+     ],
+     [
+      "れ"
+     ]
+    ],
+    "meaning": "Tủ âm tường"
+   },
+   {
+    "word": "入り口",
+    "reading": "いりぐち",
+    "ruby": [
+     [
+      "入",
+      "い"
+     ],
+     [
+      "り"
+     ],
+     [
+      "口",
+      "ぐち"
+     ]
+    ],
+    "meaning": "Cửa vào, lối vào"
+   },
+   {
+    "word": "入院します",
+    "reading": "にゅういんします",
+    "ruby": [
+     [
+      "入",
+      "にゅう"
+     ],
+     [
+      "院",
+      "いん"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Nhập viện"
+   },
+   {
+    "word": "入ります",
+    "reading": "はいります",
+    "ruby": [
+     [
+      "入",
+      "はい"
+     ],
+     [
+      "ります"
+     ]
+    ],
+    "meaning": "Đi vào, vào ～"
+   },
+   {
+    "word": "入力します",
+    "reading": "にゅうりょくします",
+    "ruby": [
+     [
+      "入",
+      "にゅう"
+     ],
+     [
+      "力",
+      "りょく"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Nhập/Điền (thông tin)"
+   },
+   {
+    "word": "輸入します",
+    "reading": "ゆにゅうします",
+    "ruby": [
+     [
+      "輸",
+      "ゆ"
+     ],
+     [
+      "入",
+      "にゅう"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Nhập khẩu"
+   },
+   {
+    "word": "入学します",
+    "reading": "にゅうがくします",
+    "ruby": [
+     [
+      "入",
+      "にゅう"
+     ],
+     [
+      "学",
+      "がく"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Nhập học"
+   }
+  ]
+ },
+ {
+  "id": "n5-11A-k03",
+  "level": "n5",
+  "lessonId": "11A",
+  "char": "内",
+  "hanViet": "NỘI",
+  "kun": [
+   "うち"
+  ],
+  "on": [
+   "ナイ"
+  ],
+  "examples": [
+   {
+    "word": "内",
+    "reading": "うち",
+    "ruby": [
+     [
+      "内",
+      "うち"
+     ]
+    ],
+    "meaning": "Bên trong"
+   },
+   {
+    "word": "内容",
+    "reading": "ないよう",
+    "ruby": [
+     [
+      "内",
+      "ない"
+     ],
+     [
+      "容",
+      "よう"
+     ]
+    ],
+    "meaning": "Nội dung"
+   }
+  ]
+ },
+ {
+  "id": "n5-11A-k04",
+  "level": "n5",
+  "lessonId": "11A",
+  "char": "肉",
+  "hanViet": "NHỤC",
+  "kun": [],
+  "on": [
+   "ニク"
+  ],
+  "examples": [
+   {
+    "word": "肉",
+    "reading": "にく",
+    "ruby": [
+     [
+      "肉",
+      "にく"
+     ]
+    ],
+    "meaning": "Thịt"
+   },
+   {
+    "word": "豚肉",
+    "reading": "ぶたにく",
+    "ruby": [
+     [
+      "豚",
+      "ぶた"
+     ],
+     [
+      "肉",
+      "にく"
+     ]
+    ],
+    "meaning": "Thịt lợn"
+   },
+   {
+    "word": "とり肉",
+    "reading": "とりにく",
+    "ruby": [
+     [
+      "とり"
+     ],
+     [
+      "肉",
+      "にく"
+     ]
+    ],
+    "meaning": "Thịt gà"
+   },
+   {
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "ruby": [
+     [
+      "牛",
+      "ぎゅう"
+     ],
+     [
+      "肉",
+      "にく"
+     ]
+    ],
+    "meaning": "Thịt bò"
+   }
+  ]
+ },
+ {
+  "id": "n5-11B-k01",
+  "level": "n5",
+  "lessonId": "11B",
+  "char": "山",
+  "hanViet": "SƠN",
+  "kun": [
+   "やま"
+  ],
+  "on": [
+   "サン"
+  ],
+  "examples": [
+   {
+    "word": "山",
+    "reading": "やま",
+    "ruby": [
+     [
+      "山",
+      "やま"
+     ]
+    ],
+    "meaning": "Núi"
+   },
+   {
+    "word": "富士山",
+    "reading": "ふじさん",
+    "ruby": [
+     [
+      "富",
+      "ふ"
+     ],
+     [
+      "士",
+      "じ"
+     ],
+     [
+      "山",
+      "さん"
+     ]
+    ],
+    "meaning": "Núi Phú Sĩ"
+   }
+  ]
+ },
+ {
+  "id": "n5-11B-k02",
+  "level": "n5",
+  "lessonId": "11B",
+  "char": "出",
+  "hanViet": "XUẤT",
+  "kun": [
+   "で・る",
+   "だ・す"
+  ],
+  "on": [
+   "シュツ"
+  ],
+  "examples": [
+   {
+    "word": "出ます",
+    "reading": "でます",
+    "ruby": [
+     [
+      "出",
+      "で"
+     ],
+     [
+      "ます"
+     ]
+    ],
+    "meaning": "Xuất hiện, ra khỏi"
+   },
+   {
+    "word": "出口",
+    "reading": "でぐち",
+    "ruby": [
+     [
+      "出",
+      "で"
+     ],
+     [
+      "口",
+      "ぐち"
+     ]
+    ],
+    "meaning": "Cửa ra"
+   },
+   {
+    "word": "お出かけ",
+    "reading": "おでかけ",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "出",
+      "で"
+     ],
+     [
+      "かけ"
+     ]
+    ],
+    "meaning": "Ra ngoài"
+   },
+   {
+    "word": "出発します",
+    "reading": "しゅっぱつします",
+    "ruby": [
+     [
+      "出",
+      "しゅっ"
+     ],
+     [
+      "発",
+      "ぱつ"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Xuất phát"
+   },
+   {
+    "word": "出張します",
+    "reading": "しゅっちょうします",
+    "ruby": [
+     [
+      "出",
+      "しゅっ"
+     ],
+     [
+      "張",
+      "ちょう"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Đi công tác"
+   }
+  ]
+ },
+ {
+  "id": "n5-11B-k03",
+  "level": "n5",
+  "lessonId": "11B",
+  "char": "言",
+  "hanViet": "NGÔN",
+  "kun": [
+   "い・う",
+   "こと"
+  ],
+  "on": [
+   "ゲン",
+   "ゴン"
+  ],
+  "examples": [
+   {
+    "word": "言います",
+    "reading": "いいます",
+    "ruby": [
+     [
+      "言",
+      "い"
+     ],
+     [
+      "います"
+     ]
+    ],
+    "meaning": "Nói"
+   },
+   {
+    "word": "言い伝え",
+    "reading": "いいつたえ",
+    "ruby": [
+     [
+      "言",
+      "い"
+     ],
+     [
+      "い"
+     ],
+     [
+      "伝",
+      "つた"
+     ],
+     [
+      "え"
+     ]
+    ],
+    "meaning": "Sự truyền miệng"
+   }
+  ]
+ },
+ {
+  "id": "n5-11B-k04",
+  "level": "n5",
+  "lessonId": "11B",
+  "char": "話",
+  "hanViet": "THOẠI",
+  "kun": [
+   "はなし",
+   "はな・す"
+  ],
+  "on": [
+   "ワ"
+  ],
+  "examples": [
+   {
+    "word": "話します",
+    "reading": "はなします",
+    "ruby": [
+     [
+      "話",
+      "はな"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Nói chuyện"
+   },
+   {
+    "word": "お世話になります",
+    "reading": "おせわになります",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "世",
+      "せ"
+     ],
+     [
+      "話",
+      "わ"
+     ],
+     [
+      "になります"
+     ]
+    ],
+    "meaning": "Mong nhận được sự quan tâm giúp đỡ"
+   },
+   {
+    "word": "電話",
+    "reading": "でんわ",
+    "ruby": [
+     [
+      "電",
+      "でん"
+     ],
+     [
+      "話",
+      "わ"
+     ]
+    ],
+    "meaning": "Điện thoại"
+   },
+   {
+    "word": "会話",
+    "reading": "かいわ",
+    "ruby": [
+     [
+      "会",
+      "かい"
+     ],
+     [
+      "話",
+      "わ"
+     ]
+    ],
+    "meaning": "Hội thoại"
+   }
+  ]
+ },
+ {
+  "id": "n5-11B-k05",
+  "level": "n5",
+  "lessonId": "11B",
+  "char": "語",
+  "hanViet": "NGỮ",
+  "kun": [
+   "かた・る",
+   "かた・らう"
+  ],
+  "on": [
+   "ゴCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "英語",
+    "reading": "えいご",
+    "ruby": [
+     [
+      "英",
+      "えい"
+     ],
+     [
+      "語",
+      "ご"
+     ]
+    ],
+    "meaning": "Tiếng Anh"
+   },
+   {
+    "word": "日本語",
+    "reading": "にほんご",
+    "ruby": [
+     [
+      "日",
+      "に"
+     ],
+     [
+      "本",
+      "ほん"
+     ],
+     [
+      "語",
+      "ご"
+     ]
+    ],
+    "meaning": "Tiếng Nhật"
+   },
+   {
+    "word": "何語",
+    "reading": "なにご",
+    "ruby": [
+     [
+      "何",
+      "なに"
+     ],
+     [
+      "語",
+      "ご"
+     ]
+    ],
+    "meaning": "Ngôn ngữ gì?"
+   }
+  ]
+ },
+ {
+  "id": "n5-12A-k01",
+  "level": "n5",
+  "lessonId": "12A",
+  "char": "田",
+  "hanViet": "ĐIỀN",
+  "kun": [
+   "た"
+  ],
+  "on": [
+   "デン"
+  ],
+  "examples": [
+   {
+    "word": "田んぼ",
+    "reading": "たんぼ",
+    "ruby": [
+     [
+      "田",
+      "た"
+     ],
+     [
+      "んぼ"
+     ]
+    ],
+    "meaning": "Ruộng (lúa)"
+   },
+   {
+    "word": "田中",
+    "reading": "たなか",
+    "ruby": [
+     [
+      "田",
+      "た"
+     ],
+     [
+      "中",
+      "なか"
+     ]
+    ],
+    "meaning": "(Tên người) Tanaka"
+   }
+  ]
+ },
+ {
+  "id": "n5-12A-k02",
+  "level": "n5",
+  "lessonId": "12A",
+  "char": "男",
+  "hanViet": "NAM",
+  "kun": [
+   "おとこ"
+  ],
+  "on": [
+   "ダン",
+   "ナン"
+  ],
+  "examples": [
+   {
+    "word": "男の子",
+    "reading": "おとこのこ",
+    "ruby": [
+     [
+      "男",
+      "おとこ"
+     ],
+     [
+      "の"
+     ],
+     [
+      "子",
+      "こ"
+     ]
+    ],
+    "meaning": "Cậu bé"
+   },
+   {
+    "word": "男の人",
+    "reading": "おとこのひと",
+    "ruby": [
+     [
+      "男",
+      "おとこ"
+     ],
+     [
+      "の"
+     ],
+     [
+      "人",
+      "ひと"
+     ]
+    ],
+    "meaning": "Người đàn ông"
+   },
+   {
+    "word": "男性",
+    "reading": "だんせい",
+    "ruby": [
+     [
+      "男",
+      "だん"
+     ],
+     [
+      "性",
+      "せい"
+     ]
+    ],
+    "meaning": "Đàn ông, nam giới"
+   }
+  ]
+ },
+ {
+  "id": "n5-12A-k03",
+  "level": "n5",
+  "lessonId": "12A",
+  "char": "町",
+  "hanViet": "ĐINH",
+  "kun": [
+   "まち"
+  ],
+  "on": [
+   "チュウ"
+  ],
+  "examples": [
+   {
+    "word": "町",
+    "reading": "まち",
+    "ruby": [
+     [
+      "町",
+      "まち"
+     ]
+    ],
+    "meaning": "Thành phố"
+   }
+  ]
+ },
+ {
+  "id": "n5-12A-k04",
+  "level": "n5",
+  "lessonId": "12A",
+  "char": "魚",
+  "hanViet": "NGƯ",
+  "kun": [
+   "さかな",
+   "うお"
+  ],
+  "on": [
+   "ギョ"
+  ],
+  "examples": [
+   {
+    "word": "魚",
+    "reading": "さかな",
+    "ruby": [
+     [
+      "魚",
+      "さかな"
+     ]
+    ],
+    "meaning": "Cá"
+   }
+  ]
+ },
+ {
+  "id": "n5-12B-k01",
+  "level": "n5",
+  "lessonId": "12B",
+  "char": "女",
+  "hanViet": "NỮ",
+  "kun": [
+   "おんな",
+   "め"
+  ],
+  "on": [
+   "ジョ",
+   "ニョ",
+   "ニョウ"
+  ],
+  "examples": [
+   {
+    "word": "女の人",
+    "reading": "おんなのひと",
+    "ruby": [
+     [
+      "女",
+      "おんな"
+     ],
+     [
+      "の"
+     ],
+     [
+      "人",
+      "ひと"
+     ]
+    ],
+    "meaning": "Cô gái"
+   },
+   {
+    "word": "女の子",
+    "reading": "おんなのこ",
+    "ruby": [
+     [
+      "女",
+      "おんな"
+     ],
+     [
+      "の"
+     ],
+     [
+      "子",
+      "こ"
+     ]
+    ],
+    "meaning": "Bé gái"
+   },
+   {
+    "word": "彼女",
+    "reading": "かのじょ",
+    "ruby": [
+     [
+      "彼",
+      "かの"
+     ],
+     [
+      "女",
+      "じょ"
+     ]
+    ],
+    "meaning": "Cô ấy, bạn gái"
+   },
+   {
+    "word": "女性",
+    "reading": "じょせい",
+    "ruby": [
+     [
+      "女",
+      "じょ"
+     ],
+     [
+      "性",
+      "せい"
+     ]
+    ],
+    "meaning": "Nữ giới, phụ nữ"
+   }
+  ]
+ },
+ {
+  "id": "n5-12B-k02",
+  "level": "n5",
+  "lessonId": "12B",
+  "char": "好",
+  "hanViet": "HẢO",
+  "kun": [
+   "す・き",
+   "この・む"
+  ],
+  "on": [
+   "コウ"
+  ],
+  "examples": [
+   {
+    "word": "好きな",
+    "reading": "すきな",
+    "ruby": [
+     [
+      "好",
+      "す"
+     ],
+     [
+      "きな"
+     ]
+    ],
+    "meaning": "Thích"
+   },
+   {
+    "word": "大好きな",
+    "reading": "だいすきな",
+    "ruby": [
+     [
+      "大",
+      "だい"
+     ],
+     [
+      "好",
+      "す"
+     ],
+     [
+      "きな"
+     ]
+    ],
+    "meaning": "Rất thích, yêu thích"
+   }
+  ]
+ },
+ {
+  "id": "n5-12B-k03",
+  "level": "n5",
+  "lessonId": "12B",
+  "char": "安",
+  "hanViet": "AN",
+  "kun": [
+   "やす・い"
+  ],
+  "on": [
+   "アン"
+  ],
+  "examples": [
+   {
+    "word": "安い",
+    "reading": "やすい",
+    "ruby": [
+     [
+      "安",
+      "やす"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Rẻ"
+   },
+   {
+    "word": "安心します",
+    "reading": "あんしんします",
+    "ruby": [
+     [
+      "安",
+      "あん"
+     ],
+     [
+      "心",
+      "しん"
+     ],
+     [
+      "します"
+     ]
+    ],
+    "meaning": "Yên tâm"
+   },
+   {
+    "word": "安全",
+    "reading": "あんぜん",
+    "ruby": [
+     [
+      "安",
+      "あん"
+     ],
+     [
+      "全",
+      "ぜん"
+     ]
+    ],
+    "meaning": "An toàn"
+   }
+  ]
+ },
+ {
+  "id": "n5-12C-k01",
+  "level": "n5",
+  "lessonId": "12C",
+  "char": "士",
+  "hanViet": "SĨ",
+  "kun": [],
+  "on": [
+   "シ"
+  ],
+  "examples": [
+   {
+    "word": "富士山",
+    "reading": "ふじさん",
+    "ruby": [
+     [
+      "富",
+      "ふ"
+     ],
+     [
+      "士",
+      "じ"
+     ],
+     [
+      "山",
+      "さん"
+     ]
+    ],
+    "meaning": "Núi Phú Sĩ"
+   }
+  ]
+ },
+ {
+  "id": "n5-12C-k02",
+  "level": "n5",
+  "lessonId": "12C",
+  "char": "売",
+  "hanViet": "MẠI",
+  "kun": [
+   "う・る",
+   "う・れる"
+  ],
+  "on": [
+   "バイ"
+  ],
+  "examples": [
+   {
+    "word": "売り場",
+    "reading": "うりば",
+    "ruby": [
+     [
+      "売",
+      "う"
+     ],
+     [
+      "り"
+     ],
+     [
+      "場",
+      "ば"
+     ]
+    ],
+    "meaning": "Quầy bán hàng"
+   },
+   {
+    "word": "売ります",
+    "reading": "うります",
+    "ruby": [
+     [
+      "売",
+      "う"
+     ],
+     [
+      "ります"
+     ]
+    ],
+    "meaning": "Bán"
+   },
+   {
+    "word": "売れます",
+    "reading": "うれます",
+    "ruby": [
+     [
+      "売",
+      "う"
+     ],
+     [
+      "れます"
+     ]
+    ],
+    "meaning": "Bán chạy"
+   }
+  ]
+ },
+ {
+  "id": "n5-12C-k03",
+  "level": "n5",
+  "lessonId": "12C",
+  "char": "読",
+  "hanViet": "ĐỘC",
+  "kun": [
+   "よ・む"
+  ],
+  "on": [
+   "ドクCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "読みます",
+    "reading": "よみます",
+    "ruby": [
+     [
+      "読",
+      "よ"
+     ],
+     [
+      "みます"
+     ]
+    ],
+    "meaning": "Đọc"
+   },
+   {
+    "word": "読み方",
+    "reading": "よみかた",
+    "ruby": [
+     [
+      "読",
+      "よ"
+     ],
+     [
+      "み"
+     ],
+     [
+      "方",
+      "かた"
+     ]
+    ],
+    "meaning": "Cách đọc"
+   }
+  ]
+ },
+ {
+  "id": "n5-13A-k01",
+  "level": "n5",
+  "lessonId": "13A",
+  "char": "界",
+  "hanViet": "GIỚI",
+  "kun": [],
+  "on": [
+   "カイ"
+  ],
+  "examples": [
+   {
+    "word": "世界",
+    "reading": "せかい",
+    "ruby": [
+     [
+      "世",
+      "せ"
+     ],
+     [
+      "界",
+      "かい"
+     ]
+    ],
+    "meaning": "Thế giới"
+   },
+   {
+    "word": "世界中",
+    "reading": "せかいじゅう",
+    "ruby": [
+     [
+      "世",
+      "せ"
+     ],
+     [
+      "界",
+      "かい"
+     ],
+     [
+      "中",
+      "じゅう"
+     ]
+    ],
+    "meaning": "Trên khắp thế giới"
+   }
+  ]
+ },
+ {
+  "id": "n5-13A-k02",
+  "level": "n5",
+  "lessonId": "13A",
+  "char": "東",
+  "hanViet": "ĐÔNG",
+  "kun": [
+   "ひがし"
+  ],
+  "on": [
+   "トウ"
+  ],
+  "examples": [
+   {
+    "word": "東",
+    "reading": "ひがし",
+    "ruby": [
+     [
+      "東",
+      "ひがし"
+     ]
+    ],
+    "meaning": "Hướng Đông"
+   },
+   {
+    "word": "東京",
+    "reading": "とうきょう",
+    "ruby": [
+     [
+      "東",
+      "とう"
+     ],
+     [
+      "京",
+      "きょう"
+     ]
+    ],
+    "meaning": "Tokyo"
+   }
+  ]
+ },
+ {
+  "id": "n5-13A-k03",
+  "level": "n5",
+  "lessonId": "13A",
+  "char": "画",
+  "hanViet": "HỌA/HOẠCH",
+  "kun": [],
+  "on": [
+   "ガ",
+   "カク"
+  ],
+  "examples": [
+   {
+    "word": "映画",
+    "reading": "えいが",
+    "ruby": [
+     [
+      "映",
+      "えい"
+     ],
+     [
+      "画",
+      "が"
+     ]
+    ],
+    "meaning": "Phim (ảnh)"
+   }
+  ]
+ },
+ {
+  "id": "n5-13B-k01",
+  "level": "n5",
+  "lessonId": "13B",
+  "char": "北",
+  "hanViet": "BẮC",
+  "kun": [
+   "きた"
+  ],
+  "on": [
+   "ホク"
+  ],
+  "examples": [
+   {
+    "word": "北",
+    "reading": "きた",
+    "ruby": [
+     [
+      "北",
+      "きた"
+     ]
+    ],
+    "meaning": "Hướng Bắc"
+   }
+  ]
+ },
+ {
+  "id": "n5-13B-k02",
+  "level": "n5",
+  "lessonId": "13B",
+  "char": "花",
+  "hanViet": "HOA",
+  "kun": [
+   "はな"
+  ],
+  "on": [
+   "カ"
+  ],
+  "examples": [
+   {
+    "word": "花",
+    "reading": "はな",
+    "ruby": [
+     [
+      "花",
+      "はな"
+     ]
+    ],
+    "meaning": "Hoa"
+   },
+   {
+    "word": "花見",
+    "reading": "はなみ",
+    "ruby": [
+     [
+      "花",
+      "はな"
+     ],
+     [
+      "見",
+      "み"
+     ]
+    ],
+    "meaning": "Ngắm hoa"
+   },
+   {
+    "word": "生け花",
+    "reading": "いけばな",
+    "ruby": [
+     [
+      "生",
+      "い"
+     ],
+     [
+      "け"
+     ],
+     [
+      "花",
+      "ばな"
+     ]
+    ],
+    "meaning": "Nghệ thuật cắm hoa"
+   },
+   {
+    "word": "花火",
+    "reading": "はなび",
+    "ruby": [
+     [
+      "花",
+      "はな"
+     ],
+     [
+      "火",
+      "び"
+     ]
+    ],
+    "meaning": "Pháo hoa"
+   }
+  ]
+ },
+ {
+  "id": "n5-13B-k03",
+  "level": "n5",
+  "lessonId": "13B",
+  "char": "茶",
+  "hanViet": "TRÀ",
+  "kun": [],
+  "on": [
+   "チャ",
+   "サ"
+  ],
+  "examples": [
+   {
+    "word": "お茶",
+    "reading": "おちゃ",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "茶",
+      "ちゃ"
+     ]
+    ],
+    "meaning": "Trà"
+   },
+   {
+    "word": "紅茶",
+    "reading": "こうちゃ",
+    "ruby": [
+     [
+      "紅",
+      "こう"
+     ],
+     [
+      "茶",
+      "ちゃ"
+     ]
+    ],
+    "meaning": "Hồng trà"
+   },
+   {
+    "word": "喫茶店",
+    "reading": "きっさてん",
+    "ruby": [
+     [
+      "喫",
+      "きっ"
+     ],
+     [
+      "茶",
+      "さ"
+     ],
+     [
+      "店",
+      "てん"
+     ]
+    ],
+    "meaning": "Quán giải khát"
+   }
+  ]
+ },
+ {
+  "id": "n5-13B-k04",
+  "level": "n5",
+  "lessonId": "13B",
+  "char": "草",
+  "hanViet": "THẢO",
+  "kun": [
+   "くさ"
+  ],
+  "on": [
+   "ソウ"
+  ],
+  "examples": [
+   {
+    "word": "草",
+    "reading": "くさ",
+    "ruby": [
+     [
+      "草",
+      "くさ"
+     ]
+    ],
+    "meaning": "Cỏ"
+   }
+  ]
+ },
+ {
+  "id": "n5-13C-k01",
+  "level": "n5",
+  "lessonId": "13C",
+  "char": "西",
+  "hanViet": "TÂY",
+  "kun": [
+   "にし"
+  ],
+  "on": [
+   "セイ",
+   "サイ"
+  ],
+  "examples": [
+   {
+    "word": "西",
+    "reading": "にし",
+    "ruby": [
+     [
+      "西",
+      "にし"
+     ]
+    ],
+    "meaning": "Hướng Tây"
+   }
+  ]
+ },
+ {
+  "id": "n5-13C-k02",
+  "level": "n5",
+  "lessonId": "13C",
+  "char": "酒",
+  "hanViet": "TỬU",
+  "kun": [
+   "さけ",
+   "さか"
+  ],
+  "on": [
+   "シュ"
+  ],
+  "examples": [
+   {
+    "word": "お酒",
+    "reading": "おさけ",
+    "ruby": [
+     [
+      "お"
+     ],
+     [
+      "酒",
+      "さけ"
+     ]
+    ],
+    "meaning": "Rượu"
+   },
+   {
+    "word": "梅酒",
+    "reading": "うめしゅ",
+    "ruby": [
+     [
+      "梅",
+      "うめ"
+     ],
+     [
+      "酒",
+      "しゅ"
+     ]
+    ],
+    "meaning": "Rượu mơ"
+   }
+  ]
+ },
+ {
+  "id": "n5-13C-k03",
+  "level": "n5",
+  "lessonId": "13C",
+  "char": "書",
+  "hanViet": "THƯ",
+  "kun": [
+   "か・く"
+  ],
+  "on": [
+   "ショ"
+  ],
+  "examples": [
+   {
+    "word": "書きます",
+    "reading": "かきます",
+    "ruby": [
+     [
+      "書",
+      "か"
+     ],
+     [
+      "きます"
+     ]
+    ],
+    "meaning": "Viết"
+   },
+   {
+    "word": "辞書",
+    "reading": "じしょ",
+    "ruby": [
+     [
+      "辞",
+      "じ"
+     ],
+     [
+      "書",
+      "しょ"
+     ]
+    ],
+    "meaning": "Từ điển"
+   },
+   {
+    "word": "図書館",
+    "reading": "としょかん",
+    "ruby": [
+     [
+      "図",
+      "と"
+     ],
+     [
+      "書",
+      "しょ"
+     ],
+     [
+      "館",
+      "かん"
+     ]
+    ],
+    "meaning": "Thư viện"
+   },
+   {
+    "word": "説明書",
+    "reading": "せつめいしょ",
+    "ruby": [
+     [
+      "説",
+      "せつ"
+     ],
+     [
+      "明",
+      "めい"
+     ],
+     [
+      "書",
+      "しょ"
+     ]
+    ],
+    "meaning": "Sách hướng dẫn"
+   }
+  ]
+ },
+ {
+  "id": "n5-13C-k04",
+  "level": "n5",
+  "lessonId": "13C",
+  "char": "川",
+  "hanViet": "XUYÊN",
+  "kun": [
+   "かわ"
+  ],
+  "on": [
+   "セン"
+  ],
+  "examples": [
+   {
+    "word": "川",
+    "reading": "かわ",
+    "ruby": [
+     [
+      "川",
+      "かわ"
+     ]
+    ],
+    "meaning": "Sông"
+   }
+  ]
+ },
+ {
+  "id": "n5-13C-k05",
+  "level": "n5",
+  "lessonId": "13C",
+  "char": "南",
+  "hanViet": "NAM",
+  "kun": [
+   "みなみ"
+  ],
+  "on": [
+   "ナン",
+   "ナCHỮ HÁNN5N5N5N5DUNG MORI"
+  ],
+  "examples": [
+   {
+    "word": "南",
+    "reading": "みなみ",
+    "ruby": [
+     [
+      "南",
+      "みなみ"
+     ]
+    ],
+    "meaning": "Hướng Nam"
+   },
+   {
+    "word": "南北",
+    "reading": "なんぼく",
+    "ruby": [
+     [
+      "南",
+      "なん"
+     ],
+     [
+      "北",
+      "ぼく"
+     ]
+    ],
+    "meaning": "Bắc Nam"
+   }
+  ]
+ },
+ {
+  "id": "n5-14A-k01",
+  "level": "n5",
+  "lessonId": "14A",
+  "char": "方",
+  "hanViet": "PHƯƠNG",
+  "kun": [
+   "かた"
+  ],
+  "on": [
+   "ホウ"
+  ],
+  "examples": [
+   {
+    "word": "あの方",
+    "reading": "あのかた",
+    "ruby": [
+     [
+      "あの"
+     ],
+     [
+      "方",
+      "かた"
+     ]
+    ],
+    "meaning": "Ngài ấy, vị ấy"
+   },
+   {
+    "word": "読み方",
+    "reading": "よみかた",
+    "ruby": [
+     [
+      "読",
+      "よ"
+     ],
+     [
+      "み"
+     ],
+     [
+      "方",
+      "かた"
+     ]
+    ],
+    "meaning": "Cách đọc"
+   },
+   {
+    "word": "方法",
+    "reading": "ほうほう",
+    "ruby": [
+     [
+      "方",
+      "ほう"
+     ],
+     [
+      "法",
+      "ほう"
+     ]
+    ],
+    "meaning": "Phương pháp, cách thức"
+   }
+  ]
+ },
+ {
+  "id": "n5-14A-k02",
+  "level": "n5",
+  "lessonId": "14A",
+  "char": "旅",
+  "hanViet": "LỮ",
+  "kun": [
+   "たび"
+  ],
+  "on": [
+   "リョ"
+  ],
+  "examples": [
+   {
+    "word": "旅行",
+    "reading": "りょこう",
+    "ruby": [
+     [
+      "旅",
+      "りょ"
+     ],
+     [
+      "行",
+      "こう"
+     ]
+    ],
+    "meaning": "Du lịch"
+   },
+   {
+    "word": "旅行先",
+    "reading": "りょこうさき",
+    "ruby": [
+     [
+      "旅",
+      "りょ"
+     ],
+     [
+      "行",
+      "こう"
+     ],
+     [
+      "先",
+      "さき"
+     ]
+    ],
+    "meaning": "Địa điểm du lịch"
+   },
+   {
+    "word": "旅館",
+    "reading": "りょかん",
+    "ruby": [
+     [
+      "旅",
+      "りょ"
+     ],
+     [
+      "館",
+      "かん"
+     ]
+    ],
+    "meaning": "Nhà trọ, lữ quán"
+   }
+  ]
+ },
+ {
+  "id": "n5-14A-k03",
+  "level": "n5",
+  "lessonId": "14A",
+  "char": "族",
+  "hanViet": "TỘC",
+  "kun": [],
+  "on": [
+   "ゾク"
+  ],
+  "examples": [
+   {
+    "word": "家族",
+    "reading": "かぞく",
+    "ruby": [
+     [
+      "家",
+      "か"
+     ],
+     [
+      "族",
+      "ぞく"
+     ]
+    ],
+    "meaning": "Gia đình"
+   }
+  ]
+ },
+ {
+  "id": "n5-14B-k01",
+  "level": "n5",
+  "lessonId": "14B",
+  "char": "社",
+  "hanViet": "XÃ",
+  "kun": [
+   "やしろ"
+  ],
+  "on": [
+   "シャ"
+  ],
+  "examples": [
+   {
+    "word": "社会",
+    "reading": "しゃかい",
+    "ruby": [
+     [
+      "社",
+      "しゃ"
+     ],
+     [
+      "会",
+      "かい"
+     ]
+    ],
+    "meaning": "Xã hội"
+   },
+   {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "ruby": [
+     [
+      "会",
+      "かい"
+     ],
+     [
+      "社",
+      "しゃ"
+     ]
+    ],
+    "meaning": "Công ty"
+   },
+   {
+    "word": "会社員",
+    "reading": "かいしゃいん",
+    "ruby": [
+     [
+      "会",
+      "かい"
+     ],
+     [
+      "社",
+      "しゃ"
+     ],
+     [
+      "員",
+      "いん"
+     ]
+    ],
+    "meaning": "Nhân viên công ty"
+   },
+   {
+    "word": "社長",
+    "reading": "しゃちょう",
+    "ruby": [
+     [
+      "社",
+      "しゃ"
+     ],
+     [
+      "長",
+      "ちょう"
+     ]
+    ],
+    "meaning": "Giám đốc"
+   }
+  ]
+ },
+ {
+  "id": "n5-14B-k02",
+  "level": "n5",
+  "lessonId": "14B",
+  "char": "分",
+  "hanViet": "PHÂN",
+  "kun": [
+   "わ・かる"
+  ],
+  "on": [
+   "ブン",
+   "フン",
+   "ブ"
+  ],
+  "examples": [
+   {
+    "word": "～分",
+    "reading": "～ふん",
+    "ruby": [
+     [
+      "～"
+     ],
+     [
+      "分",
+      "ふん"
+     ]
+    ],
+    "meaning": ""
+   },
+   {
+    "word": "分",
+    "reading": "ぶん",
+    "ruby": [
+     [
+      "分",
+      "ぶん"
+     ]
+    ],
+    "meaning": ""
+   },
+   {
+    "word": "分～",
+    "reading": "ぷん～",
+    "ruby": [
+     [
+      "分",
+      "ぷん"
+     ],
+     [
+      "～"
+     ]
+    ],
+    "meaning": "Phút"
+   },
+   {
+    "word": "何分",
+    "reading": "なんぷん",
+    "ruby": [
+     [
+      "何",
+      "なん"
+     ],
+     [
+      "分",
+      "ぷん"
+     ]
+    ],
+    "meaning": "Mấy phút"
+   },
+   {
+    "word": "半分",
+    "reading": "はんぶん",
+    "ruby": [
+     [
+      "半",
+      "はん"
+     ],
+     [
+      "分",
+      "ぶん"
+     ]
+    ],
+    "meaning": "Một nửa"
+   },
+   {
+    "word": "気分",
+    "reading": "きぶん",
+    "ruby": [
+     [
+      "気",
+      "き"
+     ],
+     [
+      "分",
+      "ぶん"
+     ]
+    ],
+    "meaning": "Tâm trạng, cảm xúc"
+   },
+   {
+    "word": "自分で",
+    "reading": "じぶんで",
+    "ruby": [
+     [
+      "自",
+      "じ"
+     ],
+     [
+      "分",
+      "ぶん"
+     ],
+     [
+      "で"
+     ]
+    ],
+    "meaning": "Tự mình"
+   },
+   {
+    "word": "十分",
+    "reading": "じゅっぷん",
+    "ruby": [
+     [
+      "十",
+      "じゅっ"
+     ],
+     [
+      "分",
+      "ぷん"
+     ]
+    ],
+    "meaning": "10 phút"
+   }
+  ]
+ },
+ {
+  "id": "n5-14B-k03",
+  "level": "n5",
+  "lessonId": "14B",
+  "char": "同",
+  "hanViet": "ĐỒNG",
+  "kun": [
+   "め",
+   "ま"
+  ],
+  "on": [
+   "モク",
+   "ボク"
+  ],
+  "examples": [
+   {
+    "word": "同じ",
+    "reading": "おなじ",
+    "ruby": [
+     [
+      "同",
+      "おな"
+     ],
+     [
+      "じ"
+     ]
+    ],
+    "meaning": "Giống nhau"
+   },
+   {
+    "word": "同意",
+    "reading": "どうい",
+    "ruby": [
+     [
+      "同",
+      "どう"
+     ],
+     [
+      "意",
+      "い"
+     ]
+    ],
+    "meaning": "Đồng ý"
+   }
+  ]
+ },
+ {
+  "id": "n5-14B-k04",
+  "level": "n5",
+  "lessonId": "14B",
+  "char": "病",
+  "hanViet": "BỆNH",
+  "kun": [
+   "やまい",
+   "や・む"
+  ],
+  "on": [
+   "ビョウ",
+   "ヘイ"
+  ],
+  "examples": [
+   {
+    "word": "病気",
+    "reading": "びょうき",
+    "ruby": [
+     [
+      "病",
+      "びょう"
+     ],
+     [
+      "気",
+      "き"
+     ]
+    ],
+    "meaning": "Bệnh, ốm"
+   },
+   {
+    "word": "病院",
+    "reading": "びょういん",
+    "ruby": [
+     [
+      "病",
+      "びょう"
+     ],
+     [
+      "院",
+      "いん"
+     ]
+    ],
+    "meaning": "Bệnh viện"
+   }
+  ]
+ },
+ {
+  "id": "n5-14C-k01",
+  "level": "n5",
+  "lessonId": "14C",
+  "char": "後",
+  "hanViet": "HẬU",
+  "kun": [
+   "あと",
+   "のち",
+   "うし・ろ"
+  ],
+  "on": [
+   "ゴ",
+   "コウ"
+  ],
+  "examples": [
+   {
+    "word": "午後",
+    "reading": "ごご",
+    "ruby": [
+     [
+      "午",
+      "ご"
+     ],
+     [
+      "後",
+      "ご"
+     ]
+    ],
+    "meaning": "Buổi chiều"
+   },
+   {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "ruby": [
+     [
+      "後",
+      "うし"
+     ],
+     [
+      "ろ"
+     ]
+    ],
+    "meaning": "Phía sau"
+   }
+  ]
+ },
+ {
+  "id": "n5-14C-k02",
+  "level": "n5",
+  "lessonId": "14C",
+  "char": "足",
+  "hanViet": "TÚC",
+  "kun": [
+   "あし",
+   "た・りる"
+  ],
+  "on": [
+   "ソク"
+  ],
+  "examples": [
+   {
+    "word": "足",
+    "reading": "あし",
+    "ruby": [
+     [
+      "足",
+      "あし"
+     ]
+    ],
+    "meaning": "Cái chân"
+   }
+  ]
+ },
+ {
+  "id": "n5-14C-k03",
+  "level": "n5",
+  "lessonId": "14C",
+  "char": "高",
+  "hanViet": "CAO",
+  "kun": [
+   "たか・い",
+   "たか・まる",
+   "たか・める"
+  ],
+  "on": [
+   "コウ"
+  ],
+  "examples": [
+   {
+    "word": "高い",
+    "reading": "たかい",
+    "ruby": [
+     [
+      "高",
+      "たか"
+     ],
+     [
+      "い"
+     ]
+    ],
+    "meaning": "Cao; đắt"
+   },
+   {
+    "word": "高校",
+    "reading": "こうこう",
+    "ruby": [
+     [
+      "高",
+      "こう"
+     ],
+     [
+      "校",
+      "こう"
+     ]
+    ],
+    "meaning": "Trường cấp 3"
+   }
+  ]
+ }
+]

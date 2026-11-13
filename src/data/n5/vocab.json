@@ -1,0 +1,9682 @@
+[
+ {
+  "id": "n5-1A-v001",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "ベトナム",
+  "pos": "N",
+  "reading": "ベトナム",
+  "meaning": "Việt Nam"
+ },
+ {
+  "id": "n5-1A-v002",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "日本",
+  "pos": "N",
+  "reading": "にほん",
+  "meaning": "Nhật Bản"
+ },
+ {
+  "id": "n5-1A-v003",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "中国",
+  "pos": "N",
+  "reading": "ちゅうごく",
+  "meaning": "Trung Quốc"
+ },
+ {
+  "id": "n5-1A-v004",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "韓国",
+  "pos": "N",
+  "reading": "かんこく",
+  "meaning": "Hàn Quốc"
+ },
+ {
+  "id": "n5-1A-v005",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "タイ",
+  "pos": "N",
+  "reading": "タイ",
+  "meaning": "Thái Lan"
+ },
+ {
+  "id": "n5-1A-v006",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "～人",
+  "reading": "～じん",
+  "pos": "N",
+  "meaning": "người ～",
+  "note": "(Cách nói quốc tịch: Tên quốc gia + じん , và cụm này đóng vai trò như một danh từ)"
+ },
+ {
+  "id": "n5-1A-v007",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "ベトナム人",
+  "reading": "ベトナムじん",
+  "pos": "N",
+  "meaning": "người Việt Nam"
+ },
+ {
+  "id": "n5-1A-v008",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "日本人",
+  "reading": "にほんじん",
+  "pos": "N",
+  "meaning": "người Nhật"
+ },
+ {
+  "id": "n5-1A-v009",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "中国人",
+  "reading": "ちゅうごくじん",
+  "pos": "N",
+  "meaning": "người Trung Quốc"
+ },
+ {
+  "id": "n5-1A-v010",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "韓国人",
+  "reading": "かんこくじん",
+  "pos": "N",
+  "meaning": "người Hàn Quốc"
+ },
+ {
+  "id": "n5-1A-v011",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "タイ人",
+  "reading": "タイじん",
+  "pos": "N",
+  "meaning": "người Thái"
+ },
+ {
+  "id": "n5-1A-v012",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "私",
+  "pos": "N",
+  "reading": "わたし",
+  "meaning": "tôi"
+ },
+ {
+  "id": "n5-1A-v013",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "医者",
+  "pos": "N",
+  "reading": "いしゃ",
+  "meaning": "bác sĩ"
+ },
+ {
+  "id": "n5-1A-v014",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "教師",
+  "pos": "N",
+  "reading": "きょうし",
+  "meaning": "giáo viên, giảng viên"
+ },
+ {
+  "id": "n5-1A-v015",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "先生",
+  "pos": "N",
+  "reading": "せんせい",
+  "meaning": "thầy, cô giáo"
+ },
+ {
+  "id": "n5-1A-v016",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "銀行員",
+  "pos": "N",
+  "reading": "ぎんこういん",
+  "meaning": "nhân viên ngân hàng"
+ },
+ {
+  "id": "n5-1A-v017",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "会社員",
+  "pos": "N",
+  "reading": "かいしゃいん",
+  "meaning": "nhân viên công ty"
+ },
+ {
+  "id": "n5-1A-v018",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "学生",
+  "pos": "N",
+  "reading": "がくせい",
+  "meaning": "sinh viên"
+ },
+ {
+  "id": "n5-1A-v019",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "（お）名前",
+  "pos": "N",
+  "reading": "おなまえ / なまえ",
+  "meaning": "tên, họ tên"
+ },
+ {
+  "id": "n5-1A-v020",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "料理",
+  "pos": "N",
+  "reading": "りょうり",
+  "meaning": "món ăn"
+ },
+ {
+  "id": "n5-1A-v021",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "ベトナム料理",
+  "pos": "N",
+  "reading": "ベトナムりょうり",
+  "meaning": "món ăn Việt Nam"
+ },
+ {
+  "id": "n5-1A-v022",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "日本料理",
+  "pos": "N",
+  "reading": "にほんりょうり",
+  "meaning": "món ăn Nhật Bản"
+ },
+ {
+  "id": "n5-1A-v023",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "ビール",
+  "pos": "N",
+  "reading": "ビール",
+  "meaning": "bia"
+ },
+ {
+  "id": "n5-1A-v024",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "コーヒー",
+  "pos": "N",
+  "reading": "コーヒー",
+  "meaning": "cà phê"
+ },
+ {
+  "id": "n5-1A-v025",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "ジュース",
+  "pos": "N",
+  "reading": "ジュース",
+  "meaning": "nước hoa quả"
+ },
+ {
+  "id": "n5-1A-v026",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "これ、それ、あれ",
+  "pos": "N",
+  "reading": "これ、それ、あれ",
+  "meaning": "cái này, cái đó, cái kia"
+ },
+ {
+  "id": "n5-1A-v027",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "word",
+  "word": "あちら",
+  "pos": "N",
+  "reading": "こちら、そちら、 / あちら",
+  "meaning": "đây, đó, kia"
+ },
+ {
+  "id": "n5-1A-v028",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "はい",
+  "reading": "はい",
+  "meaning": "vâng/ có"
+ },
+ {
+  "id": "n5-1A-v029",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "いいえ",
+  "reading": "いいえ",
+  "meaning": "không (ý nghĩa phủ định đơn thuần)"
+ },
+ {
+  "id": "n5-1A-v030",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "いえいえ",
+  "reading": "いえいえ",
+  "meaning": "không sao đâu",
+  "note": "(Lời nói thể hiện sự khiêm tốn khi đáp lại lời khen, lời cảm ơn hay xin lỗi của đối phương.)"
+ },
+ {
+  "id": "n5-1A-v031",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "おはようございます。",
+  "reading": "おはようございます",
+  "meaning": "chào buổi sáng"
+ },
+ {
+  "id": "n5-1A-v032",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "こんにちは。",
+  "reading": "こんにちは",
+  "meaning": "chào buổi trưa"
+ },
+ {
+  "id": "n5-1A-v033",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "こんばんは。",
+  "reading": "こんばんは",
+  "meaning": "chào buổi tối"
+ },
+ {
+  "id": "n5-1A-v034",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "すみません。",
+  "reading": "すみません",
+  "meaning": "xin lỗi"
+ },
+ {
+  "id": "n5-1A-v035",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "はじめまして。",
+  "reading": "はじめまして",
+  "meaning": "rất vui được gặp anh/ chị/ bạn",
+  "note": "(lời chào khi lần đầu gặp ai đó)"
+ },
+ {
+  "id": "n5-1A-v036",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "よろしくお願いします。",
+  "reading": "よろしくおねがいします",
+  "meaning": "rất mong được anh/ chị giúp đỡ"
+ },
+ {
+  "id": "n5-1A-v037",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "そうです。",
+  "reading": "そうです",
+  "meaning": "đúng vậy"
+ },
+ {
+  "id": "n5-1A-v038",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "そうですか。",
+  "reading": "そうですか",
+  "meaning": "vậy à, thế à?"
+ },
+ {
+  "id": "n5-1A-v039",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "失礼しました。",
+  "reading": "しつれいしました",
+  "meaning": "xin lỗi",
+  "note": "(được sử dụng khi một người trót nói hoặc làm điều gì đó thất lễ với người nghe)"
+ },
+ {
+  "id": "n5-1A-v040",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "大丈夫です。",
+  "reading": "だいじょうぶです",
+  "meaning": "không sao đâu"
+ },
+ {
+  "id": "n5-1A-v041",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "ええと",
+  "reading": "ええと",
+  "meaning": "ờ, ờm...",
+  "note": "(được sử dụng khi người nói đang suy nghĩ tiếp theo sẽ nói gì)"
+ },
+ {
+  "id": "n5-1A-v042",
+  "level": "n5",
+  "lessonId": "1A",
+  "kind": "expression",
+  "word": "あっ",
+  "reading": "あっ",
+  "meaning": "A!",
+  "note": "(được dùng khi người nói ngạc nhiên, xúc động về một điều gì đó)"
+ },
+ {
+  "id": "n5-1B-v001",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "今",
+  "pos": "N/Adv.",
+  "reading": "いま",
+  "meaning": "bây giờ"
+ },
+ {
+  "id": "n5-1B-v002",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "朝",
+  "pos": "N/Adv.",
+  "reading": "あさ",
+  "meaning": "sáng sớm, buổi sáng"
+ },
+ {
+  "id": "n5-1B-v003",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "夜",
+  "pos": "N/Adv.",
+  "reading": "よる",
+  "meaning": "buổi tối"
+ },
+ {
+  "id": "n5-1B-v004",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "午前",
+  "pos": "N/Adv.",
+  "reading": "ごぜん",
+  "meaning": "A.M / sáng"
+ },
+ {
+  "id": "n5-1B-v005",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "午後",
+  "pos": "N/Adv.",
+  "reading": "ごご",
+  "meaning": "P.M / chiều"
+ },
+ {
+  "id": "n5-1B-v006",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "今日",
+  "pos": "N/Adv.",
+  "reading": "きょう",
+  "meaning": "hôm nay"
+ },
+ {
+  "id": "n5-1B-v007",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "明日",
+  "pos": "N/Adv.",
+  "reading": "あした",
+  "meaning": "ngày mai"
+ },
+ {
+  "id": "n5-1B-v008",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "明後日",
+  "pos": "N/Adv.",
+  "reading": "あさって",
+  "meaning": "ngày kia"
+ },
+ {
+  "id": "n5-1B-v009",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "休み",
+  "pos": "N",
+  "reading": "やすみ",
+  "meaning": "nghỉ, không làm việc"
+ },
+ {
+  "id": "n5-1B-v010",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "（お）仕事",
+  "pos": "N",
+  "reading": "しごと / おしごと",
+  "meaning": "công việc (khi hỏi về công việc của",
+  "note": "đối phương thì sẽ dùng お仕"
+ },
+ {
+  "id": "n5-1B-v011",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "学校",
+  "pos": "N",
+  "reading": "がっこう",
+  "meaning": "trường học"
+ },
+ {
+  "id": "n5-1B-v012",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "図書館",
+  "pos": "N",
+  "reading": "としょかん",
+  "meaning": "thư viện"
+ },
+ {
+  "id": "n5-1B-v013",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "郵便局",
+  "pos": "N",
+  "reading": "ゆうびんきょく",
+  "meaning": "bưu điện"
+ },
+ {
+  "id": "n5-1B-v014",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "病院",
+  "pos": "N",
+  "reading": "びょういん",
+  "meaning": "bệnh viện"
+ },
+ {
+  "id": "n5-1B-v015",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "銀行",
+  "pos": "N",
+  "reading": "ぎんこう",
+  "meaning": "ngân hàng"
+ },
+ {
+  "id": "n5-1B-v016",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "会社",
+  "pos": "N",
+  "reading": "かいしゃ",
+  "meaning": "công ty"
+ },
+ {
+  "id": "n5-1B-v017",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "漢字",
+  "pos": "N",
+  "reading": "かんじ",
+  "meaning": "chữ Hán"
+ },
+ {
+  "id": "n5-1B-v018",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "ひらがな",
+  "pos": "N",
+  "reading": "ひらがな",
+  "meaning": "chữ hiragana"
+ },
+ {
+  "id": "n5-1B-v019",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "カタカナ",
+  "pos": "N",
+  "reading": "カタカナ",
+  "meaning": "chữ katakana"
+ },
+ {
+  "id": "n5-1B-v020",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "レストラン",
+  "pos": "N",
+  "reading": "レストラン",
+  "meaning": "nhà hàng"
+ },
+ {
+  "id": "n5-1B-v021",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "スーパー",
+  "pos": "N",
+  "reading": "スーパー",
+  "meaning": "siêu thị"
+ },
+ {
+  "id": "n5-1B-v022",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "expression",
+  "word": "違います",
+  "reading": "ちがいます",
+  "meaning": "nhầm rồi, sai rồi, không phải"
+ },
+ {
+  "id": "n5-1B-v023",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "expression",
+  "word": "ありがとうございます",
+  "reading": "ありがとうございます",
+  "meaning": "cảm ơn"
+ },
+ {
+  "id": "n5-1B-v024",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "expression",
+  "word": "もしもし",
+  "reading": "もしもし",
+  "meaning": "alo"
+ },
+ {
+  "id": "n5-1B-v025",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "フランス",
+  "pos": "N",
+  "reading": "フランス",
+  "meaning": "nước Pháp"
+ },
+ {
+  "id": "n5-1B-v026",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "～語",
+  "reading": "～ご",
+  "meaning": "tiếng ～",
+  "note": "(Ngôn ngữ = Tên quốc gia + ご )"
+ },
+ {
+  "id": "n5-1B-v027",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "日本語",
+  "reading": "にほんご",
+  "meaning": "tiếng Nhật"
+ },
+ {
+  "id": "n5-1B-v028",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "中国語",
+  "reading": "ちゅうごくご",
+  "meaning": "tiếng Trung"
+ },
+ {
+  "id": "n5-1B-v029",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "韓国語",
+  "reading": "かんこくご",
+  "meaning": "tiếng Hàn"
+ },
+ {
+  "id": "n5-1B-v030",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "英語",
+  "reading": "えいご",
+  "meaning": "tiếng Anh (trường hợp ngoại lệ)"
+ },
+ {
+  "id": "n5-1B-v031",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "タイ語",
+  "reading": "タイご",
+  "meaning": "tiếng Thái"
+ },
+ {
+  "id": "n5-1B-v032",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "ベトナム語",
+  "reading": "ベトナムご",
+  "meaning": "tiếng Việt"
+ },
+ {
+  "id": "n5-1B-v033",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "word",
+  "word": "フランス語",
+  "reading": "フランスご",
+  "meaning": "tiếng Pháp"
+ },
+ {
+  "id": "n5-1B-v034",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "expression",
+  "word": "～時",
+  "reading": "～じ",
+  "meaning": "giờ"
+ },
+ {
+  "id": "n5-1B-v035",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "expression",
+  "word": "何時",
+  "reading": "なんじ",
+  "meaning": "mấy giờ"
+ },
+ {
+  "id": "n5-1B-v036",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "expression",
+  "word": "～分",
+  "reading": "～ふん / ～ぷん",
+  "meaning": "phút"
+ },
+ {
+  "id": "n5-1B-v037",
+  "level": "n5",
+  "lessonId": "1B",
+  "kind": "expression",
+  "word": "何分",
+  "reading": "なんぷん",
+  "meaning": "mấy phút"
+ },
+ {
+  "id": "n5-1C-v001",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "expression",
+  "word": "本当だ",
+  "reading": "ほんとうだ",
+  "meaning": "Đúng thật/ Thật này.",
+  "note": "(Dùng khi nhận ra lời của đối phương đúng với sự thật)"
+ },
+ {
+  "id": "n5-1C-v002",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "expression",
+  "word": "じゃ",
+  "reading": "じゃ",
+  "meaning": "Vậy thì, thế thì ..."
+ },
+ {
+  "id": "n5-1C-v003",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "expression",
+  "word": "えっ",
+  "reading": "えっ",
+  "meaning": "Ô! (tiếng ngạc nhiên)"
+ },
+ {
+  "id": "n5-1C-v004",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "expression",
+  "word": "ああ",
+  "reading": "ああ",
+  "meaning": "(thán từ thể hiện sự ngại ngùng, bối",
+  "note": "rối, xấu hổ...)"
+ },
+ {
+  "id": "n5-1C-v005",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "辞書",
+  "pos": "N",
+  "reading": "じしょ",
+  "meaning": "từ điển"
+ },
+ {
+  "id": "n5-1C-v006",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "かばん",
+  "pos": "N",
+  "reading": "かばん",
+  "meaning": "cặp, túi"
+ },
+ {
+  "id": "n5-1C-v007",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "手帳",
+  "pos": "N",
+  "reading": "てちょう",
+  "meaning": "sổ tay"
+ },
+ {
+  "id": "n5-1C-v008",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "電子辞書",
+  "pos": "N",
+  "reading": "でんしじしょ",
+  "meaning": "kim từ điển"
+ },
+ {
+  "id": "n5-1C-v009",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "市役所",
+  "pos": "N",
+  "reading": "しやくしょ",
+  "meaning": "toà thị chính"
+ },
+ {
+  "id": "n5-1C-v010",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "交番",
+  "pos": "N",
+  "reading": "こうばん",
+  "meaning": "đồn cảnh sát"
+ },
+ {
+  "id": "n5-1C-v011",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "大使館",
+  "pos": "N",
+  "reading": "たいしかん",
+  "meaning": "đại sứ quán"
+ },
+ {
+  "id": "n5-1C-v012",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "電話番号",
+  "pos": "N",
+  "reading": "でんわばんごう",
+  "meaning": "số điện thoại"
+ },
+ {
+  "id": "n5-1C-v013",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "月曜日",
+  "pos": "N",
+  "reading": "げつようび",
+  "meaning": "thứ Hai"
+ },
+ {
+  "id": "n5-1C-v014",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "火曜日",
+  "pos": "N",
+  "reading": "かようび",
+  "meaning": "thứ Ba"
+ },
+ {
+  "id": "n5-1C-v015",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "水曜日",
+  "pos": "N",
+  "reading": "すいようび",
+  "meaning": "thứ Tư"
+ },
+ {
+  "id": "n5-1C-v016",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "木曜日",
+  "pos": "N",
+  "reading": "もくようび",
+  "meaning": "thứ Năm"
+ },
+ {
+  "id": "n5-1C-v017",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "金曜日",
+  "pos": "N",
+  "reading": "きんようび",
+  "meaning": "thứ Sáu"
+ },
+ {
+  "id": "n5-1C-v018",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "土曜日",
+  "pos": "N",
+  "reading": "どようび",
+  "meaning": "thứ Bảy"
+ },
+ {
+  "id": "n5-1C-v019",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "日曜日",
+  "pos": "N",
+  "reading": "にちようび",
+  "meaning": "Chủ nhật"
+ },
+ {
+  "id": "n5-1C-v020",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "何曜日",
+  "pos": "N",
+  "reading": "なんようび",
+  "meaning": "thứ mấy"
+ },
+ {
+  "id": "n5-1C-v021",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "何",
+  "pos": "N",
+  "reading": "なん",
+  "meaning": "cái gì"
+ },
+ {
+  "id": "n5-1C-v022",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "word",
+  "word": "いくら",
+  "pos": "N",
+  "reading": "いくら",
+  "meaning": "bao nhiêu tiền"
+ },
+ {
+  "id": "n5-1C-v023",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "expression",
+  "word": "～円",
+  "reading": "～えん",
+  "meaning": "yên (đơn vị tiền tệ của Nhật)"
+ },
+ {
+  "id": "n5-1C-v024",
+  "level": "n5",
+  "lessonId": "1C",
+  "kind": "expression",
+  "word": "～ドン",
+  "reading": "～ドン",
+  "meaning": "đồng (đơn vị tiền tệ của Việt Nam)"
+ },
+ {
+  "id": "n5-2A-v001",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "昨日",
+  "pos": "N",
+  "reading": "昨日",
+  "meaning": "（Adv.）"
+ },
+ {
+  "id": "n5-2A-v002",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "一昨日",
+  "pos": "N/Adv.",
+  "reading": "おととい",
+  "meaning": "hôm kia"
+ },
+ {
+  "id": "n5-2A-v003",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "今朝",
+  "pos": "N/Adv.",
+  "reading": "けさ",
+  "meaning": "sáng nay"
+ },
+ {
+  "id": "n5-2A-v004",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "先週",
+  "pos": "N/Adv.",
+  "reading": "せんしゅう",
+  "meaning": "tuần trước"
+ },
+ {
+  "id": "n5-2A-v005",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "今週",
+  "pos": "N/Adv.",
+  "reading": "こんしゅう",
+  "meaning": "tuần này"
+ },
+ {
+  "id": "n5-2A-v006",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "来週",
+  "pos": "N/Adv.",
+  "reading": "らいしゅう",
+  "meaning": "tuần sau"
+ },
+ {
+  "id": "n5-2A-v007",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "誕生日",
+  "pos": "N",
+  "reading": "たんじょうび",
+  "meaning": "sinh nhật"
+ },
+ {
+  "id": "n5-2A-v008",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "指輪",
+  "pos": "N",
+  "reading": "ゆびわ",
+  "meaning": "nhẫn"
+ },
+ {
+  "id": "n5-2A-v009",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "うち",
+  "pos": "N",
+  "reading": "うち",
+  "meaning": "nhà",
+  "note": "(Ngoài ra còn có nghĩa là \"tôi, tớ\" hay \"chúng tôi\")"
+ },
+ {
+  "id": "n5-2A-v010",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "雨",
+  "pos": "N",
+  "reading": "あめ",
+  "meaning": "mưa"
+ },
+ {
+  "id": "n5-2A-v011",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "晴れ",
+  "pos": "N",
+  "reading": "はれ",
+  "meaning": "nắng"
+ },
+ {
+  "id": "n5-2A-v012",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "曇り",
+  "pos": "N",
+  "reading": "くもり",
+  "meaning": "âm u, nhiều mây"
+ },
+ {
+  "id": "n5-2A-v013",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "アルバイト",
+  "pos": "N",
+  "reading": "アルバイト",
+  "meaning": "việc làm thêm"
+ },
+ {
+  "id": "n5-2A-v014",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "ゴールデンウィーク",
+  "pos": "N",
+  "reading": "ゴールデンウィーク",
+  "meaning": "tuần lễ vàng"
+ },
+ {
+  "id": "n5-2A-v015",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "プレゼント",
+  "pos": "N",
+  "reading": "プレゼント",
+  "meaning": "quà tặng"
+ },
+ {
+  "id": "n5-2A-v016",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "word",
+  "word": "ずっと",
+  "pos": "Adv.",
+  "reading": "ずっと",
+  "meaning": "suốt"
+ },
+ {
+  "id": "n5-2A-v017",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "一日",
+  "reading": "ついたち",
+  "meaning": "ngày mùng 1"
+ },
+ {
+  "id": "n5-2A-v018",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "二日",
+  "reading": "ふつか",
+  "meaning": "ngày mùng 2"
+ },
+ {
+  "id": "n5-2A-v019",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "三日",
+  "reading": "みっか",
+  "meaning": "ngày mùng 3"
+ },
+ {
+  "id": "n5-2A-v020",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "どうでしたか",
+  "reading": "どうでしたか",
+  "meaning": "... thế nào?",
+  "note": "( Hỏi về cảm nhận của đối phương về một sự vật, sự việc trong quá khứ )"
+ },
+ {
+  "id": "n5-2A-v021",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "四日",
+  "reading": "よっか",
+  "meaning": "ngày mùng 4"
+ },
+ {
+  "id": "n5-2A-v022",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "五日",
+  "reading": "いつか",
+  "meaning": "ngày mùng 5"
+ },
+ {
+  "id": "n5-2A-v023",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "六日",
+  "reading": "むいか",
+  "meaning": "ngày mùng 6"
+ },
+ {
+  "id": "n5-2A-v024",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "七日",
+  "reading": "なのか",
+  "meaning": "ngày mùng 7"
+ },
+ {
+  "id": "n5-2A-v025",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "八日",
+  "reading": "ようか",
+  "meaning": "ngày mùng 8"
+ },
+ {
+  "id": "n5-2A-v026",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "九日",
+  "reading": "ここのか",
+  "meaning": "ngày mùng 9"
+ },
+ {
+  "id": "n5-2A-v027",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "十日",
+  "reading": "とおか",
+  "meaning": "ngày mùng 10"
+ },
+ {
+  "id": "n5-2A-v028",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "～日",
+  "reading": "～にち",
+  "meaning": "ngày ～",
+  "note": "(Ngoại trừ một số trường hợp đặc biệt, từ ngày 11 ta có cách nói: Số đếm + にち )"
+ },
+ {
+  "id": "n5-2A-v029",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "十四日",
+  "reading": "じゅうよっか",
+  "meaning": "ngày 14"
+ },
+ {
+  "id": "n5-2A-v030",
+  "level": "n5",
+  "lessonId": "2A",
+  "kind": "expression",
+  "word": "二十日",
+  "reading": "はつか",
+  "meaning": "ngày 20"
+ },
+ {
+  "id": "n5-2B-v001",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "誰",
+  "pos": "N",
+  "reading": "だれ",
+  "meaning": "ai"
+ },
+ {
+  "id": "n5-2B-v002",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "どなた",
+  "pos": "N",
+  "reading": "どなた",
+  "meaning": "ai",
+  "note": "(cách nói lịch sự của 誰"
+ },
+ {
+  "id": "n5-2B-v003",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "人",
+  "pos": "N",
+  "reading": "ひと",
+  "meaning": "người"
+ },
+ {
+  "id": "n5-2B-v004",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "本",
+  "pos": "N",
+  "reading": "ほん",
+  "meaning": "sách"
+ },
+ {
+  "id": "n5-2B-v005",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "家",
+  "pos": "N",
+  "reading": "いえ",
+  "meaning": "nhà"
+ },
+ {
+  "id": "n5-2B-v006",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "鍵",
+  "pos": "N",
+  "reading": "かぎ",
+  "meaning": "chìa khóa"
+ },
+ {
+  "id": "n5-2B-v007",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "傘",
+  "pos": "N",
+  "reading": "かさ",
+  "meaning": "cái ô"
+ },
+ {
+  "id": "n5-2B-v008",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "車",
+  "pos": "N",
+  "reading": "くるま",
+  "meaning": "xe ô tô"
+ },
+ {
+  "id": "n5-2B-v009",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "お菓子",
+  "pos": "N",
+  "reading": "おかし",
+  "meaning": "bánh kẹo"
+ },
+ {
+  "id": "n5-2B-v010",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "豆",
+  "pos": "N",
+  "reading": "まめ",
+  "meaning": "đậu"
+ },
+ {
+  "id": "n5-2B-v011",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "米",
+  "pos": "N",
+  "reading": "こめ",
+  "meaning": "gạo"
+ },
+ {
+  "id": "n5-2B-v012",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "お酒",
+  "pos": "N",
+  "reading": "おさけ",
+  "meaning": "rượu"
+ },
+ {
+  "id": "n5-2B-v013",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "ぶどう",
+  "pos": "N",
+  "reading": "ぶどう",
+  "meaning": "nho"
+ },
+ {
+  "id": "n5-2B-v014",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "りんご",
+  "pos": "N",
+  "reading": "りんご",
+  "meaning": "táo",
+  "note": "CD （N） シーディー CD"
+ },
+ {
+  "id": "n5-2B-v015",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "スマホ",
+  "pos": "N",
+  "reading": "スマホ",
+  "meaning": "điện thoại (thông minh)"
+ },
+ {
+  "id": "n5-2B-v016",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "テレビ",
+  "pos": "N",
+  "reading": "テレビ",
+  "meaning": "tivi"
+ },
+ {
+  "id": "n5-2B-v017",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "パン",
+  "pos": "N",
+  "reading": "パン",
+  "meaning": "bánh mì"
+ },
+ {
+  "id": "n5-2B-v018",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "ケーキ",
+  "pos": "N",
+  "reading": "ケーキ",
+  "meaning": "bánh kem"
+ },
+ {
+  "id": "n5-2B-v019",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "ワイン",
+  "pos": "N",
+  "reading": "ワイン",
+  "meaning": "rượu vang"
+ },
+ {
+  "id": "n5-2B-v020",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "バイク",
+  "pos": "N",
+  "reading": "バイク",
+  "meaning": "xe máy (từ thường dùng trong",
+  "note": "cuộc sống)"
+ },
+ {
+  "id": "n5-2B-v021",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "オートバイ",
+  "pos": "N",
+  "reading": "オートバイ",
+  "meaning": "xe máy (từ thường dùng trong",
+  "note": "tin tức, báo chí ...)"
+ },
+ {
+  "id": "n5-2B-v022",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "カメラ",
+  "pos": "N",
+  "reading": "カメラ",
+  "meaning": "máy ảnh"
+ },
+ {
+  "id": "n5-2B-v023",
+  "level": "n5",
+  "lessonId": "2B",
+  "kind": "word",
+  "word": "チョコレート",
+  "pos": "N",
+  "reading": "チョコレート",
+  "meaning": "socola"
+ },
+ {
+  "id": "n5-2C-v001",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "expression",
+  "word": "ええ",
+  "reading": "ええ",
+  "meaning": "vâng"
+ },
+ {
+  "id": "n5-2C-v002",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "expression",
+  "word": "へえ",
+  "reading": "へえ",
+  "meaning": "ồ",
+  "note": "(từ cảm thán, thể hiện sự ngạc nhiên hoặc trầm trồ)"
+ },
+ {
+  "id": "n5-2C-v003",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "expression",
+  "word": "よかったら",
+  "reading": "よかったら",
+  "meaning": "nếu được thì..."
+ },
+ {
+  "id": "n5-2C-v004",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "expression",
+  "word": "どうぞ",
+  "reading": "どうぞ",
+  "meaning": "xin mời"
+ },
+ {
+  "id": "n5-2C-v005",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "word",
+  "word": "国",
+  "pos": "N",
+  "reading": "くに",
+  "meaning": "đất nước, quê hương"
+ },
+ {
+  "id": "n5-2C-v006",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "expression",
+  "word": "社員",
+  "reading": "しゃいん",
+  "meaning": "nhân viên"
+ },
+ {
+  "id": "n5-2C-v007",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "word",
+  "word": "職員",
+  "pos": "N",
+  "reading": "しょくいん",
+  "meaning": "nhân viên, công chức,",
+  "note": "viên chức"
+ },
+ {
+  "id": "n5-2C-v008",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "word",
+  "word": "作家",
+  "pos": "N",
+  "reading": "さっか",
+  "meaning": "nhà văn, tác giả"
+ },
+ {
+  "id": "n5-2C-v009",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "word",
+  "word": "運転手",
+  "pos": "N",
+  "reading": "うんてんしゅ",
+  "meaning": "tài xế"
+ },
+ {
+  "id": "n5-2C-v010",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "word",
+  "word": "大学",
+  "pos": "N",
+  "reading": "だいがく",
+  "meaning": "trường đại học"
+ },
+ {
+  "id": "n5-2C-v011",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "word",
+  "word": "昔",
+  "pos": "N/Adv.",
+  "reading": "むかし",
+  "meaning": "ngày xưa"
+ },
+ {
+  "id": "n5-2C-v012",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "word",
+  "word": "エンジニア",
+  "pos": "N",
+  "reading": "エンジニア",
+  "meaning": "kĩ sư"
+ },
+ {
+  "id": "n5-2C-v013",
+  "level": "n5",
+  "lessonId": "2C",
+  "kind": "word",
+  "word": "カンパニー",
+  "pos": "N",
+  "reading": "カンパニー",
+  "meaning": "công ty (thường đi sau tên riêng của 1",
+  "note": "công ty)"
+ },
+ {
+  "id": "n5-3A-v001",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "店",
+  "pos": "N",
+  "reading": "みせ",
+  "meaning": "cửa hàng"
+ },
+ {
+  "id": "n5-3A-v002",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "店員",
+  "pos": "N",
+  "reading": "てんいん",
+  "meaning": "nhân viên cửa hàng"
+ },
+ {
+  "id": "n5-3A-v003",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "部屋",
+  "pos": "N",
+  "reading": "へや",
+  "meaning": "căn phòng"
+ },
+ {
+  "id": "n5-3A-v004",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "東京",
+  "pos": "N",
+  "reading": "とうきょう",
+  "meaning": "Tokyo"
+ },
+ {
+  "id": "n5-3A-v005",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "町",
+  "pos": "N",
+  "reading": "まち",
+  "meaning": "thành phố, thị trấn"
+ },
+ {
+  "id": "n5-3A-v006",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "駅",
+  "pos": "N",
+  "reading": "えき",
+  "meaning": "nhà ga"
+ },
+ {
+  "id": "n5-3A-v007",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "あっち",
+  "pos": "N",
+  "reading": "こっち・そっち・ / あっち",
+  "meaning": "chỗ này, chỗ đó,",
+  "note": "chỗ kia"
+ },
+ {
+  "id": "n5-3A-v008",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "地下鉄",
+  "pos": "N",
+  "reading": "ちかてつ",
+  "meaning": "tàu điện ngầm"
+ },
+ {
+  "id": "n5-3A-v009",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "毎日",
+  "pos": "N/Adv.",
+  "reading": "まいにち",
+  "meaning": "hàng ngày,",
+  "note": "ngày nào cũng"
+ },
+ {
+  "id": "n5-3A-v010",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "最近",
+  "pos": "N/Adv.",
+  "reading": "さいきん",
+  "meaning": "gần đây"
+ },
+ {
+  "id": "n5-3A-v011",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "ラーメン",
+  "pos": "N",
+  "reading": "ラーメン",
+  "meaning": "mì ramen"
+ },
+ {
+  "id": "n5-3A-v012",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "アパート",
+  "pos": "N",
+  "reading": "アパート",
+  "meaning": "chung cư (thấp tầng, thường",
+  "note": "có giá bình dân)"
+ },
+ {
+  "id": "n5-3A-v013",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "おいしい",
+  "pos": "A い",
+  "reading": "おいしい",
+  "meaning": "ngon"
+ },
+ {
+  "id": "n5-3A-v014",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "高い",
+  "pos": "A い",
+  "reading": "たかい",
+  "meaning": "cao, đắt"
+ },
+ {
+  "id": "n5-3A-v015",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "安い",
+  "pos": "A い",
+  "reading": "やすい",
+  "meaning": "rẻ"
+ },
+ {
+  "id": "n5-3A-v016",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "いい",
+  "pos": "A い",
+  "reading": "いい",
+  "meaning": "tốt, hay"
+ },
+ {
+  "id": "n5-3A-v017",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "悪い",
+  "pos": "A い",
+  "reading": "わるい",
+  "meaning": "xấu, dở"
+ },
+ {
+  "id": "n5-3A-v018",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "広い",
+  "pos": "A い",
+  "reading": "ひろい",
+  "meaning": "rộng"
+ },
+ {
+  "id": "n5-3A-v019",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "狭い",
+  "pos": "A い",
+  "reading": "せまい",
+  "meaning": "chật, hẹp"
+ },
+ {
+  "id": "n5-3A-v020",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "暑い",
+  "pos": "A い",
+  "reading": "あつい",
+  "meaning": "nóng"
+ },
+ {
+  "id": "n5-3A-v021",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "寒い",
+  "pos": "A い",
+  "reading": "さむい",
+  "meaning": "lạnh"
+ },
+ {
+  "id": "n5-3A-v022",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "古い",
+  "pos": "A い",
+  "reading": "ふるい",
+  "meaning": "cũ"
+ },
+ {
+  "id": "n5-3A-v023",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "新しい",
+  "pos": "A い",
+  "reading": "あたらしい",
+  "meaning": "mới"
+ },
+ {
+  "id": "n5-3A-v024",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "expression",
+  "word": "また」,",
+  "reading": "また」,",
+  "meaning": "khi đó chữ「あ」sẽ xuống",
+  "note": "giọng. hẹn gặp lại. (câu chào khi tạm biệt, với ý nghĩa hẹn gặp lại)"
+ },
+ {
+  "id": "n5-3A-v025",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "expression",
+  "word": "失礼します",
+  "reading": "しつれいします",
+  "meaning": "tôi xin phép nhé. (một cách chào",
+  "note": "lịch sự khi ra về, đi vào/ rời khỏi nơi nào đó)"
+ },
+ {
+  "id": "n5-3A-v026",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "expression",
+  "word": "ええっ",
+  "reading": "ええっ",
+  "meaning": "hả? gì? (từ cảm thán, thể hiện sự",
+  "note": "giật mình ngạc nhiên, kinh ngạc)"
+ },
+ {
+  "id": "n5-3A-v027",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "忙しい",
+  "pos": "A い",
+  "reading": "いそがしい",
+  "meaning": "bận"
+ },
+ {
+  "id": "n5-3A-v028",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "きれい",
+  "pos": "A な",
+  "reading": "きれい",
+  "meaning": "sạch, đẹp"
+ },
+ {
+  "id": "n5-3A-v029",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "にぎやか",
+  "pos": "A な",
+  "reading": "にぎやか",
+  "meaning": "náo nhiệt, nhộn nhịp"
+ },
+ {
+  "id": "n5-3A-v030",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "静か",
+  "pos": "A な",
+  "reading": "しずか",
+  "meaning": "yên tĩnh"
+ },
+ {
+  "id": "n5-3A-v031",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "暇",
+  "pos": "A な",
+  "reading": "ひま",
+  "meaning": "rảnh rỗi"
+ },
+ {
+  "id": "n5-3A-v032",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "便利",
+  "pos": "A な",
+  "reading": "べんり",
+  "meaning": "tiện lợi"
+ },
+ {
+  "id": "n5-3A-v033",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "複雑",
+  "pos": "A な",
+  "reading": "ふくざつ",
+  "meaning": "phức tạp"
+ },
+ {
+  "id": "n5-3A-v034",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "簡単",
+  "pos": "A な",
+  "reading": "かんたん",
+  "meaning": "đơn giản"
+ },
+ {
+  "id": "n5-3A-v035",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "元気",
+  "pos": "A な",
+  "reading": "げんき",
+  "meaning": "khỏe mạnh"
+ },
+ {
+  "id": "n5-3A-v036",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "有名",
+  "pos": "A な",
+  "reading": "ゆうめい",
+  "meaning": "nổi tiếng"
+ },
+ {
+  "id": "n5-3A-v037",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "丁寧",
+  "pos": "A な",
+  "reading": "ていねい",
+  "meaning": "lịch sự, cẩn thận, chỉn chu"
+ },
+ {
+  "id": "n5-3A-v038",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "ハンサム",
+  "pos": "A な",
+  "reading": "ハンサム",
+  "meaning": "đẹp trai"
+ },
+ {
+  "id": "n5-3A-v039",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "すごく / とても",
+  "pos": "Adv.",
+  "reading": "すごく / とても",
+  "meaning": "rất"
+ },
+ {
+  "id": "n5-3A-v040",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "まあまあ",
+  "pos": "Adv.",
+  "reading": "まあまあ",
+  "meaning": "tàm tạm"
+ },
+ {
+  "id": "n5-3A-v041",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "ちょっと / 少し",
+  "pos": "Adv.",
+  "reading": "ちょっと / すこし",
+  "meaning": "một chút"
+ },
+ {
+  "id": "n5-3A-v042",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "あまり",
+  "pos": "Adv.",
+  "reading": "あまり",
+  "meaning": "không ～ lắm"
+ },
+ {
+  "id": "n5-3A-v043",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "全然",
+  "pos": "Adv.",
+  "reading": "ぜんぜん",
+  "meaning": "hoàn toàn (không)"
+ },
+ {
+  "id": "n5-3A-v044",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "そんなに",
+  "pos": "Adv.",
+  "reading": "そんなに",
+  "meaning": "đến thế, đến mức như thế"
+ },
+ {
+  "id": "n5-3A-v045",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "word",
+  "word": "本当に",
+  "pos": "Adv.",
+  "reading": "ほんとうに",
+  "meaning": "thật sự"
+ },
+ {
+  "id": "n5-3A-v046",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "expression",
+  "word": "それに",
+  "reading": "それに",
+  "meaning": "hơn nữa"
+ },
+ {
+  "id": "n5-3A-v047",
+  "level": "n5",
+  "lessonId": "3A",
+  "kind": "expression",
+  "word": "でも",
+  "reading": "でも",
+  "meaning": "nhưng"
+ },
+ {
+  "id": "n5-3B-v001",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "一人暮らし",
+  "pos": "N",
+  "reading": "ひとりぐらし",
+  "meaning": "sống 1 mình"
+ },
+ {
+  "id": "n5-3B-v002",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "生活",
+  "pos": "N",
+  "reading": "せいかつ",
+  "meaning": "cuộc sống"
+ },
+ {
+  "id": "n5-3B-v003",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "授業",
+  "pos": "N",
+  "reading": "じゅぎょう",
+  "meaning": "giờ học"
+ },
+ {
+  "id": "n5-3B-v004",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "楽しい",
+  "pos": "A い",
+  "reading": "たのしい",
+  "meaning": "vui"
+ },
+ {
+  "id": "n5-3B-v005",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "寂しい",
+  "pos": "A い",
+  "reading": "さびしい",
+  "meaning": "cô đơn"
+ },
+ {
+  "id": "n5-3B-v006",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "小さい",
+  "pos": "A い",
+  "reading": "ちいさい",
+  "meaning": "nhỏ, bé"
+ },
+ {
+  "id": "n5-3B-v007",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "大きい",
+  "pos": "A い",
+  "reading": "おおきい",
+  "meaning": "to, lớn"
+ },
+ {
+  "id": "n5-3B-v008",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "かわいい",
+  "pos": "A い",
+  "reading": "かわいい",
+  "meaning": "đáng yêu"
+ },
+ {
+  "id": "n5-3B-v009",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "辛い",
+  "pos": "A い",
+  "reading": "からい",
+  "meaning": "cay"
+ },
+ {
+  "id": "n5-3B-v010",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "面白い",
+  "pos": "A い",
+  "reading": "おもしろい",
+  "meaning": "thú vị"
+ },
+ {
+  "id": "n5-3B-v011",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "多い",
+  "pos": "A い",
+  "reading": "おおい",
+  "meaning": "nhiều"
+ },
+ {
+  "id": "n5-3B-v012",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "明るい",
+  "pos": "A い",
+  "reading": "あかるい / あかるい",
+  "meaning": "sáng sủa (tính chất sự vật);",
+  "note": "tươi sáng, lạc quan (tính cách)"
+ },
+ {
+  "id": "n5-3B-v013",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "難しい",
+  "pos": "A い",
+  "reading": "むずかしい",
+  "meaning": "khó"
+ },
+ {
+  "id": "n5-3B-v014",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "素敵",
+  "pos": "A な",
+  "reading": "すてき",
+  "meaning": "đẹp, trang nhã"
+ },
+ {
+  "id": "n5-3B-v015",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "親切",
+  "pos": "A な",
+  "reading": "しんせつ",
+  "meaning": "thân thiện, tốt bụng"
+ },
+ {
+  "id": "n5-3B-v016",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "不思議",
+  "pos": "A な",
+  "reading": "ふしぎ",
+  "meaning": "kì lạ"
+ },
+ {
+  "id": "n5-3B-v017",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "word",
+  "word": "大変",
+  "pos": "A な",
+  "reading": "たいへん",
+  "meaning": "vất vả"
+ },
+ {
+  "id": "n5-3B-v018",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "expression",
+  "word": "頭がいい",
+  "reading": "あたまがいい",
+  "meaning": "thông minh"
+ },
+ {
+  "id": "n5-3B-v019",
+  "level": "n5",
+  "lessonId": "3B",
+  "kind": "expression",
+  "word": "人が多い",
+  "reading": "ひとがおおい",
+  "meaning": "đông người"
+ },
+ {
+  "id": "n5-3C-v001",
+  "level": "n5",
+  "lessonId": "3C",
+  "kind": "expression",
+  "word": "そういえば",
+  "reading": "そういえば",
+  "meaning": "nói mới nhớ"
+ },
+ {
+  "id": "n5-3C-v002",
+  "level": "n5",
+  "lessonId": "3C",
+  "kind": "word",
+  "word": "肉",
+  "pos": "N",
+  "reading": "にく",
+  "meaning": "thịt"
+ },
+ {
+  "id": "n5-3C-v003",
+  "level": "n5",
+  "lessonId": "3C",
+  "kind": "word",
+  "word": "所",
+  "pos": "N",
+  "reading": "ところ",
+  "meaning": "nơi, chỗ"
+ },
+ {
+  "id": "n5-3C-v004",
+  "level": "n5",
+  "lessonId": "3C",
+  "kind": "word",
+  "word": "バーベキュー",
+  "pos": "N",
+  "reading": "バーベキュー",
+  "meaning": "nướng thịt ngoài trời/",
+  "note": "nướng BBQ"
+ },
+ {
+  "id": "n5-3C-v005",
+  "level": "n5",
+  "lessonId": "3C",
+  "kind": "word",
+  "word": "バーベキュー場",
+  "pos": "N",
+  "reading": "バーベキューじょう",
+  "meaning": "khu vực nướng BBQ"
+ },
+ {
+  "id": "n5-3C-v006",
+  "level": "n5",
+  "lessonId": "3C",
+  "kind": "word",
+  "word": "パーティ―",
+  "pos": "N",
+  "reading": "パーティ―",
+  "meaning": "bữa tiệc"
+ },
+ {
+  "id": "n5-3C-v007",
+  "level": "n5",
+  "lessonId": "3C",
+  "kind": "word",
+  "word": "テスト",
+  "pos": "N",
+  "reading": "テスト",
+  "meaning": "bài kiểm tra"
+ },
+ {
+  "id": "n5-3C-v008",
+  "level": "n5",
+  "lessonId": "3C",
+  "kind": "word",
+  "word": "残念",
+  "pos": "A な",
+  "reading": "ざんねん",
+  "meaning": "tiếc, đáng tiếc"
+ },
+ {
+  "id": "n5-3C-v009",
+  "level": "n5",
+  "lessonId": "3C",
+  "kind": "expression",
+  "word": "どんな",
+  "reading": "どんな",
+  "meaning": "như thế nào",
+  "note": "(luôn đứng trước danh từ)"
+ },
+ {
+  "id": "n5-3D-v001",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "山",
+  "pos": "N",
+  "reading": "やま",
+  "meaning": "núi"
+ },
+ {
+  "id": "n5-3D-v002",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "富士山",
+  "pos": "N",
+  "reading": "ふじさん",
+  "meaning": "núi Phú Sĩ"
+ },
+ {
+  "id": "n5-3D-v003",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "建物",
+  "pos": "N",
+  "reading": "たてもの",
+  "meaning": "tòa nhà"
+ },
+ {
+  "id": "n5-3D-v004",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "歌手",
+  "pos": "N",
+  "reading": "かしゅ",
+  "meaning": "ca sĩ"
+ },
+ {
+  "id": "n5-3D-v005",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "一年",
+  "pos": "N/Adv.",
+  "reading": "いちねん",
+  "meaning": "1 năm"
+ },
+ {
+  "id": "n5-3D-v006",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "ほう",
+  "pos": "N",
+  "reading": "ほう",
+  "meaning": "phía ～"
+ },
+ {
+  "id": "n5-3D-v007",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "どれ",
+  "pos": "N",
+  "reading": "どれ",
+  "meaning": "cái nào"
+ },
+ {
+  "id": "n5-3D-v008",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "どこ",
+  "pos": "N",
+  "reading": "どこ",
+  "meaning": "chỗ nào; ở đâu"
+ },
+ {
+  "id": "n5-3D-v009",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "何",
+  "pos": "N",
+  "reading": "なに",
+  "meaning": "cái gì"
+ },
+ {
+  "id": "n5-3D-v010",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "スカート",
+  "pos": "N",
+  "reading": "スカート",
+  "meaning": "chân váy"
+ },
+ {
+  "id": "n5-3D-v011",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "パンツ",
+  "pos": "N",
+  "reading": "パンツ / パンツ",
+  "meaning": "quần lót",
+  "note": "quần dài"
+ },
+ {
+  "id": "n5-3D-v012",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "ズボン",
+  "pos": "N",
+  "reading": "ズボン",
+  "meaning": "quần dài"
+ },
+ {
+  "id": "n5-3D-v013",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "赤い",
+  "pos": "A い",
+  "reading": "あかい",
+  "meaning": "màu đỏ"
+ },
+ {
+  "id": "n5-3D-v014",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "黒い",
+  "pos": "A い",
+  "reading": "くろい",
+  "meaning": "màu đen"
+ },
+ {
+  "id": "n5-3D-v015",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "一番",
+  "pos": "Adv.",
+  "reading": "いちばん",
+  "meaning": "nhất, số một"
+ },
+ {
+  "id": "n5-3D-v016",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "多分",
+  "pos": "Adv.",
+  "reading": "たぶん",
+  "meaning": "có lẽ"
+ },
+ {
+  "id": "n5-3D-v017",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "expression",
+  "word": "いつ",
+  "reading": "いつ",
+  "meaning": "khi nào"
+ },
+ {
+  "id": "n5-3D-v018",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "expression",
+  "word": "どっち",
+  "reading": "どっち",
+  "meaning": "phía nào"
+ },
+ {
+  "id": "n5-3D-v019",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "expression",
+  "word": "そのなか",
+  "reading": "そのなか",
+  "meaning": "trong số đó"
+ },
+ {
+  "id": "n5-3D-v020",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "～月",
+  "reading": "～がつ",
+  "meaning": "tháng ～"
+ },
+ {
+  "id": "n5-3D-v021",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "四月",
+  "reading": "しがつ",
+  "meaning": "tháng 4"
+ },
+ {
+  "id": "n5-3D-v022",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "七月",
+  "reading": "しちがつ",
+  "meaning": "tháng 7"
+ },
+ {
+  "id": "n5-3D-v023",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "word",
+  "word": "九月",
+  "reading": "くがつ",
+  "meaning": "tháng 9"
+ },
+ {
+  "id": "n5-3D-v024",
+  "level": "n5",
+  "lessonId": "3D",
+  "kind": "expression",
+  "word": "何月",
+  "reading": "なんがつ",
+  "meaning": "tháng mấy"
+ },
+ {
+  "id": "n5-4A-v001",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "expression",
+  "word": "うん",
+  "reading": "うん",
+  "meaning": "ừ, ừm (cách nói suồng sã của「はい」.",
+  "note": "Có nhiều trường hợp phát âm bằng âm mũi「んん」)"
+ },
+ {
+  "id": "n5-4A-v002",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "expression",
+  "word": "ううん",
+  "reading": "ううん（⤴）",
+  "meaning": "không (cách nói thân mật, suồng sã",
+  "note": "của「いいえ」. Có nhiều trường hợp phát âm bằng âm mũi「んんん」và lên giọng ở chữ「ん」cuối cùng.)"
+ },
+ {
+  "id": "n5-4A-v003",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "女の人",
+  "pos": "N",
+  "reading": "おんなのひと",
+  "meaning": "phụ nữ, con gái"
+ },
+ {
+  "id": "n5-4A-v004",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "男の人",
+  "pos": "N",
+  "reading": "おとこのひと",
+  "meaning": "đàn ông, con trai"
+ },
+ {
+  "id": "n5-4A-v005",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "女優",
+  "pos": "N",
+  "reading": "じょゆう",
+  "meaning": "nữ diễn viên"
+ },
+ {
+  "id": "n5-4A-v006",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "子ども",
+  "pos": "N",
+  "reading": "こども",
+  "meaning": "con, trẻ con"
+ },
+ {
+  "id": "n5-4A-v007",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "恋人",
+  "pos": "N",
+  "reading": "こいびと",
+  "meaning": "người yêu"
+ },
+ {
+  "id": "n5-4A-v008",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "妹",
+  "pos": "N",
+  "reading": "いもうと",
+  "meaning": "em gái của mình"
+ },
+ {
+  "id": "n5-4A-v009",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "妹さん",
+  "pos": "N",
+  "reading": "いもうとさん",
+  "meaning": "em gái của người khác"
+ },
+ {
+  "id": "n5-4A-v010",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "試験",
+  "pos": "N",
+  "reading": "しけん",
+  "meaning": "kỳ thi, bài thi"
+ },
+ {
+  "id": "n5-4A-v011",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "お祭り",
+  "pos": "N",
+  "reading": "おまつり",
+  "meaning": "lễ hội"
+ },
+ {
+  "id": "n5-4A-v012",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "本当",
+  "pos": "N",
+  "reading": "ほんとう",
+  "meaning": "thật, sự thật"
+ },
+ {
+  "id": "n5-4A-v013",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "今晩",
+  "pos": "N/Adv.",
+  "reading": "こんばん",
+  "meaning": "tối nay"
+ },
+ {
+  "id": "n5-4A-v014",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "スマホケース",
+  "pos": "N",
+  "reading": "スマホケース",
+  "meaning": "ốp điện thoại"
+ },
+ {
+  "id": "n5-4A-v015",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "デザイン",
+  "pos": "N",
+  "reading": "デザイン",
+  "meaning": "thiết kế"
+ },
+ {
+  "id": "n5-4A-v016",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "おとなしい",
+  "pos": "A い",
+  "reading": "おとなしい",
+  "meaning": "điềm tĩnh, ít nói"
+ },
+ {
+  "id": "n5-4A-v017",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "おしゃべり",
+  "pos": "A な",
+  "reading": "おしゃべり",
+  "meaning": "hay chuyện, nói nhiều"
+ },
+ {
+  "id": "n5-4A-v018",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "あんまり",
+  "pos": "Adv.",
+  "reading": "あんまり",
+  "meaning": "không ～ lắm"
+ },
+ {
+  "id": "n5-4A-v019",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "expression",
+  "word": "よく見て",
+  "reading": "よくみて",
+  "meaning": "hãy nhìn kĩ"
+ },
+ {
+  "id": "n5-4A-v020",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "expression",
+  "word": "違う（よ）",
+  "reading": "ちがうよ",
+  "meaning": "khác, không phải"
+ },
+ {
+  "id": "n5-4A-v021",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "～かな（あ）？",
+  "reading": "～かな（あ）",
+  "meaning": "có phải ～ không nhỉ?",
+  "note": "(được dùng trong hội thoại thân mật suồng sã)"
+ },
+ {
+  "id": "n5-4A-v022",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "恋人かな",
+  "reading": "こいびとかな",
+  "meaning": "có phải người yêu không nhỉ?"
+ },
+ {
+  "id": "n5-4A-v023",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "word",
+  "word": "本当かな",
+  "reading": "ほんとうかな",
+  "meaning": "có thật không nhỉ?"
+ },
+ {
+  "id": "n5-4A-v024",
+  "level": "n5",
+  "lessonId": "4A",
+  "kind": "expression",
+  "word": "うーん",
+  "reading": "うーん",
+  "meaning": "Hmmm",
+  "note": "(lời ậm ừ khi phân vân, suy nghĩ)"
+ },
+ {
+  "id": "n5-4B-v001",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "word",
+  "word": "外国",
+  "pos": "N",
+  "reading": "がいこく",
+  "meaning": "nước ngoài"
+ },
+ {
+  "id": "n5-4B-v002",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "word",
+  "word": "外国人",
+  "pos": "N",
+  "reading": "がいこくじん",
+  "meaning": "người nước ngoài"
+ },
+ {
+  "id": "n5-4B-v003",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "word",
+  "word": "外国語",
+  "pos": "N",
+  "reading": "がいこくご",
+  "meaning": "ngoại ngữ"
+ },
+ {
+  "id": "n5-4B-v004",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "word",
+  "word": "外国語大学",
+  "pos": "N",
+  "reading": "がいこくごだいがく",
+  "meaning": "đại học Ngoại ngữ"
+ },
+ {
+  "id": "n5-4B-v005",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "word",
+  "word": "髪型",
+  "pos": "N",
+  "reading": "かみがた",
+  "meaning": "kiểu tóc"
+ },
+ {
+  "id": "n5-4B-v006",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "word",
+  "word": "美容院",
+  "pos": "N",
+  "reading": "びよういん",
+  "meaning": "tiệm làm tóc, salon"
+ },
+ {
+  "id": "n5-4B-v007",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "word",
+  "word": "飲み会",
+  "pos": "N",
+  "reading": "のみかい",
+  "meaning": "buổi nhậu, buổi liên hoan"
+ },
+ {
+  "id": "n5-4B-v008",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "word",
+  "word": "駅前",
+  "pos": "N",
+  "reading": "えきまえ",
+  "meaning": "trước nhà ga"
+ },
+ {
+  "id": "n5-4B-v009",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "word",
+  "word": "勉強",
+  "pos": "N",
+  "reading": "べんきょう",
+  "meaning": "việc học"
+ },
+ {
+  "id": "n5-4B-v010",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "word",
+  "word": "全部",
+  "pos": "N/Adv.",
+  "reading": "ぜんぶ",
+  "meaning": "toàn bộ, tất cả"
+ },
+ {
+  "id": "n5-4B-v011",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "word",
+  "word": "全部で",
+  "pos": "N/Adv.",
+  "reading": "ぜんぶで",
+  "meaning": "tổng cộng là"
+ },
+ {
+  "id": "n5-4B-v012",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "word",
+  "word": "サークル",
+  "pos": "N",
+  "reading": "サークル",
+  "meaning": "câu lạc bộ"
+ },
+ {
+  "id": "n5-4B-v013",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "expression",
+  "word": "よかったね",
+  "reading": "よかったね",
+  "meaning": "hay nhỉ, tốt rồi nhỉ!"
+ },
+ {
+  "id": "n5-4B-v014",
+  "level": "n5",
+  "lessonId": "4B",
+  "kind": "expression",
+  "word": "～けど",
+  "reading": "～けど",
+  "meaning": "nhưng mà",
+  "note": "(cách nói suồng sã, thân mật của「～が」)"
+ },
+ {
+  "id": "n5-5A-v001",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "本屋",
+  "pos": "N",
+  "reading": "ほんや",
+  "meaning": "hiệu sách"
+ },
+ {
+  "id": "n5-5A-v002",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "庭",
+  "pos": "N",
+  "reading": "にわ",
+  "meaning": "sân vườn"
+ },
+ {
+  "id": "n5-5A-v003",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "公園",
+  "pos": "N",
+  "reading": "こうえん",
+  "meaning": "công viên"
+ },
+ {
+  "id": "n5-5A-v004",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "売り場",
+  "reading": "うりば",
+  "pos": "N",
+  "meaning": "quầy bán hàng"
+ },
+ {
+  "id": "n5-5A-v005",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "ワイン売り場",
+  "reading": "ワインうりば",
+  "pos": "N",
+  "meaning": "quầy rượu vang"
+ },
+ {
+  "id": "n5-5A-v006",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "お菓子売り場",
+  "reading": "おかしうりば",
+  "pos": "N",
+  "meaning": "quầy bánh kẹo"
+ },
+ {
+  "id": "n5-5A-v007",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "肉売り場",
+  "reading": "にくうりば",
+  "pos": "N",
+  "meaning": "quầy bán thịt"
+ },
+ {
+  "id": "n5-5A-v008",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "はさみ",
+  "pos": "N",
+  "reading": "はさみ",
+  "meaning": "cái kéo"
+ },
+ {
+  "id": "n5-5A-v009",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "引き出し",
+  "pos": "N",
+  "reading": "ひきだし",
+  "meaning": "ngăn kéo"
+ },
+ {
+  "id": "n5-5A-v010",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "机",
+  "pos": "N",
+  "reading": "つくえ",
+  "meaning": "cái bàn"
+ },
+ {
+  "id": "n5-5A-v011",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "椅子",
+  "pos": "N",
+  "reading": "いす",
+  "meaning": "ghế"
+ },
+ {
+  "id": "n5-5A-v012",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "本棚",
+  "pos": "N",
+  "reading": "ほんだな",
+  "meaning": "giá sách"
+ },
+ {
+  "id": "n5-5A-v013",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "冷蔵庫",
+  "pos": "N",
+  "reading": "れいぞうこ",
+  "meaning": "tủ lạnh"
+ },
+ {
+  "id": "n5-5A-v014",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "電子レンジ",
+  "pos": "N",
+  "reading": "でんしレンジ",
+  "meaning": "lò vi sóng"
+ },
+ {
+  "id": "n5-5A-v015",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "台所",
+  "pos": "N",
+  "reading": "だいどころ",
+  "meaning": "nhà bếp"
+ },
+ {
+  "id": "n5-5A-v016",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "財布",
+  "pos": "N",
+  "reading": "さいふ",
+  "meaning": "ví tiền"
+ },
+ {
+  "id": "n5-5A-v017",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "自転車",
+  "pos": "N",
+  "reading": "じてんしゃ",
+  "meaning": "xe đạp"
+ },
+ {
+  "id": "n5-5A-v018",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "箱",
+  "pos": "N",
+  "reading": "はこ",
+  "meaning": "hộp"
+ },
+ {
+  "id": "n5-5A-v019",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "木",
+  "pos": "N",
+  "reading": "き",
+  "meaning": "cây"
+ },
+ {
+  "id": "n5-5A-v020",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "前",
+  "pos": "N",
+  "reading": "まえ",
+  "meaning": "trước đây, phía trước"
+ },
+ {
+  "id": "n5-5A-v021",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "後ろ",
+  "pos": "N",
+  "reading": "うしろ",
+  "meaning": "phía sau"
+ },
+ {
+  "id": "n5-5A-v022",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "右",
+  "pos": "N",
+  "reading": "みぎ",
+  "meaning": "bên phải"
+ },
+ {
+  "id": "n5-5A-v023",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "左",
+  "pos": "N",
+  "reading": "ひだり",
+  "meaning": "bên trái"
+ },
+ {
+  "id": "n5-5A-v024",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "上",
+  "pos": "N",
+  "reading": "うえ",
+  "meaning": "bên trên"
+ },
+ {
+  "id": "n5-5A-v025",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "下",
+  "pos": "N",
+  "reading": "した",
+  "meaning": "bên dưới"
+ },
+ {
+  "id": "n5-5A-v026",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "中",
+  "pos": "N",
+  "reading": "なか",
+  "meaning": "bên trong"
+ },
+ {
+  "id": "n5-5A-v027",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "外",
+  "pos": "N",
+  "reading": "そと",
+  "meaning": "bên ngoài"
+ },
+ {
+  "id": "n5-5A-v028",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "expression",
+  "word": "申し訳ありません",
+  "reading": "もうしわけありません",
+  "meaning": "Tôi xin lỗi ạ.",
+  "note": "(Cách nói xin lỗi một cách lịch sự khi người nói thừa nhận về hành động của mình; hoặc được dùng để bày tỏ sự tiếc nuối, đáng tiếc với người nghe)"
+ },
+ {
+  "id": "n5-5A-v029",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "expression",
+  "word": "申し訳ございません",
+  "reading": "もうしわけございません",
+  "meaning": "Tôi xin lỗi ạ.",
+  "note": "(Cách nói lịch sự hơn của「申"
+ },
+ {
+  "id": "n5-5A-v030",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "間",
+  "pos": "N",
+  "reading": "あいだ",
+  "meaning": "ở giữa"
+ },
+ {
+  "id": "n5-5A-v031",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "真ん中",
+  "pos": "N",
+  "reading": "まんなか",
+  "meaning": "chính giữa"
+ },
+ {
+  "id": "n5-5A-v032",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "横",
+  "pos": "N",
+  "reading": "よこ",
+  "meaning": "(ngang) bên cạnh, sát bên"
+ },
+ {
+  "id": "n5-5A-v033",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "隣",
+  "pos": "N",
+  "reading": "となり",
+  "meaning": "gần bên, hàng xóm"
+ },
+ {
+  "id": "n5-5A-v034",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "近く",
+  "pos": "N",
+  "reading": "ちかく",
+  "meaning": "gần, nơi lân cận"
+ },
+ {
+  "id": "n5-5A-v035",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "ここ、そこ、あそこ",
+  "pos": "N",
+  "reading": "ここ、そこ、あそこ",
+  "meaning": "chỗ này, chỗ đó, chỗ kia"
+ },
+ {
+  "id": "n5-5A-v036",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "消しゴム",
+  "pos": "N",
+  "reading": "けしゴム",
+  "meaning": "cục tẩy"
+ },
+ {
+  "id": "n5-5A-v037",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "ホッチキス",
+  "pos": "N",
+  "reading": "ホッチキス",
+  "meaning": "dập ghim"
+ },
+ {
+  "id": "n5-5A-v038",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "ノート",
+  "pos": "N",
+  "reading": "ノート",
+  "meaning": "vở"
+ },
+ {
+  "id": "n5-5A-v039",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "ソファ",
+  "pos": "N",
+  "reading": "ソファ",
+  "meaning": "ghế sô-pha"
+ },
+ {
+  "id": "n5-5A-v040",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "ベッド",
+  "pos": "N",
+  "reading": "ベッド",
+  "meaning": "giường"
+ },
+ {
+  "id": "n5-5A-v041",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "あります",
+  "pos": "VI",
+  "reading": "あります",
+  "meaning": "có, ở"
+ },
+ {
+  "id": "n5-5A-v042",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "expression",
+  "word": "ない",
+  "reading": "ない",
+  "meaning": "không có"
+ },
+ {
+  "id": "n5-5A-v043",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "expression",
+  "word": "それから",
+  "reading": "それから",
+  "meaning": "ngoài ra, và còn, sau đó"
+ },
+ {
+  "id": "n5-5A-v044",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "expression",
+  "word": "あと",
+  "reading": "あと",
+  "meaning": "ngoài ra, và còn"
+ },
+ {
+  "id": "n5-5A-v045",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "～階",
+  "reading": "～かい",
+  "meaning": "tầng ～"
+ },
+ {
+  "id": "n5-5A-v046",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "１階",
+  "reading": "いっかい",
+  "meaning": "tầng 1"
+ },
+ {
+  "id": "n5-5A-v047",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "２階",
+  "reading": "にかい",
+  "meaning": "tầng 2"
+ },
+ {
+  "id": "n5-5A-v048",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "３階",
+  "reading": "さんがい",
+  "meaning": "tầng 3"
+ },
+ {
+  "id": "n5-5A-v049",
+  "level": "n5",
+  "lessonId": "5A",
+  "kind": "word",
+  "word": "何階",
+  "reading": "なんがい",
+  "meaning": "tầng mấy?"
+ },
+ {
+  "id": "n5-5B-v001",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "expression",
+  "word": "なんだ",
+  "reading": "なんだ",
+  "meaning": "tưởng gì! (Sử dụng khi điều mình lo",
+  "note": "lắng không có gì to tát, hoặc có việc gì đó xảy ra ngoài mong đợi)"
+ },
+ {
+  "id": "n5-5B-v002",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "expression",
+  "word": "お願いします",
+  "reading": "おねがいします",
+  "meaning": "nhờ anh/chị."
+ },
+ {
+  "id": "n5-5B-v003",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "映画",
+  "pos": "N",
+  "reading": "えいが",
+  "meaning": "phim ảnh"
+ },
+ {
+  "id": "n5-5B-v004",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "教室",
+  "pos": "N",
+  "reading": "きょうしつ",
+  "meaning": "lớp học"
+ },
+ {
+  "id": "n5-5B-v005",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "食堂",
+  "pos": "N",
+  "reading": "しょくどう",
+  "meaning": "nhà ăn"
+ },
+ {
+  "id": "n5-5B-v006",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "事務所",
+  "pos": "N",
+  "reading": "じむしょ",
+  "meaning": "văn phòng"
+ },
+ {
+  "id": "n5-5B-v007",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "休憩",
+  "pos": "N",
+  "reading": "きゅうけい",
+  "meaning": "nghỉ giải lao"
+ },
+ {
+  "id": "n5-5B-v008",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "電話",
+  "pos": "N",
+  "reading": "でんわ",
+  "meaning": "cuộc điện thoại, điện thoại"
+ },
+ {
+  "id": "n5-5B-v009",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "窓",
+  "pos": "N",
+  "reading": "まど",
+  "meaning": "cửa sổ"
+ },
+ {
+  "id": "n5-5B-v010",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "社長",
+  "pos": "N",
+  "reading": "しゃちょう",
+  "meaning": "giám đốc"
+ },
+ {
+  "id": "n5-5B-v011",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "部長",
+  "pos": "N",
+  "reading": "ぶちょう",
+  "meaning": "trưởng bộ phận, trưởng ban"
+ },
+ {
+  "id": "n5-5B-v012",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "課長",
+  "pos": "N",
+  "reading": "かちょう",
+  "meaning": "trưởng phòng"
+ },
+ {
+  "id": "n5-5B-v013",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "誰か",
+  "pos": "N",
+  "reading": "だれか",
+  "meaning": "ai đó"
+ },
+ {
+  "id": "n5-5B-v014",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "猫",
+  "pos": "N",
+  "reading": "ねこ",
+  "meaning": "con mèo"
+ },
+ {
+  "id": "n5-5B-v015",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "犬",
+  "pos": "N",
+  "reading": "いぬ",
+  "meaning": "con chó"
+ },
+ {
+  "id": "n5-5B-v016",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "鳥",
+  "pos": "N",
+  "reading": "とり",
+  "meaning": "con chim"
+ },
+ {
+  "id": "n5-5B-v017",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "怖い",
+  "pos": "A い",
+  "reading": "こわい",
+  "meaning": "sợ hãi, đáng sợ"
+ },
+ {
+  "id": "n5-5B-v018",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "いらっしゃいます",
+  "pos": "V I",
+  "reading": "いらっしゃいます",
+  "meaning": "có, ở",
+  "note": "(kính ngữ của「います」,được sử dụng khi nói về sự tồn tại của người bề trên)"
+ },
+ {
+  "id": "n5-5B-v019",
+  "level": "n5",
+  "lessonId": "5B",
+  "kind": "word",
+  "word": "います",
+  "pos": "V II",
+  "reading": "います",
+  "meaning": "có, ở"
+ },
+ {
+  "id": "n5-5C-v001",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "温泉",
+  "pos": "N",
+  "reading": "おんせん",
+  "meaning": "suối nước nóng"
+ },
+ {
+  "id": "n5-5C-v002",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "袋",
+  "pos": "N",
+  "reading": "ふくろ",
+  "meaning": "túi"
+ },
+ {
+  "id": "n5-5C-v003",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "（お）皿",
+  "pos": "N",
+  "reading": "さら / おさら",
+  "meaning": "đĩa"
+ },
+ {
+  "id": "n5-5C-v004",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "いちご",
+  "pos": "N",
+  "reading": "いちご",
+  "meaning": "dâu tây"
+ },
+ {
+  "id": "n5-5C-v005",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "あめ",
+  "pos": "N",
+  "reading": "あめ",
+  "meaning": "kẹo"
+ },
+ {
+  "id": "n5-5C-v006",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "たまご",
+  "pos": "N",
+  "reading": "たまご",
+  "meaning": "quả trứng"
+ },
+ {
+  "id": "n5-5C-v007",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "大人",
+  "pos": "N",
+  "reading": "おとな",
+  "meaning": "người lớn, người trưởng thành"
+ },
+ {
+  "id": "n5-5C-v008",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "兄",
+  "pos": "N",
+  "reading": "あに",
+  "meaning": "anh trai của mình"
+ },
+ {
+  "id": "n5-5C-v009",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "女の子",
+  "pos": "N",
+  "reading": "おんなのこ",
+  "meaning": "bé gái"
+ },
+ {
+  "id": "n5-5C-v010",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "男の子",
+  "pos": "N",
+  "reading": "おとこのこ",
+  "meaning": "bé trai"
+ },
+ {
+  "id": "n5-5C-v011",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "友達",
+  "pos": "N",
+  "reading": "ともだち",
+  "meaning": "bạn bè"
+ },
+ {
+  "id": "n5-5C-v012",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "何歳",
+  "pos": "N",
+  "reading": "なんさい",
+  "meaning": "mấy tuổi"
+ },
+ {
+  "id": "n5-5C-v013",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "（お）いくつ",
+  "pos": "N",
+  "reading": "おいくつ / いくつ",
+  "meaning": "mấy tuổi"
+ },
+ {
+  "id": "n5-5C-v014",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "expression",
+  "word": "(",
+  "reading": "おいくつ",
+  "meaning": "là cách nói lịch sự hơn 何"
+ },
+ {
+  "id": "n5-5C-v015",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "テーブル",
+  "pos": "N",
+  "reading": "テーブル",
+  "meaning": "cái bàn"
+ },
+ {
+  "id": "n5-5C-v016",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "コップ",
+  "pos": "N",
+  "reading": "コップ",
+  "meaning": "cốc"
+ },
+ {
+  "id": "n5-5C-v017",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "たくさん",
+  "pos": "N/Adv.",
+  "reading": "たくさん",
+  "meaning": "nhiều"
+ },
+ {
+  "id": "n5-5C-v018",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "word",
+  "word": "大勢",
+  "pos": "N/Adv.",
+  "reading": "おおぜい",
+  "meaning": "nhiều (chỉ dùng cho người)"
+ },
+ {
+  "id": "n5-5C-v019",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "expression",
+  "word": "～歳",
+  "reading": "～さい",
+  "meaning": "tuổi",
+  "note": "(tham khảo thêm trang bên 14)"
+ },
+ {
+  "id": "n5-5C-v020",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "expression",
+  "word": "～人",
+  "reading": "～にん",
+  "meaning": "người",
+  "note": "(tham khảo thêm trang 17)"
+ },
+ {
+  "id": "n5-5C-v021",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "expression",
+  "word": "～匹",
+  "reading": "～ひき / ～",
+  "meaning": "(đếm động vật nhỏ - tham khảo thêm",
+  "note": "trang 17)"
+ },
+ {
+  "id": "n5-5C-v022",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "expression",
+  "word": "～つ",
+  "reading": "～つ / ～",
+  "meaning": "(dùng chung cho các đồ vật- tham khảo",
+  "note": "thêm trang 17)"
+ },
+ {
+  "id": "n5-5C-v023",
+  "level": "n5",
+  "lessonId": "5C",
+  "kind": "expression",
+  "word": "ええ",
+  "reading": "ええ",
+  "meaning": "Ôi! Ối (tiếng kêu ngạc nhiên)",
+  "note": "f Cách đếm tuổi trong tiếng Nhật"
+ },
+ {
+  "id": "n5-6A-v001",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "天気",
+  "pos": "N",
+  "reading": "てんき",
+  "meaning": "thời tiết"
+ },
+ {
+  "id": "n5-6A-v002",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "体調",
+  "pos": "N",
+  "reading": "たいちょう",
+  "meaning": "tình trạng cơ thể"
+ },
+ {
+  "id": "n5-6A-v003",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "ご飯",
+  "pos": "N",
+  "reading": "ごはん",
+  "meaning": "cơm, bữa cơm"
+ },
+ {
+  "id": "n5-6A-v004",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "毎朝",
+  "pos": "N/Adv.",
+  "reading": "まいあさ / まいあさ",
+  "meaning": "hàng sáng, sáng nào",
+  "note": "cũng"
+ },
+ {
+  "id": "n5-6A-v005",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "毎晩",
+  "pos": "N/Adv.",
+  "reading": "まいばん",
+  "meaning": "hàng tối, tối nào cũng"
+ },
+ {
+  "id": "n5-6A-v006",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "スケジュール",
+  "pos": "N",
+  "reading": "スケジュール",
+  "meaning": "lịch trình"
+ },
+ {
+  "id": "n5-6A-v007",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "すごい",
+  "pos": "A い",
+  "reading": "すごい",
+  "meaning": "tuyệt vời, siêu, giỏi"
+ },
+ {
+  "id": "n5-6A-v008",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "働きます",
+  "pos": "V I",
+  "reading": "はたらきます",
+  "meaning": "làm việc"
+ },
+ {
+  "id": "n5-6A-v009",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "歩きます",
+  "pos": "V I",
+  "reading": "あるきます",
+  "meaning": "đi bộ"
+ },
+ {
+  "id": "n5-6A-v010",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "休みます",
+  "pos": "V I",
+  "reading": "やすみます",
+  "meaning": "nghỉ ngơi"
+ },
+ {
+  "id": "n5-6A-v011",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "遊びます",
+  "pos": "V I",
+  "reading": "あそびます",
+  "meaning": "chơi"
+ },
+ {
+  "id": "n5-6A-v012",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "寝ます",
+  "pos": "V II",
+  "reading": "ねます",
+  "meaning": "ngủ"
+ },
+ {
+  "id": "n5-6A-v013",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "起きます",
+  "pos": "V II",
+  "reading": "おきます",
+  "meaning": "thức dậy"
+ },
+ {
+  "id": "n5-6A-v014",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "疲れます",
+  "pos": "V II",
+  "reading": "つかれます",
+  "meaning": "mệt mỏi"
+ },
+ {
+  "id": "n5-6A-v015",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "出かけます",
+  "pos": "V II",
+  "reading": "でかけます",
+  "meaning": "ra ngoài"
+ },
+ {
+  "id": "n5-6A-v016",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "勉強（します）",
+  "pos": "N/V III",
+  "reading": "べんきょう（します）",
+  "meaning": "học"
+ },
+ {
+  "id": "n5-6A-v017",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "これから",
+  "pos": "N/Adv.",
+  "reading": "これから",
+  "meaning": "từ giờ (trở đi)"
+ },
+ {
+  "id": "n5-6A-v018",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "いつも",
+  "pos": "N/Adv.",
+  "reading": "いつも",
+  "meaning": "lúc nào cũng"
+ },
+ {
+  "id": "n5-6A-v019",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "ときどき",
+  "pos": "Adv.",
+  "reading": "ときどき",
+  "meaning": "thỉnh thoảng"
+ },
+ {
+  "id": "n5-6A-v020",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "ゆっくり",
+  "pos": "Adv.",
+  "reading": "ゆっくり",
+  "meaning": "từ từ, thong thả"
+ },
+ {
+  "id": "n5-6A-v021",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "expression",
+  "word": "気持ちがいい",
+  "reading": "きもちがいい",
+  "meaning": "cảm thấy thoải mái, dễ chịu"
+ },
+ {
+  "id": "n5-6A-v022",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "expression",
+  "word": "さあ",
+  "reading": "さあ",
+  "meaning": "nào (hô hào, thúc giục trước khi làm",
+  "note": "việc gì đó)"
+ },
+ {
+  "id": "n5-6A-v023",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "expression",
+  "word": "問題ない",
+  "reading": "もんだいない",
+  "meaning": "không vấn đề gì"
+ },
+ {
+  "id": "n5-6A-v024",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "１時くらい",
+  "reading": "いちじくらい",
+  "meaning": "khoảng ～ khoảng 1 giờ"
+ },
+ {
+  "id": "n5-6A-v025",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "２時くらい",
+  "reading": "にじくらい",
+  "meaning": "khoảng 2 giờ"
+ },
+ {
+  "id": "n5-6A-v026",
+  "level": "n5",
+  "lessonId": "6A",
+  "kind": "word",
+  "word": "４時くらい",
+  "reading": "よじくらい",
+  "meaning": "khoảng 4 giờ"
+ },
+ {
+  "id": "n5-6B-v001",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "word",
+  "word": "実家",
+  "pos": "N",
+  "reading": "じっか",
+  "meaning": "nhà (bố mẹ đẻ)"
+ },
+ {
+  "id": "n5-6B-v002",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "word",
+  "word": "寮",
+  "pos": "N",
+  "reading": "りょう",
+  "meaning": "kí túc xá"
+ },
+ {
+  "id": "n5-6B-v003",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "word",
+  "word": "写真",
+  "pos": "N",
+  "reading": "しゃしん",
+  "meaning": "ảnh"
+ },
+ {
+  "id": "n5-6B-v004",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "word",
+  "word": "（お）正月",
+  "pos": "N",
+  "reading": "おしょうがつ",
+  "meaning": "Tết Dương lịch"
+ },
+ {
+  "id": "n5-6B-v005",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "expression",
+  "word": "毎年",
+  "reading": "毎年",
+  "meaning": "(N/",
+  "note": "Adv.*) まいとし hằng năm"
+ },
+ {
+  "id": "n5-6B-v006",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "expression",
+  "word": "毎月",
+  "reading": "毎月",
+  "meaning": "(N/",
+  "note": "Adv.*) まいつき hàng tháng"
+ },
+ {
+  "id": "n5-6B-v007",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "expression",
+  "word": "毎週",
+  "reading": "毎週",
+  "meaning": "(N/",
+  "note": "Adv.*) まいしゅう hàng tuần"
+ },
+ {
+  "id": "n5-6B-v008",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "expression",
+  "word": "今年",
+  "reading": "今年",
+  "meaning": "(N/",
+  "note": "Adv.*) ことし năm nay"
+ },
+ {
+  "id": "n5-6B-v009",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "expression",
+  "word": "去年",
+  "reading": "去年",
+  "meaning": "(N/",
+  "note": "Adv.*) きょねん năm ngoái"
+ },
+ {
+  "id": "n5-6B-v010",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "expression",
+  "word": "一昨年",
+  "reading": "一昨年",
+  "meaning": "(N/",
+  "note": "Adv.*) おととし năm kia"
+ },
+ {
+  "id": "n5-6B-v011",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "expression",
+  "word": "来年",
+  "reading": "来年",
+  "meaning": "(N/",
+  "note": "Adv.*) らいねん năm sau"
+ },
+ {
+  "id": "n5-6B-v012",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "expression",
+  "word": "再来年",
+  "reading": "再来年",
+  "meaning": "(N/",
+  "note": "Adv.*) さらいねん năm sau nữa"
+ },
+ {
+  "id": "n5-6B-v013",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "expression",
+  "word": "今月",
+  "reading": "今月",
+  "meaning": "(N/",
+  "note": "Adv.*) こんげつ tháng này"
+ },
+ {
+  "id": "n5-6B-v014",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "expression",
+  "word": "先月",
+  "reading": "先月",
+  "meaning": "(N/",
+  "note": "Adv.*) せんげつ tháng trước * Tuy loại từ không phải phó từ, nhưng có thể sử dụng như phó từ. * Tuy loại từ không phải phó từ, nhưng có thể sử dụng như phó từ."
+ },
+ {
+  "id": "n5-6B-v015",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "expression",
+  "word": "来月",
+  "reading": "来月",
+  "meaning": "(N/",
+  "note": "Adv.*) らいげつ tháng sau"
+ },
+ {
+  "id": "n5-6B-v016",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "word",
+  "word": "楽しみ",
+  "pos": "N/A な",
+  "reading": "たのしみ",
+  "meaning": "mong đợi, mong chờ"
+ },
+ {
+  "id": "n5-6B-v017",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "word",
+  "word": "わかります",
+  "pos": "V I",
+  "reading": "わかります",
+  "meaning": "hiểu, biết"
+ },
+ {
+  "id": "n5-6B-v018",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "word",
+  "word": "（へ / に）行きます",
+  "pos": "V I",
+  "reading": "いきます",
+  "meaning": "đi"
+ },
+ {
+  "id": "n5-6B-v019",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "word",
+  "word": "（へ / に）帰ります",
+  "pos": "V I",
+  "reading": "かえります",
+  "meaning": "về, trở về"
+ },
+ {
+  "id": "n5-6B-v020",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "word",
+  "word": "（へ / に）来ます",
+  "pos": "V III",
+  "reading": "きます",
+  "meaning": "đến"
+ },
+ {
+  "id": "n5-6B-v021",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "word",
+  "word": "買い物（します）",
+  "pos": "N/V III",
+  "reading": "かいもの（します）",
+  "meaning": "mua sắm"
+ },
+ {
+  "id": "n5-6B-v022",
+  "level": "n5",
+  "lessonId": "6B",
+  "kind": "word",
+  "word": "もうすぐ",
+  "pos": "Adv.",
+  "reading": "もうすぐ",
+  "meaning": "sắp"
+ },
+ {
+  "id": "n5-6C-v001",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "試合",
+  "pos": "N",
+  "reading": "しあい",
+  "meaning": "trận đấu"
+ },
+ {
+  "id": "n5-6C-v002",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "もの",
+  "pos": "N",
+  "reading": "もの",
+  "meaning": "đồ vật"
+ },
+ {
+  "id": "n5-6C-v003",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "水",
+  "pos": "N",
+  "reading": "みず",
+  "meaning": "nước"
+ },
+ {
+  "id": "n5-6C-v004",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "魚",
+  "pos": "N",
+  "reading": "さかな",
+  "meaning": "cá"
+ },
+ {
+  "id": "n5-6C-v005",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "紅茶",
+  "pos": "N",
+  "reading": "こうちゃ",
+  "meaning": "hồng trà"
+ },
+ {
+  "id": "n5-6C-v006",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "おにぎり",
+  "pos": "N",
+  "reading": "おにぎり",
+  "meaning": "cơm nắm"
+ },
+ {
+  "id": "n5-6C-v007",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "（お）寿司",
+  "pos": "N",
+  "reading": "すし / おすし",
+  "meaning": "sushi"
+ },
+ {
+  "id": "n5-6C-v008",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "朝ご飯",
+  "pos": "N",
+  "reading": "あさごはん",
+  "meaning": "cơm sáng/ bữa sáng"
+ },
+ {
+  "id": "n5-6C-v009",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "昼ご飯",
+  "pos": "N",
+  "reading": "ひるごはん",
+  "meaning": "cơm trưa/ bữa trưa"
+ },
+ {
+  "id": "n5-6C-v010",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "夕飯",
+  "pos": "N",
+  "reading": "ばんごはん / ゆうはん",
+  "meaning": "cơm tối/ bữa tối"
+ },
+ {
+  "id": "n5-6C-v011",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "お土産",
+  "pos": "N",
+  "reading": "おみやげ",
+  "meaning": "quà (lưu niệm)"
+ },
+ {
+  "id": "n5-6C-v012",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "家族",
+  "pos": "N",
+  "reading": "かぞく",
+  "meaning": "gia đình"
+ },
+ {
+  "id": "n5-6C-v013",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "音楽",
+  "pos": "N",
+  "reading": "おんがく",
+  "meaning": "âm nhạc"
+ },
+ {
+  "id": "n5-6C-v014",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "雑誌",
+  "pos": "N",
+  "reading": "ざっし",
+  "meaning": "tạp chí"
+ },
+ {
+  "id": "n5-6C-v015",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "靴",
+  "pos": "N",
+  "reading": "くつ",
+  "meaning": "giày"
+ },
+ {
+  "id": "n5-6C-v016",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "expression",
+  "word": "～たち",
+  "reading": "～たち",
+  "meaning": "nhóm, bọn, các...",
+  "note": "( đi với danh từ biểu thị số nhiều, và「N+ たち」được sử dụng như một cụm danh từ )"
+ },
+ {
+  "id": "n5-6C-v017",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "会社の人たち",
+  "reading": "かいしゃのひとたち",
+  "pos": "N",
+  "meaning": "nhóm người trong công ty/ mọi người ở công ty nhóm Nam/ Nam với mấy bạn"
+ },
+ {
+  "id": "n5-6C-v018",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "ナムさんたち",
+  "reading": "ナムさんたち",
+  "pos": "N",
+  "meaning": "nhóm Tanaka/"
+ },
+ {
+  "id": "n5-6C-v019",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "田中さんたち",
+  "reading": "たなかさんたち",
+  "pos": "N",
+  "meaning": "Tanaka với mọi người"
+ },
+ {
+  "id": "n5-6C-v020",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "デパート",
+  "pos": "N",
+  "reading": "デパート",
+  "meaning": "trung tâm mua sắm"
+ },
+ {
+  "id": "n5-6C-v021",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "サッカー",
+  "pos": "N",
+  "reading": "サッカー",
+  "meaning": "bóng đá"
+ },
+ {
+  "id": "n5-6C-v022",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "眠い",
+  "pos": "A い",
+  "reading": "ねむい",
+  "meaning": "buồn ngủ"
+ },
+ {
+  "id": "n5-6C-v023",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "expression",
+  "word": "一人で",
+  "reading": "ひとりで",
+  "meaning": "một mình",
+  "note": "(được dùng như một phó từ)"
+ },
+ {
+  "id": "n5-6C-v024",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "（～を）買います",
+  "pos": "V I",
+  "reading": "かいます",
+  "meaning": "mua"
+ },
+ {
+  "id": "n5-6C-v025",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "（～を）読みます",
+  "pos": "V I",
+  "reading": "よみます",
+  "meaning": "đọc"
+ },
+ {
+  "id": "n5-6C-v026",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "（～を）聞きます",
+  "pos": "V I",
+  "reading": "ききます ①",
+  "meaning": "nghe",
+  "note": "② hỏi"
+ },
+ {
+  "id": "n5-6C-v027",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "（～を）飲みます",
+  "pos": "V I",
+  "reading": "のみます",
+  "meaning": "uống"
+ },
+ {
+  "id": "n5-6C-v028",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "（～を）食べます",
+  "pos": "V II",
+  "reading": "たべます",
+  "meaning": "ăn"
+ },
+ {
+  "id": "n5-6C-v029",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "（～を）見ます",
+  "pos": "V II",
+  "reading": "みます",
+  "meaning": "xem, nhìn"
+ },
+ {
+  "id": "n5-6C-v030",
+  "level": "n5",
+  "lessonId": "6C",
+  "kind": "word",
+  "word": "旅行（します）",
+  "pos": "V III",
+  "reading": "りょこう（します）",
+  "meaning": "du lịch"
+ },
+ {
+  "id": "n5-7A-v001",
+  "level": "n5",
+  "lessonId": "7A",
+  "kind": "word",
+  "word": "夏休み",
+  "pos": "N",
+  "reading": "なつやすみ",
+  "meaning": "kì nghỉ hè"
+ },
+ {
+  "id": "n5-7A-v002",
+  "level": "n5",
+  "lessonId": "7A",
+  "kind": "word",
+  "word": "お盆休み",
+  "pos": "N",
+  "reading": "おぼんやすみ",
+  "meaning": "kỳ nghỉ lễ Obon"
+ },
+ {
+  "id": "n5-7A-v003",
+  "level": "n5",
+  "lessonId": "7A",
+  "kind": "word",
+  "word": "週末",
+  "pos": "N",
+  "reading": "しゅうまつ",
+  "meaning": "cuối tuần"
+ },
+ {
+  "id": "n5-7A-v004",
+  "level": "n5",
+  "lessonId": "7A",
+  "kind": "word",
+  "word": "海",
+  "pos": "N",
+  "reading": "うみ",
+  "meaning": "biển"
+ },
+ {
+  "id": "n5-7A-v005",
+  "level": "n5",
+  "lessonId": "7A",
+  "kind": "word",
+  "word": "喫茶店",
+  "pos": "N",
+  "reading": "きっさてん",
+  "meaning": "quán nước, quán giải",
+  "note": "khát"
+ },
+ {
+  "id": "n5-7A-v006",
+  "level": "n5",
+  "lessonId": "7A",
+  "kind": "word",
+  "word": "プール",
+  "pos": "N",
+  "reading": "プール",
+  "meaning": "bể bơi"
+ },
+ {
+  "id": "n5-7A-v007",
+  "level": "n5",
+  "lessonId": "7A",
+  "kind": "word",
+  "word": "スキューバダイビング",
+  "pos": "N",
+  "reading": "スキューバダイビング",
+  "meaning": "lặn biển"
+ },
+ {
+  "id": "n5-7A-v008",
+  "level": "n5",
+  "lessonId": "7A",
+  "kind": "word",
+  "word": "します",
+  "pos": "V III",
+  "reading": "します",
+  "meaning": "làm"
+ },
+ {
+  "id": "n5-7A-v009",
+  "level": "n5",
+  "lessonId": "7A",
+  "kind": "word",
+  "word": "とっても",
+  "pos": "Adv.",
+  "reading": "とっても",
+  "meaning": "rất (cách nói nhấn mạnh của"
+ },
+ {
+  "id": "n5-7B-v001",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "小説",
+  "pos": "N",
+  "reading": "しょうせつ",
+  "meaning": "tiểu thuyết"
+ },
+ {
+  "id": "n5-7B-v002",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "服",
+  "pos": "N",
+  "reading": "ふく",
+  "meaning": "quần áo"
+ },
+ {
+  "id": "n5-7B-v003",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "紙",
+  "pos": "N",
+  "reading": "かみ",
+  "meaning": "giấy"
+ },
+ {
+  "id": "n5-7B-v004",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "ワイシャツ",
+  "pos": "N",
+  "reading": "ワイシャツ",
+  "meaning": "áo sơ mi dài tay"
+ },
+ {
+  "id": "n5-7B-v005",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "プリン",
+  "pos": "N",
+  "reading": "プリン",
+  "meaning": "bánh pudding"
+ },
+ {
+  "id": "n5-7B-v006",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "スプーン",
+  "pos": "N",
+  "reading": "スプーン",
+  "meaning": "thìa"
+ },
+ {
+  "id": "n5-7B-v007",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "ペン",
+  "pos": "N",
+  "reading": "ペン",
+  "meaning": "bút"
+ },
+ {
+  "id": "n5-7B-v008",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "バナナ",
+  "pos": "N",
+  "reading": "バナナ",
+  "meaning": "quả chuối"
+ },
+ {
+  "id": "n5-7B-v009",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "短い",
+  "pos": "A い",
+  "reading": "みじかい",
+  "meaning": "ngắn"
+ },
+ {
+  "id": "n5-7B-v010",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "おすすめ（します）",
+  "pos": "N/V III",
+  "reading": "おすすめ（します）",
+  "meaning": "giới thiệu, đề xuất, gợi ý,",
+  "note": "khuyến nghị"
+ },
+ {
+  "id": "n5-7B-v011",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "よく",
+  "pos": "Adv.",
+  "reading": "よく",
+  "meaning": "thường, hay"
+ },
+ {
+  "id": "n5-7B-v012",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "たまに",
+  "pos": "Adv.",
+  "reading": "たまに",
+  "meaning": "thi thoảng, đôi khi"
+ },
+ {
+  "id": "n5-7B-v013",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "word",
+  "word": "半年",
+  "pos": "N",
+  "reading": "はんとし",
+  "meaning": "nửa năm"
+ },
+ {
+  "id": "n5-7B-v014",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "expression",
+  "word": "～年",
+  "reading": "～ねん",
+  "meaning": "năm"
+ },
+ {
+  "id": "n5-7B-v015",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "expression",
+  "word": "～か月",
+  "reading": "～かげつ",
+  "meaning": "tháng"
+ },
+ {
+  "id": "n5-7B-v016",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "expression",
+  "word": "～週間",
+  "reading": "～しゅうかん",
+  "meaning": "tuần"
+ },
+ {
+  "id": "n5-7B-v017",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "expression",
+  "word": "～冊",
+  "reading": "～さつ",
+  "meaning": "quyển"
+ },
+ {
+  "id": "n5-7B-v018",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "expression",
+  "word": "～枚",
+  "reading": "～まい",
+  "meaning": "tờ, tấm, trang"
+ },
+ {
+  "id": "n5-7B-v019",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "expression",
+  "word": "かしこまりました",
+  "reading": "かしこまりました",
+  "meaning": "tôi hiểu rồi ạ",
+  "note": "(dùng khi bề dưới nói với bề trên）"
+ },
+ {
+  "id": "n5-7B-v020",
+  "level": "n5",
+  "lessonId": "7B",
+  "kind": "expression",
+  "word": "～個",
+  "reading": "～こ",
+  "meaning": "cái"
+ },
+ {
+  "id": "n5-7C-v001",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "お腹",
+  "pos": "N",
+  "reading": "おなか",
+  "meaning": "bụng"
+ },
+ {
+  "id": "n5-7C-v002",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "昼",
+  "pos": "N",
+  "reading": "ひる",
+  "meaning": "buổi trưa"
+ },
+ {
+  "id": "n5-7C-v003",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "今夜",
+  "pos": "N",
+  "reading": "こんや",
+  "meaning": "tối nay, đêm nay"
+ },
+ {
+  "id": "n5-7C-v004",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "電動自転車",
+  "pos": "N",
+  "reading": "でんどうじてんしゃ",
+  "meaning": "xe đạp điện"
+ },
+ {
+  "id": "n5-7C-v005",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "自動車",
+  "pos": "N",
+  "reading": "じどうしゃ",
+  "meaning": "xe ô tô"
+ },
+ {
+  "id": "n5-7C-v006",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "電気自動車",
+  "pos": "N",
+  "reading": "でんきじどうしゃ",
+  "meaning": "xe ô tô điện"
+ },
+ {
+  "id": "n5-7C-v007",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "時計",
+  "pos": "N",
+  "reading": "とけい",
+  "meaning": "đồng hồ"
+ },
+ {
+  "id": "n5-7C-v008",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "ラーメン屋",
+  "pos": "N",
+  "reading": "ラーメンや",
+  "meaning": "quán mì ramen",
+  "note": "CM （N） シーエム quảng cáo"
+ },
+ {
+  "id": "n5-7C-v009",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "パソコン",
+  "pos": "N",
+  "reading": "パソコン",
+  "meaning": "máy tính, laptop"
+ },
+ {
+  "id": "n5-7C-v010",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "欲しい",
+  "pos": "A い",
+  "reading": "ほしい",
+  "meaning": "muốn"
+ },
+ {
+  "id": "n5-7C-v011",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "軽い",
+  "pos": "A い",
+  "reading": "かるい",
+  "meaning": "nhẹ"
+ },
+ {
+  "id": "n5-7C-v012",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "丈夫",
+  "pos": "A な",
+  "reading": "じょうぶ",
+  "meaning": "bền, chắc, khoẻ mạnh"
+ },
+ {
+  "id": "n5-7C-v013",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "一緒に",
+  "pos": "Adv.",
+  "reading": "いっしょに",
+  "meaning": "cùng nhau"
+ },
+ {
+  "id": "n5-7C-v014",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "空きます",
+  "reading": "すきます",
+  "meaning": "trống, trống rỗng"
+ },
+ {
+  "id": "n5-7C-v015",
+  "level": "n5",
+  "lessonId": "7C",
+  "kind": "word",
+  "word": "お腹が空きます",
+  "reading": "おなかがすきます",
+  "meaning": "đói bụng"
+ },
+ {
+  "id": "n5-7D-v001",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "初めて",
+  "pos": "N/Adv.",
+  "reading": "はじめて",
+  "meaning": "lần đầu tiên"
+ },
+ {
+  "id": "n5-7D-v002",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "映画館",
+  "pos": "N",
+  "reading": "えいがかん",
+  "meaning": "rạp chiếu phim"
+ },
+ {
+  "id": "n5-7D-v003",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "冗談",
+  "pos": "N",
+  "reading": "じょうだん",
+  "meaning": "nói đùa"
+ },
+ {
+  "id": "n5-7D-v004",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "野菜",
+  "pos": "N",
+  "reading": "やさい",
+  "meaning": "rau"
+ },
+ {
+  "id": "n5-7D-v005",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "機械",
+  "pos": "N",
+  "reading": "きかい",
+  "meaning": "máy móc"
+ },
+ {
+  "id": "n5-7D-v006",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "ころ",
+  "reading": "ころ",
+  "pos": "N",
+  "meaning": "hồi, lúc"
+ },
+ {
+  "id": "n5-7D-v007",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "小さいころ",
+  "reading": "ちいさいころ",
+  "pos": "N",
+  "meaning": "lúc nhỏ"
+ },
+ {
+  "id": "n5-7D-v008",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "子供のころ",
+  "reading": "こどものころ",
+  "pos": "N",
+  "meaning": "hồi bé"
+ },
+ {
+  "id": "n5-7D-v009",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "学生のころ",
+  "reading": "がくせいのころ",
+  "pos": "N",
+  "meaning": "thời sinh viên"
+ },
+ {
+  "id": "n5-7D-v010",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "切符",
+  "pos": "N",
+  "reading": "きっぷ",
+  "meaning": "vé (tàu, xe...)"
+ },
+ {
+  "id": "n5-7D-v011",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "チケット",
+  "pos": "N",
+  "reading": "チケット",
+  "meaning": "vé (xem phim, ca nhạc...)"
+ },
+ {
+  "id": "n5-7D-v012",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "アクション映画",
+  "pos": "N",
+  "reading": "アクションえいが",
+  "meaning": "phim hành động"
+ },
+ {
+  "id": "n5-7D-v013",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "トイレ",
+  "pos": "N",
+  "reading": "トイレ",
+  "meaning": "nhà vệ sinh"
+ },
+ {
+  "id": "n5-7D-v014",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "に）会います",
+  "pos": "V I",
+  "reading": "あいます",
+  "meaning": "gặp"
+ },
+ {
+  "id": "n5-7D-v015",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "撮ります",
+  "pos": "V I",
+  "reading": "とります",
+  "meaning": "chụp (ảnh)"
+ },
+ {
+  "id": "n5-7D-v016",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "説明（します）",
+  "pos": "N/V III",
+  "reading": "せつめい（します）",
+  "meaning": "giải thích"
+ },
+ {
+  "id": "n5-7D-v017",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "散歩（します）",
+  "pos": "N/V III",
+  "reading": "さんぽ（します）",
+  "meaning": "đi dạo"
+ },
+ {
+  "id": "n5-7D-v018",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "留学（します）",
+  "pos": "N/V III",
+  "reading": "りゅうがく（します）",
+  "meaning": "du học"
+ },
+ {
+  "id": "n5-7D-v019",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "食事（します）",
+  "pos": "N/V III",
+  "reading": "しょくじ（します）",
+  "meaning": "dùng bữa"
+ },
+ {
+  "id": "n5-7D-v020",
+  "level": "n5",
+  "lessonId": "7D",
+  "kind": "word",
+  "word": "ぜひ",
+  "pos": "Adv.",
+  "reading": "ぜひ",
+  "meaning": "① nhất định",
+  "note": "② rất muốn (khi đi với thể mong muốn V たい ) (nhấn mạnh khi khuyến khích hay đưa ra nguyện vọng)"
+ },
+ {
+  "id": "n5-8A-v001",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "箸",
+  "pos": "N",
+  "reading": "はし",
+  "meaning": "đũa"
+ },
+ {
+  "id": "n5-8A-v002",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "故郷",
+  "pos": "N",
+  "reading": "ふるさと / こきょう",
+  "meaning": "quê, quê hương"
+ },
+ {
+  "id": "n5-8A-v003",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "電車",
+  "pos": "N",
+  "reading": "でんしゃ",
+  "meaning": "tàu điện"
+ },
+ {
+  "id": "n5-8A-v004",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "銭湯",
+  "pos": "N",
+  "reading": "せんとう",
+  "meaning": "nhà tắm công cộng"
+ },
+ {
+  "id": "n5-8A-v005",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "こと",
+  "pos": "N",
+  "reading": "こと",
+  "meaning": "việc"
+ },
+ {
+  "id": "n5-8A-v006",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "楽器",
+  "pos": "N",
+  "reading": "がっき",
+  "meaning": "nhạc cụ"
+ },
+ {
+  "id": "n5-8A-v007",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "新幹線",
+  "pos": "N",
+  "reading": "しんかんせん",
+  "meaning": "tàu shinkansen",
+  "note": "(một loại tàu siêu tốc của Nhật Bản)"
+ },
+ {
+  "id": "n5-8A-v008",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "飛行機",
+  "pos": "N",
+  "reading": "ひこうき",
+  "meaning": "máy bay"
+ },
+ {
+  "id": "n5-8A-v009",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "バス",
+  "pos": "N",
+  "reading": "バス",
+  "meaning": "xe buýt"
+ },
+ {
+  "id": "n5-8A-v010",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "タクシー",
+  "pos": "N",
+  "reading": "タクシー",
+  "meaning": "xe taxi"
+ },
+ {
+  "id": "n5-8A-v011",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "モール",
+  "pos": "N",
+  "reading": "ショッピングモール",
+  "meaning": "trung tâm thương mại"
+ },
+ {
+  "id": "n5-8A-v012",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "スポーツ",
+  "pos": "N",
+  "reading": "スポーツ",
+  "meaning": "thể thao"
+ },
+ {
+  "id": "n5-8A-v013",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "スポーツジム",
+  "pos": "N",
+  "reading": "スポーツジム",
+  "meaning": "phòng tập gym"
+ },
+ {
+  "id": "n5-8A-v014",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "ピアノ",
+  "pos": "N",
+  "reading": "ピアノ",
+  "meaning": "piano"
+ },
+ {
+  "id": "n5-8A-v015",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "ギター",
+  "pos": "N",
+  "reading": "ギター",
+  "meaning": "đàn ghi-ta"
+ },
+ {
+  "id": "n5-8A-v016",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "パクチー",
+  "pos": "N",
+  "reading": "パクチー",
+  "meaning": "rau mùi"
+ },
+ {
+  "id": "n5-8A-v017",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "カレー",
+  "pos": "N",
+  "reading": "カレー",
+  "meaning": "cà ri"
+ },
+ {
+  "id": "n5-8A-v018",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "重い",
+  "pos": "A い",
+  "reading": "おもい",
+  "meaning": "nặng"
+ },
+ {
+  "id": "n5-8A-v019",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "色々",
+  "pos": "A な/Adv.",
+  "reading": "いろいろ",
+  "meaning": "nhiều, đa dạng",
+  "note": "(về chủng loại)"
+ },
+ {
+  "id": "n5-8A-v020",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "泳ぎます",
+  "pos": "V I",
+  "reading": "およぎます",
+  "meaning": "bơi"
+ },
+ {
+  "id": "n5-8A-v021",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "（～を）使います",
+  "pos": "V I",
+  "reading": "つかいます",
+  "meaning": "sử dụng"
+ },
+ {
+  "id": "n5-8A-v022",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "（～を）運びます",
+  "pos": "V I",
+  "reading": "はこびます",
+  "meaning": "vận chuyển, bê, vác"
+ },
+ {
+  "id": "n5-8A-v023",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "（～を）持ちます",
+  "pos": "V I",
+  "reading": "もちます",
+  "meaning": "có, cầm"
+ },
+ {
+  "id": "n5-8A-v024",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "（～を）弾きます",
+  "pos": "V I",
+  "reading": "ひきます",
+  "meaning": "đánh, chơi (nhạc cụ)"
+ },
+ {
+  "id": "n5-8A-v025",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "（～を）送ります",
+  "pos": "V I",
+  "reading": "おくります",
+  "meaning": "gửi"
+ },
+ {
+  "id": "n5-8A-v026",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "（～を）話します",
+  "pos": "V I",
+  "reading": "はなします",
+  "meaning": "nói chuyện"
+ },
+ {
+  "id": "n5-8A-v027",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "かかります",
+  "pos": "V I",
+  "reading": "かかります",
+  "meaning": "mất, tốn (thời gian, tiền bạc)"
+ },
+ {
+  "id": "n5-8A-v028",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "やっぱり",
+  "pos": "Adv.",
+  "reading": "やっぱり",
+  "meaning": "quả nhiên"
+ },
+ {
+  "id": "n5-8A-v029",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "expression",
+  "word": "いっぱい",
+  "reading": "いっぱい",
+  "meaning": "đầy"
+ },
+ {
+  "id": "n5-8A-v030",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "expression",
+  "word": "色んな",
+  "reading": "いろんな",
+  "meaning": "nhiều",
+  "note": "(về chủng loại, đứng trước danh từ)"
+ },
+ {
+  "id": "n5-8A-v031",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "expression",
+  "word": "例",
+  "reading": "例",
+  "meaning": "2"
+ },
+ {
+  "id": "n5-8A-v032",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "expression",
+  "word": "つか",
+  "reading": "つか",
+  "meaning": "3"
+ },
+ {
+  "id": "n5-8A-v033",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "expression",
+  "word": "そうなんですか",
+  "reading": "そうなんですか",
+  "meaning": "Vậy à?/ Vậy sao?",
+  "note": "(Sử dụng khi biết được điều gì đó mà từ trước đến nay mình chưa biết)"
+ },
+ {
+  "id": "n5-8A-v034",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "これくらい",
+  "reading": "これくらい",
+  "meaning": "Mức này, cỡ này."
+ },
+ {
+  "id": "n5-8A-v035",
+  "level": "n5",
+  "lessonId": "8A",
+  "kind": "word",
+  "word": "これぐらい",
+  "reading": "これぐらい",
+  "meaning": "(Sử dụng khi nói về việc gì đó có mức độ thấp)"
+ },
+ {
+  "id": "n5-8B-v001",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "みんな",
+  "pos": "N/Adv.",
+  "reading": "みんな",
+  "meaning": "mọi người"
+ },
+ {
+  "id": "n5-8B-v002",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "絵",
+  "pos": "N",
+  "reading": "え",
+  "meaning": "bức tranh"
+ },
+ {
+  "id": "n5-8B-v003",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "歌",
+  "pos": "N",
+  "reading": "うた",
+  "meaning": "bài hát"
+ },
+ {
+  "id": "n5-8B-v004",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "数学",
+  "pos": "N",
+  "reading": "すうがく",
+  "meaning": "môn toán"
+ },
+ {
+  "id": "n5-8B-v005",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "卓球",
+  "pos": "N",
+  "reading": "たっきゅう",
+  "meaning": "bóng bàn"
+ },
+ {
+  "id": "n5-8B-v006",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "水泳",
+  "pos": "N",
+  "reading": "すいえい",
+  "meaning": "bơi lội"
+ },
+ {
+  "id": "n5-8B-v007",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "バドミントン",
+  "pos": "N",
+  "reading": "バドミントン",
+  "meaning": "cầu lông"
+ },
+ {
+  "id": "n5-8B-v008",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "バスケットボール",
+  "pos": "N",
+  "reading": "バスケットボール",
+  "meaning": "bóng rổ"
+ },
+ {
+  "id": "n5-8B-v009",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "バレーボール",
+  "pos": "N",
+  "reading": "バレーボール",
+  "meaning": "bóng chuyền"
+ },
+ {
+  "id": "n5-8B-v010",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "ライブ",
+  "pos": "N",
+  "reading": "ライブ / ライブ",
+  "meaning": "buổi biểu diễn trực tiếp,",
+  "note": "live show"
+ },
+ {
+  "id": "n5-8B-v011",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "カラオケ",
+  "pos": "N",
+  "reading": "カラオケ",
+  "meaning": "karaoke"
+ },
+ {
+  "id": "n5-8B-v012",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "ダンス",
+  "pos": "N",
+  "reading": "ダンス",
+  "meaning": "nhảy, nhảy múa",
+  "note": "DVD （N） ディーブイディー DVD"
+ },
+ {
+  "id": "n5-8B-v013",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "色",
+  "pos": "N",
+  "reading": "いろ",
+  "meaning": "màu, màu sắc"
+ },
+ {
+  "id": "n5-8B-v014",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "何色",
+  "pos": "N",
+  "reading": "なにいろ",
+  "meaning": "màu gì"
+ },
+ {
+  "id": "n5-8B-v015",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "赤",
+  "pos": "N",
+  "reading": "あか",
+  "meaning": "màu đỏ"
+ },
+ {
+  "id": "n5-8B-v016",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "白",
+  "pos": "N",
+  "reading": "しろ",
+  "meaning": "màu trắng"
+ },
+ {
+  "id": "n5-8B-v017",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "青",
+  "pos": "N",
+  "reading": "あお",
+  "meaning": "màu xanh"
+ },
+ {
+  "id": "n5-8B-v018",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "黒",
+  "pos": "N",
+  "reading": "くろ",
+  "meaning": "màu đen"
+ },
+ {
+  "id": "n5-8B-v019",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "黄色",
+  "pos": "N",
+  "reading": "きいろ",
+  "meaning": "màu vàng"
+ },
+ {
+  "id": "n5-8B-v020",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "緑（色）",
+  "pos": "N",
+  "reading": "みどり / みどりいろ",
+  "meaning": "màu xanh lá cây"
+ },
+ {
+  "id": "n5-8B-v021",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "ピンク（色）",
+  "pos": "N",
+  "reading": "ピンク / ピンクいろ",
+  "meaning": "màu hồng"
+ },
+ {
+  "id": "n5-8B-v022",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "オレンジ（色）",
+  "pos": "N",
+  "reading": "オレンジ / オレンジいろ",
+  "meaning": "màu cam"
+ },
+ {
+  "id": "n5-8B-v023",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "甘い",
+  "pos": "A い",
+  "reading": "あまい",
+  "meaning": "ngọt"
+ },
+ {
+  "id": "n5-8B-v024",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "かっこいい",
+  "pos": "A い",
+  "reading": "かっこいい",
+  "meaning": "ngầu"
+ },
+ {
+  "id": "n5-8B-v025",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "近い",
+  "pos": "A い",
+  "reading": "ちかい",
+  "meaning": "gần"
+ },
+ {
+  "id": "n5-8B-v026",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "好き",
+  "pos": "A な",
+  "reading": "すき",
+  "meaning": "thích"
+ },
+ {
+  "id": "n5-8B-v027",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "大好き",
+  "pos": "A な",
+  "reading": "だいすき",
+  "meaning": "rất thích"
+ },
+ {
+  "id": "n5-8B-v028",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "嫌い",
+  "pos": "A な",
+  "reading": "きらい",
+  "meaning": "ghét"
+ },
+ {
+  "id": "n5-8B-v029",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "大嫌い",
+  "pos": "A な",
+  "reading": "だいきらい",
+  "meaning": "rất ghét"
+ },
+ {
+  "id": "n5-8B-v030",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "上手",
+  "pos": "A な",
+  "reading": "じょうず",
+  "meaning": "giỏi"
+ },
+ {
+  "id": "n5-8B-v031",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "下手",
+  "pos": "A な",
+  "reading": "へた",
+  "meaning": "kém"
+ },
+ {
+  "id": "n5-8B-v032",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "得意",
+  "pos": "A な",
+  "reading": "とくい",
+  "meaning": "giỏi, mạnh (sở trường)"
+ },
+ {
+  "id": "n5-8B-v033",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "苦手",
+  "pos": "A な",
+  "reading": "にがて",
+  "meaning": "không giỏi, yếu, dở,",
+  "note": "(không thích, sợ)"
+ },
+ {
+  "id": "n5-8B-v034",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "計算 ( します )",
+  "pos": "N/V III",
+  "reading": "けいさん ( します )",
+  "meaning": "tính toán"
+ },
+ {
+  "id": "n5-8B-v035",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "word",
+  "word": "特に",
+  "pos": "Adv.",
+  "reading": "とくに",
+  "meaning": "đặc biệt"
+ },
+ {
+  "id": "n5-8B-v036",
+  "level": "n5",
+  "lessonId": "8B",
+  "kind": "expression",
+  "word": "そうそう",
+  "reading": "そうそう",
+  "meaning": "đúng vậy, đúng thế.",
+  "note": "(Được dùng để thể hiện sự đồng ý, tán thành với lời nói, hành động của đối phương)"
+ },
+ {
+  "id": "n5-8C-v001",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "父",
+  "pos": "N",
+  "reading": "ちち",
+  "meaning": "bố của mình"
+ },
+ {
+  "id": "n5-8C-v002",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "お父さん",
+  "pos": "N",
+  "reading": "おとうさん",
+  "meaning": "bố",
+  "note": "(khi nói về bố của người khác hoặc gọi bố mình một cách thân thiết)"
+ },
+ {
+  "id": "n5-8C-v003",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "母",
+  "pos": "N",
+  "reading": "はは",
+  "meaning": "mẹ của mình"
+ },
+ {
+  "id": "n5-8C-v004",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "お母さん",
+  "pos": "N",
+  "reading": "おかあさん",
+  "meaning": "mẹ",
+  "note": "(khi nói về mẹ của người khác hoặc gọi mẹ mình một cách thân thiết)"
+ },
+ {
+  "id": "n5-8C-v005",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "お兄さん",
+  "pos": "N",
+  "reading": "おにいさん",
+  "meaning": "anh",
+  "note": "(khi nói về anh của người khác hoặc gọi anh mình một cách thân thiết)"
+ },
+ {
+  "id": "n5-8C-v006",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "姉",
+  "pos": "N",
+  "reading": "あね",
+  "meaning": "chị gái của mình"
+ },
+ {
+  "id": "n5-8C-v007",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "お姉さん",
+  "pos": "N",
+  "reading": "おねえさん",
+  "meaning": "chị",
+  "note": "(khi nói về chị của người khác hoặc gọi chị mình một cách thân thiết)"
+ },
+ {
+  "id": "n5-8C-v008",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "弟",
+  "pos": "N",
+  "reading": "おとうと",
+  "meaning": "em trai của mình"
+ },
+ {
+  "id": "n5-8C-v009",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "弟さん",
+  "pos": "N",
+  "reading": "おとうとさん",
+  "meaning": "em trai của người khác"
+ },
+ {
+  "id": "n5-8C-v010",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "祖父",
+  "pos": "N",
+  "reading": "そふ",
+  "meaning": "ông của mình"
+ },
+ {
+  "id": "n5-8C-v011",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "おじいさん",
+  "pos": "N",
+  "reading": "おじいさん",
+  "meaning": "ông",
+  "note": "(khi nói về ông của người khác hoặc gọi ông mình một cách thân thiết )"
+ },
+ {
+  "id": "n5-8C-v012",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "祖母",
+  "pos": "N",
+  "reading": "そぼ",
+  "meaning": "bà của mình"
+ },
+ {
+  "id": "n5-8C-v013",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "おばあさん",
+  "pos": "N",
+  "reading": "おばあさん",
+  "meaning": "bà",
+  "note": "(khi nói về bà của người khác hoặc gọi bà mình một cách thân thiết)"
+ },
+ {
+  "id": "n5-8C-v014",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "頭",
+  "pos": "N",
+  "reading": "あたま",
+  "meaning": "đầu"
+ },
+ {
+  "id": "n5-8C-v015",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "背",
+  "pos": "N",
+  "reading": "せ",
+  "meaning": "lưng"
+ },
+ {
+  "id": "n5-8C-v016",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "髪",
+  "pos": "N",
+  "reading": "かみ",
+  "meaning": "tóc"
+ },
+ {
+  "id": "n5-8C-v017",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "目",
+  "pos": "N",
+  "reading": "め",
+  "meaning": "mắt"
+ },
+ {
+  "id": "n5-8C-v018",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "鼻",
+  "pos": "N",
+  "reading": "はな",
+  "meaning": "mũi"
+ },
+ {
+  "id": "n5-8C-v019",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "足",
+  "pos": "N",
+  "reading": "あし",
+  "meaning": "bàn chân"
+ },
+ {
+  "id": "n5-8C-v020",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "食べ物",
+  "pos": "N",
+  "reading": "たべもの",
+  "meaning": "đồ ăn"
+ },
+ {
+  "id": "n5-8C-v021",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "景色",
+  "pos": "N",
+  "reading": "けしき",
+  "meaning": "phong cảnh"
+ },
+ {
+  "id": "n5-8C-v022",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "気温",
+  "pos": "N",
+  "reading": "きおん",
+  "meaning": "nhiệt độ (bên ngoài)"
+ },
+ {
+  "id": "n5-8C-v023",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "身長",
+  "pos": "N",
+  "reading": "しんちょう",
+  "meaning": "chiều cao cơ thể"
+ },
+ {
+  "id": "n5-8C-v024",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "ホテル",
+  "pos": "N",
+  "reading": "ホテル",
+  "meaning": "khách sạn"
+ },
+ {
+  "id": "n5-8C-v025",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "ドラマ",
+  "pos": "N",
+  "reading": "ドラマ",
+  "meaning": "phim truyền hình"
+ },
+ {
+  "id": "n5-8C-v026",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "アニメ",
+  "pos": "N",
+  "reading": "アニメ",
+  "meaning": "anime"
+ },
+ {
+  "id": "n5-8C-v027",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "低い",
+  "pos": "A い",
+  "reading": "ひくい",
+  "meaning": "thấp"
+ },
+ {
+  "id": "n5-8C-v028",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "word",
+  "word": "長い",
+  "pos": "A い",
+  "reading": "ながい",
+  "meaning": "dài"
+ },
+ {
+  "id": "n5-8C-v029",
+  "level": "n5",
+  "lessonId": "8C",
+  "kind": "expression",
+  "word": "どの～",
+  "reading": "どの～",
+  "meaning": "cái ～ nào",
+  "note": "(đứng trước danh từ)"
+ },
+ {
+  "id": "n5-9A-v001",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "無料",
+  "pos": "N",
+  "reading": "むりょう",
+  "meaning": "miễn phí"
+ },
+ {
+  "id": "n5-9A-v002",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "趣味",
+  "pos": "N",
+  "reading": "しゅみ",
+  "meaning": "sở thích"
+ },
+ {
+  "id": "n5-9A-v003",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "夢",
+  "pos": "N",
+  "reading": "ゆめ",
+  "meaning": "ước mơ, giấc mơ"
+ },
+ {
+  "id": "n5-9A-v004",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "日課",
+  "pos": "N",
+  "reading": "にっか",
+  "meaning": "thói quen hàng ngày"
+ },
+ {
+  "id": "n5-9A-v005",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "日記",
+  "pos": "N",
+  "reading": "にっき",
+  "meaning": "nhật kí"
+ },
+ {
+  "id": "n5-9A-v006",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "花",
+  "pos": "N",
+  "reading": "はな",
+  "meaning": "bông hoa"
+ },
+ {
+  "id": "n5-9A-v007",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "切手",
+  "pos": "N",
+  "reading": "きって",
+  "meaning": "con tem"
+ },
+ {
+  "id": "n5-9A-v008",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "自分",
+  "pos": "N",
+  "reading": "じぶん",
+  "meaning": "bản thân"
+ },
+ {
+  "id": "n5-9A-v009",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "新聞",
+  "pos": "N",
+  "reading": "しんぶん",
+  "meaning": "tờ báo"
+ },
+ {
+  "id": "n5-9A-v010",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "空港",
+  "pos": "N",
+  "reading": "くうこう",
+  "meaning": "sân bay"
+ },
+ {
+  "id": "n5-9A-v011",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "飲み物",
+  "pos": "N",
+  "reading": "のみもの",
+  "meaning": "đồ uống"
+ },
+ {
+  "id": "n5-9A-v012",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "シャワー",
+  "pos": "N",
+  "reading": "シャワー",
+  "meaning": "vòi hoa sen"
+ },
+ {
+  "id": "n5-9A-v013",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "コーヒーマシン",
+  "pos": "N",
+  "reading": "コーヒーマシン",
+  "meaning": "máy pha cà phê"
+ },
+ {
+  "id": "n5-9A-v014",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "カフェ",
+  "pos": "N",
+  "reading": "カフェ",
+  "meaning": "quán cà phê"
+ },
+ {
+  "id": "n5-9A-v015",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "ゲーム",
+  "pos": "N",
+  "reading": "ゲーム",
+  "meaning": "game, trò chơi"
+ },
+ {
+  "id": "n5-9A-v016",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "クラシック",
+  "pos": "N",
+  "reading": "クラシック",
+  "meaning": "nhạc cổ điển"
+ },
+ {
+  "id": "n5-9A-v017",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "コンサート",
+  "pos": "N",
+  "reading": "コンサート",
+  "meaning": "buổi hòa nhạc"
+ },
+ {
+  "id": "n5-9A-v018",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "スキー",
+  "pos": "N",
+  "reading": "スキー",
+  "meaning": "trượt tuyết"
+ },
+ {
+  "id": "n5-9A-v019",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "シール",
+  "pos": "N",
+  "reading": "シール",
+  "meaning": "nhãn dán"
+ },
+ {
+  "id": "n5-9A-v020",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "（～を）描きます",
+  "pos": "V I",
+  "reading": "かきます",
+  "meaning": "vẽ"
+ },
+ {
+  "id": "n5-9A-v021",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "（～を）書きます",
+  "pos": "V I",
+  "reading": "かきます",
+  "meaning": "viết"
+ },
+ {
+  "id": "n5-9A-v022",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "expression",
+  "word": "それと",
+  "reading": "それと",
+  "meaning": "thêm nữa"
+ },
+ {
+  "id": "n5-9A-v023",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "expression",
+  "word": "そうだ",
+  "reading": "そうだ",
+  "meaning": "A, đúng rồi! À, phải rồi!",
+  "note": "(dùng khi chợt nhớ ra hoặc nảy ra điều gì đó muốn nói)"
+ },
+ {
+  "id": "n5-9A-v024",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "（～を）作ります",
+  "pos": "V I",
+  "reading": "つくります",
+  "meaning": "làm, tạo ra"
+ },
+ {
+  "id": "n5-9A-v025",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "登ります",
+  "pos": "V I",
+  "reading": "のぼります",
+  "meaning": "leo (núi)"
+ },
+ {
+  "id": "n5-9A-v026",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "（～を）片付けます",
+  "pos": "V II",
+  "reading": "かたづけます",
+  "meaning": "sắp xếp"
+ },
+ {
+  "id": "n5-9A-v027",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "（～を）育てます",
+  "pos": "V II",
+  "reading": "そだてます",
+  "meaning": "nuôi dạy, nuôi dưỡng,",
+  "note": "nuôi trồng"
+ },
+ {
+  "id": "n5-9A-v028",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "（～を）集めます",
+  "pos": "V II",
+  "reading": "あつめます",
+  "meaning": "thu thập, sưu tầm"
+ },
+ {
+  "id": "n5-9A-v029",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "（～を）建てます",
+  "pos": "V II",
+  "reading": "たてます",
+  "meaning": "xây dựng"
+ },
+ {
+  "id": "n5-9A-v030",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "浴びます",
+  "pos": "V II",
+  "reading": "あびます",
+  "meaning": "tắm"
+ },
+ {
+  "id": "n5-9A-v031",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "（～を）運転します",
+  "pos": "N/V III",
+  "reading": "うんてん（します）",
+  "meaning": "lái xe"
+ },
+ {
+  "id": "n5-9A-v032",
+  "level": "n5",
+  "lessonId": "9A",
+  "kind": "word",
+  "word": "今度",
+  "pos": "Adv.",
+  "reading": "こんど",
+  "meaning": "lần tới"
+ },
+ {
+  "id": "n5-9B-v001",
+  "level": "n5",
+  "lessonId": "9B",
+  "kind": "expression",
+  "word": "～％",
+  "reading": "～％",
+  "meaning": "OFF ～パーセントオフ giảm ～ %"
+ },
+ {
+  "id": "n5-9B-v002",
+  "level": "n5",
+  "lessonId": "9B",
+  "kind": "word",
+  "word": "そうか",
+  "reading": "そうか",
+  "meaning": "vậy à, thế à"
+ },
+ {
+  "id": "n5-9B-v003",
+  "level": "n5",
+  "lessonId": "9B",
+  "kind": "word",
+  "word": "そっか",
+  "reading": "そっか",
+  "meaning": "(đây là cách nói suồng sã, thân mật của 「そうですか」, dùng khi nói với gia đình và bạn bè, khi mình đã hiểu những gì đối phương nói)"
+ },
+ {
+  "id": "n5-9B-v004",
+  "level": "n5",
+  "lessonId": "9B",
+  "kind": "expression",
+  "word": "何でしょうか",
+  "reading": "なんでしょうか",
+  "meaning": "đây là cách nói lịch sự của"
+ },
+ {
+  "id": "n5-9B-v005",
+  "level": "n5",
+  "lessonId": "9B",
+  "kind": "word",
+  "word": "字",
+  "pos": "N",
+  "reading": "じ",
+  "meaning": "chữ"
+ },
+ {
+  "id": "n5-9B-v006",
+  "level": "n5",
+  "lessonId": "9B",
+  "kind": "word",
+  "word": "クーポン",
+  "pos": "N",
+  "reading": "クーポン",
+  "meaning": "phiếu giảm giá"
+ },
+ {
+  "id": "n5-9B-v007",
+  "level": "n5",
+  "lessonId": "9B",
+  "kind": "word",
+  "word": "ランチ",
+  "pos": "N",
+  "reading": "ランチ",
+  "meaning": "bữa trưa"
+ },
+ {
+  "id": "n5-9B-v008",
+  "level": "n5",
+  "lessonId": "9B",
+  "kind": "word",
+  "word": "ニュース",
+  "pos": "N",
+  "reading": "ニュース",
+  "meaning": "tin tức"
+ },
+ {
+  "id": "n5-9B-v009",
+  "level": "n5",
+  "lessonId": "9B",
+  "kind": "word",
+  "word": "汚い",
+  "pos": "A い",
+  "reading": "きたない",
+  "meaning": "bẩn, xấu (chữ viết)"
+ },
+ {
+  "id": "n5-9B-v010",
+  "level": "n5",
+  "lessonId": "9B",
+  "kind": "word",
+  "word": "歌う",
+  "pos": "V I",
+  "reading": "うたう",
+  "meaning": "hát"
+ },
+ {
+  "id": "n5-9B-v011",
+  "level": "n5",
+  "lessonId": "9B",
+  "kind": "word",
+  "word": "そろそろ",
+  "pos": "Adv.",
+  "reading": "そろそろ",
+  "meaning": "sắp, chuẩn bị"
+ },
+ {
+  "id": "n5-9B-v012",
+  "level": "n5",
+  "lessonId": "9B",
+  "kind": "word",
+  "word": "こんなに",
+  "pos": "Adv.",
+  "reading": "こんなに",
+  "meaning": "đến mức này, như thế này"
+ },
+ {
+  "id": "n5-9C-v001",
+  "level": "n5",
+  "lessonId": "9C",
+  "kind": "word",
+  "word": "最後",
+  "pos": "N",
+  "reading": "さいご",
+  "meaning": "cuối cùng"
+ },
+ {
+  "id": "n5-9C-v002",
+  "level": "n5",
+  "lessonId": "9C",
+  "kind": "word",
+  "word": "夜行バス",
+  "pos": "N",
+  "reading": "やこうバス",
+  "meaning": "xe buýt đêm"
+ },
+ {
+  "id": "n5-9C-v003",
+  "level": "n5",
+  "lessonId": "9C",
+  "kind": "word",
+  "word": "アクセサリー",
+  "pos": "N",
+  "reading": "アクセサリー",
+  "meaning": "trang sức, phụ kiện"
+ },
+ {
+  "id": "n5-9C-v004",
+  "level": "n5",
+  "lessonId": "9C",
+  "kind": "word",
+  "word": "チーズ",
+  "pos": "N",
+  "reading": "チーズ",
+  "meaning": "phô mai"
+ },
+ {
+  "id": "n5-9C-v005",
+  "level": "n5",
+  "lessonId": "9C",
+  "kind": "word",
+  "word": "ダイエット",
+  "pos": "N",
+  "reading": "ダイエット",
+  "meaning": "ăn kiêng"
+ },
+ {
+  "id": "n5-9C-v006",
+  "level": "n5",
+  "lessonId": "9C",
+  "kind": "word",
+  "word": "死ぬ",
+  "pos": "V I",
+  "reading": "しぬ",
+  "meaning": "chết"
+ },
+ {
+  "id": "n5-9C-v007",
+  "level": "n5",
+  "lessonId": "9C",
+  "kind": "word",
+  "word": "～中",
+  "reading": "～ちゅう",
+  "meaning": "đang ～"
+ },
+ {
+  "id": "n5-9C-v008",
+  "level": "n5",
+  "lessonId": "9C",
+  "kind": "word",
+  "word": "ダイエット中",
+  "reading": "ダイエットちゅう",
+  "meaning": "đang ăn kiêng"
+ },
+ {
+  "id": "n5-9C-v009",
+  "level": "n5",
+  "lessonId": "9C",
+  "kind": "word",
+  "word": "勉強中",
+  "reading": "べんきょうちゅう",
+  "meaning": "đang học"
+ },
+ {
+  "id": "n5-9C-v010",
+  "level": "n5",
+  "lessonId": "9C",
+  "kind": "word",
+  "word": "仕事中",
+  "reading": "しごとちゅう",
+  "meaning": "đang làm việc"
+ },
+ {
+  "id": "n5-10A-v001",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "約束",
+  "pos": "N",
+  "reading": "やくそく",
+  "meaning": "lời hứa, cuộc hẹn"
+ },
+ {
+  "id": "n5-10A-v002",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "荷物",
+  "pos": "N",
+  "reading": "にもつ",
+  "meaning": "hành lý"
+ },
+ {
+  "id": "n5-10A-v003",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "自動販売機",
+  "pos": "N",
+  "reading": "じどうはんばいき",
+  "meaning": "máy bán hàng tự động"
+ },
+ {
+  "id": "n5-10A-v004",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "会議",
+  "pos": "N",
+  "reading": "かいぎ",
+  "meaning": "cuộc họp"
+ },
+ {
+  "id": "n5-10A-v005",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "歯",
+  "pos": "N",
+  "reading": "は",
+  "meaning": "răng"
+ },
+ {
+  "id": "n5-10A-v006",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "宿題",
+  "pos": "N",
+  "reading": "しゅくだい",
+  "meaning": "bài về nhà",
+  "note": "ATM （N） エーティーエム cây rút tiền"
+ },
+ {
+  "id": "n5-10A-v007",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "コンビニ",
+  "pos": "N",
+  "reading": "コンビニ",
+  "meaning": "cửa hàng tiện lợi"
+ },
+ {
+  "id": "n5-10A-v008",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "（～を）磨く",
+  "pos": "V I",
+  "reading": "みがく",
+  "meaning": "đánh (răng, giày,...)"
+ },
+ {
+  "id": "n5-10A-v009",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "（～を）引き出す",
+  "pos": "V I",
+  "reading": "ひきだす",
+  "meaning": "rút (tiền), kéo ra"
+ },
+ {
+  "id": "n5-10A-v010",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "終わる",
+  "pos": "V I",
+  "reading": "おわる",
+  "meaning": "kết thúc"
+ },
+ {
+  "id": "n5-10A-v011",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "（～を）準備 ( する )",
+  "pos": "N/V III",
+  "reading": "じゅんび ( する )",
+  "meaning": "chuẩn bị"
+ },
+ {
+  "id": "n5-10A-v012",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "（～を）掃除 ( する )",
+  "pos": "N/V III",
+  "reading": "そうじ ( する )",
+  "meaning": "dọn dẹp"
+ },
+ {
+  "id": "n5-10A-v013",
+  "level": "n5",
+  "lessonId": "10A",
+  "kind": "word",
+  "word": "みんなで",
+  "pos": "Adv.",
+  "reading": "みんなで",
+  "meaning": "tất cả (mọi người)",
+  "note": "(cùng thực hiện một hành động nào đó)"
+ },
+ {
+  "id": "n5-10B-v001",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "expression",
+  "word": "ごめん（なさい）",
+  "reading": "ごめん / ごめんなさい",
+  "meaning": "xin lỗi"
+ },
+ {
+  "id": "n5-10B-v002",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "expression",
+  "word": "お待たせ",
+  "reading": "おまたせ",
+  "meaning": "xin lỗi đã để anh/chị/bạn chờ.",
+  "note": "(lưu ý: đây là lối nói suồng sã của"
+ },
+ {
+  "id": "n5-10B-v003",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "expression",
+  "word": "「",
+  "reading": "お待 / ま / こちらこそ",
+  "meaning": "chính phía tôi ～"
+ },
+ {
+  "id": "n5-10B-v004",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "expression",
+  "word": "お腹がいっぱい",
+  "reading": "おなかがいっぱい",
+  "meaning": "no"
+ },
+ {
+  "id": "n5-10B-v005",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "曲",
+  "pos": "N",
+  "reading": "きょく",
+  "meaning": "ca khúc, khúc nhạc"
+ },
+ {
+  "id": "n5-10B-v006",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "海外",
+  "pos": "N",
+  "reading": "かいがい",
+  "meaning": "nước ngoài"
+ },
+ {
+  "id": "n5-10B-v007",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "バンド",
+  "pos": "N",
+  "reading": "バンド",
+  "meaning": "nhóm nhạc"
+ },
+ {
+  "id": "n5-10B-v008",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "さっき",
+  "pos": "N/Adv.",
+  "reading": "さっき",
+  "meaning": "lúc nãy, vừa nãy"
+ },
+ {
+  "id": "n5-10B-v009",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "１度 / 一度",
+  "pos": "N/Adv.",
+  "reading": "～ど / いちど / ～",
+  "meaning": "1 lần"
+ },
+ {
+  "id": "n5-10B-v010",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "expression",
+  "word": "例「4",
+  "reading": "年 / ねん / に",
+  "meaning": "1 度"
+ },
+ {
+  "id": "n5-10B-v011",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "何度も",
+  "pos": "N/Adv.",
+  "reading": "なんども",
+  "meaning": "nhiều lần"
+ },
+ {
+  "id": "n5-10B-v012",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "（～を）待つ",
+  "pos": "V I",
+  "reading": "まつ",
+  "meaning": "chờ"
+ },
+ {
+  "id": "n5-10B-v013",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "（～に）着く",
+  "pos": "V I",
+  "reading": "つく",
+  "meaning": "đến (nơi)"
+ },
+ {
+  "id": "n5-10B-v014",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "（～が）始まる",
+  "pos": "V I",
+  "reading": "はじまる ( ～ )",
+  "meaning": "bắt đầu"
+ },
+ {
+  "id": "n5-10B-v015",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "（～に）入る",
+  "pos": "V I",
+  "reading": "はいる",
+  "meaning": "vào (vào phòng, vào đại học...)"
+ },
+ {
+  "id": "n5-10B-v016",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "（～に）遅れる",
+  "pos": "V II",
+  "reading": "おくれる",
+  "meaning": "muộn"
+ },
+ {
+  "id": "n5-10B-v017",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "（～に）慣れる",
+  "pos": "V II",
+  "reading": "なれる",
+  "meaning": "quen, quen thuộc (với ～ )"
+ },
+ {
+  "id": "n5-10B-v018",
+  "level": "n5",
+  "lessonId": "10B",
+  "kind": "word",
+  "word": "卒業 ( する )",
+  "pos": "N/V III",
+  "reading": "そつぎょう ( する )",
+  "meaning": "tốt nghiệp"
+ },
+ {
+  "id": "n5-11A-v001",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "席",
+  "pos": "N",
+  "reading": "せき",
+  "meaning": "chỗ ngồi"
+ },
+ {
+  "id": "n5-11A-v002",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "説明書",
+  "pos": "N",
+  "reading": "せつめいしょ",
+  "meaning": "sách hướng dẫn"
+ },
+ {
+  "id": "n5-11A-v003",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "両親",
+  "pos": "N",
+  "reading": "りょうしん",
+  "meaning": "bố mẹ"
+ },
+ {
+  "id": "n5-11A-v004",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "お風呂",
+  "pos": "N",
+  "reading": "おふろ",
+  "meaning": "bồn tắm"
+ },
+ {
+  "id": "n5-11A-v005",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "ドライブ",
+  "pos": "N",
+  "reading": "ドライブ",
+  "meaning": "việc lái xe ô tô đi dạo/ đi",
+  "note": "chơi xa"
+ },
+ {
+  "id": "n5-11A-v006",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "アプリ",
+  "pos": "N",
+  "reading": "アプリ",
+  "meaning": "ứng dụng (phần mềm),",
+  "note": "app"
+ },
+ {
+  "id": "n5-11A-v007",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "遅い",
+  "pos": "A い",
+  "reading": "おそい",
+  "meaning": "muộn, chậm"
+ },
+ {
+  "id": "n5-11A-v008",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "しょうがない",
+  "pos": "A い",
+  "reading": "しょうがない",
+  "meaning": "đành chịu, hết cách"
+ },
+ {
+  "id": "n5-11A-v009",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "言う",
+  "pos": "V I",
+  "reading": "いう",
+  "meaning": "nói"
+ },
+ {
+  "id": "n5-11A-v010",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "急ぐ",
+  "pos": "V I",
+  "reading": "いそぐ",
+  "meaning": "khẩn trương, nhanh chóng"
+ },
+ {
+  "id": "n5-11A-v011",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "（～を）頑張る",
+  "pos": "V I",
+  "reading": "がんばる",
+  "meaning": "cố gắng"
+ },
+ {
+  "id": "n5-11A-v012",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "( ～に）間に合う",
+  "pos": "V I",
+  "reading": "まにあう",
+  "meaning": "kịp, kịp giờ"
+ },
+ {
+  "id": "n5-11A-v013",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "（～を）やる",
+  "pos": "V I",
+  "reading": "やる",
+  "meaning": "làm"
+ },
+ {
+  "id": "n5-11A-v014",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "（～を）出る",
+  "pos": "V II",
+  "reading": "でる",
+  "meaning": "ra (khỏi phòng/ khỏi nhà)"
+ },
+ {
+  "id": "n5-11A-v015",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "（～を）予約 ( する )",
+  "pos": "N/V III",
+  "reading": "よやく ( する )",
+  "meaning": "đặt trước"
+ },
+ {
+  "id": "n5-11A-v016",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "（～を）練習 ( する )",
+  "pos": "N/V III",
+  "reading": "れんしゅう ( する )",
+  "meaning": "luyện tập"
+ },
+ {
+  "id": "n5-11A-v017",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "安心 ( する )",
+  "pos": "N/V III",
+  "reading": "あんしん ( する )",
+  "meaning": "an tâm, yên tâm"
+ },
+ {
+  "id": "n5-11A-v018",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "word",
+  "word": "まだ",
+  "pos": "Adv.",
+  "reading": "まだ",
+  "meaning": "vẫn chưa (khi đi với phủ định)",
+  "note": "vẫn còn (khi đi với khẳng định)"
+ },
+ {
+  "id": "n5-11A-v019",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "expression",
+  "word": "おつかれさまでした",
+  "reading": "おつかれさまでした",
+  "meaning": "anh/ chị làm việc vất vả rồi."
+ },
+ {
+  "id": "n5-11A-v020",
+  "level": "n5",
+  "lessonId": "11A",
+  "kind": "expression",
+  "word": "頑張ってください",
+  "reading": "がんばってください",
+  "meaning": "cố gắng lên."
+ },
+ {
+  "id": "n5-11B-v001",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "世界",
+  "pos": "N",
+  "reading": "せかい",
+  "meaning": "thế giới"
+ },
+ {
+  "id": "n5-11B-v002",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "世界一周",
+  "pos": "N",
+  "reading": "せかいいっしゅう",
+  "meaning": "vòng quanh thế giới"
+ },
+ {
+  "id": "n5-11B-v003",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "広告",
+  "pos": "N",
+  "reading": "こうこく",
+  "meaning": "quảng cáo"
+ },
+ {
+  "id": "n5-11B-v004",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "野球",
+  "pos": "N",
+  "reading": "やきゅう",
+  "meaning": "bóng chày"
+ },
+ {
+  "id": "n5-11B-v005",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "健康診断",
+  "pos": "N",
+  "reading": "けんこうしんだん",
+  "meaning": "khám sức khỏe"
+ },
+ {
+  "id": "n5-11B-v006",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "病気",
+  "pos": "N",
+  "reading": "びょうき",
+  "meaning": "ốm, bệnh"
+ },
+ {
+  "id": "n5-11B-v007",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "全員",
+  "pos": "N/Adv.",
+  "reading": "ぜんいん",
+  "meaning": "tất cả mọi người"
+ },
+ {
+  "id": "n5-11B-v008",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "不合格",
+  "pos": "N",
+  "reading": "ふごうかく",
+  "meaning": "không đỗ; trượt"
+ },
+ {
+  "id": "n5-11B-v009",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "資料",
+  "pos": "N",
+  "reading": "しりょう",
+  "meaning": "tài liệu"
+ },
+ {
+  "id": "n5-11B-v010",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "世話",
+  "pos": "N",
+  "reading": "せわ",
+  "meaning": "chăm sóc"
+ },
+ {
+  "id": "n5-11B-v011",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "薬",
+  "pos": "N",
+  "reading": "くすり",
+  "meaning": "thuốc"
+ },
+ {
+  "id": "n5-11B-v012",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "たばこ",
+  "pos": "N",
+  "reading": "たばこ",
+  "meaning": "thuốc lá"
+ },
+ {
+  "id": "n5-11B-v013",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "お知らせ",
+  "pos": "N",
+  "reading": "おしらせ",
+  "meaning": "thông báo"
+ },
+ {
+  "id": "n5-11B-v014",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "手",
+  "pos": "N",
+  "reading": "て",
+  "meaning": "tay, bàn tay"
+ },
+ {
+  "id": "n5-11B-v015",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "レポート",
+  "pos": "N",
+  "reading": "レポート",
+  "meaning": "báo cáo"
+ },
+ {
+  "id": "n5-11B-v016",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "だめ",
+  "pos": "A な",
+  "reading": "だめ",
+  "meaning": "không được"
+ },
+ {
+  "id": "n5-11B-v017",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "（～を）洗う",
+  "pos": "V I",
+  "reading": "あらう",
+  "meaning": "rửa"
+ },
+ {
+  "id": "n5-11B-v018",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "（～を）吸う",
+  "pos": "V I",
+  "reading": "すう",
+  "meaning": "hút (thuốc)"
+ },
+ {
+  "id": "n5-11B-v019",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "（～を）回す",
+  "pos": "V I",
+  "reading": "まわす",
+  "meaning": "xoay tròn, vung tròn",
+  "note": "(thứ gì đó)"
+ },
+ {
+  "id": "n5-11B-v020",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "（～に）乗る",
+  "pos": "V I",
+  "reading": "のる",
+  "meaning": "lên (tàu, xe,.. )"
+ },
+ {
+  "id": "n5-11B-v021",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "連れて行く",
+  "pos": "V I",
+  "reading": "つれていく",
+  "meaning": "dẫn (ai) đi (đến đâu)"
+ },
+ {
+  "id": "n5-11B-v022",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "expression",
+  "word": "そうなんですね",
+  "reading": "そうなんですね",
+  "meaning": "vậy à, thế à",
+  "note": "(sử dụng để thể hiện sự đồng cảm hoặc bất ngờ, ngạc nhiên với câu chuyện của đối phương)"
+ },
+ {
+  "id": "n5-11B-v023",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "expression",
+  "word": "そうなんだ",
+  "reading": "そうなんだ",
+  "meaning": "vậy à, thế à",
+  "note": "(cách nói suồng sã, thân mật của「そうなんですね」)"
+ },
+ {
+  "id": "n5-11B-v024",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "（～を）持っていく",
+  "pos": "V I",
+  "reading": "もっていく",
+  "meaning": "mang đi, cầm đi"
+ },
+ {
+  "id": "n5-11B-v025",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "晴れる",
+  "pos": "V II",
+  "reading": "はれる",
+  "meaning": "nắng"
+ },
+ {
+  "id": "n5-11B-v026",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "（～に）気を付ける",
+  "pos": "V II",
+  "reading": "きをつける",
+  "meaning": "chú ý"
+ },
+ {
+  "id": "n5-11B-v027",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "（～に）注意 ( する )",
+  "pos": "N/V III",
+  "reading": "ちゅうい ( する )",
+  "meaning": "chú ý; nhắc nhở",
+  "note": "(người khác)"
+ },
+ {
+  "id": "n5-11B-v028",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "（～に）合格 ( する )",
+  "pos": "N/V III",
+  "reading": "ごうかく ( する )",
+  "meaning": "đỗ ～"
+ },
+ {
+  "id": "n5-11B-v029",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "生活 ( する )",
+  "pos": "N/V III",
+  "reading": "せいかつ ( する )",
+  "meaning": "sinh sống, sinh hoạt"
+ },
+ {
+  "id": "n5-11B-v030",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "残業 ( する )",
+  "pos": "N/V III",
+  "reading": "ざんぎょう ( する )",
+  "meaning": "tăng ca"
+ },
+ {
+  "id": "n5-11B-v031",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "出張 ( する )",
+  "pos": "N/V III",
+  "reading": "しゅっちょう ( する )",
+  "meaning": "đi công tác"
+ },
+ {
+  "id": "n5-11B-v032",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "一生懸命",
+  "pos": "Adv.",
+  "reading": "いっしょうけんめい",
+  "meaning": "chăm chỉ"
+ },
+ {
+  "id": "n5-11B-v033",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "絶対に",
+  "pos": "Adv.",
+  "reading": "ぜったいに",
+  "meaning": "nhất định, tuyệt đối"
+ },
+ {
+  "id": "n5-11B-v034",
+  "level": "n5",
+  "lessonId": "11B",
+  "kind": "word",
+  "word": "いつか",
+  "pos": "Adv.",
+  "reading": "いつか",
+  "meaning": "một lúc nào đó"
+ },
+ {
+  "id": "n5-12A-v001",
+  "level": "n5",
+  "lessonId": "12A",
+  "kind": "word",
+  "word": "体",
+  "pos": "N",
+  "reading": "からだ",
+  "meaning": "cơ thể"
+ },
+ {
+  "id": "n5-12A-v002",
+  "level": "n5",
+  "lessonId": "12A",
+  "kind": "word",
+  "word": "ハンバーグ",
+  "pos": "N",
+  "reading": "ハンバーグ",
+  "meaning": "thịt viên rán"
+ },
+ {
+  "id": "n5-12A-v003",
+  "level": "n5",
+  "lessonId": "12A",
+  "kind": "word",
+  "word": "インターネット",
+  "pos": "N",
+  "reading": "インターネット",
+  "meaning": "internet"
+ },
+ {
+  "id": "n5-12A-v004",
+  "level": "n5",
+  "lessonId": "12A",
+  "kind": "word",
+  "word": "（～を）調べる",
+  "pos": "V II",
+  "reading": "しらべる",
+  "meaning": "tra cứu, tìm hiểu"
+ },
+ {
+  "id": "n5-12A-v005",
+  "level": "n5",
+  "lessonId": "12A",
+  "kind": "word",
+  "word": "帰ってくる",
+  "pos": "V III",
+  "reading": "かえってくる",
+  "meaning": "về tới"
+ },
+ {
+  "id": "n5-12A-v006",
+  "level": "n5",
+  "lessonId": "12A",
+  "kind": "word",
+  "word": "もう",
+  "pos": "Adv.",
+  "reading": "もう",
+  "meaning": "đã, rồi"
+ },
+ {
+  "id": "n5-12A-v007",
+  "level": "n5",
+  "lessonId": "12A",
+  "kind": "expression",
+  "word": "おやすみ（なさい）",
+  "reading": "おやすみ / おやすみなさい",
+  "meaning": "chúc ngủ ngon"
+ },
+ {
+  "id": "n5-12A-v008",
+  "level": "n5",
+  "lessonId": "12A",
+  "kind": "expression",
+  "word": "ほら",
+  "reading": "ほら",
+  "meaning": "nào!",
+  "note": "(lời kêu gọi sự chú ý của đối phương)"
+ },
+ {
+  "id": "n5-12A-v009",
+  "level": "n5",
+  "lessonId": "12A",
+  "kind": "expression",
+  "word": "やだ",
+  "reading": "やだ",
+  "meaning": "① không thích, không được",
+  "note": "② thôi chết! (cách nói khác của いやだ , nữ giới thường dùng từ này khi gặp những chuyện mình không thích hoặc khi nhầm lẫn. Lưu ý không dùng với người bề trên.)"
+ },
+ {
+  "id": "n5-12B-v001",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "空",
+  "pos": "N",
+  "reading": "そら",
+  "meaning": "bầu trời"
+ },
+ {
+  "id": "n5-12B-v002",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "雪",
+  "pos": "N",
+  "reading": "ゆき",
+  "meaning": "tuyết"
+ },
+ {
+  "id": "n5-12B-v003",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "風",
+  "pos": "N",
+  "reading": "かぜ",
+  "meaning": "gió"
+ },
+ {
+  "id": "n5-12B-v004",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "地面",
+  "pos": "N",
+  "reading": "じめん",
+  "meaning": "mặt đất"
+ },
+ {
+  "id": "n5-12B-v005",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "休憩室",
+  "pos": "N",
+  "reading": "きゅうけいしつ",
+  "meaning": "phòng nghỉ"
+ },
+ {
+  "id": "n5-12B-v006",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "（～を）探す",
+  "pos": "V I",
+  "reading": "さがす",
+  "meaning": "tìm kiếm"
+ },
+ {
+  "id": "n5-12B-v007",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "降る",
+  "pos": "V I",
+  "reading": "ふる",
+  "meaning": "rơi (mưa rơi, tuyết rơi)"
+ },
+ {
+  "id": "n5-12B-v008",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "飛ぶ",
+  "pos": "V I",
+  "reading": "とぶ",
+  "meaning": "bay"
+ },
+ {
+  "id": "n5-12B-v009",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "走る",
+  "pos": "V I",
+  "reading": "はしる",
+  "meaning": "chạy"
+ },
+ {
+  "id": "n5-12B-v010",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "（～に）通う",
+  "pos": "V I",
+  "reading": "かよう",
+  "meaning": "đi lại (chỉ việc thường hay đi đến",
+  "note": "một địa điểm nào đó như đi học"
+ },
+ {
+  "id": "n5-12B-v011",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "泣く",
+  "pos": "V I",
+  "reading": "なく",
+  "meaning": "khóc"
+ },
+ {
+  "id": "n5-12B-v012",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "笑う",
+  "pos": "V I",
+  "reading": "わらう",
+  "meaning": "cười"
+ },
+ {
+  "id": "n5-12B-v013",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "曇る",
+  "pos": "V I",
+  "reading": "くもる",
+  "meaning": "âm u, nhiều mây"
+ },
+ {
+  "id": "n5-12B-v014",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "続く",
+  "pos": "V I",
+  "reading": "つづく",
+  "meaning": "liên tục"
+ },
+ {
+  "id": "n5-12B-v015",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "吹く",
+  "pos": "V I",
+  "reading": "ふく",
+  "meaning": "thổi"
+ },
+ {
+  "id": "n5-12B-v016",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "揺れる",
+  "pos": "V II",
+  "reading": "ゆれる",
+  "meaning": "rung lắc"
+ },
+ {
+  "id": "n5-12B-v017",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "運動 ( する )",
+  "pos": "N/V III",
+  "reading": "うんどう ( する )",
+  "meaning": "vận động, tập thể dục"
+ },
+ {
+  "id": "n5-12B-v018",
+  "level": "n5",
+  "lessonId": "12B",
+  "kind": "word",
+  "word": "（～を）コピーする",
+  "pos": "N/V III",
+  "reading": "コピー ( する )",
+  "meaning": "photo"
+ },
+ {
+  "id": "n5-12C-v001",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "兄弟",
+  "pos": "N",
+  "reading": "きょうだい",
+  "meaning": "anh em"
+ },
+ {
+  "id": "n5-12C-v002",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "独身",
+  "pos": "N",
+  "reading": "どくしん",
+  "meaning": "độc thân"
+ },
+ {
+  "id": "n5-12C-v003",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "会長",
+  "pos": "N",
+  "reading": "かいちょう",
+  "meaning": "chủ tịch"
+ },
+ {
+  "id": "n5-12C-v004",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "花瓶",
+  "pos": "N",
+  "reading": "かびん",
+  "meaning": "bình hoa"
+ },
+ {
+  "id": "n5-12C-v005",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "桜",
+  "pos": "N",
+  "reading": "さくら",
+  "meaning": "hoa anh đào"
+ },
+ {
+  "id": "n5-12C-v006",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "虫",
+  "pos": "N",
+  "reading": "むし",
+  "meaning": "sâu bọ"
+ },
+ {
+  "id": "n5-12C-v007",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "ごみ",
+  "pos": "N",
+  "reading": "ごみ",
+  "meaning": "rác"
+ },
+ {
+  "id": "n5-12C-v008",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "落とし物",
+  "pos": "N",
+  "reading": "おとしもの",
+  "meaning": "đồ đánh rơi"
+ },
+ {
+  "id": "n5-12C-v009",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "周り",
+  "pos": "N",
+  "reading": "まわり",
+  "meaning": "xung quanh"
+ },
+ {
+  "id": "n5-12C-v010",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "太陽",
+  "pos": "N",
+  "reading": "たいよう",
+  "meaning": "mặt trời"
+ },
+ {
+  "id": "n5-12C-v011",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "月",
+  "pos": "N",
+  "reading": "つき",
+  "meaning": "mặt trăng"
+ },
+ {
+  "id": "n5-12C-v012",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "地球",
+  "pos": "N",
+  "reading": "ちきゅう",
+  "meaning": "trái đất"
+ },
+ {
+  "id": "n5-12C-v013",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "床",
+  "pos": "N",
+  "reading": "ゆか",
+  "meaning": "sàn nhà"
+ },
+ {
+  "id": "n5-12C-v014",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "パート",
+  "pos": "N",
+  "reading": "パート",
+  "meaning": "làm thêm"
+ },
+ {
+  "id": "n5-12C-v015",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "カード",
+  "pos": "N",
+  "reading": "カード",
+  "meaning": "thẻ"
+ },
+ {
+  "id": "n5-12C-v016",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "ドア",
+  "pos": "N",
+  "reading": "ドア",
+  "meaning": "cửa"
+ },
+ {
+  "id": "n5-12C-v017",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "シャツ",
+  "pos": "N",
+  "reading": "シャツ",
+  "meaning": "áo sơ mi"
+ },
+ {
+  "id": "n5-12C-v018",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "ハンカチ",
+  "pos": "N",
+  "reading": "ハンカチ",
+  "meaning": "khăn tay, khăn mùi soa"
+ },
+ {
+  "id": "n5-12C-v019",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "（～を）習う",
+  "pos": "V I",
+  "reading": "ならう",
+  "meaning": "học"
+ },
+ {
+  "id": "n5-12C-v020",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "（～に）付く",
+  "pos": "V I",
+  "reading": "つく",
+  "meaning": "có dính, có gắn ~"
+ },
+ {
+  "id": "n5-12C-v021",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "開く",
+  "pos": "V I",
+  "reading": "あく ~",
+  "meaning": "mở"
+ },
+ {
+  "id": "n5-12C-v022",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "閉まる",
+  "pos": "V I",
+  "reading": "しまる ~",
+  "meaning": "đóng"
+ },
+ {
+  "id": "n5-12C-v023",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "（～に）住む",
+  "pos": "V I",
+  "reading": "すむ",
+  "meaning": "sống"
+ },
+ {
+  "id": "n5-12C-v024",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "（～を）知る",
+  "pos": "V I",
+  "reading": "しる",
+  "meaning": "biết"
+ },
+ {
+  "id": "n5-12C-v025",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "咲く",
+  "pos": "V I",
+  "reading": "さく",
+  "meaning": "(hoa) nở"
+ },
+ {
+  "id": "n5-12C-v026",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "立つ",
+  "pos": "V I",
+  "reading": "たつ",
+  "meaning": "đứng"
+ },
+ {
+  "id": "n5-12C-v027",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "回る",
+  "pos": "V I",
+  "reading": "まわる",
+  "meaning": "xoay vòng, quay vòng"
+ },
+ {
+  "id": "n5-12C-v028",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "出る",
+  "pos": "V II",
+  "reading": "でる",
+  "meaning": "lộ ra, lòi ra"
+ },
+ {
+  "id": "n5-12C-v029",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "濡れる",
+  "pos": "V II",
+  "reading": "ぬれる",
+  "meaning": "ướt"
+ },
+ {
+  "id": "n5-12C-v030",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "（～を）入れる",
+  "pos": "V II",
+  "reading": "いれる",
+  "meaning": "cho ~ vào"
+ },
+ {
+  "id": "n5-12C-v031",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "落ちる",
+  "pos": "V II",
+  "reading": "おちる",
+  "meaning": "rơi"
+ },
+ {
+  "id": "n5-12C-v032",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "汚れる",
+  "pos": "V II",
+  "reading": "よごれる",
+  "meaning": "bị bẩn"
+ },
+ {
+  "id": "n5-12C-v033",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "割れる",
+  "pos": "V II",
+  "reading": "われる",
+  "meaning": "vỡ"
+ },
+ {
+  "id": "n5-12C-v034",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "破れる",
+  "pos": "V II",
+  "reading": "やぶれる",
+  "meaning": "bị rách"
+ },
+ {
+  "id": "n5-12C-v035",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "倒れる",
+  "pos": "V II",
+  "reading": "たおれる",
+  "meaning": "ngã, đổ, ngất"
+ },
+ {
+  "id": "n5-12C-v036",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "（～と）結婚 ( する )",
+  "pos": "N/V III",
+  "reading": "けっこん ( する )",
+  "meaning": "kết hôn"
+ },
+ {
+  "id": "n5-12C-v037",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "（～を）生産（する )",
+  "pos": "N/V III",
+  "reading": "せいさん ( する )",
+  "meaning": "sản xuất"
+ },
+ {
+  "id": "n5-12C-v038",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "word",
+  "word": "きちんと",
+  "pos": "Adv.",
+  "reading": "きちんと",
+  "meaning": "đầy đủ, cẩn thận"
+ },
+ {
+  "id": "n5-12C-v039",
+  "level": "n5",
+  "lessonId": "12C",
+  "kind": "expression",
+  "word": "ご苦労様です",
+  "reading": "ごくろうさまです",
+  "meaning": "Bạn đã làm việc vất vả rồi",
+  "note": "(chỉ có người bề trên nói với người bề dưới)"
+ },
+ {
+  "id": "n5-13A-v001",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "俺",
+  "pos": "N",
+  "reading": "おれ",
+  "meaning": "tôi, tớ, tao",
+  "note": "(nhân xưng ngôi thứ 1 do nam giới sử dụng. Chỉ dùng trong lối nói thân mật)"
+ },
+ {
+  "id": "n5-13A-v002",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "小学生",
+  "pos": "N",
+  "reading": "しょうがくせい",
+  "meaning": "học sinh tiểu học"
+ },
+ {
+  "id": "n5-13A-v003",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "内容",
+  "pos": "N",
+  "reading": "ないよう",
+  "meaning": "nội dung"
+ },
+ {
+  "id": "n5-13A-v004",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "制服",
+  "pos": "N",
+  "reading": "せいふく",
+  "meaning": "đồng phục"
+ },
+ {
+  "id": "n5-13A-v005",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "宅配便",
+  "pos": "N",
+  "reading": "たくはいびん",
+  "meaning": "dịch vụ giao hàng tận nhà"
+ },
+ {
+  "id": "n5-13A-v006",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "えんぴつ",
+  "pos": "N",
+  "reading": "えんぴつ",
+  "meaning": "bút chì"
+ },
+ {
+  "id": "n5-13A-v007",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "はんこ",
+  "pos": "N",
+  "reading": "はんこ",
+  "meaning": "con dấu"
+ },
+ {
+  "id": "n5-13A-v008",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "はがき",
+  "pos": "N",
+  "reading": "はがき",
+  "meaning": "bưu thiếp"
+ },
+ {
+  "id": "n5-13A-v009",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "メモ",
+  "pos": "N",
+  "reading": "メモ",
+  "meaning": "bản ghi nhớ, ghi chép"
+ },
+ {
+  "id": "n5-13A-v010",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "メール",
+  "pos": "N",
+  "reading": "メール",
+  "meaning": "email, tin nhắn"
+ },
+ {
+  "id": "n5-13A-v011",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "サイン",
+  "pos": "N",
+  "reading": "サイン",
+  "meaning": "chữ ký"
+ },
+ {
+  "id": "n5-13A-v012",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "アルバイト先",
+  "pos": "N",
+  "reading": "アルバイトさき",
+  "meaning": "nơi làm thêm, chỗ làm",
+  "note": "thêm"
+ },
+ {
+  "id": "n5-13A-v013",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "スーツ",
+  "pos": "N",
+  "reading": "スーツ",
+  "meaning": "âu phục, com lê"
+ },
+ {
+  "id": "n5-13A-v014",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "ボールペン",
+  "pos": "N",
+  "reading": "ボールペン",
+  "meaning": "bút bi"
+ },
+ {
+  "id": "n5-13A-v015",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "クレジットカード",
+  "pos": "N",
+  "reading": "クレジットカード",
+  "meaning": "thẻ tín dụng"
+ },
+ {
+  "id": "n5-13A-v016",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "ドル",
+  "pos": "N",
+  "reading": "ドル",
+  "meaning": "đô la"
+ },
+ {
+  "id": "n5-13A-v017",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "楽",
+  "pos": "A な",
+  "reading": "らく",
+  "meaning": "nhàn, an nhàn, nhàn nhã"
+ },
+ {
+  "id": "n5-13A-v018",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "ふわふわ",
+  "pos": "A な / Adv.",
+  "reading": "ふわふわ / ふわふ",
+  "meaning": "mềm, bông xốp"
+ },
+ {
+  "id": "n5-13A-v019",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "（～を / に）触る",
+  "pos": "V I",
+  "reading": "さわる",
+  "meaning": "sờ, chạm"
+ },
+ {
+  "id": "n5-13A-v020",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "（～を）持って帰る",
+  "pos": "V I",
+  "reading": "もってかえる",
+  "meaning": "mang về"
+ },
+ {
+  "id": "n5-13A-v021",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "構わない",
+  "reading": "かまわない",
+  "meaning": "không sao, không thành"
+ },
+ {
+  "id": "n5-13A-v022",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "構いません",
+  "reading": "かまいません",
+  "meaning": "vấn đề"
+ },
+ {
+  "id": "n5-13A-v023",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "expression",
+  "word": "いかがですか",
+  "reading": "いかがですか",
+  "meaning": "anh/ chị thấy thế nào ạ?",
+  "note": "(Cách nói lịch sự của「どうですか」)"
+ },
+ {
+  "id": "n5-13A-v024",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "expression",
+  "word": "いただきます",
+  "reading": "いただきます",
+  "meaning": "① tôi xin nhận ạ",
+  "note": "(Câu nói khi nhận được thứ gì đó từ người khác, mang hàm ý cảm ơn đối phương) ② tôi xin phép dùng bữa (Câu nói trước khi ăn/ uống, thể hiện sự cảm kích, trân trọng trước món ăn. Đồng thời có thể hiểu như một lời mời trước khi ăn, uống như trong tiếng Việt)"
+ },
+ {
+  "id": "n5-13A-v025",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "（メモを）取る",
+  "pos": "V I",
+  "reading": "とる",
+  "meaning": "ghi chép"
+ },
+ {
+  "id": "n5-13A-v026",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "（～を）開ける",
+  "pos": "V II",
+  "reading": "あける",
+  "meaning": "mở"
+ },
+ {
+  "id": "n5-13A-v027",
+  "level": "n5",
+  "lessonId": "13A",
+  "kind": "word",
+  "word": "（～を）覚える",
+  "pos": "V II",
+  "reading": "おぼえる",
+  "meaning": "nhớ, ghi nhớ"
+ },
+ {
+  "id": "n5-13B-v001",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "商品",
+  "pos": "N",
+  "reading": "しょうひん",
+  "meaning": "hàng hóa"
+ },
+ {
+  "id": "n5-13B-v002",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "道",
+  "pos": "N",
+  "reading": "みち",
+  "meaning": "con đường"
+ },
+ {
+  "id": "n5-13B-v003",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "店長",
+  "pos": "N",
+  "reading": "てんちょう",
+  "meaning": "quản lý cửa hàng, chủ cửa",
+  "note": "hàng"
+ },
+ {
+  "id": "n5-13B-v004",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "先輩",
+  "pos": "N",
+  "reading": "せんぱい",
+  "meaning": "đàn anh, tiền bối"
+ },
+ {
+  "id": "n5-13B-v005",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "食器",
+  "pos": "N",
+  "reading": "しょっき",
+  "meaning": "dụng cụ đồ ăn",
+  "note": "(bát đĩa, thìa đũa...)"
+ },
+ {
+  "id": "n5-13B-v006",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "申込書",
+  "pos": "N",
+  "reading": "もうしこみしょ",
+  "meaning": "tờ khai đăng ký, đơn đăng",
+  "note": "ký"
+ },
+ {
+  "id": "n5-13B-v007",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "迷惑",
+  "pos": "N",
+  "reading": "めいわく",
+  "meaning": "phiền phức, phiền hà"
+ },
+ {
+  "id": "n5-13B-v008",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "住所",
+  "pos": "N",
+  "reading": "じゅうしょ",
+  "meaning": "địa chỉ"
+ },
+ {
+  "id": "n5-13B-v009",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "キッチン",
+  "pos": "N",
+  "reading": "キッチン",
+  "meaning": "phòng bếp"
+ },
+ {
+  "id": "n5-13B-v010",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "スーツケース",
+  "pos": "N",
+  "reading": "スーツケース",
+  "meaning": "va li"
+ },
+ {
+  "id": "n5-13B-v011",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（～を）手伝う",
+  "pos": "V I",
+  "reading": "てつだう",
+  "meaning": "giúp đỡ"
+ },
+ {
+  "id": "n5-13B-v012",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（～を）拭く",
+  "pos": "V I",
+  "reading": "ふく",
+  "meaning": "lau (bàn...)"
+ },
+ {
+  "id": "n5-13B-v013",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "助かる",
+  "pos": "V I",
+  "reading": "たすかる",
+  "meaning": "① được giúp đỡ",
+  "note": "② May quá! Đỡ quá! (cách nói khi nhận được sự giúp đỡ từ người khác)"
+ },
+ {
+  "id": "n5-13B-v014",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（～に）並ぶ",
+  "pos": "V I",
+  "reading": "ならぶ",
+  "meaning": "xếp hàng (ở ～ )"
+ },
+ {
+  "id": "n5-13B-v015",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（コピーを）取る",
+  "pos": "V I",
+  "reading": "とる",
+  "meaning": "photo"
+ },
+ {
+  "id": "n5-13B-v016",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（～を）貸す",
+  "pos": "V I",
+  "reading": "かす",
+  "meaning": "cho vay, cho mượn, cho",
+  "note": "thuê (nhà, xe...)"
+ },
+ {
+  "id": "n5-13B-v017",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "止まる",
+  "pos": "V I",
+  "reading": "とまる",
+  "meaning": "dừng, đỗ, đậu"
+ },
+ {
+  "id": "n5-13B-v018",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "足りる",
+  "pos": "V II",
+  "reading": "たりる",
+  "meaning": "đủ"
+ },
+ {
+  "id": "n5-13B-v019",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（～を～に）見せる",
+  "pos": "V II",
+  "reading": "みせる",
+  "meaning": "cho (ai) xem ～"
+ },
+ {
+  "id": "n5-13B-v020",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（～を～に）届ける",
+  "pos": "V II",
+  "reading": "とどける",
+  "meaning": "gửi, đưa ～ đến (ai đó)"
+ },
+ {
+  "id": "n5-13B-v021",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（～を）つける",
+  "pos": "V II",
+  "reading": "つける",
+  "meaning": "bật, mở"
+ },
+ {
+  "id": "n5-13B-v022",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（～を）教える",
+  "pos": "V II",
+  "reading": "おしえる",
+  "meaning": "dạy, chỉ bảo, cho biết"
+ },
+ {
+  "id": "n5-13B-v023",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（～を）忘れる",
+  "pos": "V II",
+  "reading": "わすれる",
+  "meaning": "quên"
+ },
+ {
+  "id": "n5-13B-v024",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（～を）持ってくる",
+  "pos": "V III",
+  "reading": "もってくる",
+  "meaning": "mang đến"
+ },
+ {
+  "id": "n5-13B-v025",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（～を）確認（する）",
+  "pos": "N/V III",
+  "reading": "かくにん（する）",
+  "meaning": "xác nhận ～"
+ },
+ {
+  "id": "n5-13B-v026",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "word",
+  "word": "（～に）メール（する）",
+  "pos": "N/V III",
+  "reading": "メール（する）",
+  "meaning": "gửi mail, tin nhắn"
+ },
+ {
+  "id": "n5-13B-v027",
+  "level": "n5",
+  "lessonId": "13B",
+  "kind": "expression",
+  "word": "チーズ！",
+  "reading": "チーズ！",
+  "meaning": "Lời nói khi hô chụp ảnh"
+ },
+ {
+  "id": "n5-13C-v001",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "腕時計",
+  "pos": "N",
+  "reading": "うでどけい",
+  "meaning": "đồng hồ đeo tay"
+ },
+ {
+  "id": "n5-13C-v002",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "親",
+  "pos": "N",
+  "reading": "おや",
+  "meaning": "bố mẹ"
+ },
+ {
+  "id": "n5-13C-v003",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "お年玉",
+  "pos": "N",
+  "reading": "おとしだま",
+  "meaning": "lì xì, tiền mừng tuổi"
+ },
+ {
+  "id": "n5-13C-v004",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "結婚式",
+  "pos": "N",
+  "reading": "けっこんしき",
+  "meaning": "đám cưới"
+ },
+ {
+  "id": "n5-13C-v005",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "花束",
+  "pos": "N",
+  "reading": "はなたば",
+  "meaning": "bó hoa"
+ },
+ {
+  "id": "n5-13C-v006",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "果物",
+  "pos": "N",
+  "reading": "くだもの",
+  "meaning": "hoa quả"
+ },
+ {
+  "id": "n5-13C-v007",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "彼氏",
+  "pos": "N",
+  "reading": "かれし",
+  "meaning": "bạn trai"
+ },
+ {
+  "id": "n5-13C-v008",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "彼女",
+  "pos": "N",
+  "reading": "かのじょ",
+  "meaning": "cô ấy, bạn gái"
+ },
+ {
+  "id": "n5-13C-v009",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "焼肉",
+  "pos": "N",
+  "reading": "やきにく",
+  "meaning": "thịt nướng"
+ },
+ {
+  "id": "n5-13C-v010",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "この前",
+  "pos": "N/ Adv.",
+  "reading": "このまえ",
+  "meaning": "trước đây"
+ },
+ {
+  "id": "n5-13C-v011",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "ありがたい",
+  "pos": "A い",
+  "reading": "ありがたい",
+  "meaning": "biết ơn, đáng quý"
+ },
+ {
+  "id": "n5-13C-v012",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "払う",
+  "pos": "V I",
+  "reading": "はらう",
+  "meaning": "trả, thanh toán"
+ },
+ {
+  "id": "n5-13C-v013",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "（～を）起こす",
+  "pos": "V I",
+  "reading": "おこす",
+  "meaning": "đánh thức"
+ },
+ {
+  "id": "n5-13C-v014",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "（～を）褒める",
+  "pos": "V II",
+  "reading": "ほめる",
+  "meaning": "khen"
+ },
+ {
+  "id": "n5-13C-v015",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "（～を）くれる",
+  "pos": "V II",
+  "reading": "くれる",
+  "meaning": "cho",
+  "note": "(ai đó cho mình hoặc người có mối quan hệ thân thiết với mình)"
+ },
+ {
+  "id": "n5-13C-v016",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "（～を）あげる",
+  "pos": "V II",
+  "reading": "あげる",
+  "meaning": "cho"
+ },
+ {
+  "id": "n5-13C-v017",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "（～を）案内（する）",
+  "pos": "N/V III",
+  "reading": "あんない（する）",
+  "meaning": "hướng dẫn"
+ },
+ {
+  "id": "n5-13C-v018",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "（～を）応援（する）",
+  "pos": "N/V III",
+  "reading": "おうえん（する）",
+  "meaning": "cổ vũ, ủng hộ"
+ },
+ {
+  "id": "n5-13C-v019",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "（～を）心配（する）",
+  "pos": "N/V III",
+  "reading": "しんぱい（する）",
+  "meaning": "lo lắng"
+ },
+ {
+  "id": "n5-13C-v020",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "（～を）ごちそう（する）",
+  "pos": "N/V III",
+  "reading": "ごちそう（する）",
+  "meaning": "mời, khao, chiêu đãi"
+ },
+ {
+  "id": "n5-13C-v021",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "（～を）招待（する）",
+  "pos": "N/V III",
+  "reading": "しょうたい（する）",
+  "meaning": "mời, rủ"
+ },
+ {
+  "id": "n5-13C-v022",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "完成（する）",
+  "pos": "N/V III",
+  "reading": "かんせい（する）",
+  "meaning": "hoàn thành"
+ },
+ {
+  "id": "n5-13C-v023",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "必ず",
+  "pos": "Adv.",
+  "reading": "かならず",
+  "meaning": "luôn luôn, nhất định, chắc",
+  "note": "chắn"
+ },
+ {
+  "id": "n5-13C-v024",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "～ずつ",
+  "reading": "～ずつ",
+  "meaning": "mỗi ～"
+ },
+ {
+  "id": "n5-13C-v025",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "word",
+  "word": "１人に１個ずつ",
+  "reading": "ひとりにいっこずつ",
+  "meaning": "mỗi người một cái"
+ },
+ {
+  "id": "n5-13C-v026",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "expression",
+  "word": "どちらかというと",
+  "reading": "どちらかというと",
+  "meaning": "nếu buộc phải nói,",
+  "note": "nếu phải chọn"
+ },
+ {
+  "id": "n5-13C-v027",
+  "level": "n5",
+  "lessonId": "13C",
+  "kind": "expression",
+  "word": "いいんですか",
+  "reading": "いいんですか",
+  "meaning": "(thế) có được không ạ?",
+  "note": "(dùng để xác nhận lại một cách nhẹ nhàng, đặc biệt khi nhận được thứ gì đó từ người khác)"
+ },
+ {
+  "id": "n5-14A-v001",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "小銭",
+  "pos": "N",
+  "reading": "こぜに",
+  "meaning": "tiền lẻ"
+ },
+ {
+  "id": "n5-14A-v002",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "千円札",
+  "pos": "N",
+  "reading": "せんえんさつ",
+  "meaning": "tờ 1.000 yên"
+ },
+ {
+  "id": "n5-14A-v003",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "一万円札",
+  "pos": "N",
+  "reading": "いちまんえんさつ",
+  "meaning": "tờ 10.000 yên"
+ },
+ {
+  "id": "n5-14A-v004",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "お札",
+  "pos": "N",
+  "reading": "おさつ",
+  "meaning": "tờ tiền giấy"
+ },
+ {
+  "id": "n5-14A-v005",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "地図",
+  "pos": "N",
+  "reading": "ちず",
+  "meaning": "bản đồ"
+ },
+ {
+  "id": "n5-14A-v006",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "のど",
+  "pos": "N",
+  "reading": "のど",
+  "meaning": "cổ họng"
+ },
+ {
+  "id": "n5-14A-v007",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "～以上",
+  "pos": "N",
+  "reading": "～いじょう ～",
+  "meaning": "trở lên, trên ～"
+ },
+ {
+  "id": "n5-14A-v008",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "両方",
+  "pos": "N",
+  "reading": "りょうほう",
+  "meaning": "cả hai, hai bên"
+ },
+ {
+  "id": "n5-14A-v009",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "半分",
+  "pos": "N/Adv.",
+  "reading": "はんぶん",
+  "meaning": "một nửa"
+ },
+ {
+  "id": "n5-14A-v010",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "デザート",
+  "pos": "N",
+  "reading": "デザート",
+  "meaning": "đồ tráng miệng"
+ },
+ {
+  "id": "n5-14A-v011",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "クッキー",
+  "pos": "N",
+  "reading": "クッキー",
+  "meaning": "bánh quy"
+ },
+ {
+  "id": "n5-14A-v012",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "アイスクリーム",
+  "pos": "N",
+  "reading": "アイスクリーム",
+  "meaning": "kem"
+ },
+ {
+  "id": "n5-14A-v013",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "サラダ",
+  "pos": "N",
+  "reading": "サラダ",
+  "meaning": "salad"
+ },
+ {
+  "id": "n5-14A-v014",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "イベント",
+  "pos": "N",
+  "reading": "イベント",
+  "meaning": "sự kiện"
+ },
+ {
+  "id": "n5-14A-v015",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "ランチセット",
+  "pos": "N",
+  "reading": "ランチセット",
+  "meaning": "suất ăn trưa"
+ },
+ {
+  "id": "n5-14A-v016",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "ジェットコースター",
+  "pos": "N",
+  "reading": "ジェットコースター",
+  "meaning": "tàu lượn siêu tốc"
+ },
+ {
+  "id": "n5-14A-v017",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "細かい",
+  "pos": "A い",
+  "reading": "こまかい",
+  "meaning": "nhỏ nhặt, chi tiết,",
+  "note": "(tiền) lẻ NGỮ PHÁP 14 AA"
+ },
+ {
+  "id": "n5-14A-v018",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "必要",
+  "pos": "A な",
+  "reading": "ひつよう",
+  "meaning": "cần thiết"
+ },
+ {
+  "id": "n5-14A-v019",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "渇く",
+  "pos": "V I",
+  "reading": "かわく",
+  "meaning": "khát, khô (cổ)"
+ },
+ {
+  "id": "n5-14A-v020",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "困る",
+  "pos": "V I",
+  "reading": "こまる",
+  "meaning": "rắc rối, khó khăn, khó xử"
+ },
+ {
+  "id": "n5-14A-v021",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "（～を）閉める",
+  "pos": "V II",
+  "reading": "しめる",
+  "meaning": "đóng"
+ },
+ {
+  "id": "n5-14A-v022",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "営業（する）",
+  "pos": "N/V III",
+  "reading": "えいぎょう（する）",
+  "meaning": "kinh doanh, buôn bán"
+ },
+ {
+  "id": "n5-14A-v023",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "（～を）工事（する）",
+  "pos": "N/V III",
+  "reading": "こうじ（する）",
+  "meaning": "thi công, sửa chữa"
+ },
+ {
+  "id": "n5-14A-v024",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "外出（する）",
+  "pos": "N/V III",
+  "reading": "がいしゅつ（する）",
+  "meaning": "đi ra ngoài"
+ },
+ {
+  "id": "n5-14A-v025",
+  "level": "n5",
+  "lessonId": "14A",
+  "kind": "word",
+  "word": "もう少し",
+  "pos": "Adv.",
+  "reading": "もうすこし",
+  "meaning": "một chút nữa"
+ },
+ {
+  "id": "n5-14B-v001",
+  "level": "n5",
+  "lessonId": "14B",
+  "kind": "word",
+  "word": "動画",
+  "pos": "N",
+  "reading": "どうが",
+  "meaning": "video"
+ },
+ {
+  "id": "n5-14B-v002",
+  "level": "n5",
+  "lessonId": "14B",
+  "kind": "word",
+  "word": "顔",
+  "pos": "N",
+  "reading": "かお",
+  "meaning": "khuôn mặt"
+ },
+ {
+  "id": "n5-14B-v003",
+  "level": "n5",
+  "lessonId": "14B",
+  "kind": "word",
+  "word": "性格",
+  "pos": "N",
+  "reading": "せいかく",
+  "meaning": "tính cách"
+ },
+ {
+  "id": "n5-14B-v004",
+  "level": "n5",
+  "lessonId": "14B",
+  "kind": "word",
+  "word": "パスポート",
+  "pos": "N",
+  "reading": "パスポート",
+  "meaning": "hộ chiếu"
+ },
+ {
+  "id": "n5-14B-v005",
+  "level": "n5",
+  "lessonId": "14B",
+  "kind": "word",
+  "word": "テニス",
+  "pos": "N",
+  "reading": "テニス",
+  "meaning": "tennis, môn quần vợt"
+ },
+ {
+  "id": "n5-14B-v006",
+  "level": "n5",
+  "lessonId": "14B",
+  "kind": "word",
+  "word": "おかしい",
+  "pos": "A い",
+  "reading": "おかしい",
+  "meaning": "lạ, kì lạ, buồn cười"
+ },
+ {
+  "id": "n5-14B-v007",
+  "level": "n5",
+  "lessonId": "14B",
+  "kind": "word",
+  "word": "（～から）（～を）出す",
+  "pos": "V I",
+  "reading": "だす",
+  "meaning": "lấy ra, đưa ra"
+ },
+ {
+  "id": "n5-14B-v008",
+  "level": "n5",
+  "lessonId": "14B",
+  "kind": "word",
+  "word": "（～を）（～に）預ける",
+  "pos": "V II",
+  "reading": "あずける",
+  "meaning": "gửi, giao phó"
+ },
+ {
+  "id": "n5-14B-v009",
+  "level": "n5",
+  "lessonId": "14B",
+  "kind": "word",
+  "word": "がっかり（する）",
+  "pos": "N/V III",
+  "reading": "がっかり（する）",
+  "meaning": "thất vọng"
+ },
+ {
+  "id": "n5-14C-v001",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "書類",
+  "pos": "N",
+  "reading": "しょるい",
+  "meaning": "giấy tờ, hồ sơ"
+ },
+ {
+  "id": "n5-14C-v002",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "手紙",
+  "pos": "N",
+  "reading": "てがみ",
+  "meaning": "thư"
+ },
+ {
+  "id": "n5-14C-v003",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "申し込み",
+  "pos": "N",
+  "reading": "もうしこみ",
+  "meaning": "sự đăng ký"
+ },
+ {
+  "id": "n5-14C-v004",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "洋服",
+  "pos": "N",
+  "reading": "ようふく",
+  "meaning": "quần áo"
+ },
+ {
+  "id": "n5-14C-v005",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "お弁当",
+  "pos": "N",
+  "reading": "おべんとう",
+  "meaning": "cơm hộp"
+ },
+ {
+  "id": "n5-14C-v006",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "めがね",
+  "pos": "N",
+  "reading": "めがね",
+  "meaning": "kính"
+ },
+ {
+  "id": "n5-14C-v007",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "用事 / 用",
+  "pos": "N",
+  "reading": "ようじ / よう",
+  "meaning": "việc bận, việc"
+ },
+ {
+  "id": "n5-14C-v008",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "動物",
+  "pos": "N",
+  "reading": "どうぶつ",
+  "meaning": "động vật"
+ },
+ {
+  "id": "n5-14C-v009",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "（～を）出す",
+  "pos": "V I",
+  "reading": "だす",
+  "meaning": "gửi (thư)"
+ },
+ {
+  "id": "n5-14C-v010",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "（～を）飼う",
+  "pos": "V I",
+  "reading": "かう",
+  "meaning": "nuôi (chó, mèo, thú nuôi...)"
+ },
+ {
+  "id": "n5-14C-v011",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "お願い（する）",
+  "pos": "N/V III",
+  "reading": "おねがい（する）",
+  "meaning": "nhờ, nhờ vả"
+ },
+ {
+  "id": "n5-14C-v012",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "会話 ( する）",
+  "pos": "N/V III",
+  "reading": "かいわ（する）",
+  "meaning": "hội thoại, giao tiếp"
+ },
+ {
+  "id": "n5-14C-v013",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "ついでに",
+  "pos": "Adv.",
+  "reading": "ついでに",
+  "meaning": "nhân tiện"
+ },
+ {
+  "id": "n5-14C-v014",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "word",
+  "word": "もし",
+  "pos": "Adv.",
+  "reading": "もし",
+  "meaning": "nếu"
+ },
+ {
+  "id": "n5-14C-v015",
+  "level": "n5",
+  "lessonId": "14C",
+  "kind": "expression",
+  "word": "了解",
+  "reading": "りょうかい",
+  "meaning": "đã hiểu, đã rõ"
+ }
+]
