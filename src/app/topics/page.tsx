@@ -1,17 +1,47 @@
 import Link from 'next/link';
 import { ArrowRight, BookOpen, Tag } from 'lucide-react';
-import { getTopicBundle, n5Topics } from '@/data';
+import { getTopicBundle, getTopicsForLevel } from '@/data';
+import type { LevelId } from '@/data/types';
 
-export default function TopicsPage() {
+export default async function TopicsPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ level?: string }>;
+}) {
+  const { level } = await searchParams;
+  const activeLevel: LevelId = level === 'n4' ? 'n4' : 'n5';
+  const levelLabel = activeLevel.toUpperCase();
+  const topics = getTopicsForLevel(activeLevel);
+
   return (
-    <div className="mx-auto max-w-6xl space-y-6 px-4 py-8">
+    <div className="space-y-6 py-2">
       <header className="rounded-2xl border border-stone-200 bg-white p-6 shadow-sm">
-        <div className="inline-flex items-center gap-2 rounded-full bg-emerald-50 px-3 py-1 text-xs font-semibold text-emerald-700">
-          <Tag className="h-3.5 w-3.5" />
-          Học theo Chủ đề JLPT N5
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <div className="inline-flex items-center gap-2 rounded-full bg-emerald-50 px-3 py-1 text-xs font-semibold text-emerald-700">
+            <Tag className="h-3.5 w-3.5" />
+            Học theo Chủ đề JLPT {levelLabel}
+          </div>
+          <div className="inline-flex rounded-xl border border-stone-200 bg-stone-100 p-1 text-xs font-semibold">
+            <Link
+              href="/topics?level=n5"
+              className={`rounded-lg px-3 py-1 transition ${
+                activeLevel === 'n5' ? 'bg-stone-900 text-white' : 'text-stone-600 hover:text-stone-900'
+              }`}
+            >
+              JLPT N5
+            </Link>
+            <Link
+              href="/topics?level=n4"
+              className={`rounded-lg px-3 py-1 transition ${
+                activeLevel === 'n4' ? 'bg-rose-600 text-white' : 'text-stone-600 hover:text-stone-900'
+              }`}
+            >
+              JLPT N4
+            </Link>
+          </div>
         </div>
         <h1 className="mt-2 text-2xl font-bold text-stone-900">
-          {n5Topics.length} chủ đề giao tiếp &amp; đời sống N5
+          {topics.length} chủ đề giao tiếp &amp; ngữ pháp {levelLabel}
         </h1>
         <p className="mt-1 text-sm text-stone-600">
           Gom từ vựng, chữ Hán và ngữ pháp theo tình huống thực tế để bạn nhớ sâu theo ngữ cảnh.
@@ -19,7 +49,7 @@ export default function TopicsPage() {
       </header>
 
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {n5Topics.map((topic) => {
+        {topics.map((topic) => {
           const bundle = getTopicBundle(topic.slug);
           return (
             <Link

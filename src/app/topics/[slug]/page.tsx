@@ -17,17 +17,18 @@ export default async function TopicDetailPage({
     notFound();
   }
 
+  const levelLabel = bundle.level.toUpperCase();
   const firstLesson = bundle.topic.lessonIds[0] ?? '1A';
 
   return (
-    <div className="mx-auto max-w-6xl space-y-8 px-4 py-8">
+    <div className="space-y-8 py-2">
       <div className="flex flex-wrap items-center justify-between gap-3">
         <Link
-          href="/topics"
+          href={`/topics?level=${bundle.level}`}
           className="inline-flex items-center gap-1.5 text-sm font-medium text-stone-600 hover:text-stone-900"
         >
           <ArrowLeft className="h-4 w-4" />
-          Tất cả chủ đề N5
+          Tất cả chủ đề {levelLabel}
         </Link>
 
         <div className="flex flex-wrap gap-2">
@@ -39,7 +40,7 @@ export default async function TopicDetailPage({
             Ôn Flashcard bài {firstLesson}
           </Link>
           <Link
-            href="/game"
+            href={`/game?level=${bundle.level}`}
             className="inline-flex items-center gap-1.5 rounded-xl border border-stone-200 bg-white px-3.5 py-2 text-xs font-semibold text-stone-700 hover:bg-stone-50"
           >
             <Gamepad2 className="h-3.5 w-3.5 text-amber-600" />

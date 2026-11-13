@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { ArrowLeft, ArrowRight, Layers, Tag } from 'lucide-react';
-import { getLessonBundle, getLevelContent } from '@/data';
+import { detectLessonLevel, getLessonBundle, getLevelContent } from '@/data';
 import { LessonTabs } from '@/components/LessonTabs';
 
 export default async function LessonDetailPage({
@@ -10,27 +10,29 @@ export default async function LessonDetailPage({
   params: Promise<{ lessonId: string }>;
 }) {
   const { lessonId } = await params;
-  const bundle = getLessonBundle(lessonId);
+  const level = detectLessonLevel(lessonId);
+  const levelLabel = level.toUpperCase();
+  const bundle = getLessonBundle(lessonId, level);
 
   if (!bundle.lesson) {
     notFound();
   }
 
-  const allLessons = getLevelContent('n5').lessons;
+  const allLessons = getLevelContent(level).lessons;
   const currentIndex = allLessons.findIndex((item) => item.id === bundle.lesson!.id);
   const prevLesson = currentIndex > 0 ? allLessons[currentIndex - 1] : null;
   const nextLesson =
     currentIndex >= 0 && currentIndex < allLessons.length - 1 ? allLessons[currentIndex + 1] : null;
 
   return (
-    <div className="mx-auto max-w-6xl space-y-6 px-4 py-8">
+    <div className="space-y-6 py-2">
       <div className="flex flex-wrap items-center justify-between gap-3">
         <Link
-          href="/"
+          href={`/?level=${level}`}
           className="inline-flex items-center gap-1.5 text-sm font-medium text-stone-600 hover:text-stone-900"
         >
           <ArrowLeft className="h-4 w-4" />
-          Danh sách bài học N5
+          Danh sách bài học {levelLabel}
         </Link>
 
         <div className="flex items-center gap-2">
@@ -60,7 +62,7 @@ export default async function LessonDetailPage({
           <div>
             <div className="flex flex-wrap items-center gap-2">
               <span className="rounded-full bg-rose-100 px-3 py-1 text-xs font-bold text-rose-700">
-                JLPT N5 · Bài {bundle.lesson.id}
+                JLPT {levelLabel} · Bài {bundle.lesson.id}
               </span>
               {bundle.topic && (
                 <Link
