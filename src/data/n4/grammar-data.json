@@ -43,7 +43,7 @@
             "するだろうなあ。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì đã học nhiều nên chắc hẳn tôi sẽ đỗ thôi."
       },
       {
         "ja": "忙しいだろうから、無理して参加しなくてもいいですよ。",
@@ -78,7 +78,7 @@
             "しなくてもいいですよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì chắc hẳn là bạn bận nên không cần cố tham gia đâu ạ."
       },
       {
         "ja": "私は来年、日本語の試験を受けるでしょう。✘",
@@ -135,7 +135,7 @@
             "けるでしょう。✘"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi năm sau sẽ thi tiếng Nhật. (Sai: không dùng でしょう cho ý chí bản thân)"
       },
       {
         "ja": "明日は今日より気温が下がるでしょう。",
@@ -173,7 +173,7 @@
             "がるでしょう。"
           ]
         ],
-        "vi": ""
+        "vi": "Ngày mai nhiệt độ chắc hẳn sẽ giảm so với hôm nay."
       }
     ],
     "analysis": {
@@ -219,7 +219,7 @@
             "：このかばん、かわいいでしょう？かなえ：うん。いいね。"
           ]
         ],
-        "vi": ""
+        "vi": "Suzuki: Cái cặp này dễ thương đúng không? Kanae: Ừ, đẹp đấy."
       },
       {
         "ja": "鈴木：明日の飲み会、しょうたくんも行くでしょう？しょうた：うん、行くよ。",
@@ -271,7 +271,7 @@
             "くよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Suzuki: Tiệc nhậu ngày mai Shouta cũng đi đúng không? Shouta: Ừ, tớ đi."
       },
       {
         "ja": "山田：このお菓子、おいしいですね。マイ：そうでしょう。有名な店のお菓子ですからね。",
@@ -328,7 +328,7 @@
             "ですからね。"
           ]
         ],
-        "vi": ""
+        "vi": "Yamada: Bánh kẹo này ngon nhỉ. Mai: Đúng rồi! Vì là bánh của tiệm nổi tiếng mà."
       },
       {
         "ja": "田中さん、田中さんは大阪の人だから、関西弁が話せるでしょう？",
@@ -396,7 +396,7 @@
             "せるでしょう？"
           ]
         ],
-        "vi": ""
+        "vi": "Anh Tanaka là người Osaka nên chắc nói được tiếng Kansai đúng không?"
       }
     ],
     "analysis": {
@@ -484,7 +484,7 @@
             "けないかもしれません。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì bận nên có lẽ tôi không thể đi tiệc nhậu được."
       },
       {
         "ja": "このケーキ、はじめて作ったから、おいしくないかもしれない。",
@@ -500,7 +500,7 @@
             "ったから、おいしくないかもしれない。"
           ]
         ],
-        "vi": ""
+        "vi": "Cái bánh này lần đầu tôi làm nên có lẽ không ngon lắm."
       },
       {
         "ja": "もしかしたら、あの人はベトナム人かもしれませんね。",
@@ -523,7 +523,7 @@
             "かもしれませんね。"
           ]
         ],
-        "vi": ""
+        "vi": "Biết đâu người kia lại là người Việt Nam đấy."
       },
       {
         "ja": "風邪を引いたから、明日仕事を休むかもしれません。",
@@ -569,7 +569,7 @@
             "むかもしれません。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì bị cảm nên có lẽ ngày mai tôi sẽ nghỉ làm."
       }
     ],
     "analysis": {
@@ -660,7 +660,7 @@
             "がここにぶつかったようです。"
           ]
         ],
-        "vi": ""
+        "vi": "(Lời phóng viên hiện trường) Hôm qua ở ngã tư này đã xảy ra tai nạn. Cây bị đổ. Hình như xe ô tô đã đâm vào đây."
       },
       {
         "ja": "(Tiểu thuyết)部屋の中は真っ暗だ。誰もいないようだ。",
@@ -708,7 +708,7 @@
             "もいないようだ。"
           ]
         ],
-        "vi": ""
+        "vi": "(Tiểu thuyết) Trong phòng tối om. Hình như không có ai cả."
       },
       {
         "ja": "(Bài văn)私はその店に 行きましたが、入口が閉まっていました。休みのようでした。",
@@ -763,10 +763,10 @@
             "みのようでした。"
           ]
         ],
-        "vi": ""
+        "vi": "(Bài văn) Tôi đã đến cửa hàng đó nhưng cửa vào đóng kín. Hình như hôm nay nghỉ."
       },
       {
-        "ja": "(Bài luận)私は旅館を出て、バス停の時間を 確認した。バスの時間は 1いち日に 5 本しかなかった。この町はだいぶ不便なようだ。",
+        "ja": "(Bài luận)私は旅館を出て、バス停の時間を 確認した。バスの時間は 1日に 5 本しかなかった。この町はだいぶ不便なようだ。",
         "ruby": [
           [
             "(Bài luận)"
@@ -834,7 +834,7 @@
             "かん"
           ],
           [
-            "は 1いち"
+            "は 1"
           ],
           [
             "日",
@@ -869,7 +869,7 @@
             "なようだ。"
           ]
         ],
-        "vi": ""
+        "vi": "(Bài luận) Tôi rời lữ quán và kiểm tra giờ xe buýt. Xe buýt một ngày chỉ có 5 chuyến. Thị trấn này có vẻ khá bất tiện."
       }
     ],
     "analysis": {
@@ -967,7 +967,7 @@
             "わなかったから、きれいなはずです。"
           ]
         ],
-        "vi": ""
+        "vi": "Nam: Mai ơi, quyển sách tiếng Nhật này bạn có dùng không? Tớ không dùng nữa nên cho bạn đấy. Mai: Thật sao? Cảm ơn nhé. Nam: Tớ ít dùng nên chắc chắn vẫn còn mới đẹp."
       },
       {
         "ja": "ミン：お待たせ。しょうたくんは？ゆい：駅で待っているはずだよ。さっきメールがあったから。",
@@ -997,7 +997,7 @@
             "っているはずだよ。さっきメールがあったから。"
           ]
         ],
-        "vi": ""
+        "vi": "Minh: Xin lỗi để bạn đợi. Shouta đâu rồi? Yui: Chắc chắn đang đợi ở ga đấy, vì vừa nãy có nhắn tin rồi."
       },
       {
         "ja": "このレストランは有名だから、おいしいはずです。",
@@ -1017,7 +1017,7 @@
             "だから、おいしいはずです。"
           ]
         ],
-        "vi": ""
+        "vi": "Nhà hàng này nổi tiếng nên chắc chắn là ngon."
       },
       {
         "ja": "田中さんは食堂にいるはずです。",
@@ -1045,7 +1045,7 @@
             "にいるはずです。"
           ]
         ],
-        "vi": ""
+        "vi": "Anh Tanaka chắc chắn đang ở nhà ăn."
       }
     ],
     "analysis": {
@@ -1129,7 +1129,7 @@
             "まりらしいですよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Nghe nói người yêu của ca sĩ đó là nữ diễn viên Ishida Mari đấy."
       },
       {
         "ja": "あのお店、おいしいらしいね。",
@@ -1145,7 +1145,7 @@
             "、おいしいらしいね。"
           ]
         ],
-        "vi": ""
+        "vi": "Nghe nói quán kia ngon lắm đấy."
       },
       {
         "ja": "今週末、台風が来るらしいよ。",
@@ -1184,7 +1184,7 @@
             "るらしいよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Nghe nói cuối tuần này có bão đến đấy."
       },
       {
         "ja": "明日は雨らしいから、コンサートは中止だろうね。",
@@ -1215,7 +1215,7 @@
             "だろうね。"
           ]
         ],
-        "vi": ""
+        "vi": "Nghe nói ngày mai trời mưa nên buổi hòa nhạc chắc sẽ bị hủy nhỉ."
       }
     ],
     "analysis": {
@@ -1289,7 +1289,7 @@
             "ってた。"
           ]
         ],
-        "vi": ""
+        "vi": "Anh Nam nói là chữ Hán dễ như ăn cháo ấy."
       },
       {
         "ja": "山田：マイさんの誕生日プレゼント、何がいいですか。ナム：そうですね…。あ、甘いものが好きだと言っていましたよ。ケーキはどうですか。",
@@ -1349,7 +1349,7 @@
             "っていましたよ。ケーキはどうですか。"
           ]
         ],
-        "vi": ""
+        "vi": "Yamada: Quà sinh nhật cho Mai nên tặng gì nhỉ? Nam: Để xem… À, thấy bảo bạn ấy thích đồ ngọt đấy. Bánh kem thì sao?"
       },
       {
         "ja": "田中：山田さんは、今日お休みですか。マイ：午後は来ますよ。午前中は、用事があると言っていました。",
@@ -1442,7 +1442,7 @@
             "っていました。"
           ]
         ],
-        "vi": ""
+        "vi": "Tanaka: Anh Yamada hôm nay nghỉ à? Mai: Buổi chiều anh ấy đến đấy. Anh ấy bảo buổi sáng có việc bận."
       },
       {
         "ja": "しょうた：ミンさん、今日の飲み会に来るって言ってた？ゆい ：うん、そう言ってたよ。",
@@ -1493,7 +1493,7 @@
             "ってたよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Shouta: Minh nói có đến tiệc nhậu hôm nay không? Yui: Ừ, cậu ấy bảo có đấy."
       }
     ],
     "analysis": {
@@ -1570,7 +1570,7 @@
             "がほしいなあ。"
           ]
         ],
-        "vi": ""
+        "vi": "Quần áo cũng muốn mua, du lịch cũng muốn đi, ước gì có tiền nhỉ."
       },
       {
         "ja": "引越ししたいけど、お金もないし無理かもしれないなあ。",
@@ -1605,7 +1605,7 @@
             "かもしれないなあ。"
           ]
         ],
-        "vi": ""
+        "vi": "Muốn chuyển nhà nhưng tiền cũng không có, có lẽ không được rồi."
       },
       {
         "ja": "この店はおいしいし、おしゃれだし、（それに）しかも安い。",
@@ -1628,7 +1628,7 @@
             "い。"
           ]
         ],
-        "vi": ""
+        "vi": "Quán này vừa ngon, vừa thời trang, hơn nữa lại còn rẻ."
       },
       {
         "ja": "田中さんは歌もうまいし、ピアノもできるし、うらやましいです。",
@@ -1652,7 +1652,7 @@
             "もうまいし、ピアノもできるし、うらやましいです。"
           ]
         ],
-        "vi": ""
+        "vi": "Anh Tanaka hát cũng hay, piano cũng chơi được, thật đáng ngưỡng mộ."
       }
     ],
     "analysis": {
@@ -1780,7 +1780,7 @@
             "に！？わ～ びっくり。おめでとう。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Anh B ơi, thật ra tuần sau tôi sẽ kết hôn đấy. B: Hả!? Thật sao!? Ôi bất ngờ quá, chúc mừng nhé!"
       },
       {
         "ja": "A：B さんは、日本語が上手ですよね。B：ありがとうございます。でも、日本語より、英語のほうが得意なんです。",
@@ -1852,7 +1852,7 @@
             "なんです。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Anh B giỏi tiếng Nhật quá nhỉ. B: Cảm ơn. Nhưng tôi giỏi tiếng Anh hơn tiếng Nhật đấy."
       },
       {
         "ja": "A：あれっ。そのスマホ…。B：わかります？一番新しい Moriphone です。昨日買ったんですよ。",
@@ -1887,7 +1887,7 @@
             "ったんですよ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Ủa, chiếc điện thoại đó… B: Biết không? Là Moriphone mới nhất đấy. Tôi mới mua hôm qua."
       },
       {
         "ja": "(A nhìn thấy B có sắc mặt không tốt)A：大丈夫ですか。B：昨日から、頭が痛いんです。",
@@ -1932,7 +1932,7 @@
             "いんです。"
           ]
         ],
-        "vi": ""
+        "vi": "(A thấy B sắc mặt không tốt) A: Bạn có sao không? B: Từ hôm qua tôi bị đau đầu."
       }
     ],
     "analysis": {
@@ -2004,7 +2004,7 @@
             "よろしいですか。"
           ]
         ],
-        "vi": ""
+        "vi": "Thầy ơi, em có câu hỏi muốn nhờ thầy, bây giờ thầy có tiện không ạ?"
       },
       {
         "ja": "午後、病院に行かなければならないんですが、早退してもよろしいでしょうか。",
@@ -2050,7 +2050,7 @@
             "してもよろしいでしょうか。"
           ]
         ],
-        "vi": ""
+        "vi": "Chiều nay em phải đi bệnh viện, em xin phép về sớm có được không ạ?"
       },
       {
         "ja": "コンサートのチケットが２枚あるんだけど、一緒に行かない？",
@@ -2084,7 +2084,7 @@
             "かない？"
           ]
         ],
-        "vi": ""
+        "vi": "Tớ có 2 vé hòa nhạc, cậu đi cùng không?"
       },
       {
         "ja": "ちょっと聞きたいんだけど、レポート、もう書いた？",
@@ -2107,7 +2107,7 @@
             "いた？"
           ]
         ],
-        "vi": ""
+        "vi": "Tớ muốn hỏi chút, bài báo cáo cậu viết xong chưa?"
       }
     ],
     "analysis": {
@@ -2155,10 +2155,10 @@
             "んでいるんですか。"
           ]
         ],
-        "vi": ""
+        "vi": "Bạn đã sống ở Nhật được bao lâu rồi?"
       },
       {
-        "ja": "どこで日本語を勉強したんですか。**Trong câu này「どれくらい」và「どのくらい」đều đúng về về mặt ngữ pháp.「どれくらい 」hội thoại tự nhiên khẩu ngữ phổ biến trong giao tiếp hàng ngày「どのくらい」đầy đủ, trang trọng hơn một chút cả nói & viết cũng rất phổ biến hai cách nóinày hoán đổi được cho nhau, không có khác biệt rõ rệt về ý nghĩa.",
+        "ja": "どこで日本語を勉強したんですか。",
         "ruby": [
           [
             "どこで"
@@ -2187,10 +2187,10 @@
             "きょう"
           ],
           [
-            "したんですか。**Trong câu này「どれくらい」và「どのくらい」đều đúng về về mặt ngữ pháp.「どれくらい 」hội thoại tự nhiên khẩu ngữ phổ biến trong giao tiếp hàng ngày「どのくらい」đầy đủ, trang trọng hơn một chút cả nói & viết cũng rất phổ biến hai cách nóinày hoán đổi được cho nhau, không có khác biệt rõ rệt về ý nghĩa."
+            "したんですか。"
           ]
         ],
-        "vi": ""
+        "vi": "Bạn đã học tiếng Nhật ở đâu vậy?"
       },
       {
         "ja": "どこから来たんですか。",
@@ -2206,7 +2206,7 @@
             "たんですか。"
           ]
         ],
-        "vi": ""
+        "vi": "Bạn từ đâu đến vậy?"
       },
       {
         "ja": "A：B さんは何の仕事をしているんですか。B：工場で働いています。",
@@ -2251,7 +2251,7 @@
             "いています。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Anh B đang làm công việc gì thế? B: Tôi làm việc ở nhà máy."
       }
     ],
     "analysis": {
@@ -2329,7 +2329,7 @@
             "ったんですか。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Hôm qua tôi gặp thầy Sato ở ngoài phố đấy. B: Ủa, bạn gặp ở đâu vậy?"
       },
       {
         "ja": "A：これ、旅行のお土産です。どうぞ。B：あ、ありがとうございます。どこに行ったんですか。",
@@ -2363,7 +2363,7 @@
             "ったんですか。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Đây là quà du lịch, mời bạn. B: Ôi cảm ơn nhé. Bạn đã đi đâu thế?"
       }
     ],
     "analysis": {
@@ -2404,7 +2404,7 @@
             "くんですか。"
           ]
         ],
-        "vi": ""
+        "vi": "(Thấy bạn đang đặt vé máy bay) Bạn định đi đâu thế?"
       },
       {
         "ja": "(Nhìn thấy bạn có vẻ bận rộn) 何をしているんですか。",
@@ -2420,7 +2420,7 @@
             "をしているんですか。"
           ]
         ],
-        "vi": ""
+        "vi": "(Thấy bạn có vẻ bận rộn) Bạn đang làm gì thế?"
       },
       {
         "ja": "(Nhìn thấy anh Tanaka đang nói chuyện với ai đó, A hỏi B:)A：田中さんは誰と話しているんですか。B： 妹さんとですよ。",
@@ -2461,7 +2461,7 @@
             "さんとですよ。"
           ]
         ],
-        "vi": ""
+        "vi": "(Thấy anh Tanaka đang nói chuyện với ai đó, A hỏi B) A: Anh Tanaka đang nói chuyện với ai thế? B: Với em gái anh ấy đấy."
       },
       {
         "ja": "(Nhìn thấy bạn đang viết gì đó)A：何を書いているんですか。B：手紙です。",
@@ -2495,7 +2495,7 @@
             "です。"
           ]
         ],
-        "vi": ""
+        "vi": "(Thấy bạn đang viết gì đó) A: Bạn đang viết gì thế? B: Tôi đang viết thư."
       }
     ],
     "analysis": {
@@ -2577,7 +2577,7 @@
             "んだそうです。"
           ]
         ],
-        "vi": ""
+        "vi": "Nghe nói hôm qua anh Tanaka uống tận 10 cốc bia ở tiệc nhậu đấy."
       },
       {
         "ja": "この美容院は、カットだけで１万円もするらしいですよ。",
@@ -2612,7 +2612,7 @@
             "もするらしいですよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Nghe nói tiệm tóc này chỉ cắt thôi mà mất tận 1 man yên đấy."
       },
       {
         "ja": "今日は 40℃もある！",
@@ -2625,7 +2625,7 @@
             "は 40℃もある！"
           ]
         ],
-        "vi": ""
+        "vi": "Hôm nay nóng tới tận 40 độ C!"
       },
       {
         "ja": "財布の中に、３万円もある。",
@@ -2660,7 +2660,7 @@
             "もある。"
           ]
         ],
-        "vi": ""
+        "vi": "Trong ví có hẳn 3 man yên."
       }
     ],
     "analysis": {
@@ -2719,7 +2719,7 @@
             "じゃなさそうですね。"
           ]
         ],
-        "vi": ""
+        "vi": "Người kia trông có vẻ không phải người Nhật nhỉ."
       },
       {
         "ja": "このカレー（は）、辛そうですね。",
@@ -2735,7 +2735,7 @@
             "そうですね。"
           ]
         ],
-        "vi": ""
+        "vi": "Món cà ri này trông có vẻ cay nhỉ."
       },
       {
         "ja": "この人、頭がよさそうですね。",
@@ -2758,7 +2758,7 @@
             "がよさそうですね。"
           ]
         ],
-        "vi": ""
+        "vi": "Người này trông có vẻ thông minh nhỉ."
       },
       {
         "ja": "難しそうな本ですね。",
@@ -2778,7 +2778,7 @@
             "ですね。"
           ]
         ],
-        "vi": ""
+        "vi": "Quyển sách trông có vẻ khó nhỉ."
       }
     ],
     "analysis": {
@@ -2837,7 +2837,7 @@
             "れそうです。"
           ]
         ],
-        "vi": ""
+        "vi": "Cúc áo sắp tuột ra rồi kìa."
       },
       {
         "ja": "雨が降りそうですね。",
@@ -2857,7 +2857,7 @@
             "りそうですね。"
           ]
         ],
-        "vi": ""
+        "vi": "Trời sắp mưa rồi."
       },
       {
         "ja": "子供が寝そう。",
@@ -2881,7 +2881,7 @@
             "そう。"
           ]
         ],
-        "vi": ""
+        "vi": "Đứa bé sắp ngủ rồi."
       },
       {
         "ja": "花が咲きそうです。",
@@ -2901,7 +2901,7 @@
             "きそうです。"
           ]
         ],
-        "vi": ""
+        "vi": "Hoa sắp nở rồi."
       }
     ],
     "analysis": {
@@ -3026,7 +3026,7 @@
             "く。"
           ]
         ],
-        "vi": ""
+        "vi": "Viết chữ to lên bảng."
       },
       {
         "ja": "野菜を細かく切る。",
@@ -3057,7 +3057,7 @@
             "る。"
           ]
         ],
-        "vi": ""
+        "vi": "Thái nhỏ rau củ."
       },
       {
         "ja": "部屋をきれいに掃除してください。",
@@ -3085,7 +3085,7 @@
             "してください。"
           ]
         ],
-        "vi": ""
+        "vi": "Hãy dọn dẹp phòng cho sạch sẽ."
       },
       {
         "ja": "お菓子を 2 つに分けよう。",
@@ -3112,7 +3112,7 @@
             "けよう。"
           ]
         ],
-        "vi": ""
+        "vi": "Hãy chia bánh kẹo làm 2 phần nhé."
       }
     ],
     "analysis": {
@@ -3160,7 +3160,7 @@
             "があたたかくなった。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì đã bật điều hòa nên phòng trở nên ấm áp rồi."
       },
       {
         "ja": "最近、マイさんはきれいになった。",
@@ -3177,7 +3177,7 @@
             "、マイさんはきれいになった。"
           ]
         ],
-        "vi": ""
+        "vi": "Gần đây Mai trở nên xinh đẹp hơn hẳn."
       },
       {
         "ja": "今日、学校が休みになりました。",
@@ -3208,7 +3208,7 @@
             "みになりました。"
           ]
         ],
-        "vi": ""
+        "vi": "Hôm nay trường học được nghỉ rồi."
       },
       {
         "ja": "ランさんは日本語が上手になりましたね。",
@@ -3243,7 +3243,7 @@
             "になりましたね。"
           ]
         ],
-        "vi": ""
+        "vi": "Lan đã trở nên giỏi tiếng Nhật rồi nhỉ."
       }
     ],
     "analysis": {
@@ -3287,7 +3287,7 @@
             "てましたか。"
           ]
         ],
-        "vi": ""
+        "vi": "Bạn đã vứt rác chưa?"
       },
       {
         "ja": "ビールを冷やした。",
@@ -3303,7 +3303,7 @@
             "やした。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi đã làm lạnh bia."
       },
       {
         "ja": "英語でレポートを書きました。",
@@ -3327,7 +3327,7 @@
             "きました。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi đã viết báo cáo bằng tiếng Anh."
       },
       {
         "ja": "メール、送った？",
@@ -3343,7 +3343,7 @@
             "った？"
           ]
         ],
-        "vi": ""
+        "vi": "Bạn đã gửi email chưa?"
       }
     ],
     "analysis": {
@@ -3398,7 +3398,7 @@
             "する。"
           ]
         ],
-        "vi": ""
+        "vi": "Đi dạo trong công viên."
       },
       {
         "ja": "橋を渡る。",
@@ -3418,7 +3418,7 @@
             "る。"
           ]
         ],
-        "vi": ""
+        "vi": "Đi qua cầu."
       }
     ],
     "analysis": {
@@ -3470,7 +3470,7 @@
             "まる。"
           ]
         ],
-        "vi": ""
+        "vi": "Tiết học bắt đầu."
       },
       {
         "ja": "電気がつく。",
@@ -3487,7 +3487,7 @@
             "がつく。"
           ]
         ],
-        "vi": ""
+        "vi": "Đèn bật sáng."
       },
       {
         "ja": "電車で学校に行きます。",
@@ -3522,10 +3522,10 @@
             "きます。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi đi học bằng tàu điện."
       },
       {
-        "ja": "子供が 2ふ た り人います。",
+        "ja": "子供が 2人います。",
         "ruby": [
           [
             "子",
@@ -3536,10 +3536,10 @@
             "ども"
           ],
           [
-            "が 2ふ た り人います。"
+            "が 2人います。"
           ]
         ],
-        "vi": ""
+        "vi": "Có 2 đứa trẻ."
       }
     ],
     "analysis": {
@@ -3637,7 +3637,7 @@
             "さんのだ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Bánh pudding trong tủ lạnh tôi ăn được không? B: Khoan đã, có viết tên trên đó đấy. Cái này là của anh Tanaka."
       },
       {
         "ja": "(Tại công ty)A：机の上にスマホが置いてあるけど、誰の？B：あ、私のです。",
@@ -3681,7 +3681,7 @@
             "のです。"
           ]
         ],
-        "vi": ""
+        "vi": "(Ở công ty) A: Trên bàn có đặt chiếc điện thoại của ai thế? B: À, của tôi đấy."
       },
       {
         "ja": "かべに写真が貼ってある。",
@@ -3708,7 +3708,7 @@
             "ってある。"
           ]
         ],
-        "vi": ""
+        "vi": "Trên tường có dán ảnh sẵn."
       },
       {
         "ja": "ビールが冷やしてありますね。誰かが冷やしたみたいです。",
@@ -3738,7 +3738,7 @@
             "やしたみたいです。"
           ]
         ],
-        "vi": ""
+        "vi": "Bia được làm lạnh sẵn rồi nhỉ. Hình như ai đó đã làm lạnh trước."
       }
     ],
     "analysis": {
@@ -3797,7 +3797,7 @@
             "してある。"
           ]
         ],
-        "vi": ""
+        "vi": "Tài liệu đã được chuẩn bị sẵn."
       },
       {
         "ja": "チケットはもう予約してありますよ。",
@@ -3817,7 +3817,7 @@
             "してありますよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Vé đã được đặt trước rồi nhé."
       },
       {
         "ja": "A：今日はお酒が飲みたいなあ。B：ビールを冷やしてあるから、冷蔵庫から出して飲みましょう。",
@@ -3883,7 +3883,7 @@
             "みましょう。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Hôm nay muốn uống rượu quá. B: Bia có ướp lạnh sẵn rồi, lấy từ tủ lạnh ra uống thôi."
       },
       {
         "ja": "A：鈴木さん、会議の時間は山田さんに連絡してありますか。B：はい、連絡してあります。",
@@ -3958,7 +3958,7 @@
             "してあります。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Anh Suzuki ơi, giờ họp đã báo trước cho anh Yamada chưa? B: Rồi, đã báo sẵn rồi ạ."
       }
     ],
     "analysis": {
@@ -4023,7 +4023,7 @@
             "ほん"
           ]
         ],
-        "vi": ""
+        "vi": "Quyển sách mà anh Tanaka đã mua ở hiệu sách."
       }
     ],
     "analysis": {
@@ -4050,7 +4050,7 @@
     ],
     "examples": [
       {
-        "ja": "メイドは 掃除を する。Chủ ngữ Tân ngữ Động từ（この女性が）掃除をする メイドです。",
+        "ja": "メイドは 掃除を する。",
         "ruby": [
           [
             "メイドは "
@@ -4064,35 +4064,13 @@
             "じ"
           ],
           [
-            "を する。Chủ ngữ Tân ngữ Động từ（この"
-          ],
-          [
-            "女",
-            "じょ"
-          ],
-          [
-            "性",
-            "せい"
-          ],
-          [
-            "が）"
-          ],
-          [
-            "掃",
-            "そう"
-          ],
-          [
-            "除",
-            "じ"
-          ],
-          [
-            "をする メイドです。"
+            "を する。"
           ]
         ],
-        "vi": ""
+        "vi": "Cô hầu gái làm việc dọn dẹp. → Đây là cô hầu gái làm việc dọn dẹp."
       },
       {
-        "ja": "メイドは 料理を する。Chủ ngữ Tân ngữ Động từメイド",
+        "ja": "メイドは 料理を する。",
         "ruby": [
           [
             "メイドは "
@@ -4106,10 +4084,10 @@
             "り"
           ],
           [
-            "を する。Chủ ngữ Tân ngữ Động từメイド"
+            "を する。"
           ]
         ],
-        "vi": ""
+        "vi": "Cô hầu gái nấu ăn. → Cô hầu gái làm việc nấu ăn."
       },
       {
         "ja": "A：B さんの会社はどんな会社ですか。B：ベトナムから食品を輸入する会社です。",
@@ -4173,7 +4151,7 @@
             "です。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Công ty anh B là công ty như thế nào? B: Là công ty nhập khẩu thực phẩm từ Việt Nam."
       },
       {
         "ja": "A：ちょっと本を取ってください。B：どの本ですか。A：かばんの前にある本です。B：あ、これですね。どうぞ。",
@@ -4217,7 +4195,7 @@
             "です。B：あ、これですね。どうぞ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Lấy giúp tôi quyển sách với. B: Quyển nào ạ? A: Quyển ở trước cái cặp ấy. B: À, quyển này phải không ạ. Mời anh."
       }
     ],
     "analysis": {
@@ -4289,7 +4267,7 @@
             "んでいた ゲーム"
           ]
         ],
-        "vi": ""
+        "vi": "(Tôi) ngày xưa từng chơi trò chơi (đó). → Trò chơi mà (tôi) từng chơi ngày xưa."
       }
     ],
     "analysis": {
@@ -4349,7 +4327,7 @@
             "れた。"
           ]
         ],
-        "vi": ""
+        "vi": "Chiếc máy tính mua hôm qua đã bị hỏng mất rồi."
       },
       {
         "ja": "【マイさんが一番好きな】ベトナム料理はどれですか。",
@@ -4384,7 +4362,7 @@
             "はどれですか。"
           ]
         ],
-        "vi": ""
+        "vi": "Món ăn Việt Nam mà Mai thích nhất là món nào?"
       },
       {
         "ja": "【私がよく行く】レストランは駅の前にあります。",
@@ -4421,7 +4399,7 @@
             "にあります。"
           ]
         ],
-        "vi": ""
+        "vi": "Nhà hàng mà tôi hay đi nằm ở trước nhà ga."
       },
       {
         "ja": "【今度の飲み会に行く】人は何人ですか。",
@@ -4480,7 +4458,7 @@
             "ですか。"
           ]
         ],
-        "vi": ""
+        "vi": "Có bao nhiêu người sẽ đi tiệc nhậu lần này?"
       }
     ],
     "analysis": {
@@ -4576,7 +4554,7 @@
             "える。"
           ]
         ],
-        "vi": ""
+        "vi": "Từ phòng tôi có thể nhìn thấy núi Phú Sĩ."
       },
       {
         "ja": "めがねをかけたから、字がよく見える。",
@@ -4599,7 +4577,7 @@
             "える。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì đã đeo kính nên nhìn rõ chữ."
       },
       {
         "ja": "この席からは、歌手が見えない。",
@@ -4633,7 +4611,7 @@
             "えない。"
           ]
         ],
-        "vi": ""
+        "vi": "Từ chỗ ngồi này không nhìn thấy ca sĩ."
       },
       {
         "ja": "上の部屋からピアノの音が聞こえる。",
@@ -4671,7 +4649,7 @@
             "こえる。"
           ]
         ],
-        "vi": ""
+        "vi": "Từ phòng trên tầng có nghe thấy tiếng đàn piano."
       }
     ],
     "analysis": {
@@ -4755,7 +4733,7 @@
             "です。"
           ]
         ],
-        "vi": ""
+        "vi": "Bạn A hát rất giỏi."
       },
       {
         "ja": "B さんは歩くのが速いです。",
@@ -4778,7 +4756,7 @@
             "いです。"
           ]
         ],
-        "vi": ""
+        "vi": "Bạn B đi bộ rất nhanh."
       },
       {
         "ja": "私は料理をするのが苦手です。",
@@ -4813,7 +4791,7 @@
             "です。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi kém việc nấu ăn."
       },
       {
         "ja": "母は話すのが遅いです。",
@@ -4840,7 +4818,7 @@
             "いです。"
           ]
         ],
-        "vi": ""
+        "vi": "Mẹ tôi nói chuyện chậm."
       }
     ],
     "analysis": {
@@ -4917,7 +4895,7 @@
             "です。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Nơi bạn đang sống hiện nay là ở đâu? B: Là Kunitachi ở Tokyo."
       },
       {
         "ja": "私が日本に来たのは、日本でビジネスをしたかったからです。アニメが好きだからじゃありません。",
@@ -4966,7 +4944,7 @@
             "きだからじゃありません。"
           ]
         ],
-        "vi": ""
+        "vi": "Lý do tôi đến Nhật là vì muốn kinh doanh tại Nhật, không phải vì thích anime."
       },
       {
         "ja": "A：また遅刻したの？B：うん、でも今日遅刻したのは、起きられなかったからじゃないよ。電車が遅れていたんだよ。",
@@ -5026,7 +5004,7 @@
             "れていたんだよ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Lại đi muộn à? B: Ừ, nhưng hôm nay đi muộn không phải do không dậy được đâu, mà là do tàu điện bị trễ đấy."
       },
       {
         "ja": "A：この人、お金持ちで有名なんだよね。B：うん、でもお金持ちになったのは、親がお金をくれたからだよ。A：そうなんだ。ビジネスで成功したんじゃないんだね。",
@@ -5093,7 +5071,7 @@
             "したんじゃないんだね。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Người này nổi tiếng là giàu có nhỉ. B: Ừ, nhưng trở nên giàu có là nhờ bố mẹ cho tiền đấy. A: Ra vậy, không phải nhờ kinh doanh thành công à."
       }
     ],
     "analysis": {
@@ -5217,7 +5195,7 @@
             "ました。どうしたんだろう。"
           ]
         ],
-        "vi": ""
+        "vi": "Vừa nãy tôi thấy anh Yamada đang khóc. Không biết có chuyện gì vậy nhỉ."
       },
       {
         "ja": "あの人です！あの人がカバンを盗んだのを見ました！",
@@ -5254,7 +5232,7 @@
             "ました！"
           ]
         ],
-        "vi": ""
+        "vi": "Là người kia! Tôi đã nhìn thấy người kia lấy trộm túi xách!"
       },
       {
         "ja": "昨日の晩、空から光る何かが落ちるのを見ました。",
@@ -5309,7 +5287,7 @@
             "ました。"
           ]
         ],
-        "vi": ""
+        "vi": "Tối hôm qua tôi thấy một vật gì đó phát sáng rơi từ trên trời xuống."
       },
       {
         "ja": "遠くに 雷が落ちるのが見えた。",
@@ -5343,7 +5321,7 @@
             "えた。"
           ]
         ],
-        "vi": ""
+        "vi": "Từ đằng xa tôi nhìn thấy tia sét đánh xuống."
       }
     ],
     "analysis": {
@@ -5425,7 +5403,7 @@
             "ってこい！"
           ]
         ],
-        "vi": ""
+        "vi": "(Anh trai sai em trai) Mang cái đó lại đây mau!"
       },
       {
         "ja": "(Nói với người điều khiển xe cần cẩu) OK、上げろ！",
@@ -5441,7 +5419,7 @@
             "げろ！"
           ]
         ],
-        "vi": ""
+        "vi": "(Nói với người điều khiển cần cẩu) OK, nâng lên!"
       },
       {
         "ja": "(Cướp ngân hàng) 金を出せ！この袋に入れろ！",
@@ -5478,7 +5456,7 @@
             "れろ！"
           ]
         ],
-        "vi": ""
+        "vi": "(Cướp ngân hàng) Đưa tiền ra! Bỏ vào túi này!"
       },
       {
         "ja": "(Theo dõi một buổi thi đấu) 行け行け！頑張れ！",
@@ -5512,7 +5490,7 @@
             "れ！"
           ]
         ],
-        "vi": ""
+        "vi": "(Xem thi đấu) Tiến lên, tiến lên! Cố lên!"
       }
     ],
     "analysis": {
@@ -5557,7 +5535,7 @@
             "けるなー！"
           ]
         ],
-        "vi": ""
+        "vi": "(Người xem thi đấu thể thao) Đừng có thua đấy!"
       },
       {
         "ja": "(Khi xảy ra động đất) 地震だ！あ、危ない！窓に近づくな！",
@@ -5598,7 +5576,7 @@
             "づくな！"
           ]
         ],
-        "vi": ""
+        "vi": "(Khi xảy ra động đất) Động đất đấy! Nguy hiểm! Đừng lại gần cửa sổ!"
       },
       {
         "ja": "(Hai bạn nam đang nói chuyện với nhau trong buổi họp lớp)A：おい、おれのスマホ見るなよ。B：いいじゃん、見せろよ。危ない！走るな！",
@@ -5635,7 +5613,7 @@
             "るな！"
           ]
         ],
-        "vi": ""
+        "vi": "(Hai bạn nam nói chuyện ở buổi họp lớp) A: Này, đừng nhìn trộm điện thoại của tao. B: Cho xem chút có sao đâu. — Nguy hiểm! Đừng chạy!"
       },
       {
         "ja": "(A nhìn thấy chữ Hán「薔薇」nhưng không biết cách đọc)A：この漢字は何と読むんですか。B：「バラ」と読みます。花の名前ですよ。",
@@ -5705,7 +5683,7 @@
             "ですよ。"
           ]
         ],
-        "vi": ""
+        "vi": "(A thấy chữ Hán 薔薇 không biết đọc) A: Chữ Hán này đọc thế nào vậy? B: Đọc là 'Bara'. Là tên một loài hoa đấy."
       }
     ],
     "analysis": {
@@ -5821,7 +5799,7 @@
             "ですよ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Hôm trước ở tiệc nhậu, người quen người Việt nói 'Một, hai, ba, dô!'. Nghĩa là gì thế? B: Nghĩa là '1, 2, 3, uống thôi!' đấy."
       },
       {
         "ja": "A：この漢字は何と読むんですか。B：「使用禁止」です。使うなという意味です。",
@@ -5892,10 +5870,10 @@
             "です。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Chữ Hán này đọc là gì? B: Là 'Sử dụng cấm chỉ' (Cấm sử dụng). Nghĩa là 'Đừng dùng'."
       },
       {
-        "ja": "(A hỏi B về 1 biển báo trên đường)A：あそこに動物の絵が描いてありますね。どういう意味ですか。B：動物に気をつけろという意味です。ここは山の近くだから、動物がときどき車とぶつかるんですよ。Thể Mệnh lệnhThể Cấm đoánThể Thường＋ と＋いう意味です",
+        "ja": "(A hỏi B về 1 biển báo trên đường)A：あそこに動物の絵が描いてありますね。どういう意味ですか。B：動物に気をつけろという意味です。ここは山の近くだから、動物がときどき車とぶつかるんですよ。",
         "ruby": [
           [
             "(A hỏi B về 1 biển báo trên đường)A：あそこに"
@@ -5995,21 +5973,10 @@
             "くるま"
           ],
           [
-            "とぶつかるんですよ。Thể Mệnh lệnhThể Cấm đoánThể Thường＋ と＋いう"
-          ],
-          [
-            "意",
-            "い"
-          ],
-          [
-            "味",
-            "み"
-          ],
-          [
-            "です"
+            "とぶつかるんですよ。"
           ]
         ],
-        "vi": ""
+        "vi": "(A hỏi B về biển báo) A: Đằng kia có vẽ hình động vật kìa, nghĩa là gì thế? B: Nghĩa là 'Hãy cẩn thận với động vật'. Ở đây gần núi nên thỉnh thoảng động vật va chạm với ô tô đấy."
       }
     ],
     "analysis": {
@@ -6071,7 +6038,7 @@
             "って、ある？」"
           ]
         ],
-        "vi": ""
+        "vi": "(Con hỏi mẹ) Mẹ ơi, nhà mình có pin không?"
       },
       {
         "ja": "(Khách hàng hỏi nhân viên cửa hàng điện tử)「すみません、スマホケースって、ありますか。」",
@@ -6080,7 +6047,7 @@
             "(Khách hàng hỏi nhân viên cửa hàng điện tử)「すみません、スマホケースって、ありますか。」"
           ]
         ],
-        "vi": ""
+        "vi": "(Khách hỏi nhân viên cửa hàng điện tử) Xin lỗi, ở đây có ốp điện thoại không ạ?"
       },
       {
         "ja": "(Khách hàng hỏi nhân viên tiệm bán hoa)「あのー、青い花ってありますか。」",
@@ -6103,7 +6070,7 @@
             "ってありますか。」"
           ]
         ],
-        "vi": ""
+        "vi": "(Khách hỏi nhân viên tiệm hoa) Xin lỗi, ở đây có hoa màu xanh dương không ạ?"
       },
       {
         "ja": "田中さんは趣味って何かありますか。",
@@ -6138,7 +6105,7 @@
             "かありますか。"
           ]
         ],
-        "vi": ""
+        "vi": "Anh Tanaka có sở thích gì không?"
       }
     ],
     "analysis": {
@@ -6273,10 +6240,10 @@
             "だよ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Bộ đồ này có hợp với mình không? B: Ừm… không phải là không hợp… A: 'Không phải là không hợp' nghĩa là sao? Hợp hay không hợp? B: Nghĩa là cũng tạm ổn đấy."
       },
       {
-        "ja": "Ａ：これって、何て書いてあるの？Ｂ：「たちいりきんし」って書いてあるんだよ。Ａ：どういう意味？Ｂ：ここに入るなっていう意味だよ。* Sustainable development goals: Mục tiêu phát triển bền vững",
+        "ja": "Ａ：これって、何て書いてあるの？Ｂ：「たちいりきんし」って書いてあるんだよ。Ａ：どういう意味？Ｂ：ここに入るなっていう意味だよ。",
         "ruby": [
           [
             "Ａ：これって、"
@@ -6329,10 +6296,10 @@
             "み"
           ],
           [
-            "だよ。* Sustainable development goals: Mục tiêu phát triển bền vững"
+            "だよ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Chỗ này viết gì thế? B: Viết là 'Tachiiri kinshi'. A: Nghĩa là gì vậy? B: Nghĩa là cấm vào đây đấy."
       }
     ],
     "analysis": {
@@ -6420,7 +6387,7 @@
             "を】いただいたんだ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Quyển từ điển này cũ lắm rồi nhỉ. B: Ừ, tôi được thầy giáo tặng cho đấy."
       },
       {
         "ja": "(Hai đối tác công việc đang nói chuyện với nhau)A：そのネクタイ、素敵ですね。B：【私が】君の会社の富田社長に【ネクタイを】いただいたんだよ。A：そうでしたか。",
@@ -6484,7 +6451,7 @@
             "に【ネクタイを】いただいたんだよ。A：そうでしたか。"
           ]
         ],
-        "vi": ""
+        "vi": "(Hai đối tác nói chuyện) A: Chiếc cà vạt đó đẹp quá nhỉ. B: Tôi được Giám đốc Tomita bên công ty anh tặng đấy. A: Ra vậy ạ."
       },
       {
         "ja": "父にクーポンをもらいました。",
@@ -6497,7 +6464,7 @@
             "にクーポンをもらいました。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi đã nhận được phiếu giảm giá từ bố."
       }
     ],
     "analysis": {
@@ -6572,7 +6539,7 @@
             "ってもらいました。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi đã được anh Sato giúp đỡ công việc."
       },
       {
         "ja": "【私が】鈴木君に本を貸してもらった。",
@@ -6617,7 +6584,7 @@
             "してもらった。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi đã được anh Suzuki cho mượn sách."
       },
       {
         "ja": "A：学校に出す書類は、これでいいのかな？B：どうだろう。先生にお願いすれば、見てもらえると思うよ。",
@@ -6687,7 +6654,7 @@
             "うよ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Giấy tờ nộp cho trường làm thế này ổn chưa nhỉ? B: Chẳng biết nữa. Nếu nhờ thầy giáo thì chắc thầy xem giúp cho đấy."
       },
       {
         "ja": "友達に誕生日をお祝いしてもらいました。",
@@ -6726,7 +6693,7 @@
             "いしてもらいました。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi đã được bạn bè chúc mừng sinh nhật."
       }
     ],
     "analysis": {
@@ -6807,7 +6774,7 @@
     ],
     "examples": [
       {
-        "ja": "ねえ、ちょっとこの漢字の読み方を教えてほしいんだけど…❷ Diễn tả kì vọng, mong muốn một trạng thái nào đó hình thành.",
+        "ja": "ねえ、ちょっとこの漢字の読み方を教えてほしいんだけど…",
         "ruby": [
           [
             "ねえ、ちょっとこの"
@@ -6842,10 +6809,10 @@
             "おし"
           ],
           [
-            "えてほしいんだけど…❷ Diễn tả kì vọng, mong muốn một trạng thái nào đó hình thành."
+            "えてほしいんだけど…"
           ]
         ],
-        "vi": ""
+        "vi": "Này, mình muốn nhờ bạn chỉ giúp cách đọc chữ Hán này chút…"
       },
       {
         "ja": "この俳優はすばらしいから、もっと有名になってほしい。",
@@ -6876,7 +6843,7 @@
             "になってほしい。"
           ]
         ],
-        "vi": ""
+        "vi": "Diễn viên này tuyệt vời quá, mong anh ấy nổi tiếng hơn nữa."
       },
       {
         "ja": "あの人、いつもうるさいからパーティーには来ないでほしいな。",
@@ -6899,7 +6866,7 @@
             "ないでほしいな。"
           ]
         ],
-        "vi": ""
+        "vi": "Người kia lúc nào cũng ồn ào nên mong đừng đến bữa tiệc."
       },
       {
         "ja": "彼女は、恋人にもっと高いかばんを買ってほしいと言っていたよ。",
@@ -6948,7 +6915,7 @@
             "っていたよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Cô ấy bảo rằng muốn người yêu mua cho chiếc túi đắt tiền hơn."
       }
     ],
     "analysis": {
@@ -7082,7 +7049,7 @@
             "わる。"
           ]
         ],
-        "vi": ""
+        "vi": "Người Nhật dạy bài hát tiếng Nhật cho người Việt. ↔ Người Việt được người Nhật dạy bài hát tiếng Nhật."
       },
       {
         "ja": "A さんがホテルに荷物を預ける。⇔ ホテルが A さんに（から）荷物を預かる。",
@@ -7127,7 +7094,7 @@
             "かる。"
           ]
         ],
-        "vi": ""
+        "vi": "Anh A gửi hành lý ở khách sạn. ↔ Khách sạn giữ hộ hành lý cho anh A."
       },
       {
         "ja": "ゆい：～♪ミン：それ、ベトナムの歌だよね。ゆい：うん、そう。ランちゃんに教わったんだ。ミン：ベトナム語も歌も、すごく上手だね！",
@@ -7175,7 +7142,7 @@
             "だね！"
           ]
         ],
-        "vi": ""
+        "vi": "Yui: ♪~ Minh: Bài đó là bài hát Việt Nam đúng không? Yui: Ừ đúng rồi, tớ được Lan dạy cho đấy. Minh: Cả tiếng Việt lẫn hát đều giỏi ghê!"
       },
       {
         "ja": "( ホテルで） 客：すみません、今朝こちらで荷物を預けたんですが。ホテルの人：少々お待ちください。",
@@ -7245,7 +7212,7 @@
             "ちください。"
           ]
         ],
-        "vi": ""
+        "vi": "(Ở khách sạn) Khách: Xin lỗi, sáng nay tôi có gửi hành lý ở đây. Nhân viên: Xin quý khách đợi một chút ạ."
       }
     ],
     "analysis": {
@@ -7337,7 +7304,7 @@
             "ばれる。"
           ]
         ],
-        "vi": ""
+        "vi": "Trưởng phòng gọi tôi. → Tôi bị Trưởng phòng gọi."
       },
       {
         "ja": "ナムさんが（は）私をいつも助けている。",
@@ -7360,7 +7327,7 @@
             "けている。"
           ]
         ],
-        "vi": ""
+        "vi": "Anh Nam lúc nào cũng giúp đỡ tôi."
       },
       {
         "ja": "先生が（は）学生をほめる。 → 学生が（は）先生にほめられる。",
@@ -7410,7 +7377,7 @@
             "にほめられる。"
           ]
         ],
-        "vi": ""
+        "vi": "Thầy giáo khen học sinh. → Học sinh được thầy giáo khen."
       },
       {
         "ja": "母は（が）毎朝私を起こす。 → 私が（は）毎朝母に起こされる。",
@@ -7474,7 +7441,7 @@
             "こされる。"
           ]
         ],
-        "vi": ""
+        "vi": "Mẹ đánh thức tôi mỗi sáng. → Tôi bị mẹ đánh thức mỗi sáng."
       }
     ],
     "analysis": {
@@ -7535,7 +7502,7 @@
             "まりました。"
           ]
         ],
-        "vi": ""
+        "vi": "Tàu điện đã dừng lại do động đất."
       },
       {
         "ja": "お花見に参加できなくて、残念でした。",
@@ -7577,7 +7544,7 @@
             "でした。"
           ]
         ],
-        "vi": ""
+        "vi": "Thật đáng tiếc vì không thể tham gia ngắm hoa anh đào."
       },
       {
         "ja": "A：おはよう。今日はどうしたんですか。遅かったですね。B：事故で電車が遅れたんですよ。もう、大変でした。",
@@ -7640,7 +7607,7 @@
             "でした。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Chào buổi sáng. Hôm nay sao thế, đến muộn nhỉ. B: Tàu bị trễ do tai nạn đấy. Thật vất vả quá."
       },
       {
         "ja": "A：どうしたの。目の下が真っ黒。B：昨日、となりの部屋がうるさくて、寝られなかったんだ。",
@@ -7702,7 +7669,7 @@
             "られなかったんだ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Sao thế? Dưới mắt thâm đen kìa. B: Hôm qua phòng bên cạnh ồn quá nên không ngủ được."
       }
     ],
     "analysis": {
@@ -7788,7 +7755,7 @@
             "かないでアルバイトしてた。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Nghỉ hè bạn làm gì? B: Làm thêm. A: Ủa, không đi du lịch đâu à? B: Ừ, chẳng đi đâu cả mà chỉ làm thêm thôi."
       },
       {
         "ja": "A：どうしたんですか。目の下が真っ黒ですよ。B：実は、昨日寝ないでテレビを見ていたんです…。サッカーの試合があって…。",
@@ -7861,10 +7828,10 @@
             "があって…。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Sao thế? Quầng mắt thâm đen rồi kìa. B: Thật ra hôm qua tôi thức trắng đêm xem tivi… vì có trận bóng đá…"
       },
       {
-        "ja": "最近、エスカレーターを使わないで 、階段を使っています。3 V1 ないで、V2",
+        "ja": "最近、エスカレーターを使わないで 、階段を使っています。",
         "ruby": [
           [
             "最",
@@ -7900,10 +7867,10 @@
             "つか"
           ],
           [
-            "っています。3 V1 ないで、V2"
+            "っています。"
           ]
         ],
-        "vi": ""
+        "vi": "Gần đây tôi không đi thang cuốn mà đi bằng cầu thang bộ."
       },
       {
         "ja": "A：またゲームやりながらご飯食べてる！B：ごめんなさい。",
@@ -7923,7 +7890,7 @@
             "べてる！B：ごめんなさい。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Lại vừa chơi game vừa ăn cơm rồi! B: Con xin lỗi ạ."
       }
     ],
     "analysis": {
@@ -8020,7 +7987,7 @@
             "こえにくい。"
           ]
         ],
-        "vi": ""
+        "vi": "Chỗ ngồi cuối lớp khó nghe thấy giọng thầy giáo."
       },
       {
         "ja": "この小説は文が下手で、わかりにくい。",
@@ -8058,7 +8025,7 @@
             "で、わかりにくい。"
           ]
         ],
-        "vi": ""
+        "vi": "Quyển tiểu thuyết này viết dở nên khó hiểu."
       },
       {
         "ja": "A：B さんはハノイに住んでいたんですよね。どうでしたか。B：便利で、とても住みやすかったですよ。",
@@ -8092,7 +8059,7 @@
             "みやすかったですよ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Anh B từng sống ở Hà Nội nhỉ, thấy thế nào? B: Tiện lợi và rất dễ sống đấy."
       },
       {
         "ja": "田中さんはいつも笑顔だから、話しやすいよね。",
@@ -8127,7 +8094,7 @@
             "しやすいよね。"
           ]
         ],
-        "vi": ""
+        "vi": "Anh Tanaka lúc nào cũng cười nên dễ nói chuyện nhỉ."
       }
     ],
     "analysis": {
@@ -8174,7 +8141,7 @@
             "きやすい / にくい。"
           ]
         ],
-        "vi": ""
+        "vi": "Cái bút này dễ viết / khó viết."
       },
       {
         "ja": "このマウス（は）使いやすいよ。おすすめ。",
@@ -8190,7 +8157,7 @@
             "いやすいよ。おすすめ。"
           ]
         ],
-        "vi": ""
+        "vi": "Con chuột máy tính này dễ dùng lắm đấy, khuyên bạn nên mua."
       },
       {
         "ja": "A：（靴の店で）これ、デザインはいいけど歩きにくいね。B：こっちはどう？ヒールが低いから歩きやすいんじゃない？",
@@ -8234,7 +8201,7 @@
             "きやすいんじゃない？"
           ]
         ],
-        "vi": ""
+        "vi": "A: (Ở tiệm giày) Đôi này thiết kế đẹp nhưng khó đi nhỉ. B: Đôi này thì sao? Gót thấp nên chắc dễ đi hơn đấy."
       },
       {
         "ja": "この店の服はどれも高すぎるよ。",
@@ -8264,7 +8231,7 @@
             "すぎるよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Quần áo ở cửa hàng này món nào cũng đắt quá."
       }
     ],
     "analysis": {
@@ -8317,7 +8284,7 @@
             "いすぎたんです。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Ôi đau họng quá. B: Bị cảm à? A: Không, do hát karaoke nhiều quá đấy."
       },
       {
         "ja": "歩きすぎて、足が痛い。",
@@ -8344,7 +8311,7 @@
             "い。"
           ]
         ],
-        "vi": ""
+        "vi": "Đi bộ nhiều quá nên đau chân."
       },
       {
         "ja": "この野菜ジュースは体にいいけど飲みすぎるのはよくないよ。",
@@ -8378,7 +8345,7 @@
             "みすぎるのはよくないよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Nước ép rau củ này tốt cho sức khỏe nhưng uống nhiều quá cũng không tốt đâu."
       }
     ],
     "analysis": {
@@ -8423,7 +8390,7 @@
             "べすぎじゃない？B：だって、おいしいから…。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Này, ăn nhiều quá rồi đấy? B: Tại vì ngon quá mà…"
       },
       {
         "ja": "A：テレビの見すぎだよ。B：うん…わかってるけど、面白くて…。",
@@ -8450,7 +8417,7 @@
             "くて…。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Xem tivi nhiều quá rồi đấy. B: Ừ… biết vậy nhưng mà hay quá nên…"
       }
     ],
     "analysis": {
@@ -8552,7 +8519,7 @@
             "くかな。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Dạo này hơi béo lên rồi đấy nhỉ? B: Hả? Thật sao? Chắc tại ăn nhiều quá… Từ mai quyết định không ăn đồ ngọt nữa! A: Để xem duy trì được bao lâu nhé."
       },
       {
         "ja": "A：もしもし、今何してるの？B：家にいるよ。映画を見に行きたかったけど、雨だから、出かけないことにした。",
@@ -8618,13 +8585,13 @@
             "かけないことにした。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Alo, đang làm gì thế? B: Đang ở nhà. Định đi xem phim nhưng trời mưa nên quyết định không ra ngoài nữa."
       },
       {
-        "ja": "A：2ふ た り人で相談して、結婚式はしないことにしたよ。B：そうなの。結婚式、見たかったな。A：うん、でもお金がかかるから。写真だけ撮ることにしたんだ。",
+        "ja": "A：2人で相談して、結婚式はしないことにしたよ。B：そうなの。結婚式、見たかったな。A：うん、でもお金がかかるから。写真だけ撮ることにしたんだ。",
         "ruby": [
           [
-            "A：2ふ た り人で"
+            "A：2人で"
           ],
           [
             "相",
@@ -8700,7 +8667,7 @@
             "ることにしたんだ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Hai đứa bàn bạc rồi quyết định sẽ không tổ chức đám cưới. B: Thế à, tiếc quá nhỉ. A: Ừ, vì tốn kém nên quyết định chỉ chụp ảnh thôi."
       }
     ],
     "analysis": {
@@ -8811,7 +8778,7 @@
             "さないで、メールしてください。"
           ]
         ],
-        "vi": ""
+        "vi": "Mọi người chú ý, từ tháng này cuộc họp thứ Sáu hằng tuần sẽ được hủy bỏ. Từ nay việc cần báo xin gửi email chứ không họp nữa."
       },
       {
         "ja": "A：来週の土曜日、みんなで飲み会をすることになったんですが、B さんもいかがですか。B：いいですね。ご一緒したいです。",
@@ -8871,7 +8838,7 @@
             "したいです。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Thứ Bảy tuần sau mọi người định tổ chức tiệc nhậu, anh B có tham gia không? B: Hay quá, cho tôi tham gia với."
       },
       {
         "ja": "A：明後日から、ベトナムに出張することになったんだ。B：えっ、明後日？急だね。",
@@ -8912,7 +8879,7 @@
             "だね。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Từ ngày kia tôi có quyết định đi công tác Việt Nam đấy. B: Hả, ngày kia á? Gấp thế."
       }
     ],
     "analysis": {
@@ -9029,7 +8996,7 @@
             "いていて…。アイデアはいつも、メモするようにしているんです。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Bạn đang viết gì thế? B: À, vừa nghĩ ra ý hay nên ghi chú lại. A: Thế à, sao vậy? B: Thật ra mình đang viết tiểu thuyết nên luôn cố gắng ghi chép lại ý tưởng."
       },
       {
         "ja": "目が悪くなるから、パソコンの画面は長い時間見ないようにしてください。目が疲れたら、休むようにしてください。",
@@ -9103,7 +9070,7 @@
             "むようにしてください。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì sẽ hại mắt nên hãy cố gắng đừng nhìn màn hình máy tính lâu quá. Khi mỏi mắt thì hãy nghỉ ngơi nhé."
       },
       {
         "ja": "日本語が上手になりたいなら、できるだけ日本語をたくさん話すようにしてください。",
@@ -9157,7 +9124,7 @@
             "すようにしてください。"
           ]
         ],
-        "vi": ""
+        "vi": "Nếu muốn giỏi tiếng Nhật thì hãy cố gắng nói tiếng Nhật thật nhiều."
       },
       {
         "ja": "(Lời bố mẹ nói với người con cố gắng học hành đến tận khuya)勉強を頑張るのはいいけど、無理をしないようにね。",
@@ -9199,7 +9166,7 @@
             "をしないようにね。"
           ]
         ],
-        "vi": ""
+        "vi": "(Bố mẹ dặn con học khuya) Cố gắng học tập là tốt nhưng nhớ đừng làm quá sức nhé."
       }
     ],
     "analysis": {
@@ -9286,7 +9253,7 @@
             "をしないようにしています。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Anh B lúc nào cũng khỏe mạnh nhỉ, có bí quyết gì không? B: À, tôi cố gắng tập thể dục mỗi ngày và không làm việc quá sức."
       },
       {
         "ja": "毎日7 時間以上、寝るようにしています。睡眠不足は体に悪いですから。",
@@ -9362,7 +9329,7 @@
             "いですから。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi cố gắng ngủ trên 7 tiếng mỗi ngày, vì thiếu ngủ có hại cho sức khỏe."
       },
       {
         "ja": "私の家に犬が来てから、毎日外に散歩に行くようになった。",
@@ -9429,7 +9396,7 @@
             "くようになった。"
           ]
         ],
-        "vi": ""
+        "vi": "Từ khi nhà tôi nuôi chó, tôi đã hình thành thói quen đi dạo bên ngoài mỗi ngày."
       },
       {
         "ja": "A：会社は今もリモートなんですか。B：そうですね。リモートになってから、家族とよく話すようになりましたよ。",
@@ -9474,7 +9441,7 @@
             "すようになりましたよ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Công ty vẫn làm việc từ xa à? B: Vâng, từ khi làm từ xa tôi nói chuyện với gia đình nhiều hơn hẳn."
       }
     ],
     "analysis": {
@@ -9566,7 +9533,7 @@
             "かなくなりました。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Từ khi làm việc từ xa nhiều hơn, mọi người ít vận động hẳn nhỉ. B: Đúng thế, bố tôi cũng không còn ra ngoài đi nhậu nữa."
       },
       {
         "ja": "年を取って、早く歩けなくなった。",
@@ -9600,7 +9567,7 @@
             "けなくなった。"
           ]
         ],
-        "vi": ""
+        "vi": "Có tuổi rồi nên không thể đi bộ nhanh được nữa."
       },
       {
         "ja": "A：山中さん、仕事をやめるそうですね。B：ええ。病気になって、長い時間、働けなくなったそうなんです。",
@@ -9667,7 +9634,7 @@
             "けなくなったそうなんです。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Nghe nói anh Yamanaka sắp nghỉ việc à? B: Vâng, nghe nói vì bị bệnh nên không thể làm việc thời gian dài được nữa."
       }
     ],
     "analysis": {
@@ -9763,7 +9730,7 @@
             "うつもりです。"
           ]
         ],
-        "vi": ""
+        "vi": "Từ tuần sau tôi dự định đi học ở lớp tennis."
       },
       {
         "ja": "A：ミンさんは、大学を出たら日本で就職するの？B：ううん、国に帰るつもり。",
@@ -9826,7 +9793,7 @@
             "るつもり。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Minh tốt nghiệp đại học xong sẽ xin việc ở Nhật à? B: Không, mình dự định về nước."
       },
       {
         "ja": "A：病気のこと、ご両親に言わないの？B：う～ん、今言ったら心配するから、よくなったら言うつもりなんだ。",
@@ -9893,7 +9860,7 @@
             "うつもりなんだ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Không nói chuyện bệnh tình cho bố mẹ biết à? B: Ừm, giờ nói bố mẹ sẽ lo nên định đợi khỏe lại rồi mới nói."
       },
       {
         "ja": "× A：B さんは明日の飲み会に行くつもりですか。〇 A：B さんは明日の飲み会に行きますか。B：はい、そのつもりです。",
@@ -9958,7 +9925,7 @@
             "きますか。B：はい、そのつもりです。"
           ]
         ],
-        "vi": ""
+        "vi": "(Sai) Anh B định đi tiệc nhậu ngày mai à? / (Đúng) Anh B có đi tiệc nhậu ngày mai không? — Vâng, tôi định đi."
       }
     ],
     "analysis": {
@@ -10042,7 +10009,7 @@
             "いことをするつもりはないよ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Này, bài kiểm tra ngày mai lấy trộm từ bàn thầy giáo không? B: Tớ không có ý định làm chuyện xấu đâu."
       },
       {
         "ja": "今度ベトナムに旅行に行こうと思っています。",
@@ -10084,7 +10051,7 @@
             "っています。"
           ]
         ],
-        "vi": ""
+        "vi": "Lần tới tôi đang dự định đi du lịch Việt Nam."
       },
       {
         "ja": "A：日本語の勉強してるの？B：うん。来年、日本語能力試験の N1 を受けようと思って（い）るんだ。",
@@ -10175,7 +10142,7 @@
             "って（い）るんだ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Đang học tiếng Nhật à? B: Ừ, sang năm mình định thi JLPT N1 đấy."
       },
       {
         "ja": "今日は友達とテニスをしようと思っていたけど、雨が降っているから家で勉強することにした。",
@@ -10238,7 +10205,7 @@
             "することにした。"
           ]
         ],
-        "vi": ""
+        "vi": "Hôm nay định chơi tennis với bạn nhưng trời mưa nên quyết định học ở nhà."
       }
     ],
     "analysis": {
@@ -10341,7 +10308,7 @@
             "いたりして、ゆっくりしていました。"
           ]
         ],
-        "vi": ""
+        "vi": "Hôm qua tôi ở nhà xem phim truyền hình, nghe nhạc rồi nghỉ ngơi thư giãn."
       },
       {
         "ja": "A：ベトナム旅行、どうでしたか。B：海で泳いだり、買い物したりしました。楽しかったですよ。",
@@ -10396,7 +10363,7 @@
             "しかったですよ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Chuyến du lịch Việt Nam thế nào? B: Tôi đã đi bơi ở biển, mua sắm... Vui lắm bạn ạ."
       },
       {
         "ja": "A：休みになったら何したい？B：そうだな～。友達と会ったり、旅行に行ったりしたいなあ。",
@@ -10455,10 +10422,10 @@
             "ったりしたいなあ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Được nghỉ thì bạn muốn làm gì? B: Để xem… muốn gặp gỡ bạn bè, đi du lịch nữa."
       },
       {
-        "ja": "A：昨日は何してた？B：家でテレビ見たりしてた。2 V1 たり、V2 たりする",
+        "ja": "A：昨日は何してた？B：家でテレビ見たりしてた。",
         "ruby": [
           [
             "A："
@@ -10489,10 +10456,10 @@
             "み"
           ],
           [
-            "たりしてた。2 V1 たり、V2 たりする"
+            "たりしてた。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Hôm qua làm gì thế? B: Ở nhà xem tivi rồi linh tinh thôi."
       }
     ],
     "analysis": {
@@ -10607,7 +10574,7 @@
             "べませんでした。"
           ]
         ],
-        "vi": ""
+        "vi": "1) A: Tiệc nhậu hôm qua bạn có đi không? B: Không, tôi không đi. 2) A: Đi Việt Nam có ăn trứng vịt lộn không? B: Hơi sợ nên tôi không ăn."
       },
       {
         "ja": "❶ A：もうランちゃんに連絡した？B：あ、まだしてない。しなきゃ。❷ (Khoảng 2 giờ chiều)A：お昼ご飯、食べた？B：食べてないけど、忙しいから食べられないかも。",
@@ -10669,7 +10636,7 @@
             "べられないかも。"
           ]
         ],
-        "vi": ""
+        "vi": "1) A: Liên lạc cho Lan chưa? B: Chết, chưa liên lạc, phải nhắn ngay. 2) A: Ăn trưa chưa? B: Chưa ăn, bận quá chắc không ăn nổi."
       },
       {
         "ja": "A：前田さん、コピー、もう取ってくれた？B：あ、すみません。まだです。今からやるところです。",
@@ -10703,7 +10670,7 @@
             "からやるところです。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Maeda ơi, photo xong cho mình chưa? B: À xin lỗi, chưa xong, bây giờ mình chuẩn bị làm đây."
       },
       {
         "ja": "A：もしもし、ゆいちゃん？ 今、ひま？B：あ、しょうたくん。ごめんね、ちょうどこれから出かけるところなんだ。",
@@ -10726,7 +10693,7 @@
             "かけるところなんだ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Alo Yui à? Đang rảnh không? B: À Shouta à, xin lỗi nhé, đúng lúc mình sắp ra ngoài đây."
       }
     ],
     "analysis": {
@@ -10785,7 +10752,7 @@
             "くつもりです"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi sẽ đi / Tôi đang định đi / Tôi dự định đi."
       },
       {
         "ja": "A：ABC 商事の山中さんに、メールを送りましたか。B：あ、すみません。まだ送っていません。今、やります。",
@@ -10837,7 +10804,7 @@
             "、やります。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Bạn đã gửi email cho anh Yamanaka ở công ty ABC chưa? B: À xin lỗi, tôi chưa gửi, bây giờ tôi gửi ngay đây."
       },
       {
         "ja": "A：あの映画、もう見た？B：まだ見てない。面白いの？",
@@ -10882,7 +10849,7 @@
             "いの？"
           ]
         ],
-        "vi": ""
+        "vi": "A: Bộ phim kia xem chưa? B: Chưa xem, có hay không?"
       },
       {
         "ja": "A：田中さん、昼ご飯一緒に食べませんか。まだ食べてないですよね。B：はい、まだ食べてないです。食べに行きましょう。",
@@ -10959,7 +10926,7 @@
             "きましょう。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Anh Tanaka đi ăn trưa cùng không, chắc anh chưa ăn nhỉ? B: Vâng chưa ăn, đi ăn thôi."
       }
     ],
     "analysis": {
@@ -11035,7 +11002,7 @@
             "をしているところです。"
           ]
         ],
-        "vi": ""
+        "vi": "(Sai khi nói chung chung) Bây giờ tôi đang học tiếng Nhật."
       },
       {
         "ja": "今、日本語の「て形」を勉強しているところです。",
@@ -11081,7 +11048,7 @@
             "しているところです。"
           ]
         ],
-        "vi": ""
+        "vi": "Bây giờ tôi đang đúng lúc học phần 'Thể て' của tiếng Nhật."
       },
       {
         "ja": "朝、友達に電話したら、ちょうど起きたところだったみたいだ。",
@@ -11123,7 +11090,7 @@
             "きたところだったみたいだ。"
           ]
         ],
-        "vi": ""
+        "vi": "Sáng gọi điện cho bạn thì hình như bạn ấy đúng lúc vừa mới ngủ dậy."
       },
       {
         "ja": "A：仕事、終わりそう？昼ご飯、食べに行こうよ。B：あ、今ちょうど終わったところ。行こう行こう。",
@@ -11206,7 +11173,7 @@
             "こう。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Công việc sắp xong chưa? Đi ăn trưa thôi. B: À, vừa mới xong đúng lúc luôn, đi thôi!"
       }
     ],
     "analysis": {
@@ -11292,7 +11259,7 @@
             "かなくてはいけない。"
           ]
         ],
-        "vi": ""
+        "vi": "Toàn bộ học sinh bắt buộc phải đi khám sức khỏe."
       },
       {
         "ja": "明日は試験だから、勉強しなくちゃいけない。",
@@ -11327,7 +11294,7 @@
             "しなくちゃいけない。"
           ]
         ],
-        "vi": ""
+        "vi": "Ngày mai thi rồi nên phải học bài thôi."
       },
       {
         "ja": "あ、もう 7 時だから行かなくちゃ。",
@@ -11350,7 +11317,7 @@
             "かなくちゃ。"
           ]
         ],
-        "vi": ""
+        "vi": "Ôi, 7 giờ rồi nên phải đi thôi."
       },
       {
         "ja": "もっと頑張らなくちゃだめだよ。",
@@ -11370,7 +11337,7 @@
             "らなくちゃだめだよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Phải cố gắng hơn nữa chứ, không được lười đâu."
       }
     ],
     "analysis": {
@@ -11460,10 +11427,10 @@
             "っちゃうから。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Đi ăn trưa không? B: Đợi chút, để tớ gửi nốt email này đã."
       },
       {
-        "ja": "A：あー、面白かった。B：え、この本、もう読んじゃったの？A：うん。面白かったから、1いち日で全部読んじゃった。",
+        "ja": "A：あー、面白かった。B：え、この本、もう読んじゃったの？A：うん。面白かったから、1日で全部読んじゃった。",
         "ruby": [
           [
             "A：あー、"
@@ -11502,7 +11469,7 @@
             "しろ"
           ],
           [
-            "かったから、1いち"
+            "かったから、1"
           ],
           [
             "日",
@@ -11527,7 +11494,7 @@
             "んじゃった。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Ôi hay quá! B: Hả, quyển sách này đọc xong rồi á? A: Ừ, hay quá nên đọc hết sạch trong 1 ngày luôn."
       },
       {
         "ja": "(Độc thoại) あと少しだから、レポート全部書いちゃおう。",
@@ -11558,7 +11525,7 @@
             "いちゃおう。"
           ]
         ],
-        "vi": ""
+        "vi": "(Tự nhủ) Còn chút xíu nữa thôi, viết xong hết báo cáo luôn nào."
       },
       {
         "ja": "漢字を全部覚えてしまいました。",
@@ -11590,7 +11557,7 @@
             "えてしまいました。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi đã nhớ hết toàn bộ chữ Hán rồi."
       }
     ],
     "analysis": {
@@ -11686,7 +11653,7 @@
             "ってきます。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Anh B đi ăn trưa thôi. B: À, trước đó tôi đi vệ sinh một chút đã rồi quay lại."
       },
       {
         "ja": "(Hội thoại giữa 2 người đang trong phòng)A：なんだか、外がうるさいね。B：事故かな？ちょっと見てくるね。",
@@ -11720,7 +11687,7 @@
             "てくるね。"
           ]
         ],
-        "vi": ""
+        "vi": "(Hai người ở trong phòng) A: Ngoài kia có vẻ ồn ào nhỉ. B: Tai nạn chăng? Để tớ ra xem thử rồi về."
       },
       {
         "ja": "ちょっとコンビニで牛乳を買ってきますね。",
@@ -11747,7 +11714,7 @@
             "ってきますね。"
           ]
         ],
-        "vi": ""
+        "vi": "Để tôi chạy ra cửa hàng tiện lợi mua sữa về nhé."
       },
       {
         "ja": "A：お待たせ。来る途中でチョコ買ってきたんだけど、食べる？B：ありがとう、もらうね。",
@@ -11795,7 +11762,7 @@
             "べる？B：ありがとう、もらうね。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Xin lỗi để bạn đợi. Trên đường đến mình mua sô-cô-la về này, ăn không? B: Cảm ơn, mình xin nhé."
       }
     ],
     "analysis": {
@@ -11846,7 +11813,7 @@
             "いてくるよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Từ đằng kia có con mèo đang đi bộ lại kìa."
       },
       {
         "ja": "木の上から虫が落ちてきた。",
@@ -11880,7 +11847,7 @@
             "ちてきた。"
           ]
         ],
-        "vi": ""
+        "vi": "Từ trên cây có con sâu rơi xuống."
       },
       {
         "ja": "この山は、ときどき大きい石が落ちてくるから、気を付けたほうがいい。",
@@ -11931,7 +11898,7 @@
             "けたほうがいい。"
           ]
         ],
-        "vi": ""
+        "vi": "Ngọn núi này thỉnh thoảng có đá to lăn xuống nên cẩn thận thì hơn."
       },
       {
         "ja": "車がすごいスピードで走っていった。",
@@ -11951,7 +11918,7 @@
             "っていった。"
           ]
         ],
-        "vi": ""
+        "vi": "Chiếc ô tô chạy vụt qua với tốc độ kinh khủng."
       }
     ],
     "analysis": {
@@ -12012,7 +11979,7 @@
             "っていくだろう。"
           ]
         ],
-        "vi": ""
+        "vi": "Ở Nhật Bản từ nay về sau số lượng trẻ em chắc sẽ tiếp tục giảm đi."
       },
       {
         "ja": "この病気は、だんだん体が動かなくなっていく病気だ。",
@@ -12057,7 +12024,7 @@
             "だ。"
           ]
         ],
-        "vi": ""
+        "vi": "Căn bệnh này là bệnh khiến cơ thể dần dần không cử động được nữa."
       },
       {
         "ja": "A：午後になって、気温が上がってきましたね。B：そうですね。ちょっと暑くなってきましたね。",
@@ -12102,7 +12069,7 @@
             "くなってきましたね。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Sang buổi chiều nhiệt độ tăng lên rồi nhỉ. B: Đúng thế, trời bắt đầu nóng lên rồi đấy."
       },
       {
         "ja": "A ：リンさん、最近日本語が上手になってきたね。リン：本当ですか？うれしいです。",
@@ -12156,7 +12123,7 @@
             "ですか？うれしいです。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Linh dạo này giỏi tiếng Nhật lên hẳn rồi nhé. Linh: Thật sao ạ? Em vui quá."
       }
     ],
     "analysis": {
@@ -12238,7 +12205,7 @@
             "きなさい。」"
           ]
         ],
-        "vi": ""
+        "vi": "(Bố mẹ nhắc con) Nguy hiểm lắm, hãy đi bên này (chỗ an toàn)!"
       },
       {
         "ja": "社長は私たちを一時間待たせた。",
@@ -12281,7 +12248,7 @@
             "たせた。"
           ]
         ],
-        "vi": ""
+        "vi": "Giám đốc bắt chúng tôi phải đợi suốt 1 tiếng đồng hồ."
       },
       {
         "ja": "あの子は犬を座らせる。",
@@ -12311,7 +12278,7 @@
             "らせる。"
           ]
         ],
-        "vi": ""
+        "vi": "Đứa bé đó cho con chó ngồi xuống."
       },
       {
         "ja": "部下が帰る → 上司が（は）部下を帰らせる。",
@@ -12364,7 +12331,7 @@
             "らせる。"
           ]
         ],
-        "vi": ""
+        "vi": "Cấp dưới về → Cấp trên cho phép cấp dưới về."
       }
     ],
     "analysis": {
@@ -12491,7 +12458,7 @@
             "べなさい"
           ]
         ],
-        "vi": ""
+        "vi": "(Sai) Tôi bắt thầy giáo kiểm tra tài liệu tiếng Nhật. → (Đúng) Tôi nhờ thầy giáo kiểm tra giúp tài liệu tiếng Nhật. / Hãy ăn cả rau nữa!"
       },
       {
         "ja": "私は人を喜ばせるのが好きだ。",
@@ -12525,7 +12492,7 @@
             "きだ。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi thích làm cho người khác vui."
       },
       {
         "ja": "子供のころ、よくけがをして親を心配させた。",
@@ -12560,7 +12527,7 @@
             "させた。"
           ]
         ],
-        "vi": ""
+        "vi": "Hồi nhỏ tôi hay bị thương làm bố mẹ lo lắng."
       },
       {
         "ja": "先生にプレゼントを用意して、驚かせよう。",
@@ -12595,7 +12562,7 @@
             "かせよう。"
           ]
         ],
-        "vi": ""
+        "vi": "Hãy chuẩn bị quà để làm thầy giáo bất ngờ nào."
       }
     ],
     "analysis": {
@@ -12683,7 +12650,7 @@
             "わせてもらいました。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi được Giám đốc cho phép sử dụng xe của công ty."
       },
       {
         "ja": "親に日本に留学させてもらいました。",
@@ -12718,7 +12685,7 @@
             "させてもらいました。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi được bố mẹ cho phép đi du học Nhật Bản."
       },
       {
         "ja": "具合が悪いから今日は会社を休ませてもらおう。",
@@ -12767,10 +12734,10 @@
             "ませてもらおう。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì thấy trong người không khỏe nên hôm nay tôi xin phép nghỉ làm ở công ty."
       },
       {
-        "ja": "親は 子供に ピアノを 習わせる。❷ V させられる (B bị A bắt làm V)",
+        "ja": "親は 子供に ピアノを 習わせる。",
         "ruby": [
           [
             "親",
@@ -12795,10 +12762,10 @@
             "なら"
           ],
           [
-            "わせる。❷ V させられる (B bị A bắt làm V)"
+            "わせる。"
           ]
         ],
-        "vi": ""
+        "vi": "Bố mẹ cho con đi học đàn piano."
       }
     ],
     "analysis": {
@@ -12902,7 +12869,7 @@
             "らせていただけませんか。"
           ]
         ],
-        "vi": ""
+        "vi": "(Xin phép người mặc kimono) Xin lỗi, bộ kimono đẹp quá, tôi có thể xin phép chụp ảnh được không ạ?"
       },
       {
         "ja": "(Nhân viên tạp chí nói với chủ quán)素敵なお店ですね、ぜひうちの雑誌で紹介させていただけませんか。",
@@ -12951,7 +12918,7 @@
             "させていただけませんか。"
           ]
         ],
-        "vi": ""
+        "vi": "(Nhân viên tạp chí nói với chủ quán) Quán đẹp quá ạ, xin phép cho chúng tôi được giới thiệu trên tạp chí của bên tôi nhé?"
       },
       {
         "ja": "(Tại công ty)申し訳ありませんが、明日休ませていただいてもよろしいでしょうか。父を病院に連れて行かなければいけないんです。",
@@ -13017,7 +12984,7 @@
             "かなければいけないんです。"
           ]
         ],
-        "vi": ""
+        "vi": "(Ở công ty) Xin lỗi anh/chị, ngày mai cho phép tôi xin nghỉ một hôm được không ạ? Tôi phải đưa bố đi bệnh viện."
       }
     ],
     "analysis": {
@@ -13103,7 +13070,7 @@
             "しします。"
           ]
         ],
-        "vi": ""
+        "vi": "Về việc này ngày mai tôi sẽ xin phép trao đổi ạ."
       },
       {
         "ja": "お荷物は明日お届けします。",
@@ -13137,7 +13104,7 @@
             "けします。"
           ]
         ],
-        "vi": ""
+        "vi": "Hành lý của quý khách ngày mai chúng tôi sẽ giao đến ạ."
       },
       {
         "ja": "来週のパーティーで、私の家族をご紹介します。",
@@ -13183,7 +13150,7 @@
             "します。"
           ]
         ],
-        "vi": ""
+        "vi": "Tại bữa tiệc tuần sau, tôi xin phép được giới thiệu gia đình mình ạ."
       },
       {
         "ja": "(Trong 1 cuộc họp) その質問には、私がお答えしてもいいでしょうか。",
@@ -13217,7 +13184,7 @@
             "えしてもいいでしょうか。"
           ]
         ],
-        "vi": ""
+        "vi": "(Trong cuộc họp) Câu hỏi đó tôi xin phép được trả lời có được không ạ?"
       }
     ],
     "analysis": {
@@ -13285,7 +13252,7 @@
             "になりますか。"
           ]
         ],
-        "vi": ""
+        "vi": "(Sai — không dùng với động từ 1 âm tiết trước ます) Quý ngài có hay xem phim không?"
       },
       {
         "ja": "(Nói với cấp dưới)XYZ 社の木村様がお見えになったから、お茶をお願い。",
@@ -13337,7 +13304,7 @@
             "い。"
           ]
         ],
-        "vi": ""
+        "vi": "(Nói với cấp dưới) Ngài Kimura của công ty XYZ đã đến rồi đấy, chuẩn bị trà nhé."
       },
       {
         "ja": "(Cấp trên và cấp dưới đang nói chuyện với nhau)部下：部長、いらっしゃいますか。上司：部長はさきほどお帰りになったよ。",
@@ -13397,10 +13364,10 @@
             "りになったよ。"
           ]
         ],
-        "vi": ""
+        "vi": "(Cấp trên & cấp dưới) Cấp dưới: Trưởng phòng có ở đây không ạ? Cấp trên: Trưởng phòng vừa mới về rồi."
       },
       {
-        "ja": "ご参加ください；ご確認ください；ご案内ください…5 お V ますご N ］＋ ください",
+        "ja": "ご参加ください；ご確認ください；ご案内ください…",
         "ruby": [
           [
             "ご"
@@ -13436,10 +13403,10 @@
             "ない"
           ],
           [
-            "ください…5 お V ますご N ］＋ ください"
+            "ください…"
           ]
         ],
-        "vi": ""
+        "vi": "Xin mời tham gia; Xin vui lòng kiểm tra; Xin phép hướng dẫn quý khách…"
       }
     ],
     "analysis": {
@@ -13549,7 +13516,7 @@
             "います。"
           ]
         ],
-        "vi": ""
+        "vi": "Khi sắp đi du lịch Việt Nam, tôi mua máy ảnh."
       },
       {
         "ja": "部屋を出るとき、電気を消しました。",
@@ -13583,7 +13550,7 @@
             "しました。"
           ]
         ],
-        "vi": ""
+        "vi": "Khi rời khỏi phòng, tôi đã tắt điện."
       },
       {
         "ja": "日本では、家に上がるとき靴を脱ぎます。",
@@ -13628,10 +13595,10 @@
             "ぎます。"
           ]
         ],
-        "vi": ""
+        "vi": "Ở Nhật Bản, khi bước vào nhà thì cởi giày ra."
       },
       {
-        "ja": "私はいつも、勉強するとき音楽を聞きます。Dòng thời gian 今★ ★★ >カメラを買う↓ ↓旅行に行くDòng thời gian ★ ★★ 今>電気を消す↓ ↓Dòng thời gian ★ ★★ >靴を脱ぐ↓ ↓家に上がる今Dòng thời gian ｛勉強する｝ >今｛音楽を聞く｝",
+        "ja": "私はいつも、勉強するとき音楽を聞きます。",
         "ruby": [
           [
             "私",
@@ -13667,138 +13634,10 @@
             "き"
           ],
           [
-            "きます。Dòng thời gian "
-          ],
-          [
-            "今",
-            "いま"
-          ],
-          [
-            "★ ★★ >カメラを"
-          ],
-          [
-            "買",
-            "か"
-          ],
-          [
-            "う↓ ↓"
-          ],
-          [
-            "旅",
-            "りょ"
-          ],
-          [
-            "行",
-            "こう"
-          ],
-          [
-            "に"
-          ],
-          [
-            "行",
-            "い"
-          ],
-          [
-            "くDòng thời gian ★ ★★ "
-          ],
-          [
-            "今",
-            "いま"
-          ],
-          [
-            ">"
-          ],
-          [
-            "電",
-            "でん"
-          ],
-          [
-            "気",
-            "き"
-          ],
-          [
-            "を"
-          ],
-          [
-            "消",
-            "け"
-          ],
-          [
-            "す↓ ↓Dòng thời gian ★ ★★ >"
-          ],
-          [
-            "靴",
-            "くつ"
-          ],
-          [
-            "を"
-          ],
-          [
-            "脱",
-            "ぬ"
-          ],
-          [
-            "ぐ↓ ↓"
-          ],
-          [
-            "家",
-            "いえ"
-          ],
-          [
-            "に"
-          ],
-          [
-            "上",
-            "あ"
-          ],
-          [
-            "がる"
-          ],
-          [
-            "今",
-            "いま"
-          ],
-          [
-            "Dòng thời gian ｛"
-          ],
-          [
-            "勉",
-            "べん"
-          ],
-          [
-            "強",
-            "きょう"
-          ],
-          [
-            "する｝ >"
-          ],
-          [
-            "今",
-            "いま"
-          ],
-          [
-            "｛"
-          ],
-          [
-            "音",
-            "おん"
-          ],
-          [
-            "楽",
-            "がく"
-          ],
-          [
-            "を"
-          ],
-          [
-            "聞",
-            "き"
-          ],
-          [
-            "く｝"
+            "きます。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi lúc nào khi học bài cũng nghe nhạc."
       }
     ],
     "analysis": {
@@ -13868,7 +13707,7 @@
             "べました。"
           ]
         ],
-        "vi": ""
+        "vi": "Khi đi Nhật, tôi đã ăn sushi."
       },
       {
         "ja": "コピー機が壊れたとき、ここに連絡してください。",
@@ -13898,7 +13737,7 @@
             "してください。"
           ]
         ],
-        "vi": ""
+        "vi": "Khi máy photocopy bị hỏng, hãy liên hệ vào số này."
       },
       {
         "ja": "初めて日本に来たとき、寒くてびっくりしました。",
@@ -13936,10 +13775,10 @@
             "くてびっくりしました。"
           ]
         ],
-        "vi": ""
+        "vi": "Lần đầu tiên đến Nhật, vì trời lạnh nên tôi rất ngạc nhiên."
       },
       {
-        "ja": "家族と食事に行ったとき、先生に会いました。Dòng thời gian ★ ★★ 今>日本に行く↓ ↓寿司を食べるDòng thời gian 今★ ★★ >コピー機が壊れる↓ ↓ここに連絡する",
+        "ja": "家族と食事に行ったとき、先生に会いました。",
         "ruby": [
           [
             "家",
@@ -13986,85 +13825,10 @@
             "あ"
           ],
           [
-            "いました。Dòng thời gian ★ ★★ "
-          ],
-          [
-            "今",
-            "いま"
-          ],
-          [
-            ">"
-          ],
-          [
-            "日",
-            "に"
-          ],
-          [
-            "本",
-            "ほん"
-          ],
-          [
-            "に"
-          ],
-          [
-            "行",
-            "い"
-          ],
-          [
-            "く↓ ↓"
-          ],
-          [
-            "寿",
-            "す"
-          ],
-          [
-            "司",
-            "し"
-          ],
-          [
-            "を"
-          ],
-          [
-            "食",
-            "た"
-          ],
-          [
-            "べるDòng thời gian "
-          ],
-          [
-            "今",
-            "いま"
-          ],
-          [
-            "★ ★★ >コピー"
-          ],
-          [
-            "機",
-            "き"
-          ],
-          [
-            "が"
-          ],
-          [
-            "壊",
-            "こわ"
-          ],
-          [
-            "れる↓ ↓ここに"
-          ],
-          [
-            "連",
-            "れん"
-          ],
-          [
-            "絡",
-            "らく"
-          ],
-          [
-            "する"
+            "いました。"
           ]
         ],
-        "vi": ""
+        "vi": "Khi đi ăn cơm cùng gia đình, tôi đã gặp thầy giáo."
       }
     ],
     "analysis": {
@@ -14113,7 +13877,7 @@
             "べています。"
           ]
         ],
-        "vi": ""
+        "vi": "Khi không có tiền, lúc nào tôi cũng ăn mì ly."
       },
       {
         "ja": "日本語がわからないとき、先生に質問するようにしています。",
@@ -14140,7 +13904,7 @@
             "するようにしています。"
           ]
         ],
-        "vi": ""
+        "vi": "Khi không hiểu tiếng Nhật, tôi cố gắng hỏi thầy giáo."
       },
       {
         "ja": "お金がないとき、友達に借ります。",
@@ -14174,10 +13938,10 @@
             "ります。"
           ]
         ],
-        "vi": ""
+        "vi": "Khi không có tiền, tôi mượn của bạn."
       },
       {
-        "ja": "朝、時間がないとき朝ごはんを食べません。Dòng thời gian ｛ お金がない ｝ >★ ★ ★ カップラーメンを食べている今Dòng thời gian ｛ 日本語がわからない ｝ >先生に質問する ★今",
+        "ja": "朝、時間がないとき朝ごはんを食べません。",
         "ruby": [
           [
             "朝",
@@ -14209,72 +13973,10 @@
             "た"
           ],
           [
-            "べません。Dòng thời gian ｛ お"
-          ],
-          [
-            "金",
-            "かね"
-          ],
-          [
-            "がない ｝ >★ ★ ★ カップラーメンを"
-          ],
-          [
-            "食",
-            "た"
-          ],
-          [
-            "べている"
-          ],
-          [
-            "今",
-            "いま"
-          ],
-          [
-            "Dòng thời gian ｛ "
-          ],
-          [
-            "日",
-            "に"
-          ],
-          [
-            "本",
-            "ほん"
-          ],
-          [
-            "語",
-            "ご"
-          ],
-          [
-            "がわからない ｝ >"
-          ],
-          [
-            "先",
-            "せん"
-          ],
-          [
-            "生",
-            "せい"
-          ],
-          [
-            "に"
-          ],
-          [
-            "質",
-            "しつ"
-          ],
-          [
-            "問",
-            "もん"
-          ],
-          [
-            "する ★"
-          ],
-          [
-            "今",
-            "いま"
+            "べません。"
           ]
         ],
-        "vi": ""
+        "vi": "Buổi sáng khi không có thời gian thì tôi không ăn sáng."
       }
     ],
     "analysis": {
@@ -14331,7 +14033,7 @@
             "きます。"
           ]
         ],
-        "vi": ""
+        "vi": "Khi thấy cô đơn, lúc nào tôi cũng nghe nhạc."
       },
       {
         "ja": "暇なとき、近くのショッピングモールに買い物に行きます。",
@@ -14372,7 +14074,7 @@
             "きます。"
           ]
         ],
-        "vi": ""
+        "vi": "Khi rảnh rỗi, tôi đi mua sắm ở trung tâm thương mại gần nhà."
       },
       {
         "ja": "暇なとき、映画を見ます。",
@@ -14403,10 +14105,10 @@
             "ます。"
           ]
         ],
-        "vi": ""
+        "vi": "Khi rảnh rỗi, tôi xem phim."
       },
       {
-        "ja": "眠いとき、コーヒーを飲みます。Dòng thời gian ｛ 暇｝ >★ 近くのショッピングモールに買い物に行く今Dòng thời gian ｛ 寂しい ｝ >★今",
+        "ja": "眠いとき、コーヒーを飲みます。",
         "ruby": [
           [
             "眠",
@@ -14420,63 +14122,10 @@
             "の"
           ],
           [
-            "みます。Dòng thời gian ｛ "
-          ],
-          [
-            "暇",
-            "ひま"
-          ],
-          [
-            "｝ >★ "
-          ],
-          [
-            "近",
-            "ちか"
-          ],
-          [
-            "くのショッピングモールに"
-          ],
-          [
-            "買",
-            "か"
-          ],
-          [
-            "い"
-          ],
-          [
-            "物",
-            "もの"
-          ],
-          [
-            "に"
-          ],
-          [
-            "行",
-            "い"
-          ],
-          [
-            "く"
-          ],
-          [
-            "今",
-            "いま"
-          ],
-          [
-            "Dòng thời gian ｛ "
-          ],
-          [
-            "寂",
-            "さび"
-          ],
-          [
-            "しい ｝ >★"
-          ],
-          [
-            "今",
-            "いま"
+            "みます。"
           ]
         ],
-        "vi": ""
+        "vi": "Khi buồn ngủ, tôi uống cà phê."
       }
     ],
     "analysis": {
@@ -14522,7 +14171,7 @@
             "、エアコンがついていた。"
           ]
         ],
-        "vi": ""
+        "vi": "Trong suốt lúc ngủ, điều hòa vẫn đang bật."
       },
       {
         "ja": "A：あー、勉強に集中できないよー。B：音楽を聞いて勉強するのはどうですか。私はいつも勉強している間、音楽を聞きますよ。A：よくそれで集中できるね……。",
@@ -14608,7 +14257,7 @@
             "できるね……。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Ôi không tập trung học được! B: Nghe nhạc khi học thì sao? Mình lúc nào đang học cũng nghe nhạc đấy. A: Cậu tập trung được như thế cũng giỏi thật…"
       },
       {
         "ja": "怪我をして助けが必要な間、 妹が料理や洗濯をしてくれた。",
@@ -14679,10 +14328,10 @@
             "をしてくれた。"
           ]
         ],
-        "vi": ""
+        "vi": "Trong suốt thời gian bị thương cần giúp đỡ, em gái đã nấu ăn và giặt giũ giúp tôi."
       },
       {
-        "ja": "私が仕事で忙しい間、両親が子供の世話をしてくれている。Dòng thời gian ｛ 寝ている ｝ >｛エアコンがついている｝Dòng thời gian ｛ 勉強している ｝ >｛音楽を聞いている｝Dòng thời gian ｛ 助けが必要｝ >｛ 妹が料理や洗濯をする｝Dòng thời gian ｛ 仕事で忙しい ｝ >｛ 両親が子供の世話をする｝",
+        "ja": "私が仕事で忙しい間、両親が子供の世話をしてくれている。",
         "ruby": [
           [
             "私",
@@ -14747,144 +14396,10 @@
             "わ"
           ],
           [
-            "をしてくれている。Dòng thời gian ｛ "
-          ],
-          [
-            "寝",
-            "ね"
-          ],
-          [
-            "ている ｝ >｛エアコンがついている｝Dòng thời gian ｛ "
-          ],
-          [
-            "勉",
-            "べん"
-          ],
-          [
-            "強",
-            "きょう"
-          ],
-          [
-            "している ｝ >｛"
-          ],
-          [
-            "音",
-            "おん"
-          ],
-          [
-            "楽",
-            "がく"
-          ],
-          [
-            "を"
-          ],
-          [
-            "聞",
-            "き"
-          ],
-          [
-            "いている｝Dòng thời gian ｛ "
-          ],
-          [
-            "助",
-            "たす"
-          ],
-          [
-            "けが"
-          ],
-          [
-            "必",
-            "ひつ"
-          ],
-          [
-            "要",
-            "よう"
-          ],
-          [
-            "｝ >｛ "
-          ],
-          [
-            "妹",
-            "いもうと"
-          ],
-          [
-            "が"
-          ],
-          [
-            "料",
-            "りょう"
-          ],
-          [
-            "理",
-            "り"
-          ],
-          [
-            "や"
-          ],
-          [
-            "洗",
-            "せん"
-          ],
-          [
-            "濯",
-            "たく"
-          ],
-          [
-            "をする｝Dòng thời gian ｛ "
-          ],
-          [
-            "仕",
-            "し"
-          ],
-          [
-            "事",
-            "ごと"
-          ],
-          [
-            "で"
-          ],
-          [
-            "忙",
-            "いそが"
-          ],
-          [
-            "しい ｝ >｛ "
-          ],
-          [
-            "両",
-            "りょう"
-          ],
-          [
-            "親",
-            "しん"
-          ],
-          [
-            "が"
-          ],
-          [
-            "子",
-            "こ"
-          ],
-          [
-            "供",
-            "ども"
-          ],
-          [
-            "の"
-          ],
-          [
-            "世",
-            "せ"
-          ],
-          [
-            "話",
-            "わ"
-          ],
-          [
-            "をする｝"
+            "をしてくれている。"
           ]
         ],
-        "vi": ""
+        "vi": "Trong thời gian tôi bận việc, bố mẹ chăm sóc con giúp tôi."
       }
     ],
     "analysis": {
@@ -14955,7 +14470,7 @@
             "けて。"
           ]
         ],
-        "vi": ""
+        "vi": "(Mẹ nói với con) Trong lúc mẹ đang nấu ăn thì dọn dẹp bàn đi nhé."
       },
       {
         "ja": "A：日本にいる間に行ってみたいところはある？B：京都を観光したい！",
@@ -14999,7 +14514,7 @@
             "したい！"
           ]
         ],
-        "vi": ""
+        "vi": "A: Trong thời gian ở Nhật có nơi nào bạn muốn đi thử không? B: Mình muốn đi tham quan Kyoto!"
       },
       {
         "ja": "若くて元気な間に色々な所へ旅行に行っておきたい。",
@@ -15066,7 +14581,7 @@
             "っておきたい。"
           ]
         ],
-        "vi": ""
+        "vi": "Nhân lúc còn trẻ và khỏe mạnh, tôi muốn đi du lịch nhiều nơi sẵn đi."
       },
       {
         "ja": "夏の間に、海に行きたい。",
@@ -15100,7 +14615,7 @@
             "きたい。"
           ]
         ],
-        "vi": ""
+        "vi": "Trong kỳ nghỉ hè, tôi muốn đi biển."
       }
     ],
     "analysis": {
@@ -15169,7 +14684,7 @@
             "めた。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi làm việc ở công ty đó đến năm 30 tuổi rồi nghỉ."
       },
       {
         "ja": "8 月31 日まで休みだ！うれしいな。",
@@ -15199,7 +14714,7 @@
             "みだ！うれしいな。"
           ]
         ],
-        "vi": ""
+        "vi": "Nghỉ đến tận ngày 31 tháng 8 luôn! Vui quá đi."
       },
       {
         "ja": "13 歳まで、ロシアに住んでいました。",
@@ -15222,10 +14737,10 @@
             "んでいました。"
           ]
         ],
-        "vi": ""
+        "vi": "Đến năm 13 tuổi tôi đã sống ở Nga."
       },
       {
-        "ja": "先生が来るまで、友達とおしゃべりしていました。Dòng thời gian ｛ 働く ｝★ >↓ 30 歳Dòng thời gian ｛ 休み ｝★ >↓ 8 月31 日13 歳",
+        "ja": "先生が来るまで、友達とおしゃべりしていました。",
         "ruby": [
           [
             "先",
@@ -15254,49 +14769,10 @@
             "だち"
           ],
           [
-            "とおしゃべりしていました。Dòng thời gian ｛ "
-          ],
-          [
-            "働",
-            "はたら"
-          ],
-          [
-            "く ｝★ >↓ 30 "
-          ],
-          [
-            "歳",
-            "さい"
-          ],
-          [
-            "Dòng thời gian ｛ "
-          ],
-          [
-            "休",
-            "やす"
-          ],
-          [
-            "み ｝★ >↓ 8 "
-          ],
-          [
-            "月",
-            "がつ"
-          ],
-          [
-            "31 "
-          ],
-          [
-            "日",
-            "にち"
-          ],
-          [
-            "13 "
-          ],
-          [
-            "歳",
-            "さい"
+            "とおしゃべりしていました。"
           ]
         ],
-        "vi": ""
+        "vi": "Cho đến khi thầy giáo đến, tôi đã tán gẫu với bạn bè."
       }
     ],
     "analysis": {
@@ -15350,7 +14826,7 @@
             "してください。"
           ]
         ],
-        "vi": ""
+        "vi": "Hãy liên lạc trước tuần sau (hạn chót là tuần sau)."
       },
       {
         "ja": "30 歳までに転職したい。",
@@ -15373,7 +14849,7 @@
             "したい。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi muốn chuyển việc trước năm 30 tuổi."
       },
       {
         "ja": "明日の 3 時までに返事をください。",
@@ -15404,10 +14880,10 @@
             "をください。"
           ]
         ],
-        "vi": ""
+        "vi": "Xin hãy trả lời trước 3 giờ chiều mai."
       },
       {
-        "ja": "30 歳ごろまでに結婚したいです。Dòng thời gian ★ ★★ >↓来週連絡する↓Dòng thời gian ★ ★★ >転職する↓ ↓ 30 歳",
+        "ja": "30 歳ごろまでに結婚したいです。",
         "ruby": [
           [
             "30 "
@@ -15428,44 +14904,10 @@
             "こん"
           ],
           [
-            "したいです。Dòng thời gian ★ ★★ >↓"
-          ],
-          [
-            "来",
-            "らい"
-          ],
-          [
-            "週",
-            "しゅう"
-          ],
-          [
-            "連",
-            "れん"
-          ],
-          [
-            "絡",
-            "らく"
-          ],
-          [
-            "する↓Dòng thời gian ★ ★★ >"
-          ],
-          [
-            "転",
-            "てん"
-          ],
-          [
-            "職",
-            "しょく"
-          ],
-          [
-            "する↓ ↓ 30 "
-          ],
-          [
-            "歳",
-            "さい"
+            "したいです。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi muốn kết hôn trước khoảng năm 30 tuổi."
       }
     ],
     "analysis": {
@@ -15519,7 +14961,7 @@
             "いておいてください。"
           ]
         ],
-        "vi": ""
+        "vi": "Hãy hỏi sẵn xem anh A khi nào rảnh nhé."
       },
       {
         "ja": "A：今度は何に悩んでるの？B：この服にはどのアクセサリーが似合うか悩んでるんだ。",
@@ -15578,7 +15020,7 @@
             "んでるんだ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Lần này đang băn khoăn chuyện gì thế? B: Mình đang phân vân không biết bộ đồ này hợp với phụ kiện nào."
       },
       {
         "ja": "試験の結果がどうなったか、まだ知らない。",
@@ -15613,10 +15055,10 @@
             "らない。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi vẫn chưa biết kết quả kỳ thi thế nào."
       },
       {
-        "ja": "何を 注文するか、もう決めましたか。11 Từ để hỏi ＋ V (thể Thường) /A い /A な /N ＋ か、～",
+        "ja": "何を 注文するか、もう決めましたか。",
         "ruby": [
           [
             "何",
@@ -15637,10 +15079,10 @@
             "き"
           ],
           [
-            "めましたか。11 Từ để hỏi ＋ V (thể Thường) /A い /A な /N ＋ か、～"
+            "めましたか。"
           ]
         ],
-        "vi": ""
+        "vi": "Bạn đã quyết định sẽ gọi món gì chưa?"
       }
     ],
     "analysis": {
@@ -15720,7 +15162,7 @@
             "してしまいました。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì tàu điện bị dừng nên tôi đã bị đi muộn."
       },
       {
         "ja": "(Lời cuối thư hoặc cuối emai)…では、またご連絡します。寒いので、体に気を付けてお過ごしください。",
@@ -15775,7 +15217,7 @@
             "ごしください。"
           ]
         ],
-        "vi": ""
+        "vi": "(Cuối thư/email) …Vậy xin hẹn liên lạc lại. Trời lạnh nên xin giữ gìn sức khỏe nhé."
       },
       {
         "ja": "(1 nhân viên đang xin về sớm ở công ty)「すみません。今日はちょっと体調が悪いので、早退させていただけませんか。」",
@@ -15820,10 +15262,10 @@
             "させていただけませんか。」"
           ]
         ],
-        "vi": ""
+        "vi": "(Nhân viên xin về sớm) Xin lỗi, hôm nay tôi hơi mệt trong người nên xin phép về sớm một chút được không ạ?"
       },
       {
-        "ja": "危ないので、そこに入らないでください。★ So sánh「から」và「ので」「から」 「ので」Về ý nghĩaĐiểm chung: hai cấu trúc đều diễn tả nguyên nhân, lý do♦ Thể hiện nguyên nhân, lý do một cáchthẳng thừng nên đôi khi sẽ khiến ngườinghe có ấn tượng thô lỗ, cục cằn.♦ Thể hiện nguyên nhân, lý do là sự thậtkhách quan, hoặc không muốn thể hiện ýkiến chủ quan của bản thân, hoặc muốn nóimột cách lịch sự, trang trọng.",
+        "ja": "危ないので、そこに入らないでください。",
         "ruby": [
           [
             "危",
@@ -15837,10 +15279,10 @@
             "はい"
           ],
           [
-            "らないでください。★ So sánh「から」và「ので」「から」 「ので」Về ý nghĩaĐiểm chung: hai cấu trúc đều diễn tả nguyên nhân, lý do♦ Thể hiện nguyên nhân, lý do một cáchthẳng thừng nên đôi khi sẽ khiến ngườinghe có ấn tượng thô lỗ, cục cằn.♦ Thể hiện nguyên nhân, lý do là sự thậtkhách quan, hoặc không muốn thể hiện ýkiến chủ quan của bản thân, hoặc muốn nóimột cách lịch sự, trang trọng."
+            "らないでください。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì nguy hiểm nên xin đừng bước vào trong đó."
       }
     ],
     "analysis": {
@@ -15896,10 +15338,10 @@
             "がいいね。"
           ]
         ],
-        "vi": ""
+        "vi": "Sản phẩm này tuy rẻ nhưng chất lượng tốt nhỉ."
       },
       {
-        "ja": "Ａ：なんだか眠そうだね。Ｂ：昨日は早く寝たのに眠いんだよ……なんでだろう。★ So sánh「けど / が」và「～のに」「～けど / が」 「～のに」♦ Khi vế phải không mang tính thất vọng hayngạc nhiên thì không dùng.",
+        "ja": "Ａ：なんだか眠そうだね。Ｂ：昨日は早く寝たのに眠いんだよ……なんでだろう。",
         "ruby": [
           [
             "Ａ：なんだか"
@@ -15937,10 +15379,10 @@
             "ねむ"
           ],
           [
-            "いんだよ……なんでだろう。★ So sánh「けど / が」và「～のに」「～けど / が」 「～のに」♦ Khi vế phải không mang tính thất vọng hayngạc nhiên thì không dùng."
+            "いんだよ……なんでだろう。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Trông cậu buồn ngủ thế. B: Hôm qua ngủ sớm rồi mà vẫn buồn ngủ… sao thế nhỉ."
       },
       {
         "ja": "〇 （私は）昨日から体調が悪いけど、今日は学校に行くつもりだ。",
@@ -16006,10 +15448,10 @@
             "くつもりだ。"
           ]
         ],
-        "vi": ""
+        "vi": "(Đúng) Từ hôm qua tôi không khỏe nhưng hôm nay vẫn định đi học."
       },
       {
-        "ja": "× （私は）昨日から体調が悪いのに、今日は学校に行くつもりだ。♦ Có thể kết hợp cùng thể thường/ thể lịch sự( ます形）",
+        "ja": "× （私は）昨日から体調が悪いのに、今日は学校に行くつもりだ。",
         "ruby": [
           [
             "× （"
@@ -16069,17 +15511,10 @@
             "い"
           ],
           [
-            "くつもりだ。♦ Có thể kết hợp cùng thể thường/ thể lịch sự( ます"
-          ],
-          [
-            "形",
-            "けい"
-          ],
-          [
-            "）"
+            "くつもりだ。"
           ]
         ],
-        "vi": ""
+        "vi": "(Sai — vế sau là ý chí thông thường, không mang sắc thái ngạc nhiên/tiếc nuối nên dùng けど/が thay cho のに)"
       }
     ],
     "analysis": {
@@ -16164,7 +15599,7 @@
             "っていてください。"
           ]
         ],
-        "vi": ""
+        "vi": "(Hơi gượng) Nếu tôi không đến đúng giờ thì mọi người cứ vào quán trước nhé."
       },
       {
         "ja": "薬を飲んでも、体調が良くならないんですけど、どうすればいいでしょうか。",
@@ -16202,7 +15637,7 @@
             "くならないんですけど、どうすればいいでしょうか。"
           ]
         ],
-        "vi": ""
+        "vi": "Dù uống thuốc rồi mà sức khỏe vẫn không khá hơn, tôi phải làm sao đây?"
       },
       {
         "ja": "Ａ：うーん……。Ｂ：どうしたの？Ａ：わからない言葉があるんだけど、辞書で調べても見つからなかったんだよね。Ｂ：ああ、これは若い人の間でしか使われていない言葉だからだよ。",
@@ -16286,7 +15721,7 @@
             "だからだよ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Ừm… B: Sao thế? A: Có từ không hiểu nhưng tra từ điển rồi cũng không thấy. B: À, đây là từ chỉ giới trẻ dùng với nhau thôi."
       },
       {
         "ja": "二人で話し合っても、答えは出ませんでした。",
@@ -16327,7 +15762,7 @@
             "ませんでした。"
           ]
         ],
-        "vi": ""
+        "vi": "Dù hai người cùng bàn bạc nhưng vẫn không tìm ra câu trả lời."
       }
     ],
     "analysis": {
@@ -16520,7 +15955,7 @@
             "けるんじゃない？"
           ]
         ],
-        "vi": ""
+        "vi": "1) A: Mình muốn làm ở công ty Nhật, nói được tiếng Nhật cỡ nào thì làm được? B: Nếu đỗ JLPT N2 thì hầu hết công ty đều làm được đấy. "
       },
       {
         "ja": "❷Ａ：パソコンのこと、くわしい人いませんか。Ｂ：田中さんに聞けば、何でも教えてくれますよ。",
@@ -16568,10 +16003,10 @@
             "えてくれますよ。"
           ]
         ],
-        "vi": ""
+        "vi": "2) A: Có ai rành về máy tính không? B: Nếu hỏi anh Tanaka thì cái gì anh ấy cũng chỉ cho đấy."
       },
       {
-        "ja": "❶Ａ：B さんは日本に行きたいんですよね。日本に行くことができたら、何がしたいですか。Ｂ：そうですね。すしを食べてみたいです。♦ Khi A là động từ chỉ hành động, thao tác thìB không được dùng các cấu trúc biểu thị ý chí( ～たい、～ください、～しよう ...) .♦ A là những loại từ khác thì vẫn có thể sửdụng bình thường.♦ B không bị hạn chế bởi loại từ của A.",
+        "ja": "❶Ａ：B さんは日本に行きたいんですよね。日本に行くことができたら、何がしたいですか。Ｂ：そうですね。すしを食べてみたいです。",
         "ruby": [
           [
             "❶Ａ：B さんは"
@@ -16624,10 +16059,10 @@
             "た"
           ],
           [
-            "べてみたいです。♦ Khi A là động từ chỉ hành động, thao tác thìB không được dùng các cấu trúc biểu thị ý chí( ～たい、～ください、～しよう ...) .♦ A là những loại từ khác thì vẫn có thể sửdụng bình thường.♦ B không bị hạn chế bởi loại từ của A."
+            "べてみたいです。"
           ]
         ],
-        "vi": ""
+        "vi": "1) A: Anh B muốn đi Nhật nhỉ, nếu đi được Nhật thì muốn làm gì? B: Mình muốn ăn thử sushi."
       },
       {
         "ja": "❶ × 日本へ行けば、すしを食べよう。〇 日本へ行けば、すしが食べられる。❷ × 注文が決まれば、店員を呼んでください。❸ 〇 わからなければ、先生に聞いてください。〇 わからなければ、先生に聞くことができる。",
@@ -16758,7 +16193,7 @@
             "くことができる。"
           ]
         ],
-        "vi": ""
+        "vi": "1) Sai: Nếu đi Nhật thì cùng ăn sushi nào → Đúng: Nếu đi Nhật thì có thể ăn sushi. 2) Sai: Nếu chọn xong món hãy gọi nhân viên. 3) Đúng: Nếu không hiểu hãy hỏi thầy giáo / có thể hỏi thầy giáo."
       }
     ],
     "analysis": {
@@ -16841,7 +16276,7 @@
             "すといいですよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Nếu muốn giỏi tiếng Nhật thì nên nói chuyện với người Nhật đấy."
       },
       {
         "ja": "Ａ：うーん、頭が痛い……。Ｂ：疲れて頭が痛いときは、マッサージするといいよ。",
@@ -16885,7 +16320,7 @@
             "いときは、マッサージするといいよ。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Ôi đau đầu quá… B: Khi mệt và đau đầu thì nên mát-xa một chút đấy."
       },
       {
         "ja": "夜なかなか寝られない人は、寝る 3 時間くらい前から部屋を暗くしておくといいですよ。",
@@ -16955,7 +16390,7 @@
             "くしておくといいですよ。"
           ]
         ],
-        "vi": ""
+        "vi": "Ai khó ngủ vào buổi đêm thì nên tắt bớt đèn làm tối phòng từ trước khi ngủ khoảng 3 tiếng nhé."
       }
     ],
     "analysis": {
@@ -17098,7 +16533,7 @@
             "う。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Có biết sách tiếng Nhật dùng cho công việc không? B: Thử hỏi anh/chị khóa trên xem sao, hình như anh/chị ấy có nhiều sách lắm."
       },
       {
         "ja": "１．Ａ：仕事で使う日本語の本、先輩なら知っているかなＢ：先生に聞いたほうがいいよ。先生のほうが、色々な本を知っているから。",
@@ -17219,10 +16654,10 @@
             "っているから。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Sách tiếng Nhật dùng cho công việc không biết khóa trên có biết không nhỉ? B: Hỏi thầy giáo thì hơn đấy, vì thầy biết nhiều sách hơn."
       },
       {
-        "ja": "Ａ：仕事で使う日本語の本って知らない？Ｂ：先輩に聞くといいよ。先輩は色々な本を知っているから。Câunghi vấn〇 どうしたらいいですか。〇 どうしたほうがいいですか。Không có dạng nghi vấn.× どうするといいですか。",
+        "ja": "Ａ：仕事で使う日本語の本って知らない？Ｂ：先輩に聞くといいよ。先輩は色々な本を知っているから。",
         "ruby": [
           [
             "Ａ："
@@ -17326,10 +16761,10 @@
             "し"
           ],
           [
-            "っているから。Câunghi vấn〇 どうしたらいいですか。〇 どうしたほうがいいですか。Không có dạng nghi vấn.× どうするといいですか。"
+            "っているから。"
           ]
         ],
-        "vi": ""
+        "vi": "A: Có biết sách tiếng Nhật dùng cho công việc không? B: Hỏi anh/chị khóa trên là được đấy, vì anh/chị ấy biết nhiều sách lắm."
       }
     ],
     "analysis": {
@@ -17449,7 +16884,7 @@
             "ちます。"
           ]
         ],
-        "vi": ""
+        "vi": "(Sai) Trường hợp lên tàu thì không ngồi mà đứng. → (Đúng) Khi lên tàu thì đừng ngồi mà đứng."
       },
       {
         "ja": "× 事故があった場合、雨が降っていました。〇 事故があった場合、この番号に電話してください。",
@@ -17538,10 +16973,10 @@
             "してください。"
           ]
         ],
-        "vi": ""
+        "vi": "(Sai) Trường hợp xảy ra tai nạn thì trời đang mưa. → (Đúng) Trường hợp xảy ra tai nạn hãy gọi vào số này."
       },
       {
-        "ja": "× 私が 10 歳若くなれた場合、登山をしてみたいです。〇 私が 10 歳若くなれたら、登山をしてみたいです。「V る場合」 「V た場合」Trước khi hành động vế trái kết thúc thì hànhđộng vế phải phát sinh.",
+        "ja": "× 私が 10 歳若くなれた場合、登山をしてみたいです。〇 私が 10 歳若くなれたら、登山をしてみたいです。",
         "ruby": [
           [
             "× "
@@ -17638,7 +17073,7 @@
             "」Trước khi hành động vế trái kết thúc thì hànhđộng vế phải phát sinh."
           ]
         ],
-        "vi": ""
+        "vi": "(Sai) Trường hợp trẻ lại 10 tuổi... → (Đúng) Nếu tôi trẻ lại được 10 tuổi thì tôi muốn thử leo núi."
       },
       {
         "ja": "❶ オンラインで買う場合は、クレジットカードしか使えません。❷ 初めてこの病院に来る場合、電話で予約をしてください。Sau khi hành động vế trái kết thúc thìhành động vế phải phát sinh.",
@@ -17730,7 +17165,7 @@
             "をしてください。Sau khi hành động vế trái kết thúc thìhành động vế phải phát sinh."
           ]
         ],
-        "vi": ""
+        "vi": "1) Trường hợp mua online chỉ dùng được thẻ tín dụng. 2) Trường hợp lần đầu đến bệnh viện này hãy gọi điện đặt lịch trước."
       }
     ],
     "analysis": {
@@ -17838,7 +17273,7 @@
             "します。"
           ]
         ],
-        "vi": ""
+        "vi": "Máy xay sinh tố dùng để xay nhỏ và trộn nguyên liệu."
       },
       {
         "ja": "私はギターの練習をするのにカラオケを使っています。",
@@ -17869,7 +17304,7 @@
             "っています。"
           ]
         ],
-        "vi": ""
+        "vi": "Tôi dùng quán karaoke để luyện tập đàn guitar."
       },
       {
         "ja": "タブレットは動画を見るのに便利です。",
@@ -17907,7 +17342,7 @@
             "です。"
           ]
         ],
-        "vi": ""
+        "vi": "Máy tính bảng rất tiện lợi để xem video."
       },
       {
         "ja": "このテキストは自分で勉強するのに役に立つ。",
@@ -17952,7 +17387,7 @@
             "つ。"
           ]
         ],
-        "vi": ""
+        "vi": "Quyển giáo trình này hữu ích cho việc tự học."
       }
     ],
     "analysis": {
@@ -18030,7 +17465,7 @@
             "えない。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì anh ấy nghiêm túc nên khi bị nhờ vả thì không thể từ chối."
       },
       {
         "ja": "工事中のため、この道は通れません。",
@@ -18065,7 +17500,7 @@
             "れません。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì đang thi công nên con đường này không đi qua được."
       },
       {
         "ja": "体調が悪いため、田中さんは来られないそうです。",
@@ -18107,7 +17542,7 @@
             "られないそうです。"
           ]
         ],
-        "vi": ""
+        "vi": "Nghe nói vì sức khỏe không tốt nên anh Tanaka không thể đến được."
       }
     ],
     "analysis": {
@@ -18166,7 +17601,7 @@
             "むね。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì lỡ bị cảm rồi nên ngày mai tớ nghỉ nhé (thân mật với bạn bè)."
       },
       {
         "ja": "風邪をひいてしまったので、明日は休みます。",
@@ -18197,10 +17632,10 @@
             "みます。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì lỡ bị cảm rồi nên ngày mai tôi xin nghỉ ạ (lịch sự, mềm mỏng)."
       },
       {
-        "ja": "風邪をひいてしまったため、明日は欠席します。♦ Có thể dùng với sự việckhông chắc chắn.♦ Chỉ đưa ra sự việc có tính chắcchắn.♦ Chỉ đưa ra sự việc có tínhchắc chắn.〇 明日は雨が降るだろうから、傘を持っていきます。✕ 明日は雨が降るだろうので、傘を持っていきます。✕ 明日は雨が降るだろうため、傘を持っていきます。",
+        "ja": "風邪をひいてしまったため、明日は欠席します。",
         "ruby": [
           [
             "風",
@@ -18229,115 +17664,10 @@
             "せき"
           ],
           [
-            "します。♦ Có thể dùng với sự việckhông chắc chắn.♦ Chỉ đưa ra sự việc có tính chắcchắn.♦ Chỉ đưa ra sự việc có tínhchắc chắn.〇 "
-          ],
-          [
-            "明",
-            "あした"
-          ],
-          [
-            "日は"
-          ],
-          [
-            "雨",
-            "あめ"
-          ],
-          [
-            "が"
-          ],
-          [
-            "降",
-            "ふ"
-          ],
-          [
-            "るだろうから、"
-          ],
-          [
-            "傘",
-            "かさ"
-          ],
-          [
-            "を"
-          ],
-          [
-            "持",
-            "も"
-          ],
-          [
-            "っていきます。✕ "
-          ],
-          [
-            "明",
-            "あした"
-          ],
-          [
-            "日は"
-          ],
-          [
-            "雨",
-            "あめ"
-          ],
-          [
-            "が"
-          ],
-          [
-            "降",
-            "ふ"
-          ],
-          [
-            "るだろうので、"
-          ],
-          [
-            "傘",
-            "かさ"
-          ],
-          [
-            "を"
-          ],
-          [
-            "持",
-            "も"
-          ],
-          [
-            "っていきます。✕ "
-          ],
-          [
-            "明",
-            "あした"
-          ],
-          [
-            "日は"
-          ],
-          [
-            "雨",
-            "あめ"
-          ],
-          [
-            "が"
-          ],
-          [
-            "降",
-            "ふ"
-          ],
-          [
-            "るだろうため、"
-          ],
-          [
-            "傘",
-            "かさ"
-          ],
-          [
-            "を"
-          ],
-          [
-            "持",
-            "も"
-          ],
-          [
-            "っていきます。"
+            "します。"
           ]
         ],
-        "vi": ""
+        "vi": "Vì bị cảm nên ngày mai tôi xin phép vắng mặt (trang trọng, văn bản)."
       },
       {
         "ja": "× 日本の会社で働くように、日本語を勉強しています。〇 日本の会社で働けるように、日本語を勉強しています。",
@@ -18456,7 +17786,7 @@
             "しています。"
           ]
         ],
-        "vi": ""
+        "vi": "(Sai) Để làm việc ở công ty Nhật... → (Đúng) Tôi đang học tiếng Nhật để có thể làm việc ở công ty Nhật."
       }
     ],
     "analysis": {
@@ -18525,7 +17855,7 @@
             "べる？"
           ]
         ],
-        "vi": ""
+        "vi": "(Nói với bạn bè/gia đình) Cái này ăn không?"
       },
       {
         "ja": "(Khi nói chuyện với đồng nghiệp, đàn anh… ) これ、食べますか。",
@@ -18541,7 +17871,7 @@
             "べますか。"
           ]
         ],
-        "vi": ""
+        "vi": "(Nói với đồng nghiệp/tiền bối) Cái này anh/chị ăn không ạ?"
       },
       {
         "ja": "(Khi nói với người bề trên như khách hàng, giám đốc…)こちら、召し上がりますか。",
@@ -18564,7 +17894,7 @@
             "がりますか。"
           ]
         ],
-        "vi": ""
+        "vi": "(Nói với khách hàng/giám đốc) Món này xin mời ngài dùng ạ."
       },
       {
         "ja": "(Khi nói chuyện với đồng nghiệp thân thiết về hành động của giám đốc)社長はコーヒーを召し上がるそうだよ。",
@@ -18598,7 +17928,7 @@
             "がるそうだよ。"
           ]
         ],
-        "vi": ""
+        "vi": "(Nói với đồng nghiệp về hành động của giám đốc) Nghe nói Giám đốc có dùng cà phê đấy."
       }
     ],
     "analysis": {
@@ -18693,10 +18023,10 @@
             "います。"
           ]
         ],
-        "vi": ""
+        "vi": "Anh Tanaka (của công ty tôi) sẽ đến gặp quý vị lúc 12 giờ ạ."
       },
       {
-        "ja": "(Mặc dù Kimura là trưởng ban ở công ty nhưng khi nói chuyện với đối tác, chúng tavẫn dùng khiêm nhường ngữ)（私の会社の）木村（部長）がそう申しております。Cách dùng kính ngữ trong hội thoại có cả “phía mình” và “phía đối phương”Cách dùng kính ngữ trong công tyNhững người ngoàinhư: người bên đốitác.私/A/B/C は、明日こちらにおります。(Dùng khiêm nhường ngữ)D さんは、明日こちらにいらっしゃいますか。(Dùng tôn kính ngữ)ABCD私Phía đối phươngPhía bản thânNgười bề trênĐàn anh,đồng nghiệpĐồng nghiệp thân thiết,đàn em, cấp dướiĐối tượng kính ngữA 部長は明日、こちらにいらっしゃいますか。私/ Ｂ（さん）/ Ｃ（さん）は明日、こちらにおります。A 部長は明日、ここにいらっしゃいますか。私/ Ｂ（さん）/ Ｃ（さん）は明日、ここにいます。A 部長は明日、ここにいらっしゃるよ。私/ Ｂ（さん）/ Ｃ（さん）は明日、ここにいるよ。Người bề trên「です・ます」Thể lịch sựThể ThườngĐồng nghiệp thân/ người bề dưới「です・ます」Thể lịch sựNgười ngang hàng (đồng nghiệp...)Đối tượng hướng đếnNói về hành động củangười bề trên (tôn kính ngữ)Nói về hành động bảnthân/ người ngang hànghoặc bề dưới (khiêmnhường ngữ/ thể thường)ABC私",
+        "ja": "(Mặc dù Kimura là trưởng ban ở công ty nhưng khi nói chuyện với đối tác, chúng tavẫn dùng khiêm nhường ngữ)（私の会社の）木村（部長）がそう申しております。",
         "ruby": [
           [
             "(Mặc dù Kimura là trưởng ban ở công ty nhưng khi nói chuyện với đối tác, chúng tavẫn dùng khiêm nhường ngữ)（"
@@ -18746,138 +18076,10 @@
             "もう"
           ],
           [
-            "しております。Cách dùng kính ngữ trong hội thoại có cả “phía mình” và “phía đối phương”Cách dùng kính ngữ trong công tyNhững người ngoàinhư: người bên đốitác."
-          ],
-          [
-            "私",
-            "わたし"
-          ],
-          [
-            "/A/B/C は、"
-          ],
-          [
-            "明日",
-            "あした"
-          ],
-          [
-            "こちらにおります。(Dùng khiêm nhường ngữ)D さんは、"
-          ],
-          [
-            "明日",
-            "あした"
-          ],
-          [
-            "こちらにいらっしゃいますか。(Dùng tôn kính ngữ)ABCD"
-          ],
-          [
-            "私",
-            "わたし"
-          ],
-          [
-            "Phía đối phươngPhía bản thânNgười bề trênĐàn anh,đồng nghiệpĐồng nghiệp thân thiết,đàn em, cấp dướiĐối tượng kính ngữA "
-          ],
-          [
-            "部",
-            "ぶ"
-          ],
-          [
-            "長",
-            "ちょう"
-          ],
-          [
-            "は"
-          ],
-          [
-            "明日",
-            "あした"
-          ],
-          [
-            "、こちらにいらっしゃいますか。"
-          ],
-          [
-            "私",
-            "わたし"
-          ],
-          [
-            "/ Ｂ（さん）/ Ｃ（さん）は"
-          ],
-          [
-            "明日",
-            "あした"
-          ],
-          [
-            "、こちらにおります。A "
-          ],
-          [
-            "部",
-            "ぶ"
-          ],
-          [
-            "長",
-            "ちょう"
-          ],
-          [
-            "は"
-          ],
-          [
-            "明日",
-            "あした"
-          ],
-          [
-            "、ここにいらっしゃいますか。"
-          ],
-          [
-            "私",
-            "わたし"
-          ],
-          [
-            "/ Ｂ（さん）/ Ｃ（さん）は"
-          ],
-          [
-            "明日",
-            "あした"
-          ],
-          [
-            "、ここにいます。A "
-          ],
-          [
-            "部",
-            "ぶ"
-          ],
-          [
-            "長",
-            "ちょう"
-          ],
-          [
-            "は"
-          ],
-          [
-            "明日",
-            "あした"
-          ],
-          [
-            "、ここにいらっしゃるよ。"
-          ],
-          [
-            "私",
-            "わたし"
-          ],
-          [
-            "/ Ｂ（さん）/ Ｃ（さん）は"
-          ],
-          [
-            "明日",
-            "あした"
-          ],
-          [
-            "、ここにいるよ。Người bề trên「です・ます」Thể lịch sựThể ThườngĐồng nghiệp thân/ người bề dưới「です・ます」Thể lịch sựNgười ngang hàng (đồng nghiệp...)Đối tượng hướng đếnNói về hành động củangười bề trên (tôn kính ngữ)Nói về hành động bảnthân/ người ngang hànghoặc bề dưới (khiêmnhường ngữ/ thể thường)ABC"
-          ],
-          [
-            "私",
-            "わたし"
+            "しております。"
           ]
         ],
-        "vi": ""
+        "vi": "(Dù Kimura là Trưởng phòng công ty mình nhưng khi nói với đối tác vẫn dùng khiêm nhường ngữ) Trưởng phòng Kimura bên chúng tôi cũng nói như vậy ạ."
       }
     ],
     "analysis": {
