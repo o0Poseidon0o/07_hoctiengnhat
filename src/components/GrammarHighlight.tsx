@@ -1,4 +1,8 @@
 import React from 'react';
+import { segmentJapaneseFurigana } from '@/lib/ruby';
+import { RubyText } from './RubyText';
+
+const HAS_KANJI_RE = /[\u4e00-\u9faf々ヶ]/;
 
 const PATTERN_GRAMMAR_TOKENS = [
   'ではありませんでした',
@@ -149,10 +153,19 @@ const PROSE_RE = new RegExp(
 export function GrammarHighlight({
   text,
   variant = 'prose',
+  showFurigana = true,
 }: {
   text: string;
   variant?: 'pattern' | 'prose';
+  showFurigana?: boolean;
 }) {
+  const renderJp = (str: string) =>
+    HAS_KANJI_RE.test(str) ? (
+      <RubyText segments={segmentJapaneseFurigana(str)} showFurigana={showFurigana} />
+    ) : (
+      str
+    );
+
   if (variant === 'pattern') {
     const parts = text.split(PATTERN_RE);
     return (
@@ -162,7 +175,7 @@ export function GrammarHighlight({
           if (GRAMMAR_SET.has(part)) {
             return (
               <span key={idx} className="font-extrabold text-[#c83e2b]">
-                {part}
+                {renderJp(part)}
               </span>
             );
           }
@@ -170,13 +183,13 @@ export function GrammarHighlight({
             return (
               <span
                 key={idx}
-                className="mx-0.5 rounded bg-[#2d6a4f]/10 px-1 py-0.5 font-bold text-[#2d6a4f]"
+                className="mx-0.5 rounded bg-[#2d6a4f]/10 px-1.5 py-0.5 font-bold text-[#2d6a4f]"
               >
-                {part}
+                {renderJp(part)}
               </span>
             );
           }
-          return <React.Fragment key={idx}>{part}</React.Fragment>;
+          return <React.Fragment key={idx}>{renderJp(part)}</React.Fragment>;
         })}
       </>
     );
@@ -191,9 +204,9 @@ export function GrammarHighlight({
           return (
             <span
               key={idx}
-              className="mx-0.5 rounded bg-red-50 px-1 py-0.5 font-bold text-[#c83e2b]"
+              className="mx-0.5 inline-block rounded-md bg-red-50 px-1.5 py-0.5 font-bold leading-loose text-[#c83e2b]"
             >
-              {part}
+              {renderJp(part)}
             </span>
           );
         }
@@ -207,11 +220,11 @@ export function GrammarHighlight({
         if (PROSE_KEYWORDS.includes(part)) {
           return (
             <strong key={idx} className="font-bold text-[#2d6a4f]">
-              {part}
+              {renderJp(part)}
             </strong>
           );
         }
-        return <React.Fragment key={idx}>{part}</React.Fragment>;
+        return <React.Fragment key={idx}>{renderJp(part)}</React.Fragment>;
       })}
     </>
   );

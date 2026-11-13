@@ -13,9 +13,11 @@ export function RubyText({
     <span className={`font-jp ${className}`}>
       {segments.map(([text, reading], idx) =>
         reading && showFurigana ? (
-          <ruby key={idx}>
+          <ruby key={idx} className="ruby-align-center">
             {text}
-            <rt className="text-[0.58em] font-normal text-stone-500">{reading}</rt>
+            <rt className="select-none text-[0.64em] font-medium leading-none tracking-tight text-stone-600">
+              {reading}
+            </rt>
           </ruby>
         ) : (
           <span key={idx}>{text}</span>
