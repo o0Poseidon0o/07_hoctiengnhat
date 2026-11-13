@@ -4,9 +4,9 @@ import { FlashcardDeck } from '@/components/FlashcardDeck';
 export default async function FlashcardsPage({
   searchParams,
 }: {
-  searchParams: Promise<{ lesson?: string; mode?: string }>;
+  searchParams: Promise<{ lesson?: string; part?: string; mode?: string }>;
 }) {
-  const { lesson, mode } = await searchParams;
+  const { lesson, part, mode } = await searchParams;
   const n5 = getLevelContent('n5');
 
   const initialMode =
@@ -26,6 +26,7 @@ export default async function FlashcardsPage({
         kanji={n5.kanji}
         lessons={n5.lessons}
         initialLessonId={lesson}
+        initialPart={part}
         initialMode={initialMode}
       />
     </div>

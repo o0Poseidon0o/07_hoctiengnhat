@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 import { Eye, EyeOff, Flame, RotateCcw, Sparkles } from 'lucide-react';
 import type { Kanji, Lesson, Vocab } from '@/data/types';
 import { previewIntervals, type ReviewRating, type StoredCardState } from '@/lib/srs';
+import { splitVocabChunks } from '@/lib/vocab-chunks';
 import { SpeakButton, speakJapanese } from './SpeakButton';
 
 interface FlashcardDeckProps {
@@ -11,6 +12,7 @@ interface FlashcardDeckProps {
   kanji: Kanji[];
   lessons: Lesson[];
   initialLessonId?: string;
+  initialPart?: string;
   initialMode?: 'all' | 'due' | 'weak';
 }
 
@@ -31,9 +33,11 @@ export function FlashcardDeck({
   kanji,
   lessons,
   initialLessonId = '1A',
+  initialPart = 'ALL',
   initialMode = 'all',
 }: FlashcardDeckProps) {
   const [lessonFilter, setLessonFilter] = useState(initialLessonId);
+  const [partFilter, setPartFilter] = useState(initialPart);
   const [mode, setMode] = useState<'all' | 'due' | 'weak'>(initialMode);
   const [showFurigana, setShowFurigana] = useState(true);
   const [flipped, setFlipped] = useState(false);
@@ -71,11 +75,23 @@ export function FlashcardDeck({
     return map;
   }, [kanji]);
 
+  const lessonChunks = useMemo(() => {
+    if (lessonFilter === 'ALL') return [];
+    const lessonVocab = vocab.filter((v) => v.lessonId === lessonFilter);
+    return splitVocabChunks(lessonFilter, lessonVocab);
+  }, [vocab, lessonFilter]);
+
   const deck = useMemo(() => {
     const nowMs = Date.now();
     const weakSet = new Set(weakIds);
+    const activePartItems =
+      lessonFilter !== 'ALL' && partFilter !== 'ALL' && lessonChunks.length > 1
+        ? new Set(lessonChunks.find((c) => c.key === partFilter)?.items.map((v) => v.id) ?? [])
+        : null;
+
     return vocab.filter((v) => {
       if (lessonFilter !== 'ALL' && v.lessonId !== lessonFilter) return false;
+      if (activePartItems && !activePartItems.has(v.id)) return false;
       if (mode === 'weak') return weakSet.has(v.id);
       if (mode === 'due') {
         const st = cardStates[v.id];
@@ -83,7 +99,7 @@ export function FlashcardDeck({
       }
       return true;
     });
-  }, [vocab, lessonFilter, mode, weakIds, cardStates]);
+  }, [vocab, lessonFilter, partFilter, lessonChunks, mode, weakIds, cardStates]);
 
   const current = deck[index] ?? null;
 
@@ -159,6 +175,7 @@ export function FlashcardDeck({
             value={lessonFilter}
             onChange={(e) => {
               setLessonFilter(e.target.value);
+              setPartFilter('ALL');
               setIndex(0);
               setFlipped(false);
             }}
@@ -172,6 +189,44 @@ export function FlashcardDeck({
               </option>
             ))}
           </select>
+
+          {lessonChunks.length > 1 && (
+            <div className="flex flex-wrap items-center gap-1 rounded-xl border border-stone-200 bg-stone-50 p-1">
+              <button
+                type="button"
+                onClick={() => {
+                  setPartFilter('ALL');
+                  setIndex(0);
+                  setFlipped(false);
+                }}
+                className={`rounded-lg px-2 py-1 text-xs font-semibold transition ${
+                  partFilter === 'ALL'
+                    ? 'bg-stone-900 text-white'
+                    : 'text-stone-600 hover:bg-stone-200/70'
+                }`}
+              >
+                Cả bài
+              </button>
+              {lessonChunks.map((c) => (
+                <button
+                  key={c.key}
+                  type="button"
+                  onClick={() => {
+                    setPartFilter(c.key);
+                    setIndex(0);
+                    setFlipped(false);
+                  }}
+                  className={`rounded-lg px-2 py-1 text-xs font-semibold transition ${
+                    partFilter === c.key
+                      ? 'bg-[#c83e2b] text-white'
+                      : 'text-stone-600 hover:bg-stone-200/70'
+                  }`}
+                >
+                  {c.label} ({c.items.length})
+                </button>
+              ))}
+            </div>
+          )}
 
           <div className="inline-flex rounded-xl border border-stone-200 bg-stone-50 p-1">
             {(

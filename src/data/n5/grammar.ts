@@ -1,12 +1,14 @@
 import type { Grammar, LevelId } from '../types.ts';
+import { grammar2to7 } from './grammar-2to7.ts';
+import { grammar8to10 } from './grammar-8to10.ts';
+import { grammar8to14 } from './grammar-8to14.ts';
 
 /**
- * N5 grammar, following the order of the Dung Mori "Ngữ pháp N5" book.
- * Lesson 1 (1A–1C) is filled in; add the next lessons with the same shape.
+ * Full N5 grammar across all 41 sub-lessons (1A–14C), following the Dung Mori "Ngữ pháp N5" book.
  */
 const level: LevelId = 'n5';
 
-export const grammar: Grammar[] = [
+const grammarUnit1: Grammar[] = [
   // ---------------- 1A ----------------
   {
     id: 'n5-1A-g01',
@@ -165,5 +167,12 @@ export const grammar: Grammar[] = [
       { ja: 'ゆいさんは 会社員ですよね。― いいえ、ゆいさんは 学生ですよ。', vi: 'Yui là nhân viên công ty nhỉ? ― Không, Yui là sinh viên đấy.' },
     ],
   },
+];
+
+export const grammar: Grammar[] = [
+  ...grammarUnit1,
+  ...grammar2to7,
+  ...grammar8to10,
+  ...grammar8to14,
 ];
 

@@ -1,9 +1,10 @@
 'use client';
 
-import { useState } from 'react';
+import { useMemo, useState } from 'react';
 import Link from 'next/link';
 import { BookOpen, Layers, Puzzle, ScrollText } from 'lucide-react';
 import type { Grammar, Kanji, SentenceChallenge, Vocab } from '@/data/types';
+import { splitVocabChunks } from '@/lib/vocab-chunks';
 import { RubyText } from './RubyText';
 import { SentenceBuilderGame } from './SentenceBuilderGame';
 import { SpeakButton } from './SpeakButton';
@@ -25,6 +26,19 @@ export function LessonTabs({
 }) {
   const [tab, setTab] = useState<TabKey>('vocab');
   const [showKana, setShowKana] = useState(true);
+  const [showKanjiFurigana, setShowKanjiFurigana] = useState(false);
+  const [vocabPart, setVocabPart] = useState<string>('ALL');
+
+  const vocabChunks = useMemo(() => splitVocabChunks(lessonId, vocab), [lessonId, vocab]);
+  const visibleVocab = useMemo(() => {
+    if (vocabPart === 'ALL' || vocabChunks.length <= 1) return vocab;
+    return vocabChunks.find((c) => c.key === vocabPart)?.items ?? vocab;
+  }, [vocab, vocabChunks, vocabPart]);
+
+  const flashcardHref =
+    vocabPart !== 'ALL' && vocabChunks.length > 1
+      ? `/flashcards?lesson=${lessonId}&part=${vocabPart}`
+      : `/flashcards?lesson=${lessonId}`;
 
   const tabs: { key: TabKey; label: string; count: number; icon: typeof BookOpen }[] = [
     { key: 'vocab', label: 'Từ vựng', count: vocab.length, icon: BookOpen },
@@ -71,20 +85,62 @@ export function LessonTabs({
               {showKana ? 'Ẩn cách đọc' : 'Hiện cách đọc'}
             </button>
           )}
+          {tab === 'kanji' && (
+            <button
+              type="button"
+              onClick={() => setShowKanjiFurigana((s) => !s)}
+              className="rounded-xl border border-stone-200 bg-white px-3 py-2 text-xs font-semibold text-stone-700 hover:bg-stone-50"
+            >
+              {showKanjiFurigana ? 'Ẩn Hiragana nhỏ' : 'Hiện Hiragana nhỏ'}
+            </button>
+          )}
           <Link
-            href={`/flashcards?lesson=${lessonId}`}
+            href={flashcardHref}
             className="rounded-xl bg-[#2d6a4f] px-3.5 py-2 text-xs font-semibold text-white transition hover:bg-[#24553f]"
           >
-            Ôn Flashcard bài {lessonId}
+            Ôn Flashcard{' '}
+            {vocabPart !== 'ALL' && vocabChunks.length > 1 ? vocabPart : `bài ${lessonId}`}
           </Link>
         </div>
       </div>
 
       {/* Tab 1: Vocab */}
       {tab === 'vocab' && (
-        <div className="overflow-hidden rounded-2xl border border-stone-200 bg-white shadow-xs">
-          <div className="divide-y divide-stone-100">
-            {vocab.map((v) => (
+        <div className="space-y-3">
+          {vocabChunks.length > 1 && (
+            <div className="flex flex-wrap items-center gap-2 rounded-2xl border border-stone-200 bg-white px-4 py-3 shadow-xs">
+              <span className="text-xs font-semibold text-stone-500">Chia nhỏ để dễ nhớ:</span>
+              <button
+                type="button"
+                onClick={() => setVocabPart('ALL')}
+                className={`rounded-lg px-2.5 py-1 text-xs font-semibold transition ${
+                  vocabPart === 'ALL'
+                    ? 'bg-stone-900 text-white'
+                    : 'bg-stone-100 text-stone-700 hover:bg-stone-200'
+                }`}
+              >
+                Tất cả ({vocab.length})
+              </button>
+              {vocabChunks.map((chunk) => (
+                <button
+                  key={chunk.key}
+                  type="button"
+                  onClick={() => setVocabPart(chunk.key)}
+                  className={`rounded-lg px-2.5 py-1 text-xs font-semibold transition ${
+                    vocabPart === chunk.key
+                      ? 'bg-[#c83e2b] text-white'
+                      : 'bg-stone-100 text-stone-700 hover:bg-stone-200'
+                  }`}
+                >
+                  {chunk.label} ({chunk.items.length})
+                </button>
+              ))}
+            </div>
+          )}
+
+          <div className="overflow-hidden rounded-2xl border border-stone-200 bg-white shadow-xs">
+            <div className="divide-y divide-stone-100">
+              {visibleVocab.map((v) => (
               <div
                 key={v.id}
                 className="flex flex-col justify-between gap-2 px-5 py-3.5 sm:flex-row sm:items-center"
@@ -117,6 +173,7 @@ export function LessonTabs({
               </div>
             ))}
           </div>
+        </div>
         </div>
       )}
 
@@ -154,7 +211,11 @@ export function LessonTabs({
                 <div className="mt-4 space-y-2 border-t border-stone-100 pt-3">
                   {k.examples.map((ex, i) => (
                     <div key={i} className="flex items-baseline justify-between gap-2 text-sm">
-                      <RubyText segments={ex.ruby} className="font-medium text-stone-900" />
+                      <RubyText
+                        segments={ex.ruby}
+                        showFurigana={showKanjiFurigana}
+                        className="font-medium text-stone-900"
+                      />
                       <span className="text-right text-xs text-stone-600">{ex.meaning}</span>
                     </div>
                   ))}
