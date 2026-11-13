@@ -6,6 +6,7 @@ import { BookOpen, Layers, Puzzle, ScrollText } from 'lucide-react';
 import type { Grammar, Kanji, SentenceChallenge, Vocab } from '@/data/types';
 import { splitVocabChunks } from '@/lib/vocab-chunks';
 import { buildWordRuby } from '@/lib/ruby';
+import { GrammarHighlight } from './GrammarHighlight';
 import { RubyText } from './RubyText';
 import { SentenceBuilderGame } from './SentenceBuilderGame';
 import { SpeakButton } from './SpeakButton';
@@ -246,17 +247,55 @@ export function LessonTabs({
                     <span className="mr-2 rounded-lg bg-[#c83e2b]/10 px-2 py-0.5 text-xs font-bold text-[#c83e2b]">
                       Mẫu {g.no}
                     </span>
-                    {g.pattern}
+                    <GrammarHighlight text={g.pattern} variant="pattern" />
                   </div>
                   <div className="text-sm font-bold text-[#2d6a4f]">{g.meaning}</div>
                 </div>
 
-                <p className="mt-2.5 text-sm leading-relaxed text-stone-700">{g.explanation}</p>
+                <p className="mt-2.5 text-sm leading-relaxed text-stone-700">
+                  <GrammarHighlight text={g.explanation} variant="prose" />
+                </p>
+
+                {g.analysis && (
+                  <div className="mt-3.5 space-y-2.5 rounded-xl border border-emerald-200/80 bg-emerald-50/50 p-3.5 text-xs">
+                    <div className="flex flex-wrap items-center gap-2">
+                      <span className="rounded-md bg-[#2d6a4f] px-2 py-0.5 text-[11px] font-bold uppercase tracking-wide text-white">
+                        Công thức
+                      </span>
+                      <span className="font-jp text-sm font-semibold text-stone-900">
+                        <GrammarHighlight text={g.analysis.formula} variant="pattern" />
+                      </span>
+                    </div>
+
+                    <div className="space-y-1.5">
+                      {g.analysis.parts.map((part, idx) => (
+                        <div key={idx} className="flex flex-wrap items-baseline gap-1.5 leading-relaxed text-stone-700">
+                          <span className="font-jp rounded bg-white px-1.5 py-0.5 font-bold text-[#c83e2b] ring-1 ring-red-200">
+                            {part.token}
+                          </span>
+                          <span>:</span>
+                          <span>
+                            <GrammarHighlight text={part.role} variant="prose" />
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+
+                    {g.analysis.tip && (
+                      <div className="rounded-lg border border-amber-200/80 bg-amber-50/90 px-3 py-2 leading-relaxed text-amber-950">
+                        <span className="mr-1 font-bold text-[#c83e2b]">★ Điểm cần chú ý:</span>
+                        <GrammarHighlight text={g.analysis.tip} variant="prose" />
+                      </div>
+                    )}
+                  </div>
+                )}
 
                 {g.notes.length > 0 && (
                   <ul className="mt-3 space-y-1 rounded-xl bg-amber-50/70 px-4 py-2.5 text-xs text-amber-900">
                     {g.notes.map((n, i) => (
-                      <li key={i}>★ {n}</li>
+                      <li key={i}>
+                        ★ <GrammarHighlight text={n} variant="prose" />
+                      </li>
                     ))}
                   </ul>
                 )}

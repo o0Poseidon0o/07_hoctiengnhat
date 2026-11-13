@@ -2,6 +2,7 @@ import type { Grammar, LevelId } from '../types.ts';
 import { grammar2to7 } from './grammar-2to7.ts';
 import { grammar8to10 } from './grammar-8to10.ts';
 import { grammar8to14 } from './grammar-8to14.ts';
+import { GRAMMAR_ANALYSIS } from './grammar-analysis.ts';
 
 /**
  * Full N5 grammar across all 41 sub-lessons (1A–14C), following the Dung Mori "Ngữ pháp N5" book.
@@ -174,5 +175,8 @@ export const grammar: Grammar[] = [
   ...grammar2to7,
   ...grammar8to10,
   ...grammar8to14,
-];
+].map((g) => ({
+  ...g,
+  analysis: g.analysis ?? GRAMMAR_ANALYSIS[g.id],
+}));
 

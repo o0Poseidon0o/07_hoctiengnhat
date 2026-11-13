@@ -63,6 +63,17 @@ export interface GrammarExample {
   vi: string;
 }
 
+export interface GrammarAnalysisPart {
+  token: string;
+  role: string;
+}
+
+export interface GrammarAnalysis {
+  formula: string;
+  parts: GrammarAnalysisPart[];
+  tip?: string;
+}
+
 export interface Grammar {
   id: string; // "n5-1A-g01"
   level: LevelId;
@@ -73,6 +84,7 @@ export interface Grammar {
   explanation: string;
   notes: string[];
   examples: GrammarExample[];
+  analysis?: GrammarAnalysis;
 }
 
 /**
