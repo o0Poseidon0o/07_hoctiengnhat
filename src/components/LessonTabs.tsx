@@ -28,7 +28,7 @@ export function LessonTabs({
 }) {
   const [tab, setTab] = useState<TabKey>('vocab');
   const [showKana, setShowKana] = useState(true);
-  const [showKanjiFurigana, setShowKanjiFurigana] = useState(false);
+  const [showKanjiFurigana, setShowKanjiFurigana] = useState(true);
   const [vocabPart, setVocabPart] = useState<string>('ALL');
 
   const vocabChunks = useMemo(() => splitVocabChunks(lessonId, vocab), [lessonId, vocab]);

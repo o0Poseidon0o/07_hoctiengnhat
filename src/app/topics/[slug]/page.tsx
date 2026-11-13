@@ -119,8 +119,8 @@ export default async function TopicDetailPage({
                     <div>
                       <p className="text-sm font-bold text-stone-900">{k.hanViet}</p>
                       {k.examples[0] && (
-                        <p className="text-xs text-stone-600">
-                          VD: {k.examples[0].word} ({k.examples[0].meaning})
+                        <p className="text-sm text-stone-700 leading-loose">
+                          VD: <RubyText segments={k.examples[0].ruby} showFurigana={true} /> ({k.examples[0].meaning})
                         </p>
                       )}
                     </div>
