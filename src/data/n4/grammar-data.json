@@ -180,12 +180,12 @@
       "formula": "Thể Thường/ N/ A な + でしょう / だろう",
       "parts": [
         {
-          "label": "Thể Thường/ N/ A な",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể Thường/ N/ A な",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "でしょう / だろう",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Chắc hẳn ～"
+          "token": "でしょう / だろう",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Chắc hẳn ～"
         }
       ],
       "tip": "「~ だろう」là thể thường của「でしょう」"
@@ -403,12 +403,12 @@
       "formula": "Thể Thường/ N/ A な + でしょう / だろう",
       "parts": [
         {
-          "label": "Thể Thường/ N/ A な",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể Thường/ N/ A な",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "でしょう / だろう",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: ～ phải không/ ～ đúng không?"
+          "token": "でしょう / だろう",
+          "role": "Cụm ngữ pháp chính mang nghĩa: ～ phải không/ ～ đúng không?"
         }
       ],
       "tip": "Dùng để đưa ra ý kiến bản thân để xác nhận, hoặc kêu gọi/ mong muốn sự đồng tình từ người nghe về 1 vấn đề nào đó."
@@ -428,12 +428,12 @@
       "formula": "Thể thường/ N/ A な + かもしれない",
       "parts": [
         {
-          "label": "Thể thường/ N/ A な",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể thường/ N/ A な",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "かもしれない",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Thể thường/ N/ A な + かもしれない"
+          "token": "かもしれない",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Thể thường/ N/ A な + かもしれない"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -576,12 +576,12 @@
       "formula": "Thể thường/ N/ A な + みたいだ",
       "parts": [
         {
-          "label": "Thể thường/ N/ A な",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể thường/ N/ A な",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "みたいだ",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Có lẽ ～ / Có khi ～ không chừng. / Hình như ～ ; Có vẻ ～"
+          "token": "みたいだ",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Có lẽ ～ / Có khi ～ không chừng. / Hình như ～ ; Có vẻ ～"
         }
       ],
       "tip": "Dùng để đưa ra phán đoán dựa trên điều bản thân nhìn thấy, nghe thấy, cảm nhận thấy."
@@ -876,12 +876,12 @@
       "formula": "Thể thường/ N の / A な + ようだ",
       "parts": [
         {
-          "label": "Thể thường/ N の / A な",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể thường/ N の / A な",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ようだ",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Hình như ～ ; Có vẻ ～"
+          "token": "ようだ",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Hình như ～ ; Có vẻ ～"
         }
       ],
       "tip": "Thường được sử dụng trên truyền hình, trong các báo cáo, văn viết…"
@@ -1052,12 +1052,12 @@
       "formula": "Thể thường/ N の / A な + はずだ",
       "parts": [
         {
-          "label": "Thể thường/ N の / A な",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể thường/ N の / A な",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "はずだ",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Chắc chắn ～"
+          "token": "はずだ",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Chắc chắn ～"
         }
       ],
       "tip": "「～はずだけど」: được dùng khi tình trạng hiện tại có vẻ khác với suy nghĩ của người nói."
@@ -1222,12 +1222,12 @@
       "formula": "Thể Thường/ N/ A な ＋ らしい",
       "parts": [
         {
-          "label": "Thể Thường/ N/ A な",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể Thường/ N/ A な",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "らしい",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Nghe nói ～ / Nghe nói ～ ; Thấy bảo ～"
+          "token": "らしい",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Nghe nói ～ / Nghe nói ～ ; Thấy bảo ～"
         }
       ],
       "tip": "Mẫu câu này có thể áp dụng với cả những thông tin không rõ nguồn gốc nên thường được dùng khi nói về một tin đồn, lời đồn…"
@@ -1500,12 +1500,12 @@
       "formula": "Thể thường/「〜」＋ と言 っていました。",
       "parts": [
         {
-          "label": "Thể thường/「〜」",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể thường/「〜」",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "と言 っていました。",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: đã nói rằng ～ / ～ nghe nói rằng / ta sẽ để phần nội dung vào「…」mà không cần thay đổi gì cả. / trước「～と言 って いました」phải đưa về thể Thường.だ"
+          "token": "と言 っていました。",
+          "role": "Cụm ngữ pháp chính mang nghĩa: đã nói rằng ～ / ～ nghe nói rằng / ta sẽ để phần nội dung vào「…」mà không cần thay đổi gì cả. / trước「～と言 って いました」phải đưa về thể Thường.だ"
         }
       ],
       "tip": "「～と言 っていました」có 2 cách dùng:"
@@ -1659,16 +1659,16 @@
       "formula": "Thể thường ＋ し、Thể thường ＋ し、～",
       "parts": [
         {
-          "label": "Thể thường",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể thường",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "し、Thể thường",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Vừa ～ , vừa ～"
+          "token": "し、Thể thường",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Vừa ～ , vừa ～"
         },
         {
-          "label": "し、～",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Vừa ～ , vừa ～"
+          "token": "し、～",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Vừa ～ , vừa ～"
         }
       ],
       "tip": "Có thể sử dụng để đưa ra những lý do cho một phán đoán, đánh giá nào đó."
@@ -1690,12 +1690,12 @@
       "formula": "Thể thường ＋ と思 う",
       "parts": [
         {
-          "label": "Thể thường",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể thường",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "と思 う",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Tôi nghĩ là ～"
+          "token": "と思 う",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Tôi nghĩ là ～"
         }
       ],
       "tip": "Tuy nhiên, không thể dùng để nói về cảm xúc, điều bản thân thích hay ghét."
@@ -1715,8 +1715,8 @@
       "formula": "「～んです」",
       "parts": [
         {
-          "label": "「～んです」",
-          "desc": "「～んです」"
+          "token": "「～んです」",
+          "role": "「～んです」"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -1939,8 +1939,8 @@
       "formula": "「～んです」",
       "parts": [
         {
-          "label": "「～んです」",
-          "desc": "Dùng khi lần đầu bộc bạch về những thông tin liên quan đến bản thân."
+          "token": "「～んです」",
+          "role": "Dùng khi lần đầu bộc bạch về những thông tin liên quan đến bản thân."
         }
       ],
       "tip": "Thường được kết hợp với「実 は」."
@@ -2114,8 +2114,8 @@
       "formula": "「～んです」",
       "parts": [
         {
-          "label": "「～んです」",
-          "desc": "Dùng ở vế trình bày tình hình, hoàn cảnh trong câu hỏi, xin phép, mời rủ."
+          "token": "「～んです」",
+          "role": "Dùng ở vế trình bày tình hình, hoàn cảnh trong câu hỏi, xin phép, mời rủ."
         }
       ],
       "tip": "「～んですが、～」sẽ đọc hạ giọng xuống."
@@ -2258,8 +2258,8 @@
       "formula": "「～んですか」 （１）",
       "parts": [
         {
-          "label": "「～んですか」 （１）",
-          "desc": "Dùng để hỏi, khơi gợi thông tin chi tiết nào đó của người nghe."
+          "token": "「～んですか」 （１）",
+          "role": "Dùng để hỏi, khơi gợi thông tin chi tiết nào đó của người nghe."
         }
       ],
       "tip": "Khi hỏi về sở thích, suy nghĩ... thì không sử dụng「～んですか」."
@@ -2370,8 +2370,8 @@
       "formula": "「～んです（か）」 （2）",
       "parts": [
         {
-          "label": "「～んです（か）」 （2）",
-          "desc": "Dùng để hỏi chi tiết về chủ đề được nêu ra trong cuộc nói chuyện."
+          "token": "「～んです（か）」 （2）",
+          "role": "Dùng để hỏi chi tiết về chủ đề được nêu ra trong cuộc nói chuyện."
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -2502,8 +2502,8 @@
       "formula": "「～んです（か）」 （3）",
       "parts": [
         {
-          "label": "「～んです（か）」 （3）",
-          "desc": "Dùng để hỏi chi tiết về sự vật, sự việc đang xảy ra trước mắt."
+          "token": "「～んです（か）」 （3）",
+          "role": "Dùng để hỏi chi tiết về sự vật, sự việc đang xảy ra trước mắt."
         }
       ],
       "tip": "Thường đi cùng những từ để hỏi như:「何 」「いつ」「どこ」「どうして」「どうやって」"
@@ -2667,8 +2667,8 @@
       "formula": "(Số từ) も〜",
       "parts": [
         {
-          "label": "(Số từ) も〜",
-          "desc": "Dùng khi muốn diễn đạt số lượng nhiều. *「Số tiền も＋する」: tốn bao nhiêu tiền *「Nhiệt độ も＋ある」: nhiệt độ lên đến mức bao nhiêu độ"
+          "token": "(Số từ) も〜",
+          "role": "Dùng khi muốn diễn đạt số lượng nhiều. *「Số tiền も＋する」: tốn bao nhiêu tiền *「Nhiệt độ も＋ある」: nhiệt độ lên đến mức bao nhiêu độ"
         }
       ],
       "tip": "～んです Dùng khi lần đầu bộc bạch về những thông tin liên quan đến bản thân."
@@ -2785,24 +2785,24 @@
       "formula": "( ＋ ) A い /A な ＋ そう ( ー ) A いく ＋ なさそう A なでは / じゃ ＋ なさそう",
       "parts": [
         {
-          "label": "(",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "(",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": ") A い /A な",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Trông có vẻ ～ /  人 じゃなさそう； 覚 える → 覚 えなさそう"
+          "token": ") A い /A な",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Trông có vẻ ～ /  人 じゃなさそう； 覚 える → 覚 えなさそう"
         },
         {
-          "label": "そう ( ー ) A いく",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Trông có vẻ ～ /  人 じゃなさそう； 覚 える → 覚 えなさそう"
+          "token": "そう ( ー ) A いく",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Trông có vẻ ～ /  人 じゃなさそう； 覚 える → 覚 えなさそう"
         },
         {
-          "label": "なさそう A なでは / じゃ",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Trông có vẻ ～ /  人 じゃなさそう； 覚 える → 覚 えなさそう"
+          "token": "なさそう A なでは / じゃ",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Trông có vẻ ～ /  人 じゃなさそう； 覚 える → 覚 えなさそう"
         },
         {
-          "label": "なさそう",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Trông có vẻ ～ /  人 じゃなさそう； 覚 える → 覚 えなさそう"
+          "token": "なさそう",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Trông có vẻ ～ /  人 じゃなさそう； 覚 える → 覚 えなさそう"
         }
       ],
       "tip": "Tính từ「いい」khi kết hợp với「そう」:だだ （＋）いい → よさそう （ー）よくない → よくなさそう"
@@ -2908,12 +2908,12 @@
       "formula": "V ます ＋ そう",
       "parts": [
         {
-          "label": "V ます",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V ます",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "そう",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Sắp V đến nơi ～ / 明 し た 日のイベントには、人 がたくさん来 なさそうです。 / 明 し た 日のイベントには、人 がたくさん来 そうに ( も ) ありません。 / 明 し た 日の で、勝 てなさそうです。 / 明 し た 日の で、勝 てそうに ( も ) ありません。"
+          "token": "そう",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Sắp V đến nơi ～ / 明 し た 日のイベントには、人 がたくさん来 なさそうです。 / 明 し た 日のイベントには、人 がたくさん来 そうに ( も ) ありません。 / 明 し た 日の で、勝 てなさそうです。 / 明 し た 日の で、勝 てそうに ( も ) ありません。"
         }
       ],
       "tip": "Cách nói này chỉ kết hợp cùng Động từ vô ý chí như: 落 ちる、取 れる、勝 つ、負 ける、生 まれる、倒 れる、... ～ます ～そう ～そうだね ～そうです ～そうな N なくなります なくなりそう なくなりそうだね なくなりそうです なくなりそうな 負 けます 負 けそう 負 けそうだね 負 けそうです 負 けそうな 止 まります 止 まりそう 止 まりそうだね 止 まりそうです 止 まりそうな車ま"
@@ -2933,20 +2933,20 @@
       "formula": "( ＋ ) V ます ＋ そう ( ー ) V ない ＋ な（さ）そう",
       "parts": [
         {
-          "label": "(",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "(",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": ") V ます",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Có khả năng là"
+          "token": ") V ます",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Có khả năng là"
         },
         {
-          "label": "そう ( ー ) V ない",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Có khả năng là"
+          "token": "そう ( ー ) V ない",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Có khả năng là"
         },
         {
-          "label": "な（さ）そう",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Có khả năng là"
+          "token": "な（さ）そう",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Có khả năng là"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -2966,12 +2966,12 @@
       "formula": "A いく / A な に / N に ＋ V",
       "parts": [
         {
-          "label": "A いく / A な に / N に",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "A いく / A な に / N に",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "V",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: A いく / A な に / N に ＋ V"
+          "token": "V",
+          "role": "Cụm ngữ pháp chính mang nghĩa: A いく / A な に / N に ＋ V"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -3119,12 +3119,12 @@
       "formula": "A いく / A な に / N に ＋ する",
       "parts": [
         {
-          "label": "A いく / A な に / N に",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "A いく / A な に / N に",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "する",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Làm cho A/ N lên"
+          "token": "する",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Làm cho A/ N lên"
         }
       ],
       "tip": "A và N đứng trước V là các từ chỉ trạng thái sau khi thay đổi của sự vật, sự việc. A い：大 きい、小 さい ＋ く A な：きれい ＋ に N：二 つ、ん 、１０度 ＋ に"
@@ -3250,12 +3250,12 @@
       "formula": "A いく / A な に / N に ＋ なる",
       "parts": [
         {
-          "label": "A いく / A な に / N に",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "A いく / A な に / N に",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "なる",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Trở nên ～ / trở thành ～"
+          "token": "なる",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Trở nên ～ / trở thành ～"
         }
       ],
       "tip": "Ngoài ra,「N に＋なる」được dùng để diễn tả sự thay đổi về mặt chức vụ, thân phận, vị trí… của ai đó."
@@ -3350,8 +3350,8 @@
       "formula": "（N は）〜を V 他",
       "parts": [
         {
-          "label": "（N は）〜を V 他",
-          "desc": "Tha động từ là từ chỉ hành động, động tác của một chủ thể tác động lên đối tượng khác như: 買 う、食 べる、読 む、運 ぶ、持 つ、使 う、..."
+          "token": "（N は）〜を V 他",
+          "role": "Tha động từ là từ chỉ hành động, động tác của một chủ thể tác động lên đối tượng khác như: 買 う、食 べる、読 む、運 ぶ、持 つ、使 う、..."
         }
       ],
       "tip": "Trước Tha động từ là trợ từ「を」."
@@ -3425,8 +3425,8 @@
       "formula": "V 自 - Tự động từ ❶ Diễn tả sự thay đổi, dịch chuyển của chính đối tượng mà không chịu sự ảnh hưởng từ chủ thể nào. いる / ある、帰 る、行 く、来 る、寝 る、 する、痩 せる、太 る、咲 く ...",
       "parts": [
         {
-          "label": "V 自 - Tự động từ ❶ Diễn tả sự thay đổi, dịch chuyển của chính đối tượng mà không chịu sự ảnh hưởng từ chủ thể nào. いる / ある、帰 る、行 く、来 る、寝 る、 する、痩 せる、太 る、咲 く ...",
-          "desc": "Trợ từ đứng trước nó thay đổi tuỳ theo động từ."
+          "token": "V 自 - Tự động từ ❶ Diễn tả sự thay đổi, dịch chuyển của chính đối tượng mà không chịu sự ảnh hưởng từ chủ thể nào. いる / ある、帰 る、行 く、来 る、寝 る、 する、痩 せる、太 る、咲 く ...",
+          "role": "Trợ từ đứng trước nó thay đổi tuỳ theo động từ."
         }
       ],
       "tip": "Một vài Tự động từ thể hiện trạng thái di chuyển trong một địa điểm/ lộ trình nào đó, thì sẽ đi kèm trợ từ「を」."
@@ -3546,8 +3546,8 @@
       "formula": "N ( が ) V 自 - Tự động từ ❷・Tự Động từ còn được sử dụng khi muốn nhấn mạnh việc gì đó đang diễn ra, không cần quan tâm ai thực hiện hành động; hoặc khi người nói chỉ muốn nhấn mạnh vào trạng thái của 1 đối tượng nào đó.",
       "parts": [
         {
-          "label": "N ( が ) V 自 - Tự động từ ❷・Tự Động từ còn được sử dụng khi muốn nhấn mạnh việc gì đó đang diễn ra, không cần quan tâm ai thực hiện hành động; hoặc khi người nói chỉ muốn nhấn mạnh vào trạng thái của 1 đối tượng nào đó.",
-          "desc": "Đứng trước nó chủ yếu là trợ từ「が」."
+          "token": "N ( が ) V 自 - Tự động từ ❷・Tự Động từ còn được sử dụng khi muốn nhấn mạnh việc gì đó đang diễn ra, không cần quan tâm ai thực hiện hành động; hoặc khi người nói chỉ muốn nhấn mạnh vào trạng thái của 1 đối tượng nào đó.",
+          "role": "Đứng trước nó chủ yếu là trợ từ「が」."
         }
       ],
       "tip": "Cách sử dụng: Chúng ta có thể chia về quá khứ V た khi mới xảy ra, hoặc thể V ている khi đã xảy ra được một lúc lâu."
@@ -3745,12 +3745,12 @@
       "formula": "N が ＋ V 他 ある",
       "parts": [
         {
-          "label": "N が",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "N が",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "V 他 ある",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Dùng để diễn tả trạng thái kết quả của hành động nào đó. Có ai đó đã l"
+          "token": "V 他 ある",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Dùng để diễn tả trạng thái kết quả của hành động nào đó. Có ai đó đã l"
         }
       ],
       "tip": "Chỉ có Tha động từ thể hiện sự thay đổi, trạng thái của đối tượng như 置 く、 開 ける、作 る、買 う、書 く、出 す ... mới có thể kết hợp cùng「～てある」."
@@ -3965,12 +3965,12 @@
       "formula": "N を ＋ V 他る",
       "parts": [
         {
-          "label": "N を",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "N を",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "V 他る",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: N đã được V sẵn ～ Phân biệt về mặt ý nghĩa V てある (trạng thái) và V てある (làm sẵn) V てある (trạng thái) V てある (làm sẵn)"
+          "token": "V 他る",
+          "role": "Cụm ngữ pháp chính mang nghĩa: N đã được V sẵn ～ Phân biệt về mặt ý nghĩa V てある (trạng thái) và V てある (làm sẵn) V てある (trạng thái) V てある (làm sẵn)"
         }
       ],
       "tip": "Thông thường, phía sau đối tượng tác động không phải trợ từ「が」mà là trợ từ 「を」."
@@ -4030,8 +4030,8 @@
       "formula": "Cách tạo mệnh đề Bổ nghĩa cho Danh từ vốn làm Tân ngữ (1) （私 は） ベトナムからコーヒーフィルターを持 ってきました。 ( 私 が ) ベトナムから持 ってきた コーヒーフィルター これは MDBNDT N です。",
       "parts": [
         {
-          "label": "Cách tạo mệnh đề Bổ nghĩa cho Danh từ vốn làm Tân ngữ (1) （私 は） ベトナムからコーヒーフィルターを持 ってきました。 ( 私 が ) ベトナムから持 ってきた コーヒーフィルター これは MDBNDT N です。",
-          "desc": "Mẫu ngữ pháp Cách tạo mệnh đề Bổ nghĩa cho Danh từ vốn làm Tân ngữ (1) （私 は） ベトナムからコーヒーフィルターを持 ってきました。 ( 私 が ) ベトナムから持 ってきた コーヒーフィルター これは MDBNDT N です。 mang nghĩa \"これは さんが で買 った本 です。 (Chủ thể) が ( ～で / から / と / に )「～する」＋ (Danh từ)\"."
+          "token": "Cách tạo mệnh đề Bổ nghĩa cho Danh từ vốn làm Tân ngữ (1) （私 は） ベトナムからコーヒーフィルターを持 ってきました。 ( 私 が ) ベトナムから持 ってきた コーヒーフィルター これは MDBNDT N です。",
+          "role": "Mẫu ngữ pháp Cách tạo mệnh đề Bổ nghĩa cho Danh từ vốn làm Tân ngữ (1) （私 は） ベトナムからコーヒーフィルターを持 ってきました。 ( 私 が ) ベトナムから持 ってきた コーヒーフィルター これは MDBNDT N です。 mang nghĩa \"これは さんが で買 った本 です。 (Chủ thể) が ( ～で / から / と / に )「～する」＋ (Danh từ)\"."
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -4224,8 +4224,8 @@
       "formula": "Cách tạo mệnh đề Bổ nghĩa cho Danh từ (2)",
       "parts": [
         {
-          "label": "Cách tạo mệnh đề Bổ nghĩa cho Danh từ (2)",
-          "desc": "Tạo MĐBNDT cho Danh từ vốn làm Chủ ngữ trong câu:"
+          "token": "Cách tạo mệnh đề Bổ nghĩa cho Danh từ (2)",
+          "role": "Tạo MĐBNDT cho Danh từ vốn làm Chủ ngữ trong câu:"
         }
       ],
       "tip": "MDBNDT trong trường hợp này thường có cấu trúc như sau: ( ～で / から / と / に ) (Đối tượng tác động )「を」「～する」＋ (Chủ thể)  語 を  している   できた ビル ( ～に )「ある / いる」＋ (Chủ thể)  さんの横 に いる  前 に ある レストラン (Một bộ phận của chủ thể) 「が / に」＋ (Tính từ) ＋ (Chủ thể) 髪 が 長 い  に いい 飲 み物の"
@@ -4296,8 +4296,8 @@
       "formula": "Cách tạo mệnh đề Bổ nghĩa cho Danh từ (3)",
       "parts": [
         {
-          "label": "Cách tạo mệnh đề Bổ nghĩa cho Danh từ (3)",
-          "desc": "Ngoài những danh từ đóng vai trò Chủ ngữ, Tân ngữ trong câu, chúng ta còn có thể đưa một danh từ bất kỳ trong câu xuống cuối, và để các phần giải thích chi tiết lên phía trước để tạo thành một Mệnh đề bổ nghĩa danh từ."
+          "token": "Cách tạo mệnh đề Bổ nghĩa cho Danh từ (3)",
+          "role": "Ngoài những danh từ đóng vai trò Chủ ngữ, Tân ngữ trong câu, chúng ta còn có thể đưa một danh từ bất kỳ trong câu xuống cuối, và để các phần giải thích chi tiết lên phía trước để tạo thành một Mệnh đề bổ nghĩa danh từ."
         }
       ],
       "tip": "MDBNDT trong trường hợp này thường có cấu trúc như sau: Chủ thể が ( ～を ) Động từ ＋ ( ～で / から / と / に ) Danh từ chung （私 が）  んだ ゲーム  さんが 行 った  供 が 生 まれた 日 (thể hiện con người/ địa điểm/ thời gian…)"
@@ -4487,8 +4487,8 @@
       "formula": "Mệnh đề bổ nghĩa danh từ (MĐBNDT)",
       "parts": [
         {
-          "label": "Mệnh đề bổ nghĩa danh từ (MĐBNDT)",
-          "desc": "Mệnh đề đứng trước danh từ để giải thích tính chất, trạng thái, nội dung hoặc trang phục của danh từ đó."
+          "token": "Mệnh đề bổ nghĩa danh từ (MĐBNDT)",
+          "role": "Mệnh đề đứng trước danh từ để giải thích tính chất, trạng thái, nội dung hoặc trang phục của danh từ đó."
         }
       ],
       "tip": "MĐBNDT đóng vai trò Chủ ngữ trong câu."
@@ -4508,12 +4508,12 @@
       "formula": "～声え / 音と / におい / 味じ / 感 じ ＋ がする",
       "parts": [
         {
-          "label": "～声え / 音と / におい / 味じ / 感 じ",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "～声え / 音と / におい / 味じ / 感 じ",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "がする",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: ～声え / 音と / におい / 味じ / 感 じ ＋ がする"
+          "token": "がする",
+          "role": "Cụm ngữ pháp chính mang nghĩa: ～声え / 音と / におい / 味じ / 感 じ ＋ がする"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -4678,8 +4678,8 @@
       "formula": "（人 に）～が見 える / 聞 こえる",
       "parts": [
         {
-          "label": "（人 に）～が見 える / 聞 こえる",
-          "desc": "Động từ thể khả năng. Cần có điều kiện cụ thể mới có thể nhìn thấy, nghe thấy."
+          "token": "（人 に）～が見 える / 聞 こえる",
+          "role": "Động từ thể khả năng. Cần có điều kiện cụ thể mới có thể nhìn thấy, nghe thấy."
         }
       ],
       "tip": "Động từ tri giác Nhìn thấy hoặc nghe thấy một cách tự nhiên từ môi trường xung quanh mà không cần cố gắng hoặc có chủ đích."
@@ -4699,12 +4699,12 @@
       "formula": "N が ＋ わかる",
       "parts": [
         {
-          "label": "N が",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "N が",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "わかる",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: N が ＋ わかる"
+          "token": "わかる",
+          "role": "Cụm ngữ pháp chính mang nghĩa: N が ＋ わかる"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -4847,16 +4847,16 @@
       "formula": "V る ＋ の ＋ が A【 い /  て / 速 い / 遅 い /...】",
       "parts": [
         {
-          "label": "V る",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "の",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Làm V giỏi/ kém/ nhanh/ chậm ～"
+          "token": "の",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Làm V giỏi/ kém/ nhanh/ chậm ～"
         },
         {
-          "label": "が A【 い /  て / 速 い / 遅 い /...】",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Làm V giỏi/ kém/ nhanh/ chậm ～"
+          "token": "が A【 い /  て / 速 い / 遅 い /...】",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Làm V giỏi/ kém/ nhanh/ chậm ～"
         }
       ],
       "tip": "Thường đi cùng những tính từ thể hiện : + Cảm xúc: 好 き / 嫌 い ... + Đánh giá, nhận xét:  い /  て /  ず /  た / 速 い / 遅 い ..."
@@ -5100,16 +5100,16 @@
       "formula": "Thể thường （A な /N）な ］＋ の ＋ は、～だ",
       "parts": [
         {
-          "label": "Thể thường （A な /N）な ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể thường （A な /N）な ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "の",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Dùng để nhấn mạnh hoặc chỉnh sửa lại lý do, nguyên nhân của một sự việ"
+          "token": "の",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Dùng để nhấn mạnh hoặc chỉnh sửa lại lý do, nguyên nhân của một sự việ"
         },
         {
-          "label": "は、～だ",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Dùng để nhấn mạnh hoặc chỉnh sửa lại lý do, nguyên nhân của một sự việ"
+          "token": "は、～だ",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Dùng để nhấn mạnh hoặc chỉnh sửa lại lý do, nguyên nhân của một sự việ"
         }
       ],
       "tip": "「から」biểu thị nguyên nhân, lý do và hoạt động như một Danh từ."
@@ -5129,16 +5129,16 @@
       "formula": "Thể thường （A な /N）な ］＋ の ＋ は、～からだ",
       "parts": [
         {
-          "label": "Thể thường （A な /N）な ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể thường （A な /N）な ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "の",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Thể thường （A な /N）な ］＋ の ＋ は、～からだ"
+          "token": "の",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Thể thường （A な /N）な ］＋ の ＋ は、～からだ"
         },
         {
-          "label": "は、～からだ",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Thể thường （A な /N）な ］＋ の ＋ は、～からだ"
+          "token": "は、～からだ",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Thể thường （A な /N）な ］＋ の ＋ は、～からだ"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -5158,16 +5158,16 @@
       "formula": "Thể thường （A な /N）な ］＋ の ＋ を知 っています（か）",
       "parts": [
         {
-          "label": "Thể thường （A な /N）な ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể thường （A な /N）な ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "の",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Biết về ～ (hay không?)"
+          "token": "の",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Biết về ～ (hay không?)"
         },
         {
-          "label": "を知 っています（か）",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Biết về ～ (hay không?)"
+          "token": "を知 っています（か）",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Biết về ～ (hay không?)"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -5350,16 +5350,16 @@
       "formula": "V(thể thường) ＋ の＋を見 る / 聞 く",
       "parts": [
         {
-          "label": "V(thể thường)",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V(thể thường)",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "の",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Nhìn thấy/ nghe thấy ～ (sự việc nào đó)"
+          "token": "の",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Nhìn thấy/ nghe thấy ～ (sự việc nào đó)"
         },
         {
-          "label": "を見 る / 聞 く",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Nhìn thấy/ nghe thấy ～ (sự việc nào đó)"
+          "token": "を見 る / 聞 く",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Nhìn thấy/ nghe thấy ～ (sự việc nào đó)"
         }
       ],
       "tip": "Trong trường hợp tự nhiên nghe thấy âm thanh hoặc nhìn thấy hình ảnh nào đó, ta sẽ sử dụng cấu trúc:「～のが見 える / 聞 こえる」"
@@ -5381,16 +5381,16 @@
       "formula": "V る + の ＋ を忘 れる / やめる / あきらめる",
       "parts": [
         {
-          "label": "V る",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "の",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Trước「の」, Động từ sẽ để ở thể Từ điển. / Quên/ dừng/ từ bỏ V"
+          "token": "の",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Trước「の」, Động từ sẽ để ở thể Từ điển. / Quên/ dừng/ từ bỏ V"
         },
         {
-          "label": "を忘 れる / やめる / あきらめる",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Trước「の」, Động từ sẽ để ở thể Từ điển. / Quên/ dừng/ từ bỏ V"
+          "token": "を忘 れる / やめる / あきらめる",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Trước「の」, Động từ sẽ để ở thể Từ điển. / Quên/ dừng/ từ bỏ V"
         }
       ],
       "tip": "Trong văn nói, trợ từ「を」đứng sau「の」thường được lược bỏ."
@@ -5519,8 +5519,8 @@
       "formula": " 形 (Thể Mệnh lệnh)",
       "parts": [
         {
-          "label": " 形 (Thể Mệnh lệnh)",
-          "desc": "Thể Mệnh lệnh là cách nói truyền đạt nội dung nhanh chóng nên thường dùng trong các trường hợp : + Trong công việc đòi hỏi tốc độ, thể lực, hoặc có tính chất nguy hiểm. + Khi cổ vũ thể thao. + Những bối cảnh nguy cấp như thiên tai, tai nạn... + Cấp trên với cấp dưới, nam giới với nhau."
+          "token": " 形 (Thể Mệnh lệnh)",
+          "role": "Thể Mệnh lệnh là cách nói truyền đạt nội dung nhanh chóng nên thường dùng trong các trường hợp : + Trong công việc đòi hỏi tốc độ, thể lực, hoặc có tính chất nguy hiểm. + Khi cổ vũ thể thao. + Những bối cảnh nguy cấp như thiên tai, tai nạn... + Cấp trên với cấp dưới, nam giới với nhau."
         }
       ],
       "tip": "Thêm「よ」ở cuối câu để làm dịu ngữ điệu câu văn."
@@ -5712,12 +5712,12 @@
       "formula": "V る + な",
       "parts": [
         {
-          "label": "V る",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "な",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: 「V る＋な」được gọi là Thể Cấm đoán, sử dụng khi đưa ra lời ngăn cấm người"
+          "token": "な",
+          "role": "Cụm ngữ pháp chính mang nghĩa: 「V る＋な」được gọi là Thể Cấm đoán, sử dụng khi đưa ra lời ngăn cấm người"
         }
       ],
       "tip": "Thường được sử dụng trong trường hợp: + Trong công việc đòi hỏi tốc độ, thể lực, có tính chất nguy hiểm. + Khi cổ vũ thể thao. + Những bối cảnh nguy cấp như thiên tai, tai nạn... + Cấp trên với cấp dưới, nam giới với nhau. + Trong các biển cấm, biển cảnh báo."
@@ -6016,12 +6016,12 @@
       "formula": "Thể Mệnh lệnh Thể Cấm đoán Thể Thường Danh từ ＋ と 書 いてある 読 む 言 う",
       "parts": [
         {
-          "label": "Thể Mệnh lệnh Thể Cấm đoán Thể Thường Danh từ",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể Mệnh lệnh Thể Cấm đoán Thể Thường Danh từ",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "と 書 いてある 読 む 言 う",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: ～ được viết là ～ / đọc là ～ / nói là ～ （ N は）何 と 書 いてありますか 読 みますか 言 いますか （？） 「 」 / ～ có nghĩa là ～ どういう ですか（？）"
+          "token": "と 書 いてある 読 む 言 う",
+          "role": "Cụm ngữ pháp chính mang nghĩa: ～ được viết là ～ / đọc là ～ / nói là ～ （ N は）何 と 書 いてありますか 読 みますか 言 いますか （？） 「 」 / ～ có nghĩa là ～ どういう ですか（？）"
         }
       ],
       "tip": "Trong đó, phần trước「～という」sẽ là nội dung cần giải thích, làm rõ."
@@ -6145,8 +6145,8 @@
       "formula": "N って～",
       "parts": [
         {
-          "label": "N って～",
-          "desc": "Mẫu câu nêu ra chủ đề mà người nói quan tâm hoặc muốn hỏi đến."
+          "token": "N って～",
+          "role": "Mẫu câu nêu ra chủ đề mà người nói quan tâm hoặc muốn hỏi đến."
         }
       ],
       "tip": "Cách nói「N は あ る？ / あ り ま す か。」thường được dùng khi cả người nói và người nghe đều biết đến đồ vật được nhắc tới. Trường hợp hỏi về 1 thông tin mới, 1 món đồ mới thì dùng「は」sẽ không tự nhiên bằng「って」."
@@ -6339,16 +6339,16 @@
       "formula": "Thể Mệnh lệnh Thể Cấm đoán Thể Thường Danh từ ＋って＋ 言 う 書 いてある 読 む",
       "parts": [
         {
-          "label": "Thể Mệnh lệnh Thể Cấm đoán Thể Thường Danh từ",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể Mệnh lệnh Thể Cấm đoán Thể Thường Danh từ",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "って",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: ～ (được) nói là ～ / viết là ～ / đọc là ～ （ N って）何 て ＋んですか。 言 う 書 いてある 読 む （？） ❶ / ～ có nghĩa là ～ ❷ ＋ って＋（いう） み Thể Mệnh lệnh Thể Cấm đoán Thể Thường Danh từ"
+          "token": "って",
+          "role": "Cụm ngữ pháp chính mang nghĩa: ～ (được) nói là ～ / viết là ～ / đọc là ～ （ N って）何 て ＋んですか。 言 う 書 いてある 読 む （？） ❶ / ～ có nghĩa là ～ ❷ ＋ って＋（いう） み Thể Mệnh lệnh Thể Cấm đoán Thể Thường Danh từ"
         },
         {
-          "label": "言 う 書 いてある 読 む",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: ～ (được) nói là ～ / viết là ～ / đọc là ～ （ N って）何 て ＋んですか。 言 う 書 いてある 読 む （？） ❶ / ～ có nghĩa là ～ ❷ ＋ って＋（いう） み Thể Mệnh lệnh Thể Cấm đoán Thể Thường Danh từ"
+          "token": "言 う 書 いてある 読 む",
+          "role": "Cụm ngữ pháp chính mang nghĩa: ～ (được) nói là ～ / viết là ～ / đọc là ～ （ N って）何 て ＋んですか。 言 う 書 いてある 読 む （？） ❶ / ～ có nghĩa là ～ ❷ ＋ って＋（いう） み Thể Mệnh lệnh Thể Cấm đoán Thể Thường Danh từ"
         }
       ],
       "tip": "Trong đó,「〜という 」có thể rút gọn thành:「〜っていう み / って 」"
@@ -6504,8 +6504,8 @@
       "formula": "A は / が B に / から N をもらう ( △ ) cách nói không tự nhiên trong tiếng Nhật",
       "parts": [
         {
-          "label": "A は / が B に / から N をもらう ( △ ) cách nói không tự nhiên trong tiếng Nhật",
-          "desc": "「いただく」là cách nói lịch sự của「もらう」"
+          "token": "A は / が B に / から N をもらう ( △ ) cách nói không tự nhiên trong tiếng Nhật",
+          "role": "「いただく」là cách nói lịch sự của「もらう」"
         }
       ],
       "tip": "Sử dụng khi bản thân, hoặc những người thân cận với mình nhận được thứ gì từ người bề trên (cấp trên, giáo viên, khách hàng, ...)."
@@ -6733,8 +6733,8 @@
       "formula": "A は / が B に N を いただく",
       "parts": [
         {
-          "label": "A は / が B に N を いただく",
-          "desc": "A là người nhận, được biểu thị bởi trợ từ「が / は」 (A thường là người nói nên phần lớn được lược bỏ)"
+          "token": "A は / が B に N を いただく",
+          "role": "A là người nhận, được biểu thị bởi trợ từ「が / は」 (A thường là người nói nên phần lớn được lược bỏ)"
         }
       ],
       "tip": "B là người thực hiện hành động, được biểu thị bởi trợ từ「に / から」"
@@ -6754,12 +6754,12 @@
       "formula": "A は / が B に / から V て＋もらう",
       "parts": [
         {
-          "label": "A は / が B に / から V て",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "A は / が B に / から V て",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "もらう",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: A は / が B に / から V て＋もらう"
+          "token": "もらう",
+          "role": "Cụm ngữ pháp chính mang nghĩa: A は / が B に / から V て＋もらう"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -6779,12 +6779,12 @@
       "formula": "A は / が B に / から V て＋いただく",
       "parts": [
         {
-          "label": "A は / が B に / から V て",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "A は / が B に / から V て",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "いただく",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: A は / が B に / から V て＋いただく"
+          "token": "いただく",
+          "role": "Cụm ngữ pháp chính mang nghĩa: A は / が B に / から V て＋いただく"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -6955,12 +6955,12 @@
       "formula": "V て＋ ［ もらえませんか。 いただけませんか。",
       "parts": [
         {
-          "label": "V て",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V て",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "［ もらえませんか。 いただけませんか。",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Người Nhật không sử dụng cách nói: 「～ていただきませんか」;「～てもらいませんか」 ❶ Diễn tả "
+          "token": "［ もらえませんか。 いただけませんか。",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Người Nhật không sử dụng cách nói: 「～ていただきませんか」;「～てもらいませんか」 ❶ Diễn tả "
         }
       ],
       "tip": "Người có nguyện vọng, biểu thị bởi trợ từ:「は / が」"
@@ -7252,12 +7252,12 @@
       "formula": "V て ＋ ほしい",
       "parts": [
         {
-          "label": "V て",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V て",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ほしい",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Bạn có thể V cho tôi không? A が B に N を＋ ［貸 す 教 える 預 ける ... / B が A に / から N を＋ ［借 りる 教 わる 預 かる ... 貸 します (cho vay, cho mượn) V てくれる？もらえる？ 借 ります (vay, mượn) V てもいい？ 教 えます (dạy) 人 に 何 かを教 える 教 わります (được dạy) 人 から（に）何 かを教 わる 預 けます (gửi ～ trông giữ hộ) V 預 けてもいい？ 預 かります (trông giữ, trông nom) 預 かっていただけませんか"
+          "token": "ほしい",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Bạn có thể V cho tôi không? A が B に N を＋ ［貸 す 教 える 預 ける ... / B が A に / から N を＋ ［借 りる 教 わる 預 かる ... 貸 します (cho vay, cho mượn) V てくれる？もらえる？ 借 ります (vay, mượn) V てもいい？ 教 えます (dạy) 人 に 何 かを教 える 教 わります (được dạy) 人 から（に）何 かを教 わる 預 けます (gửi ～ trông giữ hộ) V 預 けてもいい？ 預 かります (trông giữ, trông nom) 預 かっていただけませんか"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -7481,8 +7481,8 @@
       "formula": " 形 (Thể bị động) Nhóm 1 _imasu → _aremasu Nhóm 2 _masu → _raremasu Nhóm 3 押 します → 押 されます 建 てます → 建 てられます します → されます かみます → かまれます * います → いられます 来 ます → 来 られます 踏 みます → 踏 まれます * 起 きます → 起 きられます  します →  されます",
       "parts": [
         {
-          "label": " 形 (Thể bị động) Nhóm 1 _imasu → _aremasu Nhóm 2 _masu → _raremasu Nhóm 3 押 します → 押 されます 建 てます → 建 てられます します → されます かみます → かまれます * います → いられます 来 ます → 来 られます 踏 みます → 踏 まれます * 起 きます → 起 きられます  します →  されます",
-          "desc": "B là người nhận hành động đứng sau trợ từ「は」/「が」"
+          "token": " 形 (Thể bị động) Nhóm 1 _imasu → _aremasu Nhóm 2 _masu → _raremasu Nhóm 3 押 します → 押 されます 建 てます → 建 てられます します → されます かみます → かまれます * います → いられます 来 ます → 来 られます 踏 みます → 踏 まれます * 起 きます → 起 きられます  します →  されます",
+          "role": "B là người nhận hành động đứng sau trợ từ「は」/「が」"
         }
       ],
       "tip": "A là người thực hiện hành động đứng sau trợ từ「に」"
@@ -7709,16 +7709,16 @@
       "formula": "V て、 N/ A な ＋ で、 A い ＋ くて、",
       "parts": [
         {
-          "label": "V て、 N/ A な",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V て、 N/ A な",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "で、 A い",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Vì ～ , bởi ～"
+          "token": "で、 A い",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Vì ～ , bởi ～"
         },
         {
-          "label": "くて、",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Vì ～ , bởi ～"
+          "token": "くて、",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Vì ～ , bởi ～"
         }
       ],
       "tip": "Khi muốn nói nguyên nhân của sự việc là do không làm, không có, không phải một điều gì đó: V ないくて、～ N/A な ＋ じゃなくて、～ A いくない ＋ くて、～"
@@ -7930,12 +7930,12 @@
       "formula": "V1 て、 V1 ないで、］＋ V2",
       "parts": [
         {
-          "label": "V1 て、 V1 ないで、］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V1 て、 V1 ないで、］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "V2",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Không V1 mà V2 / Vừa V1 , vừa V2"
+          "token": "V2",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Không V1 mà V2 / Vừa V1 , vừa V2"
         }
       ],
       "tip": "Diễn tả một người đang làm việc này lại đồng thời làm việc khác. Hành động sau mới là hành động chính."
@@ -8134,12 +8134,12 @@
       "formula": "( ～が ) V ます ＋ やすい / にくい ❶",
       "parts": [
         {
-          "label": "( ～が ) V ます",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "( ～が ) V ます",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "やすい / にくい ❶",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Dễ/ khó V 〜て 〜た 〜くなる やすくて やすかった やすくなる にくくて にくかった にくくなる"
+          "token": "やすい / にくい ❶",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Dễ/ khó V 〜て 〜た 〜くなる やすくて やすかった やすくなる にくくて にくかった にくくなる"
         }
       ],
       "tip": "Hoàn cảnh xung quanh hoặc sự vật, sự việc đang trong điều kiện, trạng thái tốt/ xấu."
@@ -8271,12 +8271,12 @@
       "formula": "( ～が ) V ます ＋ やすい / にくい ❷",
       "parts": [
         {
-          "label": "( ～が ) V ます",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "( ～が ) V ます",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "やすい / にくい ❷",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Dễ/ khó V V ますやすい / にくい Dễ/ khó thao tác, hành động Sự việc dễ/ khó thay đổi, xảy ra Động từ thể hiện ý chí: 「持 つ」「使 う」「食 べる」「座 る」... Động từ diễn tả sự thay đổi, phát sinh: 「起 きる」「 を引 く」「乾 く」 / Quá A"
+          "token": "やすい / にくい ❷",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Dễ/ khó V V ますやすい / にくい Dễ/ khó thao tác, hành động Sự việc dễ/ khó thay đổi, xảy ra Động từ thể hiện ý chí: 「持 つ」「使 う」「食 べる」「座 る」... Động từ diễn tả sự thay đổi, phát sinh: 「起 きる」「 を引 く」「乾 く」 / Quá A"
         }
       ],
       "tip": "Bảng so sánh 2 nét nghĩa của V ます やすい / にくい"
@@ -8385,12 +8385,12 @@
       "formula": "A い A な ］＋ すぎる * Sustainable development goals: Mục tiêu phát triển bền vững",
       "parts": [
         {
-          "label": "A い A な ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "A い A な ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "すぎる * Sustainable development goals: Mục tiêu phát triển bền vững",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: A い A な ］＋ すぎる * Sustainable development goals: Mục tiêu phát triển bền vững"
+          "token": "すぎる * Sustainable development goals: Mục tiêu phát triển bền vững",
+          "role": "Cụm ngữ pháp chính mang nghĩa: A い A な ］＋ すぎる * Sustainable development goals: Mục tiêu phát triển bền vững"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -8457,12 +8457,12 @@
       "formula": "V ます ＋ すぎる",
       "parts": [
         {
-          "label": "V ます",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V ます",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "すぎる",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: V nhiều quá"
+          "token": "すぎる",
+          "role": "Cụm ngữ pháp chính mang nghĩa: V nhiều quá"
         }
       ],
       "tip": "Khi bỏ đuôi「る」thì「～すぎ」sẽ được coi như một cụm Danh từ."
@@ -8707,8 +8707,8 @@
       "formula": "N にする コーヒー ソーダ おレンジ ジュース ゃ",
       "parts": [
         {
-          "label": "N にする コーヒー ソーダ おレンジ ジュース ゃ",
-          "desc": "Diễn tả quyết định dựa trên ý chí của bản thân."
+          "token": "N にする コーヒー ソーダ おレンジ ジュース ゃ",
+          "role": "Diễn tả quyết định dựa trên ý chí của bản thân."
         }
       ],
       "tip": "「する」：biểu thị những việc mình quyết định tại thời điểm nói: “Quyết định sẽ ～ ”"
@@ -8919,12 +8919,12 @@
       "formula": "V る V ない ］＋ ことにする",
       "parts": [
         {
-          "label": "V る V ない ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る V ない ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ことにする",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Có quyết định ～ / Được quyết định là ～"
+          "token": "ことにする",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Có quyết định ～ / Được quyết định là ～"
         }
       ],
       "tip": "Thường được dùng với dạng「～ことになった」"
@@ -8944,12 +8944,12 @@
       "formula": "V る V ない ］＋ ことになる",
       "parts": [
         {
-          "label": "V る V ない ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る V ない ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ことになる",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Khi thông báo về quyết định hôn nhân, người Nhật thường nói: 「 すること"
+          "token": "ことになる",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Khi thông báo về quyết định hôn nhân, người Nhật thường nói: 「 すること"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -9206,16 +9206,16 @@
       "formula": "V る V ない ］＋ ようにする V る V ない ］＋ ようにしている",
       "parts": [
         {
-          "label": "V る V ない ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る V ない ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ようにする V る V ない ］",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Chỉ thị cho người khác cần nỗ lực làm gì hoặc chú ý vì một mục đích nà"
+          "token": "ようにする V る V ない ］",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Chỉ thị cho người khác cần nỗ lực làm gì hoặc chú ý vì một mục đích nà"
         },
         {
-          "label": "ようにしている",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Chỉ thị cho người khác cần nỗ lực làm gì hoặc chú ý vì một mục đích nà"
+          "token": "ようにしている",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Chỉ thị cho người khác cần nỗ lực làm gì hoặc chú ý vì một mục đích nà"
         }
       ],
       "tip": "Đối với bạn bè, người thân… mẫu câu có thể ở dạng: 「～ようにしてね」「～ようにね」"
@@ -9481,12 +9481,12 @@
       "formula": "V る V ない ］＋ ようにしてください",
       "parts": [
         {
-          "label": "V る V ない ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る V ない ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ようにしてください",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: (Xin) hãy cố gắng V/ không V"
+          "token": "ようにしてください",
+          "role": "Cụm ngữ pháp chính mang nghĩa: (Xin) hãy cố gắng V/ không V"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -9674,8 +9674,8 @@
       "formula": "V るようになる ❶ Bắt đầu V (có thói quen ～ ) : Sự thay đổi, hình thành của một thói quen mà trước đây không có. Vế trước là động từ mang tính ý chí. ❷ Bắt đầu có thể V: Sự thay đổi từ không thể thành có thể. Vế trước là động từ thể khả năng hoặc động từ thể hiện khả năng như「わかる」... .",
       "parts": [
         {
-          "label": "V るようになる ❶ Bắt đầu V (có thói quen ～ ) : Sự thay đổi, hình thành của một thói quen mà trước đây không có. Vế trước là động từ mang tính ý chí. ❷ Bắt đầu có thể V: Sự thay đổi từ không thể thành có thể. Vế trước là động từ thể khả năng hoặc động từ thể hiện khả năng như「わかる」... .",
-          "desc": "V るようになる ❶ Bắt đầu V (có thói quen ～ ) : Sự thay đổi, hình thành của một thói quen mà trước đây không có. Vế trước là động từ mang tính ý chí. ❷ Bắt đầu có thể V: Sự thay đổi từ không thể thành có thể. Vế trước là động từ thể khả năng hoặc động từ thể hiện khả năng như「わかる」... ."
+          "token": "V るようになる ❶ Bắt đầu V (có thói quen ～ ) : Sự thay đổi, hình thành của một thói quen mà trước đây không có. Vế trước là động từ mang tính ý chí. ❷ Bắt đầu có thể V: Sự thay đổi từ không thể thành có thể. Vế trước là động từ thể khả năng hoặc động từ thể hiện khả năng như「わかる」... .",
+          "role": "V るようになる ❶ Bắt đầu V (có thói quen ～ ) : Sự thay đổi, hình thành của một thói quen mà trước đây không có. Vế trước là động từ mang tính ý chí. ❷ Bắt đầu có thể V: Sự thay đổi từ không thể thành có thể. Vế trước là động từ thể khả năng hoặc động từ thể hiện khả năng như「わかる」... ."
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -9695,12 +9695,12 @@
       "formula": "V ないく ＋ なる ❶ Mất đi (thói quen) V: Diễn tả một thói quen đã từng có nhưng bây giờ không làm nữa. ❷ Không còn V được nữa: Diễn tả sự thay đổi từ tình trạng có thể sang không thể.",
       "parts": [
         {
-          "label": "V ないく",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V ないく",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "なる ❶ Mất đi (thói quen) V: Diễn tả một thói quen đã từng có nhưng bây giờ không làm nữa. ❷ Không còn V được nữa: Diễn tả sự thay đổi từ tình trạng có thể sang không thể.",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: V ないく ＋ なる ❶ Mất đi (thói quen) V: Diễn tả một thói quen đã từng có nhưng bây giờ không làm nữa. ❷ Không còn V được nữa: Diễn tả sự thay đổi từ tình trạng có thể sang không thể."
+          "token": "なる ❶ Mất đi (thói quen) V: Diễn tả một thói quen đã từng có nhưng bây giờ không làm nữa. ❷ Không còn V được nữa: Diễn tả sự thay đổi từ tình trạng có thể sang không thể.",
+          "role": "Cụm ngữ pháp chính mang nghĩa: V ないく ＋ なる ❶ Mất đi (thói quen) V: Diễn tả một thói quen đã từng có nhưng bây giờ không làm nữa. ❷ Không còn V được nữa: Diễn tả sự thay đổi từ tình trạng có thể sang không thể."
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -9965,12 +9965,12 @@
       "formula": "N の / V る ＋  です",
       "parts": [
         {
-          "label": "N の / V る",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "N の / V る",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": " です",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: không nên sử dụng cách nói này. / Định làm V/ không làm V"
+          "token": " です",
+          "role": "Cụm ngữ pháp chính mang nghĩa: không nên sử dụng cách nói này. / Định làm V/ không làm V"
         }
       ],
       "tip": "Sử dụng khi muốn nói về kế hoạch cá nhân."
@@ -10245,12 +10245,12 @@
       "formula": "V る / V ない ＋ つもり",
       "parts": [
         {
-          "label": "V る / V ない",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る / V ない",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "つもり",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Định làm V"
+          "token": "つもり",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Định làm V"
         }
       ],
       "tip": "「～つもりはない」bày tỏ ý chí mạnh mẽ, thể hiện bạn kiên quyết không làm điều gì."
@@ -10270,12 +10270,12 @@
       "formula": "V よう ＋ と思 っている",
       "parts": [
         {
-          "label": "V よう",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V よう",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "と思 っている",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: V よう ＋ と思 っている"
+          "token": "と思 っている",
+          "role": "Cụm ngữ pháp chính mang nghĩa: V よう ＋ と思 っている"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -10499,12 +10499,12 @@
       "formula": "V た / V ない ＋ ほうがいい",
       "parts": [
         {
-          "label": "V た / V ない",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V た / V ない",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ほうがいい",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Nên/ Không nên V / Khi thì V1 , khi thì V2 / Khi V1 thì V2 (bất ngờ xảy ra, nhận ra)"
+          "token": "ほうがいい",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Nên/ Không nên V / Khi thì V1 , khi thì V2 / Khi V1 thì V2 (bất ngờ xảy ra, nhận ra)"
         }
       ],
       "tip": "Ngoài ra, cách nói này cũng có thể dùng với mục đích đơn thuần đưa ra phương án lựa chọn cho đối phương, không có sắc thái tiêu cực."
@@ -10733,8 +10733,8 @@
       "formula": "（まだ）V ていない",
       "parts": [
         {
-          "label": "（まだ）V ていない",
-          "desc": "Dùng để diễn tả một sự việc nào đó chưa được tiến hành hoặc hoàn thành."
+          "token": "（まだ）V ていない",
+          "role": "Dùng để diễn tả một sự việc nào đó chưa được tiến hành hoặc hoàn thành."
         }
       ],
       "tip": "Thường được sử dụng cùng phó từ「まだ」"
@@ -10966,12 +10966,12 @@
       "formula": "V る ＋ ところ",
       "parts": [
         {
-          "label": "V る",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ところ",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Sắp/ chuẩn bị V"
+          "token": "ところ",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Sắp/ chuẩn bị V"
         }
       ],
       "tip": "Thường đi cùng các từ như:「ちょうど」「今 から」「これから」"
@@ -11213,16 +11213,16 @@
       "formula": "V ている /V た + ところ ❶ V ている ＋ ところ (Đúng vào lúc đang V)",
       "parts": [
         {
-          "label": "V ている /V た",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V ている /V た",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ところ ❶ V ている",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: 〇 今ま 、 語 の をしています。 / 〇 ん 、 しました。"
+          "token": "ところ ❶ V ている",
+          "role": "Cụm ngữ pháp chính mang nghĩa: 〇 今ま 、 語 の をしています。 / 〇 ん 、 しました。"
         },
         {
-          "label": "ところ (Đúng vào lúc đang V)",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: 〇 今ま 、 語 の をしています。 / 〇 ん 、 しました。"
+          "token": "ところ (Đúng vào lúc đang V)",
+          "role": "Cụm ngữ pháp chính mang nghĩa: 〇 今ま 、 語 の をしています。 / 〇 ん 、 しました。"
         }
       ],
       "tip": "Cách nói này thường đi cùng các từ như:「ちょうど」「今 」"
@@ -11377,12 +11377,12 @@
       "formula": "V ては V ちゃ / じゃ ］＋ いけない / だめ",
       "parts": [
         {
-          "label": "V ては V ちゃ / じゃ ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V ては V ちゃ / じゃ ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "いけない / だめ",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Phải V"
+          "token": "いけない / だめ",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Phải V"
         }
       ],
       "tip": "Trong văn nói,「なくては」thường được đổi thành「なくちゃ」và「いけない・だめだ」 có thể được lược bỏ."
@@ -11402,12 +11402,12 @@
       "formula": "V なくては V なくちゃ ］＋ いけない / だめ",
       "parts": [
         {
-          "label": "V なくては V なくちゃ ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V なくては V なくちゃ ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "いけない / だめ",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: V なくては V なくちゃ ］＋ いけない / だめ"
+          "token": "いけない / だめ",
+          "role": "Cụm ngữ pháp chính mang nghĩa: V なくては V なくちゃ ］＋ いけない / だめ"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -11597,8 +11597,8 @@
       "formula": "V てしまう = V ちゃう V でしまう = V じゃう (Tiếc nuối)",
       "parts": [
         {
-          "label": "V てしまう = V ちゃう V でしまう = V じゃう (Tiếc nuối)",
-          "desc": "Diễn tả sự việc, hành động đã/ sẽ kết thúc hoàn toàn."
+          "token": "V てしまう = V ちゃう V でしまう = V じゃう (Tiếc nuối)",
+          "role": "Diễn tả sự việc, hành động đã/ sẽ kết thúc hoàn toàn."
         }
       ],
       "tip": "「しまう」「～ちゃう / ～じゃう」đều được vận dụng như Động từ nhóm 1."
@@ -11618,8 +11618,8 @@
       "formula": "V てしまう = V ちゃう V でしまう = V じゃう (Hoàn thành)",
       "parts": [
         {
-          "label": "V てしまう = V ちゃう V でしまう = V じゃう (Hoàn thành)",
-          "desc": "V てしまう = V ちゃう V でしまう = V じゃう (Hoàn thành)"
+          "token": "V てしまう = V ちゃう V でしまう = V じゃう (Hoàn thành)",
+          "role": "V てしまう = V ちゃう V でしまう = V じゃう (Hoàn thành)"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -11802,12 +11802,12 @@
       "formula": "V て ＋ おく",
       "parts": [
         {
-          "label": "V て",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V て",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "おく",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: V rồi quay lại/ V rồi mới đến"
+          "token": "おく",
+          "role": "Cụm ngữ pháp chính mang nghĩa: V rồi quay lại/ V rồi mới đến"
         }
       ],
       "tip": "Ngoài ra, cấu trúc này còn có thể dùng để nói về việc chủ thể làm gì đó ở chỗ khác rồi mới đến địa điểm hiện tại."
@@ -11958,12 +11958,12 @@
       "formula": "V て ＋ くる A A A B",
       "parts": [
         {
-          "label": "V て",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V て",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "くる A A A B",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: V đi/ V tới"
+          "token": "くる A A A B",
+          "role": "Cụm ngữ pháp chính mang nghĩa: V đi/ V tới"
         }
       ],
       "tip": "Những động từ thường kết hợp:「出 る」、「入 る」、「帰 る」、「飛 ぶ」、「歩 く」、 「走 る」、「泳 ぐ」、「落 ちる」、「向 かう」、「近 づく」..."
@@ -12163,8 +12163,8 @@
       "formula": "～ V ていく / ～ V てくる（１）",
       "parts": [
         {
-          "label": "～ V ていく / ～ V てくる（１）",
-          "desc": "Dùng để diễn tả sự thay đổi của 1 trạng thái, tình trạng nào đó. Trong đó:"
+          "token": "～ V ていく / ～ V てくる（１）",
+          "role": "Dùng để diễn tả sự thay đổi của 1 trạng thái, tình trạng nào đó. Trong đó:"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -12184,8 +12184,8 @@
       "formula": "～ V ていく / ～ V てくる（2）",
       "parts": [
         {
-          "label": "～ V ていく / ～ V てくる（2）",
-          "desc": "～ V ていく / ～ V てくる（2）"
+          "token": "～ V ていく / ～ V てくる（2）",
+          "role": "～ V ていく / ～ V てくる（2）"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -12371,8 +12371,8 @@
       "formula": "A は / が B を V (tự động từ) させます",
       "parts": [
         {
-          "label": "A は / が B を V (tự động từ) させます",
-          "desc": "A: người yêu cầu, bắt ép đứng trước「は / が」 B: người thực hiện hành động, đứng trước「を」"
+          "token": "A は / が B を V (tự động từ) させます",
+          "role": "A: người yêu cầu, bắt ép đứng trước「は / が」 B: người thực hiện hành động, đứng trước「を」"
         }
       ],
       "tip": "V(tự động từ): 立 つ、塾 に行 く、休 む、並 ぶ、待 つ、座 る、 する、 する"
@@ -12602,8 +12602,8 @@
       "formula": "A は / が B に N を V (tha động từ) させます",
       "parts": [
         {
-          "label": "A は / が B に N を V (tha động từ) させます",
-          "desc": "Không sử dụng thể Sai khiến để diễn tả việc bản thân nhờ vả người bề trên."
+          "token": "A は / が B に N を V (tha động từ) させます",
+          "role": "Không sử dụng thể Sai khiến để diễn tả việc bản thân nhờ vả người bề trên."
         }
       ],
       "tip": "Nếu người nói là người cho phép, câu văn thường kết hợp「～てあげる」"
@@ -12623,8 +12623,8 @@
       "formula": "A は / が B を V (tự động từ) させます A は / が B に N を V (tha động từ) させます",
       "parts": [
         {
-          "label": "A は / が B を V (tự động từ) させます A は / が B に N を V (tha động từ) させます",
-          "desc": "Mẫu ngữ pháp A は / が B を V (tự động từ) させます A は / が B に N を V (tha động từ) させます mang nghĩa \"A cho/ để B làm V\"."
+          "token": "A は / が B を V (tự động từ) させます A は / が B に N を V (tha động từ) させます",
+          "role": "Mẫu ngữ pháp A は / が B を V (tự động từ) させます A は / が B に N を V (tha động từ) させます mang nghĩa \"A cho/ để B làm V\"."
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -12805,12 +12805,12 @@
       "formula": "A は / が B に ＋ N を V (bị động sai khiến)",
       "parts": [
         {
-          "label": "A は / が B に",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "A は / が B に",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "N を V (bị động sai khiến)",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: A bị B bắt V"
+          "token": "N を V (bị động sai khiến)",
+          "role": "Cụm ngữ pháp chính mang nghĩa: A bị B bắt V"
         }
       ],
       "tip": "Dùng để diễn đạt cảm giác biết ơn khi ai đó cho phép mình làm gì."
@@ -12830,12 +12830,12 @@
       "formula": "A は / が B に V させて ＋ もらう",
       "parts": [
         {
-          "label": "A は / が B に V させて",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "A は / が B に V させて",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "もらう",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: A được B cho làm V"
+          "token": "もらう",
+          "role": "Cụm ngữ pháp chính mang nghĩa: A được B cho làm V"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -13024,12 +13024,12 @@
       "formula": "V させて ＋ ください",
       "parts": [
         {
-          "label": "V させて",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V させて",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ください",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Hãy để tôi V/ Hãy cho tôi V"
+          "token": "ください",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Hãy để tôi V/ Hãy cho tôi V"
         }
       ],
       "tip": "Là cách nói vô cùng lịch sự, thể hiện sự lễ phép, tôn trọng với người nghe."
@@ -13049,12 +13049,12 @@
       "formula": "V させて ＋ いただけませんか",
       "parts": [
         {
-          "label": "V させて",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V させて",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "いただけませんか",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Có thể cho phép tôi V được không?"
+          "token": "いただけませんか",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Có thể cho phép tôi V được không?"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -13224,12 +13224,12 @@
       "formula": "お V ます / ご N ＋ します",
       "parts": [
         {
-          "label": "お V ます / ご N",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "お V ます / ご N",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "します",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Khiêm nhường ngữ của V ます"
+          "token": "します",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Khiêm nhường ngữ của V ます"
         }
       ],
       "tip": "Người thực hiện hành động luôn là người nói, hoặc là người cùng bên với người nói, có vai vế thấp hơn người tiếp nhận hành động."
@@ -13446,12 +13446,12 @@
       "formula": "お V ます ご N ］＋ になる",
       "parts": [
         {
-          "label": "お V ます ご N ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "お V ます ご N ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "になる",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Những động từ chỉ có 1 âm tiết trước「ます」như: 見 ます、寝 ます、します、来 ます... thì"
+          "token": "になる",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Những động từ chỉ có 1 âm tiết trước「ます」như: 見 ます、寝 ます、します、来 ます... thì"
         }
       ],
       "tip": "Trường hợp động từ là động từ nhóm III gốc Hán như:  する、 する、  する、 する ... thì cấu trúc sẽ có dạng:「ご N になる」"
@@ -13471,12 +13471,12 @@
       "formula": "V ます ＋ なさい",
       "parts": [
         {
-          "label": "V ます",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V ます",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "なさい",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Hãy V"
+          "token": "なさい",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Hãy V"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -13500,8 +13500,8 @@
       "formula": "N の とき",
       "parts": [
         {
-          "label": "N の とき",
-          "desc": "Dùng để diễn tả hành động, sự việc V2 xảy ra trước khi sự việc, trạng thái V1 bắt đầu."
+          "token": "N の とき",
+          "role": "Dùng để diễn tả hành động, sự việc V2 xảy ra trước khi sự việc, trạng thái V1 bắt đầu."
         }
       ],
       "tip": "Nếu sự việc ở vế trái kéo dài thì còn diễn tả “trong lúc, trong khi” khoảng thời gian đó."
@@ -13805,12 +13805,12 @@
       "formula": "V1 る ＋ とき、V2",
       "parts": [
         {
-          "label": "V1 る",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V1 る",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "とき、V2",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: (Sau) khi ～"
+          "token": "とき、V2",
+          "role": "Cụm ngữ pháp chính mang nghĩa: (Sau) khi ～"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -14071,12 +14071,12 @@
       "formula": "V1 た ＋ とき、V2",
       "parts": [
         {
-          "label": "V1 た",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V1 た",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "とき、V2",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Khi không V1 thì V2"
+          "token": "とき、V2",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Khi không V1 thì V2"
         }
       ],
       "tip": "Dùng để diễn tả khi hành động, trạng thái V1 không xảy ra thì thực hiện V2."
@@ -14281,12 +14281,12 @@
       "formula": "V1 ない ＋ とき、V2",
       "parts": [
         {
-          "label": "V1 ない",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V1 ない",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "とき、V2",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Những lúc A thì V"
+          "token": "とき、V2",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Những lúc A thì V"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -14483,12 +14483,12 @@
       "formula": "A い /A な ＋ とき、V",
       "parts": [
         {
-          "label": "A い /A な",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "A い /A な",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "とき、V",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: A い /A な ＋ とき、V"
+          "token": "とき、V",
+          "role": "Cụm ngữ pháp chính mang nghĩa: A い /A な ＋ とき、V"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -14891,12 +14891,12 @@
       "formula": "V る /V ている / A い /A な /N の ＋ 間だ",
       "parts": [
         {
-          "label": "V る /V ている / A い /A な /N の",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る /V ている / A い /A な /N の",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "間だ",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Trong lúc/ trong khi ～"
+          "token": "間だ",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Trong lúc/ trong khi ～"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -15107,12 +15107,12 @@
       "formula": "V る /V ている / A い /A な /N の ＋ 間 に",
       "parts": [
         {
-          "label": "V る /V ている / A い /A な /N の",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る /V ている / A い /A な /N の",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "間 に",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Tới ～ / Đến ～"
+          "token": "間 に",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Tới ～ / Đến ～"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -15303,12 +15303,12 @@
       "formula": "N / V る ＋ まで",
       "parts": [
         {
-          "label": "N / V る",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "N / V る",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "まで",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Trước (khi) ～ / Chậm nhất là ～"
+          "token": "まで",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Trước (khi) ～ / Chậm nhất là ～"
         }
       ],
       "tip": "Động từ vế phải là động từ mang tính thời điểm, không có tính liên tục."
@@ -15472,12 +15472,12 @@
       "formula": "N / V る ＋ までに",
       "parts": [
         {
-          "label": "N / V る",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "N / V る",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "までに",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: N / V る ＋ までに"
+          "token": "までに",
+          "role": "Cụm ngữ pháp chính mang nghĩa: N / V る ＋ までに"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -15647,12 +15647,12 @@
       "formula": "V (thể Thường) /A い /A な /N ＋ かどうか、～",
       "parts": [
         {
-          "label": "V (thể Thường) /A い /A な /N",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V (thể Thường) /A い /A な /N",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "かどうか、～",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Thử V"
+          "token": "かどうか、～",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Thử V"
         }
       ],
       "tip": "Câu nghi vấn được lồng vào là dạng câu hỏi có từ để hỏi như 「いつ」、「どこ」、「誰 」、「何 」..."
@@ -15672,12 +15672,12 @@
       "formula": "Ｖて ＋ みる",
       "parts": [
         {
-          "label": "Ｖて",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Ｖて",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "みる",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Ｖて ＋ みる"
+          "token": "みる",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Ｖて ＋ みる"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -15847,12 +15847,12 @@
       "formula": "Thể Thường A な / Ｎな ］＋ ので",
       "parts": [
         {
-          "label": "Thể Thường A な / Ｎな ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể Thường A な / Ｎな ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ので",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: ～ vậy mà/ nhưng mà ～"
+          "token": "ので",
+          "role": "Cụm ngữ pháp chính mang nghĩa: ～ vậy mà/ nhưng mà ～"
         }
       ],
       "tip": "Thường bày tỏ sự ngạc nhiên hoặc bất mãn."
@@ -16086,12 +16086,12 @@
       "formula": "Thể Thường A な / Ｎな ］＋ のに",
       "parts": [
         {
-          "label": "Thể Thường A な / Ｎな ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể Thường A な / Ｎな ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "のに",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Thể Thường A な / Ｎな ］＋ のに"
+          "token": "のに",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Thể Thường A な / Ｎな ］＋ のに"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -16334,16 +16334,16 @@
       "formula": "Ｖても Ｎ /A な ＋ でも A い ＋ くても",
       "parts": [
         {
-          "label": "Ｖても Ｎ /A な",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Ｖても Ｎ /A な",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "でも A い",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Mặc dù đã/Tuy đã ～ nhưng ～"
+          "token": "でも A い",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Mặc dù đã/Tuy đã ～ nhưng ～"
         },
         {
-          "label": "くても",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Mặc dù đã/Tuy đã ～ nhưng ～"
+          "token": "くても",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Mặc dù đã/Tuy đã ～ nhưng ～"
         }
       ],
       "tip": "Mẫu câu thể hiện sự đối lập: ＋ Vế trước là sự thật đã xảy ra trong quá khứ. ＋ Vế sau là trạng thái phát sinh, khác với những gì thường được dự đoán."
@@ -16363,16 +16363,16 @@
       "formula": "Ｖても Ｎ /A な ＋ でも A い ＋ くても",
       "parts": [
         {
-          "label": "Ｖても Ｎ /A な",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Ｖても Ｎ /A な",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "でも A い",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Ｖても Ｎ /A な ＋ でも A い ＋ くても"
+          "token": "でも A い",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Ｖても Ｎ /A な ＋ でも A い ＋ くても"
         },
         {
-          "label": "くても",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Ｖても Ｎ /A な ＋ でも A い ＋ くても"
+          "token": "くても",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Ｖても Ｎ /A な ＋ でも A い ＋ くても"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -16765,12 +16765,12 @@
       "formula": "Ｖた A いかった A な / Ｎだった ］＋ ら、～ ★ So sánh「～ば」và「～たら」 「～ば」 「～たら」 ♦ Nói đến những điều cần thiết để đạt được kết quả nhất định. ♦ Theo sau là kết quả mong muốn, nội dung tích cực. ♦ Nói điều xảy ra khi điều giả định ban đầu thành hiện thực.",
       "parts": [
         {
-          "label": "Ｖた A いかった A な / Ｎだった ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Ｖた A いかった A な / Ｎだった ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ら、～ ★ So sánh「～ば」và「～たら」 「～ば」 「～たら」 ♦ Nói đến những điều cần thiết để đạt được kết quả nhất định. ♦ Theo sau là kết quả mong muốn, nội dung tích cực. ♦ Nói điều xảy ra khi điều giả định ban đầu thành hiện thực.",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Nếu V thì chẳng phải tốt hay sao? Nếu V thì thế nào? / Nếu ～ thì ～ / Hễ ～ thì ～"
+          "token": "ら、～ ★ So sánh「～ば」và「～たら」 「～ば」 「～たら」 ♦ Nói đến những điều cần thiết để đạt được kết quả nhất định. ♦ Theo sau là kết quả mong muốn, nội dung tích cực. ♦ Nói điều xảy ra khi điều giả định ban đầu thành hiện thực.",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Nếu V thì chẳng phải tốt hay sao? Nếu V thì thế nào? / Nếu ～ thì ～ / Hễ ～ thì ～"
         }
       ],
       "tip": "Dùng để đưa ra phương án, đề nghị cho một vấn đề, dự định nào đó của đối phương."
@@ -16962,12 +16962,12 @@
       "formula": "V る ＋ と～",
       "parts": [
         {
-          "label": "V る",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "と～",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Nên V thì hơn"
+          "token": "と～",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Nên V thì hơn"
         }
       ],
       "tip": "Thường thêm「～よ」vào cuối câu để nhắc nhở người khác."
@@ -17336,12 +17336,12 @@
       "formula": "V る ＋ といい ★ So sánh「～たらいい」・「～たほうがいい」・「～といい」 「～たらいい」 「～たほうがいい」 「～といい」 Giống nhau Đều là cách nói đưa ra lời khuyên Khác nhau ♦ Đưa ra một gợi ý cho đối phương. ♦ Sử dụng khi đối phương đang phân vân trước nhiều lựa chọn, phương án với hàm ý: nếu không làm như lời khuyên thì sẽ có hại hoặc gặp bất lợi. ♦ Đưa ra cách mà người nói nghĩ sẽ giải quyết được vấn đề.",
       "parts": [
         {
-          "label": "V る",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "といい ★ So sánh「～たらいい」・「～たほうがいい」・「～といい」 「～たらいい」 「～たほうがいい」 「～といい」 Giống nhau Đều là cách nói đưa ra lời khuyên Khác nhau ♦ Đưa ra một gợi ý cho đối phương. ♦ Sử dụng khi đối phương đang phân vân trước nhiều lựa chọn, phương án với hàm ý: nếu không làm như lời khuyên thì sẽ có hại hoặc gặp bất lợi. ♦ Đưa ra cách mà người nói nghĩ sẽ giải quyết được vấn đề.",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: V る ＋ といい ★ So sánh「～たらいい」・「～たほうがいい」・「～といい」 「～たらいい」 「～たほうがいい」 「～といい」 Giống nhau Đều là cách nói đưa ra lời khuyên Khác nhau ♦ Đưa ra một gợi ý cho đối phương. ♦ Sử dụng khi đối phương đang phân vân trước nhiều lựa chọn, phương án với hàm ý: nếu không làm như lời khuyên thì sẽ có hại hoặc gặp bất lợi. ♦ Đưa ra cách mà người nói nghĩ sẽ giải quyết được vấn đề."
+          "token": "といい ★ So sánh「～たらいい」・「～たほうがいい」・「～といい」 「～たらいい」 「～たほうがいい」 「～といい」 Giống nhau Đều là cách nói đưa ra lời khuyên Khác nhau ♦ Đưa ra một gợi ý cho đối phương. ♦ Sử dụng khi đối phương đang phân vân trước nhiều lựa chọn, phương án với hàm ý: nếu không làm như lời khuyên thì sẽ có hại hoặc gặp bất lợi. ♦ Đưa ra cách mà người nói nghĩ sẽ giải quyết được vấn đề.",
+          "role": "Cụm ngữ pháp chính mang nghĩa: V る ＋ といい ★ So sánh「～たらいい」・「～たほうがいい」・「～といい」 「～たらいい」 「～たほうがいい」 「～といい」 Giống nhau Đều là cách nói đưa ra lời khuyên Khác nhau ♦ Đưa ra một gợi ý cho đối phương. ♦ Sử dụng khi đối phương đang phân vân trước nhiều lựa chọn, phương án với hàm ý: nếu không làm như lời khuyên thì sẽ có hại hoặc gặp bất lợi. ♦ Đưa ra cách mà người nói nghĩ sẽ giải quyết được vấn đề."
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -17737,12 +17737,12 @@
       "formula": "Thể Thường N の /A な ］＋  （は）",
       "parts": [
         {
-          "label": "Thể Thường N の /A な ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể Thường N の /A な ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": " （は）",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Đúng như ～ / hệt như ～"
+          "token": " （は）",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Đúng như ～ / hệt như ～"
         }
       ],
       "tip": "Không dùng để nói về trải nghiệm đã xảy ra"
@@ -17762,16 +17762,16 @@
       "formula": "Thể Thường/ N の ＋ とおり（に） N ＋ どおり（に）",
       "parts": [
         {
-          "label": "Thể Thường/ N の",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể Thường/ N の",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "とおり（に） N",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Cho việc ～"
+          "token": "とおり（に） N",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Cho việc ～"
         },
         {
-          "label": "どおり（に）",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Cho việc ～"
+          "token": "どおり（に）",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Cho việc ～"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -17959,12 +17959,12 @@
       "formula": "V るの N ］＋ に ❶ Mục đích sử dụng của đồ vật.",
       "parts": [
         {
-          "label": "V るの N ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V るの N ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "に ❶ Mục đích sử dụng của đồ vật.",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Giải thích về cách dùng hay mục đích sử dụng đồ vật."
+          "token": "に ❶ Mục đích sử dụng của đồ vật.",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Giải thích về cách dùng hay mục đích sử dụng đồ vật."
         }
       ],
       "tip": "Trước「( の ) に」là danh từ biểu thị hành vi hoặc động từ biểu thị hành động, động tác cụ thể."
@@ -18114,12 +18114,12 @@
       "formula": "V る / Ｎの ＋ ために",
       "parts": [
         {
-          "label": "V る / Ｎの",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る / Ｎの",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ために",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Vì ～"
+          "token": "ために",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Vì ～"
         }
       ],
       "tip": "Kết quả ở vế phải của「ため ( に )」thường là sự việc, trạng thái không phổ biến, ít xảy ra."
@@ -18463,12 +18463,12 @@
       "formula": "Thể Thường N の A な ］＋ ため（に） ★ So sánh「から」・「ので」・「ため」 「から」 「ので」 「ため」 ♦ Đưa ra nguyên nhân, lý do thẳng thắn; ý kiến, quan điểm cá nhân được nhấn mạnh. ♦ Đưa ra nguyên nhân, lý do gián tiếp; ý kiến, chủ trương cá nhân được giảm đi để trình bày sự thật một cách lịch sự. ♦ Cách nói trang trọng hơn 「 の で 」, thường dùng trong văn viết như văn bản, thông báo chính thức, công cộng.",
       "parts": [
         {
-          "label": "Thể Thường N の A な ］",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "Thể Thường N の A な ］",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ため（に） ★ So sánh「から」・「ので」・「ため」 「から」 「ので」 「ため」 ♦ Đưa ra nguyên nhân, lý do thẳng thắn; ý kiến, quan điểm cá nhân được nhấn mạnh. ♦ Đưa ra nguyên nhân, lý do gián tiếp; ý kiến, chủ trương cá nhân được giảm đi để trình bày sự thật một cách lịch sự. ♦ Cách nói trang trọng hơn 「 の で 」, thường dùng trong văn viết như văn bản, thông báo chính thức, công cộng.",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: Để V/ Để không V"
+          "token": "ため（に） ★ So sánh「から」・「ので」・「ため」 「から」 「ので」 「ため」 ♦ Đưa ra nguyên nhân, lý do thẳng thắn; ý kiến, quan điểm cá nhân được nhấn mạnh. ♦ Đưa ra nguyên nhân, lý do gián tiếp; ý kiến, chủ trương cá nhân được giảm đi để trình bày sự thật một cách lịch sự. ♦ Cách nói trang trọng hơn 「 の で 」, thường dùng trong văn viết như văn bản, thông báo chính thức, công cộng.",
+          "role": "Cụm ngữ pháp chính mang nghĩa: Để V/ Để không V"
         }
       ],
       "tip": "Trước「ように」thường không sử dụng động từ thể hiện hành vi, động tác có tính ý chí mà sử dụng động từ thể khả năng và động từ không mang tính ý chí như: 着 く、なる、落 ちる ..."
@@ -18488,12 +18488,12 @@
       "formula": "V る /V ない ＋ ように",
       "parts": [
         {
-          "label": "V る /V ない",
-          "desc": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
+          "token": "V る /V ない",
+          "role": "Thành phần đứng trước (chia về thể thích hợp theo quy tắc)"
         },
         {
-          "label": "ように",
-          "desc": "Cụm ngữ pháp chính mang nghĩa: V る /V ない ＋ ように"
+          "token": "ように",
+          "role": "Cụm ngữ pháp chính mang nghĩa: V る /V ない ＋ ように"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -18605,8 +18605,8 @@
       "formula": "Tôn kính ngữ dạng đặc biệt Từ gốc Kính ngữ いる いらっしゃる行 く 来 る 言 う おっしゃる している していらっしゃる Từ gốc Kính ngữ 飲 む 召 し上 がる 食 べる 知 っている ご だ * する なさる くれる くださる *Ở dạng phủ định:「ご 」sẽ chuyển thành「ご ない」；「ご ではない」 いらっしゃる いらっしゃらない いらっしゃった いらっしゃいます おっしゃる おっしゃらない おっしゃった おっしゃいます なさる なさらない なさった なさいます くださる くださらない くださった くださいます",
       "parts": [
         {
-          "label": "Tôn kính ngữ dạng đặc biệt Từ gốc Kính ngữ いる いらっしゃる行 く 来 る 言 う おっしゃる している していらっしゃる Từ gốc Kính ngữ 飲 む 召 し上 がる 食 べる 知 っている ご だ * する なさる くれる くださる *Ở dạng phủ định:「ご 」sẽ chuyển thành「ご ない」；「ご ではない」 いらっしゃる いらっしゃらない いらっしゃった いらっしゃいます おっしゃる おっしゃらない おっしゃった おっしゃいます なさる なさらない なさった なさいます くださる くださらない くださった くださいます",
-          "desc": "Trong tiếng Nhật, có thể sử dụng Động từ dạng bị động「～れる ( られる )」để nói về hành động của người bề trên để thể hiện sự kính trọng với đối phương."
+          "token": "Tôn kính ngữ dạng đặc biệt Từ gốc Kính ngữ いる いらっしゃる行 く 来 る 言 う おっしゃる している していらっしゃる Từ gốc Kính ngữ 飲 む 召 し上 がる 食 べる 知 っている ご だ * する なさる くれる くださる *Ở dạng phủ định:「ご 」sẽ chuyển thành「ご ない」；「ご ではない」 いらっしゃる いらっしゃらない いらっしゃった いらっしゃいます おっしゃる おっしゃらない おっしゃった おっしゃいます なさる なさらない なさった なさいます くださる くださらない くださった くださいます",
+          "role": "Trong tiếng Nhật, có thể sử dụng Động từ dạng bị động「～れる ( られる )」để nói về hành động của người bề trên để thể hiện sự kính trọng với đối phương."
         }
       ],
       "tip": "Không kết hợp cùng「お～になる」"
@@ -18626,8 +18626,8 @@
       "formula": "～Ｖられる (Tôn Kính ngữ)",
       "parts": [
         {
-          "label": "～Ｖられる (Tôn Kính ngữ)",
-          "desc": "～Ｖられる (Tôn Kính ngữ)"
+          "token": "～Ｖられる (Tôn Kính ngữ)",
+          "role": "～Ｖられる (Tôn Kính ngữ)"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."
@@ -18884,8 +18884,8 @@
       "formula": "Khiêm nhường ngữ dạng đặc biệt Từ gốc Khiêm nhường ngữ いる おります （ に）行 く / 来 る 参 ります *Dùng khi địa điểm là một nơi không phải chỗ của đối phương. する いたす 「知 る」「思 う」 存 じます 知 る 存 じ上 げます *Khi nói về thông tin của người bề trên: 「存 じ上 げております / 存 じ上 げません」 Còn khi nói biết thông tin khác thì sẽ dùng: 「存 じております / 存 じません」 言 う 申 します */ 申 し上 げます *Khi xưng tên hoặc nói tên một món đồ nào đó, ta sẽ nói: 「〇〇（え ）と申 します」 Khi nói chuyện, nói lên ý kiến nào đó thì ta sẽ nói: 「（ などを）申 し上 げます」 「食 べる」「飲 む」「もらう」 いただきます あげる 差 し上 げます 「 する」「（ん ) を聞 く」 伺 います 見 る  します 会 う お目 にかかります",
       "parts": [
         {
-          "label": "Khiêm nhường ngữ dạng đặc biệt Từ gốc Khiêm nhường ngữ いる おります （ に）行 く / 来 る 参 ります *Dùng khi địa điểm là một nơi không phải chỗ của đối phương. する いたす 「知 る」「思 う」 存 じます 知 る 存 じ上 げます *Khi nói về thông tin của người bề trên: 「存 じ上 げております / 存 じ上 げません」 Còn khi nói biết thông tin khác thì sẽ dùng: 「存 じております / 存 じません」 言 う 申 します */ 申 し上 げます *Khi xưng tên hoặc nói tên một món đồ nào đó, ta sẽ nói: 「〇〇（え ）と申 します」 Khi nói chuyện, nói lên ý kiến nào đó thì ta sẽ nói: 「（ などを）申 し上 げます」 「食 べる」「飲 む」「もらう」 いただきます あげる 差 し上 げます 「 する」「（ん ) を聞 く」 伺 います 見 る  します 会 う お目 にかかります",
-          "desc": "So sánh cách dùng của:「申 します / 申 し上 げます」「参 ります / 伺 います」 「存 じます / 存 じ上 げます」 ❶ い 、明 し た 日 のお宅 に伺 います。 ❷  にお礼 を申 し上 げました。 ❸  のお はよく存 じ上 げております。 ❶ ベトナムに参 ります。 ❷ この服 は、ベトナムの 的 な服 で、 「アオザイ」と申 します。 ❸ 昨 の う 日、 があったことは存 じております。"
+          "token": "Khiêm nhường ngữ dạng đặc biệt Từ gốc Khiêm nhường ngữ いる おります （ に）行 く / 来 る 参 ります *Dùng khi địa điểm là một nơi không phải chỗ của đối phương. する いたす 「知 る」「思 う」 存 じます 知 る 存 じ上 げます *Khi nói về thông tin của người bề trên: 「存 じ上 げております / 存 じ上 げません」 Còn khi nói biết thông tin khác thì sẽ dùng: 「存 じております / 存 じません」 言 う 申 します */ 申 し上 げます *Khi xưng tên hoặc nói tên một món đồ nào đó, ta sẽ nói: 「〇〇（え ）と申 します」 Khi nói chuyện, nói lên ý kiến nào đó thì ta sẽ nói: 「（ などを）申 し上 げます」 「食 べる」「飲 む」「もらう」 いただきます あげる 差 し上 げます 「 する」「（ん ) を聞 く」 伺 います 見 る  します 会 う お目 にかかります",
+          "role": "So sánh cách dùng của:「申 します / 申 し上 げます」「参 ります / 伺 います」 「存 じます / 存 じ上 げます」 ❶ い 、明 し た 日 のお宅 に伺 います。 ❷  にお礼 を申 し上 げました。 ❸  のお はよく存 じ上 げております。 ❶ ベトナムに参 ります。 ❷ この服 は、ベトナムの 的 な服 で、 「アオザイ」と申 します。 ❸ 昨 の う 日、 があったことは存 じております。"
         }
       ],
       "tip": "Mặc dù người thực hiện hành động là thành viên trong công ty, nhưng khi nói chuyện với đối tác thì vẫn dùng khiêm nhường ngữ."
@@ -18905,8 +18905,8 @@
       "formula": "～でございます ～ございます (Nhân viên chăm sóc khách hàng đang trả lời khách qua điện thoại) Nhân viên ：お ありがとうございます。〇〇社ゃ",
       "parts": [
         {
-          "label": "～でございます ～ございます (Nhân viên chăm sóc khách hàng đang trả lời khách qua điện thoại) Nhân viên ：お ありがとうございます。〇〇社ゃ",
-          "desc": "お サポートセンターで ございます。 Khách hàng：すみません、そちらで買 った が壊 れていたので、 して ほしいのですが…… Nhân viên ： 申 し訳 ございませんでした。いくつかお聞 きしたいことが ございますが、よろしいでしょうか？ Khách hàng：はい。 Nhân viên ：まずは、どちらの でお買 いになったか、お教 えくださいますか？"
+          "token": "～でございます ～ございます (Nhân viên chăm sóc khách hàng đang trả lời khách qua điện thoại) Nhân viên ：お ありがとうございます。〇〇社ゃ",
+          "role": "お サポートセンターで ございます。 Khách hàng：すみません、そちらで買 った が壊 れていたので、 して ほしいのですが…… Nhân viên ： 申 し訳 ございませんでした。いくつかお聞 きしたいことが ございますが、よろしいでしょうか？ Khách hàng：はい。 Nhân viên ：まずは、どちらの でお買 いになったか、お教 えくださいますか？"
         }
       ],
       "tip": "Chú ý chia đúng thể động từ/tính từ/danh từ đứng trước mẫu câu."

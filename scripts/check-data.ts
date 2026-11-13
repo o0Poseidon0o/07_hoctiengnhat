@@ -31,6 +31,35 @@ const KanjiSchema = z.object({
   ),
 });
 
+const GrammarSchema = z.object({
+  id: z.string().min(1),
+  level: z.enum(['n5', 'n4']),
+  lessonId: z.string().min(2),
+  no: z.number().int().positive(),
+  pattern: z.string().min(1),
+  meaning: z.string().min(1),
+  explanation: z.string().min(1),
+  notes: z.array(z.string()),
+  examples: z.array(
+    z.object({
+      ja: z.string().min(1),
+      vi: z.string(),
+    }),
+  ),
+  analysis: z
+    .object({
+      formula: z.string().min(1),
+      parts: z.array(
+        z.object({
+          token: z.string().min(1),
+          role: z.string().min(1),
+        }),
+      ),
+      tip: z.string().optional(),
+    })
+    .optional(),
+});
+
 for (const lvl of ['n5', 'n4'] as const) {
   const data = getLevelContent(lvl);
   const lessonIds = new Set(data.lessons.map((l) => l.id));
@@ -44,6 +73,7 @@ for (const lvl of ['n5', 'n4'] as const) {
     if (!lessonIds.has(k.lessonId)) throw new Error(`Unknown lessonId on kanji ${k.id}: ${k.lessonId}`);
   }
   for (const g of data.grammar) {
+    GrammarSchema.parse(g);
     if (!lessonIds.has(g.lessonId)) throw new Error(`Unknown lessonId on grammar ${g.id}: ${g.lessonId}`);
   }
   for (const s of data.sentences) {
