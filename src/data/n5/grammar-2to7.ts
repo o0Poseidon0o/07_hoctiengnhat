@@ -15,10 +15,10 @@ export const grammar2to7: Grammar[] = [
       'Mẫu câu khẳng định trong quá khứ có vị ngữ là danh từ.「でした」là dạng quá khứ của「です」.',
     notes: ['Muốn tạo câu nghi vấn quá khứ, thêm「か」vào cuối câu: N1 は N2 でしたか。'],
     examples: [
-      { ja: '昨日は 休みでした。', vi: 'Hôm qua là ngày nghỉ.' },
-      { ja: '5日は 誕生日でした。', vi: 'Ngày mùng 5 là sinh nhật.' },
-      { ja: 'これは 1,000円でした。', vi: 'Cái này đã có giá 1.000 yên.' },
-      { ja: '田中さんは 学生でした。', vi: 'Anh Tanaka trước đây từng là sinh viên.' },
+      { ja: '昨日は 休みでした。', ruby: [["昨日","きのう"],["は "],["休","やす"],["みでした。"]], vi: 'Hôm qua là ngày nghỉ.' },
+      { ja: '5日は 誕生日でした。', ruby: [["5日","いつか"],["は "],["誕生日","たんじょうび"],["でした。"]], vi: 'Ngày mùng 5 là sinh nhật.' },
+      { ja: 'これは 1,000円でした。', ruby: [["これは 1,000"],["円","えん"],["でした。"]], vi: 'Cái này đã có giá 1.000 yên.' },
+      { ja: '田中さんは 学生でした。', ruby: [["田中","たなか"],["さんは "],["学生","がくせい"],["でした。"]], vi: 'Anh Tanaka trước đây từng là sinh viên.' },
     ],
   },
   {
@@ -34,10 +34,10 @@ export const grammar2to7: Grammar[] = [
       '「ではありませんでした」thường dùng trong văn viết, trang trọng.',
     ],
     examples: [
-      { ja: '昨日は 仕事じゃなかったです。', vi: 'Hôm qua không phải ngày làm việc.' },
-      { ja: '6日は 休みじゃありませんでした。', vi: 'Ngày mùng 6 không phải ngày nghỉ.' },
-      { ja: '昨日は 仕事でしたか。― いいえ、仕事じゃなかったです。休みでした。', vi: 'Hôm qua bạn có đi làm không? ― Không, hôm qua tôi được nghỉ.' },
-      { ja: '昨日は 雨じゃなかったです。', vi: 'Hôm qua trời đã không mưa.' },
+      { ja: '昨日は 仕事じゃなかったです。', ruby: [["昨日","きのう"],["は "],["仕事","しごと"],["じゃなかったです。"]], vi: 'Hôm qua không phải ngày làm việc.' },
+      { ja: '6日は 休みじゃありませんでした。', ruby: [["6"],["日","にち"],["は "],["休","やす"],["みじゃありませんでした。"]], vi: 'Ngày mùng 6 không phải ngày nghỉ.' },
+      { ja: '昨日は 仕事でしたか。― いいえ、仕事じゃなかったです。休みでした。', ruby: [["昨日","きのう"],["は "],["仕事","しごと"],["でしたか。― いいえ、"],["仕事","しごと"],["じゃなかったです。"],["休","やす"],["みでした。"]], vi: 'Hôm qua bạn có đi làm không? ― Không, hôm qua tôi được nghỉ.' },
+      { ja: '昨日は 雨じゃなかったです。', ruby: [["昨日","きのう"],["は "],["雨","あめ"],["じゃなかったです。"]], vi: 'Hôm qua trời đã không mưa.' },
     ],
   },
   // ---------------- 2B ----------------
@@ -55,10 +55,10 @@ export const grammar2to7: Grammar[] = [
       'Khi N2 là danh từ chỉ người,「N1 の N2」diễn tả người đó có mối quan hệ với N1 (vd: 私の友達).',
     ],
     examples: [
-      { ja: 'この かばんは 誰の かばんですか。― ナムさんの かばんです。', vi: 'Cái cặp này của ai? ― Của anh Nam.' },
-      { ja: 'これ、誰の スマホですか。― あ、私のです。', vi: 'Cái này là điện thoại của ai vậy? ― À, của tôi đấy.' },
-      { ja: 'ナムさんは 私の 友達です。', vi: 'Nam là bạn của tôi.' },
-      { ja: 'これ、誰の かぎですか。― 山田さんの かぎです。', vi: 'Đây là chìa khóa của ai? ― Chìa khóa của anh Yamada.' },
+      { ja: 'この かばんは 誰の かばんですか。― ナムさんの かばんです。', ruby: [["この かばんは "],["誰","だれ"],["の かばんですか。― ナムさんの かばんです。"]], vi: 'Cái cặp này của ai? ― Của anh Nam.' },
+      { ja: 'これ、誰の スマホですか。― あ、私のです。', ruby: [["これ、"],["誰","だれ"],["の スマホですか。― あ、"],["私","わたし"],["のです。"]], vi: 'Cái này là điện thoại của ai vậy? ― À, của tôi đấy.' },
+      { ja: 'ナムさんは 私の 友達です。', ruby: [["ナムさんは "],["私","わたし"],["の "],["友達","ともだち"],["です。"]], vi: 'Nam là bạn của tôi.' },
+      { ja: 'これ、誰の かぎですか。― 山田さんの かぎです。', ruby: [["これ、"],["誰","だれ"],["の かぎですか。― "],["山田","やまだ"],["さんの かぎです。"]], vi: 'Đây là chìa khóa của ai? ― Chìa khóa của anh Yamada.' },
     ],
   },
   {
@@ -71,10 +71,10 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Dùng để hỏi và trả lời về nội dung, chủng loại của một đồ vật hay chủ thể.',
     notes: ['Khác với mẫu sở hữu, N2 trong trường hợp nói về nội dung/chủng loại KHÔNG thể lược bỏ.'],
     examples: [
-      { ja: '日本料理の 本', vi: 'Sách về món ăn Nhật' },
-      { ja: '日本語の 学校', vi: 'Trường dạy tiếng Nhật' },
-      { ja: 'その 本は 何の 本ですか。― 料理の 本です。', vi: 'Quyển sách đó là sách về gì? ― Là sách nấu ăn.' },
-      { ja: 'これは 何の 鍵ですか。― 車の 鍵です。', vi: 'Đây là chìa khóa gì? ― Là chìa khóa ô tô.' },
+      { ja: '日本料理の 本', ruby: [["日本料理","にほんりょうり"],["の "],["本","ほん"]], vi: 'Sách về món ăn Nhật' },
+      { ja: '日本語の 学校', ruby: [["日本語","にほんご"],["の "],["学校","がっこう"]], vi: 'Trường dạy tiếng Nhật' },
+      { ja: 'その 本は 何の 本ですか。― 料理の 本です。', ruby: [["その "],["本","ほん"],["は "],["何","なん"],["の "],["本","ほん"],["ですか。― "],["料理","りょうり"],["の "],["本","ほん"],["です。"]], vi: 'Quyển sách đó là sách về gì? ― Là sách nấu ăn.' },
+      { ja: 'これは 何の 鍵ですか。― 車の 鍵です。', ruby: [["これは "],["何","なん"],["の "],["鍵","かぎ"],["ですか。― "],["車","くるま"],["の "],["鍵","かぎ"],["です。"]], vi: 'Đây là chìa khóa gì? ― Là chìa khóa ô tô.' },
     ],
   },
   {
@@ -87,9 +87,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Dùng để hỏi và nói về nguồn gốc, xuất xứ, hãng sản xuất của đồ vật.',
     notes: ['N2 có thể lược bỏ nếu đã nhắc đến trước đó hoặc đã rõ nghĩa.'],
     examples: [
-      { ja: 'ナムさんの オートバイは どこの オートバイですか。― 韓国の オートバイです。', vi: 'Xe máy của Nam là xe của nước nào? ― Xe của Hàn Quốc.' },
-      { ja: 'この お菓子、どこの（お菓子）ですか。― ベトナムのです。', vi: 'Bánh kẹo này của đâu vậy? ― Của Việt Nam.' },
-      { ja: '田中さんの 車は どこの 車ですか。― 日本の 車です。', vi: 'Xe ô tô của anh Tanaka là xe nước nào? ― Xe của Nhật Bản.' },
+      { ja: 'ナムさんの オートバイは どこの オートバイですか。― 韓国の オートバイです。', ruby: [["ナムさんの オートバイは どこの オートバイですか。― "],["韓国","かんこく"],["の オートバイです。"]], vi: 'Xe máy của Nam là xe của nước nào? ― Xe của Hàn Quốc.' },
+      { ja: 'この お菓子、どこの（お菓子）ですか。― ベトナムのです。', ruby: [["この お"],["菓子","かし"],["、どこの（お"],["菓子","かし"],["）ですか。― ベトナムのです。"]], vi: 'Bánh kẹo này của đâu vậy? ― Của Việt Nam.' },
+      { ja: '田中さんの 車は どこの 車ですか。― 日本の 車です。', ruby: [["田中","たなか"],["さんの "],["車","くるま"],["は どこの "],["車","くるま"],["ですか。― "],["日本","にほん"],["の "],["車","くるま"],["です。"]], vi: 'Xe ô tô của anh Tanaka là xe nước nào? ― Xe của Nhật Bản.' },
     ],
   },
   {
@@ -102,9 +102,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Dùng để hỏi và nói về nguyên vật liệu làm nên một đồ vật, món ăn.',
     notes: ['N2 trong trường hợp nói về nguyên vật liệu KHÔNG thể lược bỏ.'],
     examples: [
-      { ja: 'それは 何の お菓子ですか。― 豆の お菓子です。', vi: 'Cái đó là bánh làm từ gì? ― Là bánh đậu.' },
-      { ja: 'それは ぶどうの お菓子です。', vi: 'Cái đó là bánh nho.' },
-      { ja: '日本酒は 何の お酒ですか。― 米の お酒です。', vi: 'Rượu sake Nhật là rượu làm từ gì? ― Là rượu gạo.' },
+      { ja: 'それは 何の お菓子ですか。― 豆の お菓子です。', ruby: [["それは "],["何","なん"],["の お"],["菓子","かし"],["ですか。― "],["豆","まめ"],["の お"],["菓子","かし"],["です。"]], vi: 'Cái đó là bánh làm từ gì? ― Là bánh đậu.' },
+      { ja: 'それは ぶどうの お菓子です。', ruby: [["それは ぶどうの お"],["菓子","かし"],["です。"]], vi: 'Cái đó là bánh nho.' },
+      { ja: '日本酒は 何の お酒ですか。― 米の お酒です。', ruby: [["日本酒","にほんしゅ"],["は "],["何","なん"],["の お"],["酒","さけ"],["ですか。― "],["米","こめ"],["の お"],["酒","さけ"],["です。"]], vi: 'Rượu sake Nhật là rượu làm từ gì? ― Là rượu gạo.' },
     ],
   },
   // ---------------- 2C ----------------
@@ -118,9 +118,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Diễn tả nơi làm việc, học tập, cơ quan hoặc tổ chức mà người N2 trực thuộc.',
     notes: ['N1 là tên công ty, trường học, cơ quan; N2 là chức danh hoặc thành viên (社員, 学生, 職員...).'],
     examples: [
-      { ja: '田中さんは ABCカンパニーの 社員です。', vi: 'Anh Tanaka là nhân viên công ty ABC.' },
-      { ja: '私は 大学の 職員です。', vi: 'Tôi là nhân viên của trường đại học.' },
-      { ja: '鈴木さんは Sakura図書館の 職員です。', vi: 'Chị Suzuki là nhân viên thư viện Sakura.' },
+      { ja: '田中さんは ABCカンパニーの 社員です。', ruby: [["田中","たなか"],["さんは ABCカンパニーの "],["社員","しゃいん"],["です。"]], vi: 'Anh Tanaka là nhân viên công ty ABC.' },
+      { ja: '私は 大学の 職員です。', ruby: [["私","わたし"],["は "],["大学","だいがく"],["の "],["職員","しょくいん"],["です。"]], vi: 'Tôi là nhân viên của trường đại học.' },
+      { ja: '鈴木さんは Sakura図書館の 職員です。', ruby: [["鈴木","すずき"],["さんは Sakura"],["図書館","としょかん"],["の "],["職員","しょくいん"],["です。"]], vi: 'Chị Suzuki là nhân viên thư viện Sakura.' },
     ],
   },
   {
@@ -134,9 +134,9 @@ export const grammar2to7: Grammar[] = [
       'Cách liệt kê 2 danh từ trở lên đứng liền kề để nói nhiều đặc tính, vai trò cùng lúc của một người hoặc sự vật.',
     notes: ['Trợ từ「で」nối trực tiếp giữa các danh từ liệt kê đặc tính/chủng loại (không dùng「と」trong trường hợp này).'],
     examples: [
-      { ja: '田中さんは 日本人で ABCカンパニーの 社員です。', vi: 'Anh Tanaka là người Nhật và là nhân viên công ty ABC.' },
-      { ja: 'アインさんは 会社員で エンジニアです。', vi: 'Anh Ánh là nhân viên công ty và là kỹ sư.' },
-      { ja: 'ミンさんは ベトナム人で ふじ大学の 学生です。', vi: 'Minh là người Việt Nam và là sinh viên đại học Fuji.' },
+      { ja: '田中さんは 日本人で ABCカンパニーの 社員です。', ruby: [["田中","たなか"],["さんは "],["日本人","にほんじん"],["で ABCカンパニーの "],["社員","しゃいん"],["です。"]], vi: 'Anh Tanaka là người Nhật và là nhân viên công ty ABC.' },
+      { ja: 'アインさんは 会社員で エンジニアです。', ruby: [["アインさんは "],["会社員","かいしゃいん"],["で エンジニアです。"]], vi: 'Anh Ánh là nhân viên công ty và là kỹ sư.' },
+      { ja: 'ミンさんは ベトナム人で ふじ大学の 学生です。', ruby: [["ミンさんは ベトナム"],["人","じん"],["で ふじ"],["大学","だいがく"],["の "],["学生","がくせい"],["です。"]], vi: 'Minh là người Việt Nam và là sinh viên đại học Fuji.' },
     ],
   },
   // ---------------- 3A ----------------
@@ -154,10 +154,10 @@ export const grammar2to7: Grammar[] = [
       'Tiếng Nhật có 2 loại tính từ: đuôi「い」(Aい) và đuôi「な」(Aな).',
     ],
     examples: [
-      { ja: '今日は 暑いです。', vi: 'Hôm nay trời nóng.' },
-      { ja: '毎日 忙しいです。', vi: 'Mỗi ngày đều bận rộn.' },
-      { ja: 'ベトナム料理は とても おいしいです。', vi: 'Món Việt Nam rất ngon.' },
-      { ja: 'この 店は 本当に 安いですね。', vi: 'Quán này thật sự rẻ nhỉ.' },
+      { ja: '今日は 暑いです。', ruby: [["今日","きょう"],["は "],["暑","あつ"],["いです。"]], vi: 'Hôm nay trời nóng.' },
+      { ja: '毎日 忙しいです。', ruby: [["毎日","まいにち"],[" "],["忙","いそが"],["しいです。"]], vi: 'Mỗi ngày đều bận rộn.' },
+      { ja: 'ベトナム料理は とても おいしいです。', ruby: [["ベトナム"],["料理","りょうり"],["は とても おいしいです。"]], vi: 'Món Việt Nam rất ngon.' },
+      { ja: 'この 店は 本当に 安いですね。', ruby: [["この "],["店","みせ"],["は "],["本当","ほんとう"],["に "],["安","やす"],["いですね。"]], vi: 'Quán này thật sự rẻ nhỉ.' },
     ],
   },
   {
@@ -173,10 +173,10 @@ export const grammar2to7: Grammar[] = [
       'Phó từ thường đi với phủ định: あまり (không lắm), 全然（ぜんぜん）(hoàn toàn không), そんなに (không đến mức đó).',
     ],
     examples: [
-      { ja: '今日は 暑くないです。', vi: 'Hôm nay trời không nóng.' },
-      { ja: '明日は 忙しくないです。', vi: 'Ngày mai không bận.' },
-      { ja: 'この 店は 広くないです。', vi: 'Quán này không rộng.' },
-      { ja: 'この 学校は あまり 新しくないです。', vi: 'Ngôi trường này không mới lắm.' },
+      { ja: '今日は 暑くないです。', ruby: [["今日","きょう"],["は "],["暑","あつ"],["くないです。"]], vi: 'Hôm nay trời không nóng.' },
+      { ja: '明日は 忙しくないです。', ruby: [["明日","あした"],["は "],["忙","いそが"],["しくないです。"]], vi: 'Ngày mai không bận.' },
+      { ja: 'この 店は 広くないです。', ruby: [["この "],["店","みせ"],["は "],["広","ひろ"],["くないです。"]], vi: 'Quán này không rộng.' },
+      { ja: 'この 学校は あまり 新しくないです。', ruby: [["この "],["学校","がっこう"],["は あまり "],["新","あたら"],["しくないです。"]], vi: 'Ngôi trường này không mới lắm.' },
     ],
   },
   {
@@ -189,9 +189,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Câu khẳng định có vị ngữ là tính từ đuôi「な」(Aな) ở thì phi quá khứ.',
     notes: ['Một số tính từ kết thúc bằng「い」nhưng thuộc nhóm Aな: きれい, ていねい, 有名（ゆうめい）, 嫌い（きらい）...'],
     examples: [
-      { ja: 'すずきさんは 本当に きれいです。', vi: 'Chị Suzuki thật sự xinh đẹp.' },
-      { ja: 'この レストランは とても 有名です。', vi: 'Nhà hàng này rất nổi tiếng.' },
-      { ja: 'あの 人、すごく ハンサムですね。', vi: 'Người kia đẹp trai quá nhỉ.' },
+      { ja: 'すずきさんは 本当に きれいです。', ruby: [["すずきさんは "],["本当","ほんとう"],["に きれいです。"]], vi: 'Chị Suzuki thật sự xinh đẹp.' },
+      { ja: 'この レストランは とても 有名です。', ruby: [["この レストランは とても "],["有名","ゆうめい"],["です。"]], vi: 'Nhà hàng này rất nổi tiếng.' },
+      { ja: 'あの 人、すごく ハンサムですね。', ruby: [["あの "],["人","ひと"],["、すごく ハンサムですね。"]], vi: 'Người kia đẹp trai quá nhỉ.' },
     ],
   },
   {
@@ -204,9 +204,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Câu phủ định của tính từ đuôi「な」ở thì phi quá khứ, chia giống hệt danh từ.',
     notes: ['Aなじゃないです / Aなじゃありません là dạng phủ định của Aな.'],
     examples: [
-      { ja: 'この 駅は あまり 便利じゃないです。', vi: 'Nhà ga này không tiện lợi lắm.' },
-      { ja: 'この 店の 店員、あまり ていねいじゃないですね。', vi: 'Nhân viên quán này không lịch sự lắm nhỉ.' },
-      { ja: '私の 会社は ぜんぜん ゆうめいじゃないです。', vi: 'Công ty tôi hoàn toàn không nổi tiếng.' },
+      { ja: 'この 駅は あまり 便利じゃないです。', ruby: [["この "],["駅","えき"],["は あまり "],["便利","べんり"],["じゃないです。"]], vi: 'Nhà ga này không tiện lợi lắm.' },
+      { ja: 'この 店の 店員、あまり ていねいじゃないですね。', ruby: [["この "],["店","みせ"],["の "],["店員","てんいん"],["、あまり ていねいじゃないですね。"]], vi: 'Nhân viên quán này không lịch sự lắm nhỉ.' },
+      { ja: '私の 会社は ぜんぜん ゆうめいじゃないです。', ruby: [["私","わたし"],["の "],["会社","かいしゃ"],["は ぜんぜん ゆうめいじゃないです。"]], vi: 'Công ty tôi hoàn toàn không nổi tiếng.' },
     ],
   },
   {
@@ -219,9 +219,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Câu nghi vấn có vị ngữ là tính từ, thêm「か」vào cuối câu để hỏi về tính chất, đặc điểm.',
     notes: ['Khi trả lời có thể dùng thêm phó từ mức độ như とても, まあまあ, あまり...'],
     examples: [
-      { ja: '田中さんの 部屋は 広いですか。― そうですね… まあまあ 広いです。', vi: 'Phòng anh Tanaka có rộng không? ― Cũng tàm tạm rộng.' },
-      { ja: 'ベトナムは 今、暑いですか。― ええ、とても 暑いですよ。', vi: 'Việt Nam bây giờ nóng không? ― Vâng, rất nóng đấy.' },
-      { ja: 'ハノイは 賑やかですか。― はい、賑やかですよ。', vi: 'Hà Nội có náo nhiệt không? ― Có, náo nhiệt lắm.' },
+      { ja: '田中さんの 部屋は 広いですか。― そうですね… まあまあ 広いです。', ruby: [["田中","たなか"],["さんの "],["部屋","へや"],["は "],["広","ひろ"],["いですか。― そうですね… まあまあ "],["広","ひろ"],["いです。"]], vi: 'Phòng anh Tanaka có rộng không? ― Cũng tàm tạm rộng.' },
+      { ja: 'ベトナムは 今、暑いですか。― ええ、とても 暑いですよ。', ruby: [["ベトナムは "],["今","いま"],["、"],["暑","あつ"],["いですか。― ええ、とても "],["暑","あつ"],["いですよ。"]], vi: 'Việt Nam bây giờ nóng không? ― Vâng, rất nóng đấy.' },
+      { ja: 'ハノイは 賑やかですか。― はい、賑やかですよ。', ruby: [["ハノイは "],["賑","にぎ"],["やかですか。― はい、"],["賑","にぎ"],["やかですよ。"]], vi: 'Hà Nội có náo nhiệt không? ― Có, náo nhiệt lắm.' },
     ],
   },
   // ---------------- 3B ----------------
@@ -238,10 +238,10 @@ export const grammar2to7: Grammar[] = [
       'Hai tính từ nối với nhau phải cùng chiều đánh giá (cùng tích cực hoặc cùng tiêu cực).',
     ],
     examples: [
-      { ja: '安くて おいしいです。', vi: 'Vừa rẻ vừa ngon.' },
-      { ja: '私の 部屋は 新しくて 広いです。', vi: 'Phòng tôi vừa mới vừa rộng.' },
-      { ja: 'この 店は 新しくて きれいですね。', vi: 'Quán này vừa mới vừa sạch đẹp nhỉ.' },
-      { ja: 'この 車は ちいさくて かわいいです。', vi: 'Chiếc xe này vừa nhỏ vừa dễ thương.' },
+      { ja: '安くて おいしいです。', ruby: [["安","やす"],["くて おいしいです。"]], vi: 'Vừa rẻ vừa ngon.' },
+      { ja: '私の 部屋は 新しくて 広いです。', ruby: [["私","わたし"],["の "],["部屋","へや"],["は "],["新","あたら"],["しくて "],["広","ひろ"],["いです。"]], vi: 'Phòng tôi vừa mới vừa rộng.' },
+      { ja: 'この 店は 新しくて きれいですね。', ruby: [["この "],["店","みせ"],["は "],["新","あたら"],["しくて きれいですね。"]], vi: 'Quán này vừa mới vừa sạch đẹp nhỉ.' },
+      { ja: 'この 車は ちいさくて かわいいです。', ruby: [["この "],["車","くるま"],["は ちいさくて かわいいです。"]], vi: 'Chiếc xe này vừa nhỏ vừa dễ thương.' },
     ],
   },
   {
@@ -254,9 +254,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Dùng để nối tính từ đuôi「な」với một tính từ khác: giữ thân Aな rồi thêm「で」.',
     notes: ['Hai tính từ nối với nhau phải cùng chiều đánh giá tích cực hoặc tiêu cực.'],
     examples: [
-      { ja: '静かで きれいです。', vi: 'Vừa yên tĩnh vừa đẹp.' },
-      { ja: 'この 町は 便利で にぎやかです。', vi: 'Thị trấn này vừa tiện lợi vừa náo nhiệt.' },
-      { ja: 'マイさんは 親切で 可愛いです。', vi: 'Chị Mai vừa tốt bụng vừa dễ thương.' },
+      { ja: '静かで きれいです。', ruby: [["静","しず"],["かで きれいです。"]], vi: 'Vừa yên tĩnh vừa đẹp.' },
+      { ja: 'この 町は 便利で にぎやかです。', ruby: [["この "],["町","まち"],["は "],["便利","べんり"],["で にぎやかです。"]], vi: 'Thị trấn này vừa tiện lợi vừa náo nhiệt.' },
+      { ja: 'マイさんは 親切で 可愛いです。', ruby: [["マイさんは "],["親切","しんせつ"],["で "],["可愛","かわい"],["いです。"]], vi: 'Chị Mai vừa tốt bụng vừa dễ thương.' },
     ],
   },
   {
@@ -269,9 +269,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Dùng để hỏi cảm nhận, trạng thái, đặc điểm hoặc tính chất của một chủ thể.',
     notes: ['「どう」là từ để hỏi: như thế nào?'],
     examples: [
-      { ja: '最近、お仕事は どうですか。― あまり 忙しくないです。', vi: 'Dạo này công việc thế nào? ― Không bận lắm ạ.' },
-      { ja: '学校は どうですか。― 楽しいです。', vi: 'Trường học thế nào? ― Vui lắm ạ.' },
-      { ja: 'その 料理、どうですか。― ちょっと 辛いです。', vi: 'Món đó thế nào? ― Hơi cay một chút.' },
+      { ja: '最近、お仕事は どうですか。― あまり 忙しくないです。', ruby: [["最近","さいきん"],["、お"],["仕事","しごと"],["は どうですか。― あまり "],["忙","いそが"],["しくないです。"]], vi: 'Dạo này công việc thế nào? ― Không bận lắm ạ.' },
+      { ja: '学校は どうですか。― 楽しいです。', ruby: [["学校","がっこう"],["は どうですか。― "],["楽","たの"],["しいです。"]], vi: 'Trường học thế nào? ― Vui lắm ạ.' },
+      { ja: 'その 料理、どうですか。― ちょっと 辛いです。', ruby: [["その "],["料理","りょうり"],["、どうですか。― ちょっと "],["辛","から"],["いです。"]], vi: 'Món đó thế nào? ― Hơi cay một chút.' },
     ],
   },
   {
@@ -284,9 +284,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Nối 2 mệnh đề có ý nghĩa hoặc sắc thái đánh giá trái ngược nhau:「A です が、B です」.',
     notes: ['Khác với「くて / で」nối cùng chiều, dùng「が」khi hai vế tương phản nhau.'],
     examples: [
-      { ja: 'この 店は 美味しいですが、安くないです。', vi: 'Quán này ngon nhưng không rẻ.' },
-      { ja: 'この 町は きれいじゃないですが、便利です。', vi: 'Thị trấn này không đẹp nhưng tiện lợi.' },
-      { ja: '仕事は 忙しいですが、面白いです。', vi: 'Công việc tuy bận nhưng thú vị.' },
+      { ja: 'この 店は 美味しいですが、安くないです。', ruby: [["この "],["店","みせ"],["は "],["美味","おい"],["しいですが、"],["安","やす"],["くないです。"]], vi: 'Quán này ngon nhưng không rẻ.' },
+      { ja: 'この 町は きれいじゃないですが、便利です。', ruby: [["この "],["町","まち"],["は きれいじゃないですが、"],["便利","べんり"],["です。"]], vi: 'Thị trấn này không đẹp nhưng tiện lợi.' },
+      { ja: '仕事は 忙しいですが、面白いです。', ruby: [["仕事","しごと"],["は "],["忙","いそが"],["しいですが、"],["面白","おもしろ"],["いです。"]], vi: 'Công việc tuy bận nhưng thú vị.' },
     ],
   },
   // ---------------- 3C ----------------
@@ -301,10 +301,10 @@ export const grammar2to7: Grammar[] = [
       'Thì quá khứ của tính từ đuôi「い」: khẳng định đổi「い」→「かったです」; phủ định đổi「い」→「くなかったです」.',
     notes: ['Đặc biệt:「いい」→ (+)「よかった」 / (-)「よくなかった」.'],
     examples: [
-      { ja: 'バーベキューは 楽しかったです。', vi: 'Buổi tiệc nướng rất vui.' },
-      { ja: '昨日は 忙しくなかったです。', vi: 'Hôm qua tôi không bận.' },
-      { ja: 'その ラーメン、おいしかったですか。― おいしかったですが、辛かったです。', vi: 'Mì ramen đó có ngon không? ― Ngon nhưng hơi cay.' },
-      { ja: '東京は どうでしたか。― 楽しかったですが、人が 多かったです。', vi: 'Tokyo thế nào? ― Vui nhưng đông người.' },
+      { ja: 'バーベキューは 楽しかったです。', ruby: [["バーベキューは "],["楽","たの"],["しかったです。"]], vi: 'Buổi tiệc nướng rất vui.' },
+      { ja: '昨日は 忙しくなかったです。', ruby: [["昨日","きのう"],["は "],["忙","いそが"],["しくなかったです。"]], vi: 'Hôm qua tôi không bận.' },
+      { ja: 'その ラーメン、おいしかったですか。― おいしかったですが、辛かったです。', ruby: [["その ラーメン、おいしかったですか。― おいしかったですが、"],["辛","から"],["かったです。"]], vi: 'Mì ramen đó có ngon không? ― Ngon nhưng hơi cay.' },
+      { ja: '東京は どうでしたか。― 楽しかったですが、人が 多かったです。', ruby: [["東京","とうきょう"],["は どうでしたか。― "],["楽","たの"],["しかったですが、"],["人","ひと"],["が "],["多","おお"],["かったです。"]], vi: 'Tokyo thế nào? ― Vui nhưng đông người.' },
     ],
   },
   {
@@ -317,10 +317,10 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Thì quá khứ của tính từ đuôi「な」: khẳng định dùng「でした」, phủ định dùng「じゃなかったです」.',
     notes: ['Cách chia quá khứ của Aな giống hoàn toàn với danh từ.'],
     examples: [
-      { ja: '昨日の パーティーは にぎやかでした。', vi: 'Bữa tiệc hôm qua rất náo nhiệt.' },
-      { ja: 'この 町は 昔 便利じゃなかったです。', vi: 'Thị trấn này ngày xưa không tiện lợi.' },
-      { ja: '昔、父は とても ハンサムでした。', vi: 'Ngày xưa bố tôi rất đẹp trai.' },
-      { ja: '昨日、日本語の テストでしたよね。どうでしたか。― とても 簡単でした。', vi: 'Hôm qua kiểm tra tiếng Nhật nhỉ, thế nào? ― Rất dễ.' },
+      { ja: '昨日の パーティーは にぎやかでした。', ruby: [["昨日","きのう"],["の パーティーは にぎやかでした。"]], vi: 'Bữa tiệc hôm qua rất náo nhiệt.' },
+      { ja: 'この 町は 昔 便利じゃなかったです。', ruby: [["この "],["町","まち"],["は "],["昔","むかし"],[" "],["便利","べんり"],["じゃなかったです。"]], vi: 'Thị trấn này ngày xưa không tiện lợi.' },
+      { ja: '昔、父は とても ハンサムでした。', ruby: [["昔","むかし"],["、"],["父","ちち"],["は とても ハンサムでした。"]], vi: 'Ngày xưa bố tôi rất đẹp trai.' },
+      { ja: '昨日、日本語の テストでしたよね。どうでしたか。― とても 簡単でした。', ruby: [["昨日","きのう"],["、"],["日本語","にほんご"],["の テストでしたよね。どうでしたか。― とても "],["簡単","かんたん"],["でした。"]], vi: 'Hôm qua kiểm tra tiếng Nhật nhỉ, thế nào? ― Rất dễ.' },
     ],
   },
   {
@@ -337,10 +337,10 @@ export const grammar2to7: Grammar[] = [
       '「どう」kết hợp trực tiếp với「ですか」, còn sau「どんな」luôn phải có danh từ.',
     ],
     examples: [
-      { ja: '田中さんは どんな 人ですか。― ハンサムな 人です。', vi: 'Anh Tanaka là người thế nào? ― Là người đẹp trai.' },
-      { ja: '部屋は どんな 部屋ですか。― 広くて 明るい 部屋です。', vi: 'Căn phòng thế nào? ― Là căn phòng rộng và sáng sủa.' },
-      { ja: '神戸は 日本の 有名な 町です。', vi: 'Kobe là thành phố nổi tiếng của Nhật Bản.' },
-      { ja: '東京は どんな 町でしたか。― 大きくて にぎやかな 町でした。', vi: 'Tokyo từng là thành phố thế nào? ― Là thành phố lớn và náo nhiệt.' },
+      { ja: '田中さんは どんな 人ですか。― ハンサムな 人です。', ruby: [["田中","たなか"],["さんは どんな "],["人","ひと"],["ですか。― ハンサムな "],["人","ひと"],["です。"]], vi: 'Anh Tanaka là người thế nào? ― Là người đẹp trai.' },
+      { ja: '部屋は どんな 部屋ですか。― 広くて 明るい 部屋です。', ruby: [["部屋","へや"],["は どんな "],["部屋","へや"],["ですか。― "],["広","ひろ"],["くて "],["明","あか"],["るい "],["部屋","へや"],["です。"]], vi: 'Căn phòng thế nào? ― Là căn phòng rộng và sáng sủa.' },
+      { ja: '神戸は 日本の 有名な 町です。', ruby: [["神戸","こうべ"],["は "],["日本","にほん"],["の "],["有名","ゆうめい"],["な "],["町","まち"],["です。"]], vi: 'Kobe là thành phố nổi tiếng của Nhật Bản.' },
+      { ja: '東京は どんな 町でしたか。― 大きくて にぎやかな 町でした。', ruby: [["東京","とうきょう"],["は どんな "],["町","まち"],["でしたか。― "],["大","おお"],["きくて にぎやかな "],["町","まち"],["でした。"]], vi: 'Tokyo từng là thành phố thế nào? ― Là thành phố lớn và náo nhiệt.' },
     ],
   },
   // ---------------- 3D ----------------
@@ -358,9 +358,9 @@ export const grammar2to7: Grammar[] = [
       'Từ để hỏi thay đổi theo nhóm: Người (誰), Vật (何/どれ), Địa điểm (どこ), Thời gian (いつ/何月...).',
     ],
     examples: [
-      { ja: 'クラスで 誰が 一番 ハンサムですか。― ズン先生が 一番 ハンサムです。', vi: 'Trong lớp ai đẹp trai nhất? ― Thầy Dũng đẹp trai nhất.' },
-      { ja: 'この 店で 何が 一番 おいしいですか。― この ケーキが 一番 おいしいですよ。', vi: 'Ở quán này món gì ngon nhất? ― Bánh ngọt này ngon nhất đấy.' },
-      { ja: '日本で どこが 一番 寒いですか。― 北海道が 一番 寒いです。', vi: 'Ở Nhật nơi nào lạnh nhất? ― Hokkaido lạnh nhất.' },
+      { ja: 'クラスで 誰が 一番 ハンサムですか。― ズン先生が 一番 ハンサムです。', ruby: [["クラスで "],["誰","だれ"],["が "],["一番","いちばん"],[" ハンサムですか。― ズン"],["先生","せんせい"],["が "],["一番","いちばん"],[" ハンサムです。"]], vi: 'Trong lớp ai đẹp trai nhất? ― Thầy Dũng đẹp trai nhất.' },
+      { ja: 'この 店で 何が 一番 おいしいですか。― この ケーキが 一番 おいしいですよ。', ruby: [["この "],["店","みせ"],["で "],["何","なに"],["が "],["一番","いちばん"],[" おいしいですか。― この ケーキが "],["一番","いちばん"],[" おいしいですよ。"]], vi: 'Ở quán này món gì ngon nhất? ― Bánh ngọt này ngon nhất đấy.' },
+      { ja: '日本で どこが 一番 寒いですか。― 北海道が 一番 寒いです。', ruby: [["日本","にほん"],["で どこが "],["一番","いちばん"],[" "],["寒","さむ"],["いですか。― "],["北海道","ほっかいどう"],["が "],["一番","いちばん"],[" "],["寒","さむ"],["いです。"]], vi: 'Ở Nhật nơi nào lạnh nhất? ― Hokkaido lạnh nhất.' },
     ],
   },
   {
@@ -377,9 +377,9 @@ export const grammar2to7: Grammar[] = [
       'Nếu cả hai đều như nhau, trả lời:「どちらも / どっちも A です」.',
     ],
     examples: [
-      { ja: 'この 店と あの 店と どちらが おいしいですか。― あの 店の ほうが おいしいですよ。', vi: 'Quán này với quán kia quán nào ngon hơn? ― Quán kia ngon hơn.' },
-      { ja: 'フォーと バインミー、どちらが 有名ですか。― どちらも 有名です。', vi: 'Phở và bánh mì cái nào nổi tiếng hơn? ― Cả hai đều nổi tiếng.' },
-      { ja: '日本と ベトナムと どちらが 暑いですか。― ベトナムの ほうが 暑いです。', vi: 'Nhật Bản và Việt Nam nước nào nóng hơn? ― Việt Nam nóng hơn.' },
+      { ja: 'この 店と あの 店と どちらが おいしいですか。― あの 店の ほうが おいしいですよ。', ruby: [["この "],["店","みせ"],["と あの "],["店","みせ"],["と どちらが おいしいですか。― あの "],["店","みせ"],["の ほうが おいしいですよ。"]], vi: 'Quán này với quán kia quán nào ngon hơn? ― Quán kia ngon hơn.' },
+      { ja: 'フォーと バインミー、どちらが 有名ですか。― どちらも 有名です。', ruby: [["フォーと バインミー、どちらが "],["有名","ゆうめい"],["ですか。― どちらも "],["有名","ゆうめい"],["です。"]], vi: 'Phở và bánh mì cái nào nổi tiếng hơn? ― Cả hai đều nổi tiếng.' },
+      { ja: '日本と ベトナムと どちらが 暑いですか。― ベトナムの ほうが 暑いです。', ruby: [["日本","にほん"],["と ベトナムと どちらが "],["暑","あつ"],["いですか。― ベトナムの ほうが "],["暑","あつ"],["いです。"]], vi: 'Nhật Bản và Việt Nam nước nào nóng hơn? ― Việt Nam nóng hơn.' },
     ],
   },
   {
@@ -392,9 +392,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Mẫu câu so sánh hơn trực tiếp giữa chủ thể N1 với đối tượng N2.',
     notes: ['「より」đặt ngay sau đối tượng được đem ra làm mốc so sánh (N2).'],
     examples: [
-      { ja: 'フォーは バインミーより 有名です。', vi: 'Phở nổi tiếng hơn bánh mì.' },
-      { ja: 'ベトナムは 日本より 暑いです。', vi: 'Việt Nam nóng hơn Nhật Bản.' },
-      { ja: '北海道は 東京より 寒いです。', vi: 'Hokkaido lạnh hơn Tokyo.' },
+      { ja: 'フォーは バインミーより 有名です。', ruby: [["フォーは バインミーより "],["有名","ゆうめい"],["です。"]], vi: 'Phở nổi tiếng hơn bánh mì.' },
+      { ja: 'ベトナムは 日本より 暑いです。', ruby: [["ベトナムは "],["日本","にほん"],["より "],["暑","あつ"],["いです。"]], vi: 'Việt Nam nóng hơn Nhật Bản.' },
+      { ja: '北海道は 東京より 寒いです。', ruby: [["北海道","ほっかいどう"],["は "],["東京","とうきょう"],["より "],["寒","さむ"],["いです。"]], vi: 'Hokkaido lạnh hơn Tokyo.' },
     ],
   },
   // ---------------- 4A ----------------
@@ -412,10 +412,10 @@ export const grammar2to7: Grammar[] = [
       '「うん」và「ううん」dùng âm mũi thay cho はい / いいえ trong giao tiếp thân mật.',
     ],
     examples: [
-      { ja: 'これは 何ですか。→ これ（は）何？', vi: 'Cái này là gì vậy?' },
-      { ja: 'あの 人は だれですか。→ あの 人（は）だれ？', vi: 'Người kia là ai thế?' },
-      { ja: '明日は 仕事ですか。→ 明日（は）仕事？', vi: 'Ngày mai có làm việc không?' },
-      { ja: '明後日は 暇ですか。→ 明後日（は）暇？', vi: 'Ngày kia rảnh không?' },
+      { ja: 'これは 何ですか。→ これ（は）何？', ruby: [["これは "],["何","なん"],["ですか。→ これ（は）"],["何","なん"],["？"]], vi: 'Cái này là gì vậy?' },
+      { ja: 'あの 人は だれですか。→ あの 人（は）だれ？', ruby: [["あの "],["人","ひと"],["は だれですか。→ あの "],["人","ひと"],["（は）だれ？"]], vi: 'Người kia là ai thế?' },
+      { ja: '明日は 仕事ですか。→ 明日（は）仕事？', ruby: [["明日","あした"],["は "],["仕事","しごと"],["ですか。→ "],["明日","あした"],["（は）"],["仕事","しごと"],["？"]], vi: 'Ngày mai có làm việc không?' },
+      { ja: '明後日は 暇ですか。→ 明後日（は）暇？', ruby: [["明後日","あさって"],["は "],["暇","ひま"],["ですか。→ "],["明後日","あさって"],["（は）"],["暇","ひま"],["？"]], vi: 'Ngày kia rảnh không?' },
     ],
   },
   {
@@ -430,9 +430,9 @@ export const grammar2to7: Grammar[] = [
       'Giữ nguyên「だ」trong 2 trường hợp: (1) Trước các hậu tố「よ、ね、よね」(だよ / だね / だよね); (2) Khi nói điều mình mới biết hoặc mới phát hiện ra.',
     ],
     examples: [
-      { ja: 'ベトナム人です。→ ベトナム人。', vi: 'Là người Việt Nam.' },
-      { ja: 'ベトナム人ですよ。→ ベトナム人だよ。', vi: 'Là người Việt Nam đấy.' },
-      { ja: '田中さんは とても 親切ですよ。→ 田中さんは とても 親切だよ。', vi: 'Anh Tanaka rất tốt bụng đấy.' },
+      { ja: 'ベトナム人です。→ ベトナム人。', ruby: [["ベトナム"],["人","じん"],["です。→ ベトナム"],["人","じん"],["。"]], vi: 'Là người Việt Nam.' },
+      { ja: 'ベトナム人ですよ。→ ベトナム人だよ。', ruby: [["ベトナム"],["人","じん"],["ですよ。→ ベトナム"],["人","じん"],["だよ。"]], vi: 'Là người Việt Nam đấy.' },
+      { ja: '田中さんは とても 親切ですよ。→ 田中さんは とても 親切だよ。', ruby: [["田中","たなか"],["さんは とても "],["親切","しんせつ"],["ですよ。→ "],["田中","たなか"],["さんは とても "],["親切","しんせつ"],["だよ。"]], vi: 'Anh Tanaka rất tốt bụng đấy.' },
       { ja: 'あの レストランは きれいですね。→ あの レストラン（は）きれいだね。', vi: 'Nhà hàng kia đẹp nhỉ.' },
     ],
   },
@@ -447,9 +447,9 @@ export const grammar2to7: Grammar[] = [
       'Thể thường phủ định của N và Aな là「じゃない」. Lên giọng ở cuối câu「じゃない？↗」mang nghĩa xác nhận ý kiến ("chẳng phải... sao?"), xuống giọng「じゃない↘」mang nghĩa phủ định.',
     notes: ['「じゃないですか / じゃありませんか」→「じゃない？↗」;「じゃないです / じゃありません」→「じゃない↘」.'],
     examples: [
-      { ja: 'ベトナム料理じゃないですか？ → ベトナム料理じゃない？', vi: 'Chẳng phải món Việt Nam sao?' },
-      { ja: 'ベトナム料理じゃないです。→ ベトナム料理じゃない。', vi: 'Không phải món Việt Nam.' },
-      { ja: 'ベトナム料理じゃないですよ。→ ベトナム料理じゃないよ。', vi: 'Không phải món Việt Nam đâu nhé.' },
+      { ja: 'ベトナム料理じゃないですか？ → ベトナム料理じゃない？', ruby: [["ベトナム"],["料理","りょうり"],["じゃないですか？ → ベトナム"],["料理","りょうり"],["じゃない？"]], vi: 'Chẳng phải món Việt Nam sao?' },
+      { ja: 'ベトナム料理じゃないです。→ ベトナム料理じゃない。', ruby: [["ベトナム"],["料理","りょうり"],["じゃないです。→ ベトナム"],["料理","りょうり"],["じゃない。"]], vi: 'Không phải món Việt Nam.' },
+      { ja: 'ベトナム料理じゃないですよ。→ ベトナム料理じゃないよ。', ruby: [["ベトナム"],["料理","りょうり"],["じゃないですよ。→ ベトナム"],["料理","りょうり"],["じゃないよ。"]], vi: 'Không phải món Việt Nam đâu nhé.' },
     ],
   },
   {
@@ -462,9 +462,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Chuyển「でした」→「だった」; câu nghi vấn quá khứ chuyển「でしたか」→「だった？」(lên giọng cuối câu).',
     notes: ['Khác với hiện tại thường bỏ「だ」, quá khứ luôn giữ「だった」.'],
     examples: [
-      { ja: '昨日は 雨でした。→ 昨日は あめだった。', vi: 'Hôm qua trời mưa.' },
+      { ja: '昨日は 雨でした。→ 昨日は あめだった。', ruby: [["昨日","きのう"],["は "],["雨","あめ"],["でした。→ "],["昨日","きのう"],["は あめだった。"]], vi: 'Hôm qua trời mưa.' },
       { ja: 'パーティーは にぎやかでした。→ パーティーは にぎやかだった。', vi: 'Bữa tiệc rất náo nhiệt.' },
-      { ja: 'テスト、どうでしたか？ → テスト、どうだった？ ― 簡単だった。', vi: 'Bài kiểm tra thế nào? ― Dễ ợt.' },
+      { ja: 'テスト、どうでしたか？ → テスト、どうだった？ ― 簡単だった。', ruby: [["テスト、どうでしたか？ → テスト、どうだった？ ― "],["簡単","かんたん"],["だった。"]], vi: 'Bài kiểm tra thế nào? ― Dễ ợt.' },
     ],
   },
   {
@@ -477,8 +477,8 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Chuyển「じゃなかったです / じゃありませんでした」→「じゃなかった」.',
     notes: ['Dạng văn viết「ではありませんでした」→「ではなかった」.'],
     examples: [
-      { ja: 'あの 人、マインさんじゃなかった。', vi: 'Người kia hóa ra không phải là Mạnh.' },
-      { ja: '昨日、暇じゃなかった。', vi: 'Hôm qua tôi không rảnh.' },
+      { ja: 'あの 人、マインさんじゃなかった。', ruby: [["あの "],["人","ひと"],["、マインさんじゃなかった。"]], vi: 'Người kia hóa ra không phải là Mạnh.' },
+      { ja: '昨日、暇じゃなかった。', ruby: [["昨日","きのう"],["、"],["暇","ひま"],["じゃなかった。"]], vi: 'Hôm qua tôi không rảnh.' },
     ],
   },
   // ---------------- 4B ----------------
@@ -493,7 +493,7 @@ export const grammar2to7: Grammar[] = [
     notes: ['Trả lời thân mật: うん、Aい / ううん、Aいくない.'],
     examples: [
       { ja: 'これは おいしいですか。→ これ、おいしい？', vi: 'Cái này ngon không?' },
-      { ja: '仕事は 忙しいですか。→ 仕事は 忙しい？', vi: 'Công việc bận không?' },
+      { ja: '仕事は 忙しいですか。→ 仕事は 忙しい？', ruby: [["仕事","しごと"],["は "],["忙","いそが"],["しいですか。→ "],["仕事","しごと"],["は "],["忙","いそが"],["しい？"]], vi: 'Công việc bận không?' },
     ],
   },
   {
@@ -506,9 +506,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Chỉ cần bỏ「です」ở cuối câu (KHÔNG thêm「だ」sau tính từ đuôi い).',
     notes: ['Sai: おいしいだ × → Đúng: おいしい ○.'],
     examples: [
-      { ja: 'ベトナム料理は おいしいです。→ ベトナム料理は おいしい。', vi: 'Món Việt Nam ngon.' },
-      { ja: 'この 本は 面白いです。→ この 本は 面白い。', vi: 'Quyển sách này thú vị.' },
-      { ja: '東京は 今日、暑い？ ― うん、暑いよ。', vi: 'Tokyo hôm nay nóng không? ― Ừ, nóng đấy.' },
+      { ja: 'ベトナム料理は おいしいです。→ ベトナム料理は おいしい。', ruby: [["ベトナム"],["料理","りょうり"],["は おいしいです。→ ベトナム"],["料理","りょうり"],["は おいしい。"]], vi: 'Món Việt Nam ngon.' },
+      { ja: 'この 本は 面白いです。→ この 本は 面白い。', ruby: [["この "],["本","ほん"],["は "],["面白","おもしろ"],["いです。→ この "],["本","ほん"],["は "],["面白","おもしろ"],["い。"]], vi: 'Quyển sách này thú vị.' },
+      { ja: '東京は 今日、暑い？ ― うん、暑いよ。', ruby: [["東京","とうきょう"],["は "],["今日","きょう"],["、"],["暑","あつ"],["い？ ― うん、"],["暑","あつ"],["いよ。"]], vi: 'Tokyo hôm nay nóng không? ― Ừ, nóng đấy.' },
     ],
   },
   {
@@ -524,9 +524,9 @@ export const grammar2to7: Grammar[] = [
       'Aい → Aい けど； Aな / N → Aな / N だけど.',
     ],
     examples: [
-      { ja: 'この 店、おいしいけど、高いね。', vi: 'Quán này ngon nhưng đắt nhỉ.' },
-      { ja: 'この 町は 便利だけど、きれいじゃないね。', vi: 'Thị trấn này tiện lợi nhưng không đẹp nhỉ.' },
-      { ja: 'この 店の 料理は どう？ ― おいしいけど、高いよ。', vi: 'Đồ ăn quán này thế nào? ― Ngon nhưng đắt đấy.' },
+      { ja: 'この 店、おいしいけど、高いね。', ruby: [["この "],["店","みせ"],["、おいしいけど、"],["高","たか"],["いね。"]], vi: 'Quán này ngon nhưng đắt nhỉ.' },
+      { ja: 'この 町は 便利だけど、きれいじゃないね。', ruby: [["この "],["町","まち"],["は "],["便利","べんり"],["だけど、きれいじゃないね。"]], vi: 'Thị trấn này tiện lợi nhưng không đẹp nhỉ.' },
+      { ja: 'この 店の 料理は どう？ ― おいしいけど、高いよ。', ruby: [["この "],["店","みせ"],["の "],["料理","りょうり"],["は どう？ ― おいしいけど、"],["高","たか"],["いよ。"]], vi: 'Đồ ăn quán này thế nào? ― Ngon nhưng đắt đấy.' },
     ],
   },
   {
@@ -539,8 +539,8 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Bỏ「です」sau「Aいかった」.',
     notes: ['「高かったです」→「高かった」;「高かったですよ」→「高かったよ」.'],
     examples: [
-      { ja: '高かったです。→ 高かった。', vi: 'Đã đắt.' },
-      { ja: '高かったですよ。→ 高かったよ。', vi: 'Đắt lắm đấy.' },
+      { ja: '高かったです。→ 高かった。', ruby: [["高","たか"],["かったです。→ "],["高","たか"],["かった。"]], vi: 'Đã đắt.' },
+      { ja: '高かったですよ。→ 高かったよ。', ruby: [["高","たか"],["かったですよ。→ "],["高","たか"],["かったよ。"]], vi: 'Đắt lắm đấy.' },
     ],
   },
   {
@@ -556,7 +556,7 @@ export const grammar2to7: Grammar[] = [
       'Đúng: おいしいね / おいしくないね / おいしくなかったね.',
     ],
     examples: [
-      { ja: '日本語は 難しくないですね。→ 日本語は 難しくないね。', vi: 'Tiếng Nhật không khó nhỉ.' },
+      { ja: '日本語は 難しくないですね。→ 日本語は 難しくないね。', ruby: [["日本語","にほんご"],["は "],["難","むずか"],["しくないですね。→ "],["日本語","にほんご"],["は "],["難","むずか"],["しくないね。"]], vi: 'Tiếng Nhật không khó nhỉ.' },
       { ja: 'あの レストランは おいしくなかったですね。→ あの レストラン、おいしくなかったね。', vi: 'Nhà hàng kia hôm trước ăn không ngon nhỉ.' },
     ],
   },
@@ -575,7 +575,7 @@ export const grammar2to7: Grammar[] = [
     ],
     examples: [
       { ja: 'あのー、MoriPhoneの スマホケース、ありますか。― はい、あります。こちらです。', vi: 'Cho hỏi có ốp lưng MoriPhone không ạ? ― Vâng, có ạ. Ở đây ạ.' },
-      { ja: 'あのー、この 本は ありますか。― すみません、こちらの 本は ありませんね…。', vi: 'Cho hỏi có quyển sách này không? ― Xin lỗi, quyển sách này bên tôi không có rồi...' },
+      { ja: 'あのー、この 本は ありますか。― すみません、こちらの 本は ありませんね…。', ruby: [["あのー、この "],["本","ほん"],["は ありますか。― すみません、こちらの "],["本","ほん"],["は ありませんね…。"]], vi: 'Cho hỏi có quyển sách này không? ― Xin lỗi, quyển sách này bên tôi không có rồi...' },
       { ja: 'あのー、はさみ（は）ありますか。― はい、あります。こちらです。', vi: 'Cho hỏi có kéo không ạ? ― Có ạ, ở đây ạ.' },
     ],
   },
@@ -592,10 +592,10 @@ export const grammar2to7: Grammar[] = [
       'Vị trí tương đối:【Vật làm mốc】の【隣 / 横 / 上 / 下 / 中 / 前 / 後ろ / 右 / 左 / 近く】; ở giữa là「A と B の 間」.',
     ],
     examples: [
-      { ja: '公園は 銀行の 隣です。', vi: 'Công viên ở bên cạnh ngân hàng.' },
-      { ja: 'ノートは 机の 上に あります。', vi: 'Quyển vở ở trên bàn.' },
-      { ja: 'スマホは かばんの 中に あります。', vi: 'Điện thoại ở trong cặp.' },
-      { ja: 'すみません、タオルは どこですか。― あ、タオルは ごみ箱の 横に あります。', vi: 'Xin lỗi, khăn tắm ở đâu vậy? ― À, khăn ở bên cạnh thùng rác.' },
+      { ja: '公園は 銀行の 隣です。', ruby: [["公園","こうえん"],["は "],["銀行","ぎんこう"],["の "],["隣","となり"],["です。"]], vi: 'Công viên ở bên cạnh ngân hàng.' },
+      { ja: 'ノートは 机の 上に あります。', ruby: [["ノートは "],["机","つくえ"],["の "],["上","うえ"],["に あります。"]], vi: 'Quyển vở ở trên bàn.' },
+      { ja: 'スマホは かばんの 中に あります。', ruby: [["スマホは かばんの "],["中","なか"],["に あります。"]], vi: 'Điện thoại ở trong cặp.' },
+      { ja: 'すみません、タオルは どこですか。― あ、タオルは ごみ箱の 横に あります。', ruby: [["すみません、タオルは どこですか。― あ、タオルは ごみ"],["箱","はこ"],["の "],["横","よこ"],["に あります。"]], vi: 'Xin lỗi, khăn tắm ở đâu vậy? ― À, khăn ở bên cạnh thùng rác.' },
     ],
   },
   {
@@ -608,9 +608,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Diễn tả tại địa điểm N1 có đồ vật, tòa nhà, cây cối N2 tồn tại.',
     notes: ['「に」đứng sau địa điểm;「が」đứng sau chủ thể tồn tại.'],
     examples: [
-      { ja: '庭に オートバイが あります。', vi: 'Ở ngoài sân có xe máy.' },
-      { ja: 'ベッドの 上に かばんが あります。', vi: 'Trên giường có cái cặp.' },
-      { ja: 'ここに 辞書が あります。', vi: 'Ở đây có quyển từ điển.' },
+      { ja: '庭に オートバイが あります。', ruby: [["庭","にわ"],["に オートバイが あります。"]], vi: 'Ở ngoài sân có xe máy.' },
+      { ja: 'ベッドの 上に かばんが あります。', ruby: [["ベッドの "],["上","うえ"],["に かばんが あります。"]], vi: 'Trên giường có cái cặp.' },
+      { ja: 'ここに 辞書が あります。', ruby: [["ここに "],["辞書","じしょ"],["が あります。"]], vi: 'Ở đây có quyển từ điển.' },
     ],
   },
   // ---------------- 5B ----------------
@@ -624,8 +624,8 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Dùng「います」để hỏi về sự tồn tại của người và động vật.',
     notes: ['Phủ định của「います」là「いません」hoặc「いないです」.'],
     examples: [
-      { ja: 'すみません、山田さん（は）いますか。― はい、いますよ。', vi: 'Xin lỗi, anh Yamada có ở đây không? ― Có ạ.' },
-      { ja: 'あのー、田中さん（は）いますか。― あー、田中さんは 今 いないですよ。', vi: 'Cho hỏi anh Tanaka có ở đây không? ― À, anh Tanaka bây giờ không có ở đây.' },
+      { ja: 'すみません、山田さん（は）いますか。― はい、いますよ。', ruby: [["すみません、"],["山田","やまだ"],["さん（は）いますか。― はい、いますよ。"]], vi: 'Xin lỗi, anh Yamada có ở đây không? ― Có ạ.' },
+      { ja: 'あのー、田中さん（は）いますか。― あー、田中さんは 今 いないですよ。', ruby: [["あのー、"],["田中","たなか"],["さん（は）いますか。― あー、"],["田中","たなか"],["さんは "],["今","いま"],[" いないですよ。"]], vi: 'Cho hỏi anh Tanaka có ở đây không? ― À, anh Tanaka bây giờ không có ở đây.' },
       { ja: 'ナムさんは いますか。― はい、います。', vi: 'Nam có ở đây không? ― Có.' },
     ],
   },
@@ -639,10 +639,10 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Hỏi và trả lời vị trí của người hoặc động vật:「N は どこですか / どこに いますか」.',
     notes: ['Khi nói về người bề trên (khách hàng, cấp trên...), dùng kính ngữ「いらっしゃいます」thay cho「います」.'],
     examples: [
-      { ja: '鈴木さんは 部屋に います。', vi: 'Chị Suzuki đang ở trong phòng.' },
-      { ja: 'ミンさんは 教室に います。', vi: 'Minh đang ở trong lớp học.' },
-      { ja: 'ミンさんは どこですか。― ミンさんは 病院に います。', vi: 'Minh đang ở đâu? ― Minh đang ở bệnh viện.' },
-      { ja: 'ナム社長は 今、事務所に いらっしゃいます。', vi: 'Giám đốc Nam hiện đang ở văn phòng.' },
+      { ja: '鈴木さんは 部屋に います。', ruby: [["鈴木","すずき"],["さんは "],["部屋","へや"],["に います。"]], vi: 'Chị Suzuki đang ở trong phòng.' },
+      { ja: 'ミンさんは 教室に います。', ruby: [["ミンさんは "],["教室","きょうしつ"],["に います。"]], vi: 'Minh đang ở trong lớp học.' },
+      { ja: 'ミンさんは どこですか。― ミンさんは 病院に います。', ruby: [["ミンさんは どこですか。― ミンさんは "],["病院","びょういん"],["に います。"]], vi: 'Minh đang ở đâu? ― Minh đang ở bệnh viện.' },
+      { ja: 'ナム社長は 今、事務所に いらっしゃいます。', ruby: [["ナム"],["社長","しゃちょう"],["は "],["今","いま"],["、"],["事務所","じむしょ"],["に いらっしゃいます。"]], vi: 'Giám đốc Nam hiện đang ở văn phòng.' },
     ],
   },
   {
@@ -658,10 +658,10 @@ export const grammar2to7: Grammar[] = [
       'Hỏi có con vật gì: dùng nghi vấn từ「何が いますか」.',
     ],
     examples: [
-      { ja: '窓の 外に 誰が いますか。', vi: 'Ngoài cửa sổ có ai vậy?' },
-      { ja: '会社の 前に 誰かが います。', vi: 'Trước công ty có ai đó.' },
-      { ja: '公園に 犬が います。', vi: 'Trong công viên có con chó.' },
-      { ja: '誰が いますか。― 田中さんが います。', vi: 'Có ai ở đó vậy? ― Có anh Tanaka.' },
+      { ja: '窓の 外に 誰が いますか。', ruby: [["窓","まど"],["の "],["外","そと"],["に "],["誰","だれ"],["が いますか。"]], vi: 'Ngoài cửa sổ có ai vậy?' },
+      { ja: '会社の 前に 誰かが います。', ruby: [["会社","かいしゃ"],["の "],["前","まえ"],["に "],["誰","だれ"],["かが います。"]], vi: 'Trước công ty có ai đó.' },
+      { ja: '公園に 犬が います。', ruby: [["公園","こうえん"],["に "],["犬","いぬ"],["が います。"]], vi: 'Trong công viên có con chó.' },
+      { ja: '誰が いますか。― 田中さんが います。', ruby: [["誰","だれ"],["が いますか。― "],["田中","たなか"],["さんが います。"]], vi: 'Có ai ở đó vậy? ― Có anh Tanaka.' },
     ],
   },
   // ---------------- 5C ----------------
@@ -676,9 +676,9 @@ export const grammar2to7: Grammar[] = [
       '「は」đứng sau「に」để nhấn mạnh địa điểm chủ đề;「も」đứng sau「に」để diễn tả một đối tượng có ở A và cũng có ở B.',
     notes: ['Cấu trúc tương tự「N1 も N2 です」ở Bài 1.'],
     examples: [
-      { ja: '会社には 食堂が あります。学校にも 食堂が ありますか。', vi: 'Ở công ty có nhà ăn. Ở trường cũng có nhà ăn chứ?' },
-      { ja: '日本には ラーメンの 店が たくさん あります。ベトナムにも あります。', vi: 'Ở Nhật có nhiều quán mì ramen. Ở Việt Nam cũng có.' },
-      { ja: '日本には 地下鉄が ありますが、ベトナムにも ありますか。― いいえ、ベトナムには ありません。', vi: 'Ở Nhật có tàu điện ngầm, ở Việt Nam cũng có chứ? ― Không, ở Việt Nam không có.' },
+      { ja: '会社には 食堂が あります。学校にも 食堂が ありますか。', ruby: [["会社","かいしゃ"],["には "],["食堂","しょくどう"],["が あります。"],["学校","がっこう"],["にも "],["食堂","しょくどう"],["が ありますか。"]], vi: 'Ở công ty có nhà ăn. Ở trường cũng có nhà ăn chứ?' },
+      { ja: '日本には ラーメンの 店が たくさん あります。ベトナムにも あります。', ruby: [["日本","にほん"],["には ラーメンの "],["店","みせ"],["が たくさん あります。ベトナムにも あります。"]], vi: 'Ở Nhật có nhiều quán mì ramen. Ở Việt Nam cũng có.' },
+      { ja: '日本には 地下鉄が ありますが、ベトナムにも ありますか。― いいえ、ベトナムには ありません。', ruby: [["日本","にほん"],["には "],["地下鉄","ちかてつ"],["が ありますが、ベトナムにも ありますか。― いいえ、ベトナムには ありません。"]], vi: 'Ở Nhật có tàu điện ngầm, ở Việt Nam cũng có chứ? ― Không, ở Việt Nam không có.' },
     ],
   },
   {
@@ -693,8 +693,8 @@ export const grammar2to7: Grammar[] = [
       'KHÔNG dùng「と」khi: (1) một người/vật đồng thời giữ cả 2 vai trò N1 và N2 (phải dùng「で」); (2) nối tính từ/động từ (phải dùng「くて / で」).',
     ],
     examples: [
-      { ja: '部屋に 田中さんと ナムさんが います。', vi: 'Trong phòng có anh Tanaka và anh Nam.' },
-      { ja: '休みは 土曜日と 日曜日です。', vi: 'Ngày nghỉ là thứ Bảy và Chủ Nhật.' },
+      { ja: '部屋に 田中さんと ナムさんが います。', ruby: [["部屋","へや"],["に "],["田中","たなか"],["さんと ナムさんが います。"]], vi: 'Trong phòng có anh Tanaka và anh Nam.' },
+      { ja: '休みは 土曜日と 日曜日です。', ruby: [["休","やす"],["みは "],["土曜日","どようび"],["と "],["日曜日","にちようび"],["です。"]], vi: 'Ngày nghỉ là thứ Bảy và Chủ Nhật.' },
     ],
   },
   {
@@ -713,10 +713,10 @@ export const grammar2to7: Grammar[] = [
       'Đếm động vật nhỏ: いっぴき, にひき, さんびき... (? 何匹 なんびき).',
     ],
     examples: [
-      { ja: '田中さんには 車が ありません。', vi: 'Anh Tanaka không có ô tô.' },
-      { ja: '私には 子供が 2人 います。', vi: 'Tôi có 2 đứa con.' },
-      { ja: 'テーブルの 上に コップが 2つ あります。', vi: 'Trên bàn có 2 cái cốc.' },
-      { ja: '公園に 犬が 3匹 います。', vi: 'Trong công viên có 3 con chó.' },
+      { ja: '田中さんには 車が ありません。', ruby: [["田中","たなか"],["さんには "],["車","くるま"],["が ありません。"]], vi: 'Anh Tanaka không có ô tô.' },
+      { ja: '私には 子供が 2人 います。', ruby: [["私","わたし"],["には "],["子供","こども"],["が 2"],["人","ひと"],[" います。"]], vi: 'Tôi có 2 đứa con.' },
+      { ja: 'テーブルの 上に コップが 2つ あります。', ruby: [["テーブルの "],["上","うえ"],["に コップが 2つ あります。"]], vi: 'Trên bàn có 2 cái cốc.' },
+      { ja: '公園に 犬が 3匹 います。', ruby: [["公園","こうえん"],["に "],["犬","いぬ"],["が "],["3匹","さんびき"],[" います。"]], vi: 'Trong công viên có 3 con chó.' },
     ],
   },
   // ---------------- 6A ----------------
@@ -731,8 +731,8 @@ export const grammar2to7: Grammar[] = [
       '「V ます」diễn tả thói quen, hành động ở hiện tại hoặc tương lai.「V ました」diễn tả hành động đã xảy ra trong quá khứ.',
     notes: ['Ví dụ: 寝ます → 寝ました；起きます → 起きました；働きます → 働きました.'],
     examples: [
-      { ja: '毎日 6時に 起きます。', vi: 'Mỗi ngày tôi dậy lúc 6 giờ.' },
-      { ja: '昨日 11時に 寝ました。', vi: 'Hôm qua tôi đi ngủ lúc 11 giờ.' },
+      { ja: '毎日 6時に 起きます。', ruby: [["毎日","まいにち"],[" "],["6時","ろくじ"],["に "],["起","お"],["きます。"]], vi: 'Mỗi ngày tôi dậy lúc 6 giờ.' },
+      { ja: '昨日 11時に 寝ました。', ruby: [["昨日","きのう"],[" "],["11時","じゅういちじ"],["に "],["寝","ね"],["ました。"]], vi: 'Hôm qua tôi đi ngủ lúc 11 giờ.' },
     ],
   },
   {
@@ -748,9 +748,9 @@ export const grammar2to7: Grammar[] = [
       'Khi hỏi thời điểm chung có thể dùng「いつ V か」.',
     ],
     examples: [
-      { ja: '今朝 11時に 出かけました。', vi: 'Sáng nay tôi đã ra ngoài lúc 11 giờ.' },
-      { ja: '昨日の 夜、何時に 寝ましたか。', vi: 'Tối hôm qua bạn đi ngủ lúc mấy giờ?' },
-      { ja: '毎朝、何時に 起きますか。― 5時50分に 起きます。', vi: 'Mỗi sáng bạn dậy lúc mấy giờ? ― Tôi dậy lúc 5 giờ 50.' },
+      { ja: '今朝 11時に 出かけました。', ruby: [["今朝","けさ"],[" "],["11時","じゅういちじ"],["に "],["出","で"],["かけました。"]], vi: 'Sáng nay tôi đã ra ngoài lúc 11 giờ.' },
+      { ja: '昨日の 夜、何時に 寝ましたか。', ruby: [["昨日","きのう"],["の "],["夜","よる"],["、"],["何時","なんじ"],["に "],["寝","ね"],["ましたか。"]], vi: 'Tối hôm qua bạn đi ngủ lúc mấy giờ?' },
+      { ja: '毎朝、何時に 起きますか。― 5時50分に 起きます。', ruby: [["毎朝","まいあさ"],["、"],["何時","なんじ"],["に "],["起","お"],["きますか。― "],["5時","ごじ"],["50"],["分","ふん"],["に "],["起","お"],["きます。"]], vi: 'Mỗi sáng bạn dậy lúc mấy giờ? ― Tôi dậy lúc 5 giờ 50.' },
     ],
   },
   {
@@ -763,9 +763,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Diễn tả khoảng thời lượng thực hiện hành động.',
     notes: ['KHÔNG thêm trợ từ「に」vào sau lượng từ chỉ khoảng thời gian (vd: 8時間 寝ます ○, 8時間に 寝ます ×).'],
     examples: [
-      { ja: '田中さんは 今朝 30分 歩きました。', vi: 'Sáng nay anh Tanaka đã đi bộ 30 phút.' },
-      { ja: '私は 昨日 4時間くらい 勉強しました。', vi: 'Hôm qua tôi đã học khoảng 4 tiếng.' },
-      { ja: 'マイさんは 毎日 8時間 働きます。', vi: 'Chị Mai mỗi ngày làm việc 8 tiếng.' },
+      { ja: '田中さんは 今朝 30分 歩きました。', ruby: [["田中","たなか"],["さんは "],["今朝","けさ"],[" "],["30分","さんじゅっぷん"],[" "],["歩","ある"],["きました。"]], vi: 'Sáng nay anh Tanaka đã đi bộ 30 phút.' },
+      { ja: '私は 昨日 4時間くらい 勉強しました。', ruby: [["私","わたし"],["は "],["昨日","きのう"],[" "],["4時","よじ"],["間","あいだ"],["くらい "],["勉強","べんきょう"],["しました。"]], vi: 'Hôm qua tôi đã học khoảng 4 tiếng.' },
+      { ja: 'マイさんは 毎日 8時間 働きます。', ruby: [["マイさんは "],["毎日","まいにち"],[" "],["8時","はちじ"],["間","あいだ"],[" "],["働","はたら"],["きます。"]], vi: 'Chị Mai mỗi ngày làm việc 8 tiếng.' },
     ],
   },
   {
@@ -778,9 +778,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Diễn tả mốc thời gian bắt đầu (から) và kết thúc (まで) của hành động.',
     notes: ['Có thể dùng độc lập chỉ「から」hoặc chỉ「まで」.'],
     examples: [
-      { ja: '月曜日から 金曜日まで 働きます。', vi: 'Tôi làm việc từ thứ Hai đến thứ Sáu.' },
-      { ja: '私は 一昨日、10時まで 遊びました。', vi: 'Hôm kia tôi đã chơi đến tận 10 giờ.' },
-      { ja: '私は 毎日 9時から 6時まで 働きます。', vi: 'Mỗi ngày tôi làm việc từ 9 giờ đến 6 giờ.' },
+      { ja: '月曜日から 金曜日まで 働きます。', ruby: [["月曜日","げつようび"],["から "],["金曜日","きんようび"],["まで "],["働","はたら"],["きます。"]], vi: 'Tôi làm việc từ thứ Hai đến thứ Sáu.' },
+      { ja: '私は 一昨日、10時まで 遊びました。', ruby: [["私","わたし"],["は "],["一昨日","おととい"],["、"],["10時","じゅうじ"],["まで "],["遊","あそ"],["びました。"]], vi: 'Hôm kia tôi đã chơi đến tận 10 giờ.' },
+      { ja: '私は 毎日 9時から 6時まで 働きます。', ruby: [["私","わたし"],["は "],["毎日","まいにち"],[" "],["9時","くじ"],["から "],["6時","ろくじ"],["まで "],["働","はたら"],["きます。"]], vi: 'Mỗi ngày tôi làm việc từ 9 giờ đến 6 giờ.' },
     ],
   },
   {
@@ -793,9 +793,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Dạng phủ định hiện tại–tương lai (V ません) và quá khứ (V ませんでした) của động từ.',
     notes: ['働きます → 働きません / 働きませんでした；休みます → 休みません / 休みませんでした.'],
     examples: [
-      { ja: '私は 土曜日と 日曜日 働きません。', vi: 'Thứ Bảy và Chủ Nhật tôi không làm việc.' },
-      { ja: '私は 今日、出かけません。', vi: 'Hôm nay tôi không ra ngoài.' },
-      { ja: '田中さんは 昨日、働きませんでした。', vi: 'Hôm qua anh Tanaka không làm việc.' },
+      { ja: '私は 土曜日と 日曜日 働きません。', ruby: [["私","わたし"],["は "],["土曜日","どようび"],["と "],["日曜日","にちようび"],[" "],["働","はたら"],["きません。"]], vi: 'Thứ Bảy và Chủ Nhật tôi không làm việc.' },
+      { ja: '私は 今日、出かけません。', ruby: [["私","わたし"],["は "],["今日","きょう"],["、"],["出","で"],["かけません。"]], vi: 'Hôm nay tôi không ra ngoài.' },
+      { ja: '田中さんは 昨日、働きませんでした。', ruby: [["田中","たなか"],["さんは "],["昨日","きのう"],["、"],["働","はたら"],["きませんでした。"]], vi: 'Hôm qua anh Tanaka không làm việc.' },
     ],
   },
   // ---------------- 6B ----------------
@@ -809,9 +809,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Diễn tả hành động trở về nơi thân thuộc như nhà (うち / いえ), quê (実家), đất nước (国).',
     notes: ['「へ」(đọc là "e") và「に」đều chỉ phương hướng di chuyển; trong văn nói「に」hay được dùng hơn.'],
     examples: [
-      { ja: '今週の 金曜日（に）、実家へ 帰ります。', vi: 'Thứ Sáu tuần này tôi về nhà bố mẹ.' },
-      { ja: '今日は 8時に うちに 帰ります。', vi: 'Hôm nay 8 giờ tôi về nhà.' },
-      { ja: '今晩 寮へ 帰りますか。― はい、帰ります。', vi: 'Tối nay bạn có về ký túc xá không? ― Có, tôi về.' },
+      { ja: '今週の 金曜日（に）、実家へ 帰ります。', ruby: [["今週","こんしゅう"],["の "],["金曜日","きんようび"],["（に）、"],["実家","じっか"],["へ "],["帰","かえ"],["ります。"]], vi: 'Thứ Sáu tuần này tôi về nhà bố mẹ.' },
+      { ja: '今日は 8時に うちに 帰ります。', ruby: [["今日","きょう"],["は "],["8時","はちじ"],["に うちに "],["帰","かえ"],["ります。"]], vi: 'Hôm nay 8 giờ tôi về nhà.' },
+      { ja: '今晩 寮へ 帰りますか。― はい、帰ります。', ruby: [["今晩","こんばん"],[" "],["寮","りょう"],["へ "],["帰","かえ"],["りますか。― はい、"],["帰","かえ"],["ります。"]], vi: 'Tối nay bạn có về ký túc xá không? ― Có, tôi về.' },
     ],
   },
   {
@@ -824,9 +824,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Diễn tả hành động di chuyển ra xa vị trí hiện tại của người nói hoặc đi từ địa điểm này sang địa điểm khác.',
     notes: ['Nơi đến đi với trợ từ「へ」hoặc「に」.'],
     examples: [
-      { ja: '日曜日は どこへ 行きますか。― 図書館へ 行きます。', vi: 'Chủ Nhật bạn đi đâu? ― Tôi đi thư viện.' },
-      { ja: '田中さんは 昨日、郵便局へ 行きました。', vi: 'Hôm qua anh Tanaka đã đi bưu điện.' },
-      { ja: '一昨日 学校へ 行きませんでした。', vi: 'Hôm kia tôi đã không đi học.' },
+      { ja: '日曜日は どこへ 行きますか。― 図書館へ 行きます。', ruby: [["日曜日","にちようび"],["は どこへ "],["行","い"],["きますか。― "],["図書館","としょかん"],["へ "],["行","い"],["きます。"]], vi: 'Chủ Nhật bạn đi đâu? ― Tôi đi thư viện.' },
+      { ja: '田中さんは 昨日、郵便局へ 行きました。', ruby: [["田中","たなか"],["さんは "],["昨日","きのう"],["、"],["郵便局","ゆうびんきょく"],["へ "],["行","い"],["きました。"]], vi: 'Hôm qua anh Tanaka đã đi bưu điện.' },
+      { ja: '一昨日 学校へ 行きませんでした。', ruby: [["一昨日","おととい"],[" "],["学校","がっこう"],["へ "],["行","い"],["きませんでした。"]], vi: 'Hôm kia tôi đã không đi học.' },
     ],
   },
   {
@@ -839,9 +839,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Diễn tả việc di chuyển tiến gần về phía địa điểm mà người nói đang ở.',
     notes: ['Lưu ý góc nhìn người nói: đi đến chỗ mình đang đứng thì dùng「来ます」, đi ra chỗ khác dùng「行きます」.'],
     examples: [
-      { ja: '私は いつも 8時50分に 会社に 来ます。', vi: 'Tôi luôn đến công ty lúc 8 giờ 50.' },
-      { ja: '私は 一昨年に 日本に 来ました。', vi: 'Tôi đã đến Nhật Bản vào năm kia.' },
-      { ja: 'Bさん、いつ ベトナムに 来ますか。― 来週 行きますよ！', vi: 'B ơi khi nào bạn sang Việt Nam? ― Tuần sau mình sang đấy!' },
+      { ja: '私は いつも 8時50分に 会社に 来ます。', ruby: [["私","わたし"],["は いつも "],["8時","はちじ"],["50"],["分","ふん"],["に "],["会社","かいしゃ"],["に "],["来","き"],["ます。"]], vi: 'Tôi luôn đến công ty lúc 8 giờ 50.' },
+      { ja: '私は 一昨年に 日本に 来ました。', ruby: [["私","わたし"],["は "],["一昨年","おととし"],["に "],["日本","にほん"],["に "],["来","き"],["ました。"]], vi: 'Tôi đã đến Nhật Bản vào năm kia.' },
+      { ja: 'Bさん、いつ ベトナムに 来ますか。― 来週 行きますよ！', ruby: [["Bさん、いつ ベトナムに "],["来","き"],["ますか。― "],["来週","らいしゅう"],[" "],["行","い"],["きますよ！"]], vi: 'B ơi khi nào bạn sang Việt Nam? ― Tuần sau mình sang đấy!' },
     ],
   },
   // ---------------- 6C ----------------
@@ -855,10 +855,10 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Trợ từ「を」(đọc là "o") đứng sau danh từ làm tân ngữ chịu tác động của ngoại động từ.',
     notes: ['Không phải động từ nào cũng đi với「を」(các nội động từ chỉ di chuyển như 行きます, 寝ます không dùng「を」).'],
     examples: [
-      { ja: '昨日、本を 買いました。', vi: 'Hôm qua tôi đã mua sách.' },
-      { ja: 'テレビを 見ました。', vi: 'Tôi đã xem TV.' },
-      { ja: '今晩 何を 食べますか。― すしと ラーメンを 食べます。', vi: 'Tối nay bạn ăn gì? ― Tôi ăn sushi và mì ramen.' },
-      { ja: '毎朝 お茶を 飲みます。', vi: 'Mỗi sáng tôi uống trà.' },
+      { ja: '昨日、本を 買いました。', ruby: [["昨日","きのう"],["、"],["本","ほん"],["を "],["買","か"],["いました。"]], vi: 'Hôm qua tôi đã mua sách.' },
+      { ja: 'テレビを 見ました。', ruby: [["テレビを "],["見","み"],["ました。"]], vi: 'Tôi đã xem TV.' },
+      { ja: '今晩 何を 食べますか。― すしと ラーメンを 食べます。', ruby: [["今晩","こんばん"],[" "],["何","なに"],["を "],["食","た"],["べますか。― すしと ラーメンを "],["食","た"],["べます。"]], vi: 'Tối nay bạn ăn gì? ― Tôi ăn sushi và mì ramen.' },
+      { ja: '毎朝 お茶を 飲みます。', ruby: [["毎朝","まいあさ"],[" お"],["茶","ちゃ"],["を "],["飲","の"],["みます。"]], vi: 'Mỗi sáng tôi uống trà.' },
     ],
   },
   {
@@ -874,9 +874,9 @@ export const grammar2to7: Grammar[] = [
       '「へ / に」: phương hướng di chuyển;「に」: địa điểm tồn tại (います/あります);「で」: địa điểm xảy ra hành động.',
     ],
     examples: [
-      { ja: 'ベトナム料理の 店で フォーを 食べます。', vi: 'Tôi ăn phở ở quán ăn Việt Nam.' },
-      { ja: '日本で 富士山を 見ました。', vi: 'Tôi đã ngắm núi Phú Sĩ ở Nhật.' },
-      { ja: 'いつも どこで 本を 読みますか。― 図書館で 読みます。', vi: 'Bạn hay đọc sách ở đâu? ― Tôi đọc ở thư viện.' },
+      { ja: 'ベトナム料理の 店で フォーを 食べます。', ruby: [["ベトナム"],["料理","りょうり"],["の "],["店","みせ"],["で フォーを "],["食","た"],["べます。"]], vi: 'Tôi ăn phở ở quán ăn Việt Nam.' },
+      { ja: '日本で 富士山を 見ました。', ruby: [["日本","にほん"],["で "],["富士山","ふじさん"],["を "],["見","み"],["ました。"]], vi: 'Tôi đã ngắm núi Phú Sĩ ở Nhật.' },
+      { ja: 'いつも どこで 本を 読みますか。― 図書館で 読みます。', ruby: [["いつも どこで "],["本","ほん"],["を "],["読","よ"],["みますか。― "],["図書館","としょかん"],["で "],["読","よ"],["みます。"]], vi: 'Bạn hay đọc sách ở đâu? ― Tôi đọc ở thư viện.' },
     ],
   },
   {
@@ -889,9 +889,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Trợ từ「と」đứng sau danh từ chỉ người/đối tượng cùng thực hiện hành động.',
     notes: ['Làm một mình thì không dùng「と」, dùng「一人で（ひとりで）＋ V」.'],
     examples: [
-      { ja: '友達と お酒を 飲みます。', vi: 'Tôi uống rượu cùng bạn bè.' },
-      { ja: '妹と 日本に 来ました。', vi: 'Tôi đã đến Nhật cùng em gái.' },
-      { ja: '今朝 一人で 音楽を 聞きました。', vi: 'Sáng nay tôi nghe nhạc một mình.' },
+      { ja: '友達と お酒を 飲みます。', ruby: [["友達","ともだち"],["と お"],["酒","さけ"],["を "],["飲","の"],["みます。"]], vi: 'Tôi uống rượu cùng bạn bè.' },
+      { ja: '妹と 日本に 来ました。', ruby: [["妹","いもうと"],["と "],["日本","にほん"],["に "],["来","き"],["ました。"]], vi: 'Tôi đã đến Nhật cùng em gái.' },
+      { ja: '今朝 一人で 音楽を 聞きました。', ruby: [["今朝","けさ"],[" "],["一人","ひとり"],["で "],["音楽","おんがく"],["を "],["聞","き"],["きました。"]], vi: 'Sáng nay tôi nghe nhạc một mình.' },
     ],
   },
   {
@@ -907,8 +907,8 @@ export const grammar2to7: Grammar[] = [
       'Không trộn lẫn「や」với「とか」hoặc「とか」với「など」.',
     ],
     examples: [
-      { ja: '東京で 本とか お菓子（とか）を 買いました。', vi: 'Ở Tokyo tôi đã mua nào là sách, nào là bánh kẹo.' },
-      { ja: '家族と ハノイや ダナンに 行きます。', vi: 'Tôi đi những nơi như Hà Nội, Đà Nẵng cùng gia đình.' },
+      { ja: '東京で 本とか お菓子（とか）を 買いました。', ruby: [["東京","とうきょう"],["で "],["本","ほん"],["とか お"],["菓子","かし"],["（とか）を "],["買","か"],["いました。"]], vi: 'Ở Tokyo tôi đã mua nào là sách, nào là bánh kẹo.' },
+      { ja: '家族と ハノイや ダナンに 行きます。', ruby: [["家族","かぞく"],["と ハノイや ダナンに "],["行","い"],["きます。"]], vi: 'Tôi đi những nơi như Hà Nội, Đà Nẵng cùng gia đình.' },
     ],
   },
   // ---------------- 7A ----------------
@@ -925,9 +925,9 @@ export const grammar2to7: Grammar[] = [
       'Trả lời: はい、～V ます / V ました — いいえ、từ để hỏi + も ～ V ません.',
     ],
     examples: [
-      { ja: '何か（を） 食べますか。', vi: 'Bạn có ăn gì đó không?' },
-      { ja: '誰か（が） いますか。', vi: 'Có ai ở đó không?' },
-      { ja: '昨日 どこかへ 行きましたか。― はい、東京へ 行きました。', vi: 'Hôm qua bạn có đi đâu không? ― Có, mình đi Tokyo.' },
+      { ja: '何か（を） 食べますか。', ruby: [["何","なん"],["か（を） "],["食","た"],["べますか。"]], vi: 'Bạn có ăn gì đó không?' },
+      { ja: '誰か（が） いますか。', ruby: [["誰","だれ"],["か（が） いますか。"]], vi: 'Có ai ở đó không?' },
+      { ja: '昨日 どこかへ 行きましたか。― はい、東京へ 行きました。', ruby: [["昨日","きのう"],[" どこかへ "],["行","い"],["きましたか。― はい、"],["東京","とうきょう"],["へ "],["行","い"],["きました。"]], vi: 'Hôm qua bạn có đi đâu không? ― Có, mình đi Tokyo.' },
     ],
   },
   {
@@ -940,9 +940,9 @@ export const grammar2to7: Grammar[] = [
     explanation: '「も」đứng sau từ để hỏi kết hợp động từ phủ định để phủ định hoàn toàn.',
     notes: ['Trợ từ「を」「が」bị lược bỏ trước「も」(何も, 誰も), nhưng「へ / に」「と」「で」giữ lại (どこへも, 誰とも).'],
     examples: [
-      { ja: '今朝 何も 食べませんでした。', vi: 'Sáng nay tôi chẳng ăn gì cả.' },
-      { ja: '誰とも 行きません。', vi: 'Tôi không đi cùng ai cả.' },
-      { ja: '昨日 どこかに 行きましたか。― いいえ、どこへも 行きませんでした。', vi: 'Hôm qua bạn có đi đâu không? ― Không, chẳng đi đâu cả.' },
+      { ja: '今朝 何も 食べませんでした。', ruby: [["今朝","けさ"],[" "],["何","なに"],["も "],["食","た"],["べませんでした。"]], vi: 'Sáng nay tôi chẳng ăn gì cả.' },
+      { ja: '誰とも 行きません。', ruby: [["誰","だれ"],["とも "],["行","い"],["きません。"]], vi: 'Tôi không đi cùng ai cả.' },
+      { ja: '昨日 どこかに 行きましたか。― いいえ、どこへも 行きませんでした。', ruby: [["昨日","きのう"],[" どこかに "],["行","い"],["きましたか。― いいえ、どこへも "],["行","い"],["きませんでした。"]], vi: 'Hôm qua bạn có đi đâu không? ― Không, chẳng đi đâu cả.' },
     ],
   },
   // ---------------- 7B ----------------
@@ -960,8 +960,8 @@ export const grammar2to7: Grammar[] = [
     ],
     examples: [
       { ja: 'ケーキを 1つ ください。', vi: 'Cho tôi 1 cái bánh ngọt.' },
-      { ja: 'すみません、ペンを 3本と 消しゴムを お願いします。', vi: 'Xin lỗi, cho tôi 3 cây bút và 1 cục tẩy ạ.' },
-      { ja: '公園に 男の 子が 1人と 女の 子が 2人 います。', vi: 'Ở công viên có 1 bé trai và 2 bé gái.' },
+      { ja: 'すみません、ペンを 3本と 消しゴムを お願いします。', ruby: [["すみません、ペンを 3"],["本","ほん"],["と "],["消","け"],["しゴムを お"],["願","ねが"],["いします。"]], vi: 'Xin lỗi, cho tôi 3 cây bút và 1 cục tẩy ạ.' },
+      { ja: '公園に 男の 子が 1人と 女の 子が 2人 います。', ruby: [["公園","こうえん"],["に "],["男","おとこ"],["の "],["子","こ"],["が 1"],["人","ひと"],["と "],["女","おんな"],["の "],["子","こ"],["が 2"],["人","ひと"],[" います。"]], vi: 'Ở công viên có 1 bé trai và 2 bé gái.' },
     ],
   },
   {
@@ -974,10 +974,10 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Diễn tả tần suất hoặc số lần thực hiện hành động trong một đơn vị thời gian.',
     notes: ['Phó từ tần suất: よく (thường xuyên), ときどき (thỉnh thoảng), あまり～ません (không... lắm).'],
     examples: [
-      { ja: '1か月に 1回、ラーメンを 食べます。', vi: '1 tháng tôi ăn mì ramen 1 lần.' },
-      { ja: '1週間に 4日、働きます。', vi: '1 tuần tôi làm việc 4 ngày.' },
-      { ja: '1日に 3、4杯、お酒を 飲みます。', vi: '1 ngày tôi uống 3, 4 chén rượu.' },
-      { ja: '映画を あまり 見ません。', vi: 'Tôi không xem phim nhiều lắm.' },
+      { ja: '1か月に 1回、ラーメンを 食べます。', ruby: [["1か"],["月","つき"],["に "],["1回","いっかい"],["、ラーメンを "],["食","た"],["べます。"]], vi: '1 tháng tôi ăn mì ramen 1 lần.' },
+      { ja: '1週間に 4日、働きます。', ruby: [["1週間","いっしゅうかん"],["に "],["4日","よっか"],["、"],["働","はたら"],["きます。"]], vi: '1 tuần tôi làm việc 4 ngày.' },
+      { ja: '1日に 3、4杯、お酒を 飲みます。', ruby: [["1日","ついたち"],["に 3、4"],["杯","はい"],["、お"],["酒","さけ"],["を "],["飲","の"],["みます。"]], vi: '1 ngày tôi uống 3, 4 chén rượu.' },
+      { ja: '映画を あまり 見ません。', ruby: [["映画","えいが"],["を あまり "],["見","み"],["ません。"]], vi: 'Tôi không xem phim nhiều lắm.' },
     ],
   },
   // ---------------- 7C ----------------
@@ -996,9 +996,9 @@ export const grammar2to7: Grammar[] = [
       'Từ chối khéo lời mời:「すみません、～は ちょっと…」.',
     ],
     examples: [
-      { ja: '一緒に コーヒーを 飲みませんか。― すみません、今日は ちょっと…。', vi: 'Cùng uống cà phê không? ― Xin lỗi, hôm nay hơi...' },
-      { ja: '明日、一緒に 公園に 行きませんか。― いいですね。行きましょう。', vi: 'Ngày mai cùng đi công viên không? ― Hay đấy, đi thôi.' },
-      { ja: 'どこで 見ましょうか。― サンライズシアターは どうですか。', vi: 'Xem ở đâu nhỉ? ― Rạp Sunrise thế nào?' },
+      { ja: '一緒に コーヒーを 飲みませんか。― すみません、今日は ちょっと…。', ruby: [["一緒","いっしょ"],["に コーヒーを "],["飲","の"],["みませんか。― すみません、"],["今日","きょう"],["は ちょっと…。"]], vi: 'Cùng uống cà phê không? ― Xin lỗi, hôm nay hơi...' },
+      { ja: '明日、一緒に 公園に 行きませんか。― いいですね。行きましょう。', ruby: [["明日","あした"],["、"],["一緒","いっしょ"],["に "],["公園","こうえん"],["に "],["行","い"],["きませんか。― いいですね。"],["行","い"],["きましょう。"]], vi: 'Ngày mai cùng đi công viên không? ― Hay đấy, đi thôi.' },
+      { ja: 'どこで 見ましょうか。― サンライズシアターは どうですか。', ruby: [["どこで "],["見","み"],["ましょうか。― サンライズシアターは どうですか。"]], vi: 'Xem ở đâu nhỉ? ― Rạp Sunrise thế nào?' },
     ],
   },
   {
@@ -1011,9 +1011,9 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Diễn tả mong muốn sở hữu một đồ vật N (「欲しい（ほしい）」là tính từ đuôi い).',
     notes: ['Chỉ dùng để nói mong muốn của bản thân hoặc hỏi người đối diện (KHÔNG dùng cho ngôi thứ 3).'],
     examples: [
-      { ja: '時計が 欲しいです。', vi: 'Tôi muốn có một chiếc đồng hồ.' },
-      { ja: '今、何が 一番 欲しいですか。― スマホが 一番 欲しいです。', vi: 'Bây giờ bạn muốn gì nhất? ― Tôi muốn điện thoại nhất.' },
-      { ja: 'どんな スマホが 欲しいですか。― MORIPHONEの スマホが 欲しいです。', vi: 'Bạn muốn điện thoại thế nào? ― Tôi muốn điện thoại MoriPhone.' },
+      { ja: '時計が 欲しいです。', ruby: [["時計","とけい"],["が "],["欲","ほ"],["しいです。"]], vi: 'Tôi muốn có một chiếc đồng hồ.' },
+      { ja: '今、何が 一番 欲しいですか。― スマホが 一番 欲しいです。', ruby: [["今","いま"],["、"],["何","なに"],["が "],["一番","いちばん"],[" "],["欲","ほ"],["しいですか。― スマホが "],["一番","いちばん"],[" "],["欲","ほ"],["しいです。"]], vi: 'Bây giờ bạn muốn gì nhất? ― Tôi muốn điện thoại nhất.' },
+      { ja: 'どんな スマホが 欲しいですか。― MORIPHONEの スマホが 欲しいです。', ruby: [["どんな スマホが "],["欲","ほ"],["しいですか。― MORIPHONEの スマホが "],["欲","ほ"],["しいです。"]], vi: 'Bạn muốn điện thoại thế nào? ― Tôi muốn điện thoại MoriPhone.' },
     ],
   },
   // ---------------- 7D ----------------
@@ -1027,10 +1027,10 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Trợ từ「に」đứng sau gốc động từ thể ます (bỏ ます) hoặc danh từ hành động N2 để chỉ mục đích di chuyển.',
     notes: ['N2 là các danh từ chỉ hoạt động như: 買い物, 留学, 食事, 散歩, 旅行...'],
     examples: [
-      { ja: 'スーパーへ 買い物に 来ました。', vi: 'Tôi đến siêu thị để mua sắm.' },
-      { ja: '東京へ コンサートに 行きました。', vi: 'Tôi đã đi Tokyo để xem hòa nhạc.' },
-      { ja: 'ベトナム料理の 店へ フォーを 食べに 行きます。', vi: 'Tôi đi quán Việt Nam để ăn phở.' },
-      { ja: '国へ ベトナム料理を 食べに 帰ります。', vi: 'Tôi về nước để ăn món Việt Nam.' },
+      { ja: 'スーパーへ 買い物に 来ました。', ruby: [["スーパーへ "],["買","か"],["い"],["物","もの"],["に "],["来","き"],["ました。"]], vi: 'Tôi đến siêu thị để mua sắm.' },
+      { ja: '東京へ コンサートに 行きました。', ruby: [["東京","とうきょう"],["へ コンサートに "],["行","い"],["きました。"]], vi: 'Tôi đã đi Tokyo để xem hòa nhạc.' },
+      { ja: 'ベトナム料理の 店へ フォーを 食べに 行きます。', ruby: [["ベトナム"],["料理","りょうり"],["の "],["店","みせ"],["へ フォーを "],["食","た"],["べに "],["行","い"],["きます。"]], vi: 'Tôi đi quán Việt Nam để ăn phở.' },
+      { ja: '国へ ベトナム料理を 食べに 帰ります。', ruby: [["国","くに"],["へ ベトナム"],["料理","りょうり"],["を "],["食","た"],["べに "],["帰","かえ"],["ります。"]], vi: 'Tôi về nước để ăn món Việt Nam.' },
     ],
   },
   {
@@ -1047,9 +1047,9 @@ export const grammar2to7: Grammar[] = [
       'Không dùng trực tiếp cho mong muốn của ngôi thứ 3 (chỉ dùng để nói về mình hoặc hỏi đối phương).',
     ],
     examples: [
-      { ja: 'フォーが 食べたいです。', vi: 'Tôi muốn ăn phở.' },
-      { ja: '会社へ 行きたくないです。', vi: 'Tôi không muốn đi làm.' },
-      { ja: '日本で 何が 買いたいですか。― CDが 買いたいです。', vi: 'Ở Nhật bạn muốn mua gì? ― Tôi muốn mua đĩa CD.' },
+      { ja: 'フォーが 食べたいです。', ruby: [["フォーが "],["食","た"],["べたいです。"]], vi: 'Tôi muốn ăn phở.' },
+      { ja: '会社へ 行きたくないです。', ruby: [["会社","かいしゃ"],["へ "],["行","い"],["きたくないです。"]], vi: 'Tôi không muốn đi làm.' },
+      { ja: '日本で 何が 買いたいですか。― CDが 買いたいです。', ruby: [["日本","にほん"],["で "],["何","なに"],["が "],["買","か"],["いたいですか。― CDが "],["買","か"],["いたいです。"]], vi: 'Ở Nhật bạn muốn mua gì? ― Tôi muốn mua đĩa CD.' },
     ],
   },
   {
@@ -1062,8 +1062,8 @@ export const grammar2to7: Grammar[] = [
     explanation: 'Bỏ「ます」thêm「方（かた）」để chỉ cách thức thực hiện hành động. Cả cụm「Vます + 方」được xem như 1 danh từ.',
     notes: ['Ví dụ: 行きます → 行き方 (cách đi)；読みます → 読み方 (cách đọc)；使います → 使い方 (cách dùng).'],
     examples: [
-      { ja: '電子辞書の 使い方', vi: 'Cách sử dụng kim từ điển' },
-      { ja: 'これは 漢字の 書き方の 説明です。', vi: 'Đây là phần giải thích cách viết chữ Hán.' },
+      { ja: '電子辞書の 使い方', ruby: [["電子辞書","でんしじしょ"],["の "],["使い方","つかいかた"]], vi: 'Cách sử dụng kim từ điển' },
+      { ja: 'これは 漢字の 書き方の 説明です。', ruby: [["これは "],["漢字","かんじ"],["の "],["書き方","かきかた"],["の "],["説明","せつめい"],["です。"]], vi: 'Đây là phần giải thích cách viết chữ Hán.' },
     ],
   },
 ];
