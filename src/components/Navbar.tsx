@@ -2,11 +2,12 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { BookOpen, Compass, Layers, Puzzle, Sparkles } from 'lucide-react';
+import { BookOpen, Compass, Layers, Map, Puzzle, Sparkles } from 'lucide-react';
 
 const NAV_ITEMS = [
   { href: '/', label: 'Tổng quan', icon: Sparkles },
   { href: '/topics', label: 'Chủ đề', icon: Compass },
+  { href: '/grammar', label: 'Ngữ pháp', icon: Map },
   { href: '/lessons/1A', label: 'Bài học', icon: BookOpen, matchPrefix: '/lessons' },
   { href: '/flashcards', label: 'Flashcard', icon: Layers },
   { href: '/game', label: 'Ghép câu', icon: Puzzle },
