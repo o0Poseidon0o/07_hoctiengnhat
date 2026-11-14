@@ -237,7 +237,30 @@ export const COUNTER_CATEGORIES: CounterCategory[] = [
       { value: '1 tháng (khoảng)', kanji: '1か月', reading: 'いっかげつ', romaji: 'ikkagetsu', special: true, note: '1, 6, 10 dùng âm ngắt っ' },
       { value: '4 năm / 9 năm', kanji: '4年・9年', reading: 'よねん・くねん', romaji: 'yonen / kunen', special: true, note: '4 bỏ ん, 9 đọc く' },
       { value: 'Năm 2026', kanji: '2026年', reading: 'にせんにじゅうろくねん', romaji: 'nisen nijūrokunen' },
-      { value: 'Thứ 2 – CN', kanji: '月〜日曜日', reading: 'げつ・か・すい・もく・きん・ど・にちようび', romaji: 'getsu ~ nichiyōbi' },
+    ],
+  },
+  {
+    id: 'weekdays',
+    title: 'Thứ trong tuần (Thứ 2 – Chủ nhật)',
+    kanjiBadge: '曜日',
+    questionWord: '何曜日',
+    questionReading: 'なんようび',
+    questionMeaning: 'Thứ mấy?',
+    formula: '[Thứ] + 曜日 (ようび)  |  Hỏi: 何曜日 (なんようび)',
+    ruleSummary:
+      'Mỗi thứ gắn với 1 yếu tố thiên nhiên/ngũ hành (Mặt trăng, Lửa, Nước, Cây, Vàng, Đất, Mặt trời) + ようび. Nói tắt trên lịch chỉ ghi 1 chữ đầu: (月)(火)(水)(木)(金)(土)(日).',
+    memoryTip:
+      'Thứ 2 (月 = Trăng = げつ), Thứ 3 (火 = Lửa = か), Thứ 4 (水 = Nước = すい), Thứ 5 (木 = Cây = もく), Thứ 6 (金 = Vàng = きん), Thứ 7 (土 = Đất = ど), Chủ nhật (日 = Mặt trời = にち). Cẩn thận: 土 đọc ど (không phải つち), 月 đọc げつ (không phải つき)!',
+    entries: [
+      { value: 'Thứ 2', kanji: '月曜日', reading: 'げつようび', romaji: 'getsuyōbi', special: true, note: '月 (Nguyệt - Mặt trăng) → đọc げつ' },
+      { value: 'Thứ 3', kanji: '火曜日', reading: 'かようび', romaji: 'kayōbi', note: '火 (Hỏa - Lửa)' },
+      { value: 'Thứ 4', kanji: '水曜日', reading: 'すいようび', romaji: 'suiyōbi', note: '水 (Thủy - Nước)' },
+      { value: 'Thứ 5', kanji: '木曜日', reading: 'もくようび', romaji: 'mokuyōbi', note: '木 (Mộc - Cây)' },
+      { value: 'Thứ 6', kanji: '金曜日', reading: 'きんようび', romaji: 'kinyōbi', note: '金 (Kim - Vàng / Tiền)' },
+      { value: 'Thứ 7', kanji: '土曜日', reading: 'どようび', romaji: 'doyōbi', special: true, note: '土 (Thổ - Đất) → đọc ど (không đọc つち)' },
+      { value: 'Chủ nhật', kanji: '日曜日', reading: 'にちようび', romaji: 'nichiyōbi', special: true, note: '日 (Nhật - Mặt trời) → đọc にち' },
+      { value: 'Thứ mấy?', kanji: '何曜日', reading: 'なんようび', romaji: 'nanyōbi', note: 'Câu hỏi thứ trong tuần' },
+      { value: 'Cuối tuần', kanji: '週末', reading: 'しゅうまつ', romaji: 'shūmatsu', note: 'Thứ 7 & Chủ nhật' },
     ],
   },
   {
