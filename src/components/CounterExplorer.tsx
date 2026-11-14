@@ -10,7 +10,7 @@ import {
   Sparkles,
   XCircle,
 } from 'lucide-react';
-import { COUNTER_CATEGORIES, COUNTER_QUIZZES } from '@/data/counters';
+import { COUNTER_CATEGORIES, COUNTER_QUIZZES, ODD_NUMBER_GOLDEN_RULES } from '@/data/counters';
 import { SpeakButton } from './SpeakButton';
 
 export function CounterExplorer() {
@@ -69,6 +69,31 @@ export function CounterExplorer() {
           </div>
         </div>
       </div>
+
+      {/* Golden Rules for Odd / Compound Numbers */}
+      <section className="rounded-2xl border-2 border-emerald-300/80 bg-emerald-50/60 p-5 shadow-sm sm:p-6">
+        <h2 className="text-lg font-extrabold text-stone-900 sm:text-xl">
+          Quy tắc vàng: Cách ghép MỌI số lẻ trong tiếng Nhật (11 – 99.999+)
+        </h2>
+        <div className="mt-4 grid gap-4 lg:grid-cols-2">
+          {ODD_NUMBER_GOLDEN_RULES.map((rule, idx) => (
+            <div
+              key={idx}
+              className="rounded-2xl border border-emerald-200 bg-white p-4 shadow-xs sm:p-5"
+            >
+              <h3 className="text-base font-extrabold text-[#2d6a4f] sm:text-lg">{rule.title}</h3>
+              <div className="font-jp mt-2.5 rounded-xl border border-emerald-200 bg-emerald-50 px-3.5 py-2.5 text-base font-extrabold text-stone-900 sm:text-lg">
+                {rule.formula}
+              </div>
+              <ul className="mt-3 space-y-1.5 text-sm font-semibold leading-relaxed text-stone-800 sm:text-base">
+                {rule.points.map((pt, pIdx) => (
+                  <li key={pIdx}>• {pt}</li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </section>
 
       {/* Mobile Minimap Strip */}
       <div className="flex gap-2 overflow-x-auto pb-1 lg:hidden">
@@ -153,9 +178,19 @@ export function CounterExplorer() {
                   </div>
                 </div>
 
-                {/* Teacher Memory Tip */}
-                <div className="mt-3 rounded-xl border border-amber-200/80 bg-amber-50/80 px-4 py-2.5 text-xs sm:text-sm leading-relaxed text-amber-950">
-                  <strong className="mr-1 text-[#c83e2b]">★ Mẹo nhớ nhanh:</strong>
+                {/* Large Bold Formula */}
+                <div className="mt-4 rounded-xl border-2 border-emerald-300 bg-emerald-50/80 px-4 py-3">
+                  <span className="mr-2 inline-block rounded-md bg-[#2d6a4f] px-2.5 py-0.5 text-xs font-extrabold uppercase tracking-wide text-white">
+                    Công thức
+                  </span>
+                  <span className="font-jp text-base font-extrabold text-stone-900 sm:text-lg">
+                    {cat.formula}
+                  </span>
+                </div>
+
+                {/* Large Bold Teacher Memory Tip */}
+                <div className="mt-3 rounded-xl border-2 border-amber-300 bg-amber-50 px-4 py-3 text-base font-bold leading-relaxed text-amber-950 sm:text-[17px]">
+                  <span className="mr-1.5 font-extrabold text-[#c83e2b]">★ Mẹo nhớ nhanh:</span>
                   {cat.memoryTip}
                 </div>
 
